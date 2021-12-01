@@ -38,31 +38,23 @@ Currently I am upskilling myself on Spark so that I can take my work to the next
 
 
 <a href="https://github.com/krpraveen0/krpraveen0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=admissionget
-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=admissionget&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/krpraveen0/krpraveen0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=shannentech
-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=shannentech&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/krpraveen0/krpraveen0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=
-Text-Editor-usign-python
-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=Text-Editor-usign-python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/krpraveen0/krpraveen0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=
-Speech-Recognition-using-python
-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=Speech-Recognition-using-python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/krpraveen0/krpraveen0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=
-Home-Automation-System
-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=Home-Automation-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
