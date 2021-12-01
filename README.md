@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://github.com/krpraveen0/krpraveen0/blob/master/media/praveen-github-cover-image.mp4 "Header")]
+[![Header](https://github.com/krpraveen0/krpraveen0/media/praveen-github-cover-image.mp4 "Header")]
 
 
 ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=krpraveen0&count_private=true&show_icons=true&theme=radical)
