@@ -3,9 +3,13 @@
 </p>
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
-My name is praveen, I am a software Engineer by profession having near about 3 years of experience.
-I started off my career as a software developer. After working near about 1.5 years on python I have learned alot of things like Python, JavaScript, Flask, Django, PostgreSQL etc. After that I started my new journey as a Software Engineer working on a Data Platform which allowed me to learn pandas, matplotlib, Node.js, Hadoop, Hive, SQL, AWS services and many more...
-Currently I am upskilling myself on Spark so that I can take my work to the next level. 
+<!-- INTRO-START -->
+I am a Full-Stack Software Engineer with 5.9 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+
+I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
+
+I am passionate about mentorship and helping aspiring engineers and experienced professionals transition into full-stack, backend, and AI/ML roles.
+<!-- INTRO-END -->
 
 
 
@@ -70,7 +74,7 @@ Currently I am upskilling myself on Spark so that I can take my work to the next
 
 ## Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=krpraveen0&theme=github-compact&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=krpraveen0&theme=github-compact&hide_border=true)
 
 <!-- social media icons -->
 [![GitHub][2.1]][2]
