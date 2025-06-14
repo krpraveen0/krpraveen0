@@ -27,28 +27,28 @@ Currently I am upskilling myself on Spark so that I can take my work to the next
 
 ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=krpraveen0&count_private=true&show_icons=true&theme=radical)
 
-<a href="https://github.com/krpraveen0/krpraveen0">
+<a href="https://github.com/krpraveen0/Taskmate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=Taskmate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/krpraveen0/krpraveen0">
+<a href="https://github.com/krpraveen0/admissionget">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=admissionget&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/krpraveen0/krpraveen0">
+<a href="https://github.com/krpraveen0/shannentech">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=shannentech&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/krpraveen0/krpraveen0">
+<a href="https://github.com/krpraveen0/Text-Editor-usign-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=Text-Editor-usign-python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/krpraveen0/krpraveen0">
+<a href="https://github.com/krpraveen0/Speech-Recognition-using-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=Speech-Recognition-using-python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/krpraveen0/krpraveen0">
+<a href="https://github.com/krpraveen0/Home-Automation-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=Home-Automation-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
