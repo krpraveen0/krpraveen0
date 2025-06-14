@@ -70,7 +70,7 @@ Currently I am upskilling myself on Spark so that I can take my work to the next
 
 <!-- icon references -->
 [2.1]: http://i.imgur.com/0o48UoR.png (GitHub icon)
-[3.2]: https://raw.githubusercontent.com/krpraveen0/krpraveen0/master/linked-in.png (LinkedIn icon)
+[3.2]: https://raw.githubusercontent.com/krpraveen0/krpraveen0/master/media/linked-in.png (LinkedIn icon)
 
 <!-- social media links -->
 [2]: https://github.com/krpraveen0
