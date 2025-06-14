@@ -25,6 +25,9 @@ jobs:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: python scripts/update_news.py
 
+      - name: Update README introduction
+        run: python scripts/update_intro.py
+
       - name: Commit and push changes
         run: |
           git config user.name 'github-actions'
@@ -33,6 +36,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'No changes to commit'
           else
-            git commit -m 'Update news section'
+            git commit -m 'Update news and intro sections'
             git push
           fi
