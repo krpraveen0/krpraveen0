@@ -16,6 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actionshub/markdownlint@v3
+      - name: Lint README
+        uses: actionshub/markdownlint@v3
         with:
-          args: README.md
+          files: README.md
