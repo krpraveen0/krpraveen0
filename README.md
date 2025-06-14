@@ -6,6 +6,9 @@ Currently I am upskilling myself on Spark so that I can take my work to the next
 ![[Header](https://youtu.be/oCITP8OcqjE "cover")]
 
 
+## Latest AI News
+<!-- NEWS-START -->
+<!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
