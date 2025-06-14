@@ -1,9 +1,12 @@
-### Hi there 👋
-My name is praveen, I am a software Engineer by profession having near about 3 years of experience. 
+<p align="center">
+  <img src="media/header-bg.svg" width="100%" alt="Tech - Software Engineering - Agentic AI">
+</p>
+
+### Hi there <img src="media/wave.gif" width="30" alt="wave">
+My name is praveen, I am a software Engineer by profession having near about 3 years of experience.
 I started off my career as a software developer. After working near about 1.5 years on python I have learned alot of things like Python, JavaScript, Flask, Django, PostgreSQL etc. After that I started my new journey as a Software Engineer working on a Data Platform which allowed me to learn pandas, matplotlib, Node.js, Hadoop, Hive, SQL, AWS services and many more...
 Currently I am upskilling myself on Spark so that I can take my work to the next level. 
 
-![[Header](https://youtu.be/oCITP8OcqjE "cover")]
 
 
 ## Latest AI News
@@ -29,6 +32,8 @@ Currently I am upskilling myself on Spark so that I can take my work to the next
 
 
 ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=krpraveen0&count_private=true&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=krpraveen0&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krpraveen0&layout=compact&theme=radical)
 
 <a href="https://github.com/krpraveen0/Taskmate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=Taskmate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -54,6 +59,10 @@ Currently I am upskilling myself on Spark so that I can take my work to the next
 <a href="https://github.com/krpraveen0/Home-Automation-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=Home-Automation-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=krpraveen0&theme=radical&no-frame=true&margin-w=10)
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=krpraveen0&theme=github-compact&hide_border=true)
 
 <!-- social media icons -->
 [![GitHub][2.1]][2]
