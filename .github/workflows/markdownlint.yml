@@ -1,0 +1,22 @@
+name: Markdown Lint
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - .github/workflows/markdownlint.yml
+  push:
+    branches: [ master, main ]
+    paths:
+      - README.md
+      - .github/workflows/markdownlint.yml
+
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - run: npx markdownlint-cli README.md
