@@ -1,21 +1,17 @@
 name: Markdown Lint
-
 on:
+  push:
+    paths:
+      - '**/*.md'
   pull_request:
     paths:
-      - README.md
-      - .github/workflows/markdownlint.yml
-  push:
-    branches: [ master, main ]
-    paths:
-      - README.md
-      - .github/workflows/markdownlint.yml
-
+      - '**/*.md'
 jobs:
-  markdownlint:
+  lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actionshub/markdownlint@v3
+      - name: Run markdownlint
+        uses: actionshub/markdownlint@v3.1.1
         with:
-          args: README.md
+          files: '**/*.md'
