@@ -52,20 +52,14 @@ Currently I am upskilling myself on Spark so that I can take my work to the next
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krpraveen0&repo=Home-Automation-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<!-- links to social media icons -->
+<!-- social media icons -->
+[![GitHub][2.1]][2]
+[![LinkedIn][3.2]][3]
 
-<!-- icons with padding -->
+<!-- icon references -->
+[2.1]: http://i.imgur.com/0o48UoR.png (GitHub icon)
+[3.2]: https://raw.githubusercontent.com/krpraveen0/krpraveen0/master/linked-in.png (LinkedIn icon)
 
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/krpraveen0/krpraveen0/master/linked-in.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-
+<!-- social media links -->
 [2]: https://github.com/krpraveen0
 [3]: https://www.linkedin.com/in/iampraveenkr
