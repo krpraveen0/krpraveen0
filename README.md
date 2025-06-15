@@ -15,6 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
+- [Ericsson and Supermicro advance enterprise connectivity for edge AI systems](https://zephyrnet.com/ericsson-and-supermicro-advance-enterprise-connectivity-for-edge-ai-systems/)
+- [AI tools collect and store data about you from all your devices, here’s how to be aware of what you’re revealing](https://startupnews.fyi/2025/06/14/ai-tools-collect-and-store-data-about-you-from-all-your-devices-heres-how-to-be-aware-of-what-youre-revealing/)
+- ['Shape Of Things To Come' Awarded 'Best AI Film' By 2025 Hollywood Stage Script Film Competition](https://menafn.com/1109674170/Shape-Of-Things-To-Come-Awarded-Best-AI-Film-By-2025-Hollywood-Stage-Script-Film-Competition)
+- [Operation Sindoor showed operational capability of India's armed forces Raha](https://www.theweek.in/wire-updates/national/2025/06/14/cal19-wb-raha-operation-sindoor.html)
+- [India News | Operation Sindoor Showed Operational Capability of India's Armed Forces: Raha](https://www.latestly.com/agency-news/india-news-operation-sindoor-showed-operational-capability-of-indias-armed-forces-raha-6927993.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
