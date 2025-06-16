@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Ericsson and Supermicro advance enterprise connectivity for edge AI systems](https://zephyrnet.com/ericsson-and-supermicro-advance-enterprise-connectivity-for-edge-ai-systems/)
-- [AI tools collect and store data about you from all your devices, here’s how to be aware of what you’re revealing](https://startupnews.fyi/2025/06/14/ai-tools-collect-and-store-data-about-you-from-all-your-devices-heres-how-to-be-aware-of-what-youre-revealing/)
-- ['Shape Of Things To Come' Awarded 'Best AI Film' By 2025 Hollywood Stage Script Film Competition](https://menafn.com/1109674170/Shape-Of-Things-To-Come-Awarded-Best-AI-Film-By-2025-Hollywood-Stage-Script-Film-Competition)
-- [Operation Sindoor showed operational capability of India's armed forces Raha](https://www.theweek.in/wire-updates/national/2025/06/14/cal19-wb-raha-operation-sindoor.html)
-- [India News | Operation Sindoor Showed Operational Capability of India's Armed Forces: Raha](https://www.latestly.com/agency-news/india-news-operation-sindoor-showed-operational-capability-of-indias-armed-forces-raha-6927993.html)
+- [Tech push for Pitripaksh Mela this time](https://timesofindia.indiatimes.com/city/patna/tech-push-for-pitripaksh-mela-this-time/articleshow/121863132.cms)
+- [EU laws to criminalise AI-generated sexual abuse material to be voted on by MEPs](https://highlandradio.com/2025/06/15/eu-laws-to-criminalise-ai-generated-sexual-abuse-material-to-be-voted-on-by-meps/)
+- [🚨 Official: Gennaro Gattuso appointed Italy coach](https://onefootball.com/en/news/official-gennaro-gattuso-appointed-italy-coach-41248666)
+- [AMD CEO Su turns heads with comments at AI event](https://www.thestreet.com/investing/stocks/amd-ceo-su-turns-heads-with-comments-at-ai-event)
+- [3 Magnificent S&P 500 Stocks Down Between 16% and 21% to Buy on the Dip](https://www.fool.com/investing/2025/06/15/3-magnificent-sp-500-stocks-down-between-16-and-21/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
