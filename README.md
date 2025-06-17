@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Tech push for Pitripaksh Mela this time](https://timesofindia.indiatimes.com/city/patna/tech-push-for-pitripaksh-mela-this-time/articleshow/121863132.cms)
-- [EU laws to criminalise AI-generated sexual abuse material to be voted on by MEPs](https://highlandradio.com/2025/06/15/eu-laws-to-criminalise-ai-generated-sexual-abuse-material-to-be-voted-on-by-meps/)
-- [🚨 Official: Gennaro Gattuso appointed Italy coach](https://onefootball.com/en/news/official-gennaro-gattuso-appointed-italy-coach-41248666)
-- [AMD CEO Su turns heads with comments at AI event](https://www.thestreet.com/investing/stocks/amd-ceo-su-turns-heads-with-comments-at-ai-event)
-- [3 Magnificent S&P 500 Stocks Down Between 16% and 21% to Buy on the Dip](https://www.fool.com/investing/2025/06/15/3-magnificent-sp-500-stocks-down-between-16-and-21/)
+- [Advanced ultrasound workshop for pulmonologists held in Coimbatore](https://www.thehindu.com/news/cities/Coimbatore/advanced-ultrasound-workshop-for-pulmonologists-held-in-coimbatore/article69700971.ece)
+- [प्रदेश में खनन में अब पहली बार आर्टिफिशियल इंटेलिजेन्स का उपयोग होगा, भीलवाड़ा-भरतपुर में पायलट प्रोजेक्ट के रुप में होगा एक्सप्लोरेशन](https://dainiknavajyoti.com/rajasthan/jaipur/artificial-intelligence-will-now-be-used-for-the-first-time/article-117599)
+- [The Daily Chase: Carney and Trump to meet at G7](https://www.ctvnews.ca/business/article/the-daily-chase-carney-and-trump-to-meet-at-g7/)
+- [From Vaastu to AI, Asutosh College launches 25 courses to boost employability](https://www.thehindu.com/news/national/west-bengal/from-vaastu-to-ai-asutosh-college-launches-25-courses-to-boost-employability/article69701040.ece)
+- [The evolution of AI—how we can solve for trust](https://iblnews.org/the-evolution-of-ai-how-we-can-solve-for-trust/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
