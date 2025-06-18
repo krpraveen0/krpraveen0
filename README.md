@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Advanced ultrasound workshop for pulmonologists held in Coimbatore](https://www.thehindu.com/news/cities/Coimbatore/advanced-ultrasound-workshop-for-pulmonologists-held-in-coimbatore/article69700971.ece)
-- [प्रदेश में खनन में अब पहली बार आर्टिफिशियल इंटेलिजेन्स का उपयोग होगा, भीलवाड़ा-भरतपुर में पायलट प्रोजेक्ट के रुप में होगा एक्सप्लोरेशन](https://dainiknavajyoti.com/rajasthan/jaipur/artificial-intelligence-will-now-be-used-for-the-first-time/article-117599)
-- [The Daily Chase: Carney and Trump to meet at G7](https://www.ctvnews.ca/business/article/the-daily-chase-carney-and-trump-to-meet-at-g7/)
-- [From Vaastu to AI, Asutosh College launches 25 courses to boost employability](https://www.thehindu.com/news/national/west-bengal/from-vaastu-to-ai-asutosh-college-launches-25-courses-to-boost-employability/article69701040.ece)
-- [The evolution of AI—how we can solve for trust](https://iblnews.org/the-evolution-of-ai-how-we-can-solve-for-trust/)
+- [Meta sacrifices a heap of money at the altar of AI](https://www.theguardian.com/technology/2025/jun/16/meta-ai-wikipedia-apple-iphone)
+- [Photonic to Open Quantum R&D Facility in the UK](https://financialpost.com/pmn/business-wire-news-releases-pmn/photonic-to-open-quantum-rd-facility-in-the-uk)
+- [VP: No problem in sharing AI content if ‘no money involved’](https://www.sunstar.com.ph/davao/vp-no-problem-in-sharing-ai-content-if-no-money-involved)
+- [👀 Inter at the Club World Cup: line-up, rivals and all you need to know 🔥](https://onefootball.com/en/news/inter-at-the-club-world-cup-line-up-rivals-and-all-you-need-to-know-41256793)
+- [Angry AI Study Lamp Keeps You Honest and Off Your Phone](https://www.yankodesign.com/2025/06/17/angry-ai-study-lamp-keeps-you-honest-and-off-your-phone/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
