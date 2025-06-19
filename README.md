@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Meta sacrifices a heap of money at the altar of AI](https://www.theguardian.com/technology/2025/jun/16/meta-ai-wikipedia-apple-iphone)
-- [Photonic to Open Quantum R&D Facility in the UK](https://financialpost.com/pmn/business-wire-news-releases-pmn/photonic-to-open-quantum-rd-facility-in-the-uk)
-- [VP: No problem in sharing AI content if ‘no money involved’](https://www.sunstar.com.ph/davao/vp-no-problem-in-sharing-ai-content-if-no-money-involved)
-- [👀 Inter at the Club World Cup: line-up, rivals and all you need to know 🔥](https://onefootball.com/en/news/inter-at-the-club-world-cup-line-up-rivals-and-all-you-need-to-know-41256793)
-- [Angry AI Study Lamp Keeps You Honest and Off Your Phone](https://www.yankodesign.com/2025/06/17/angry-ai-study-lamp-keeps-you-honest-and-off-your-phone/)
+- [Artificial Intelligence (AI) Market Industry Trends and Global Forecasts 2025-2035: AI Adoption Accelerates Across Sectors as Investments Surge Amid Rising Demand for Automation and AGI Development - ResearchAndMarkets.com](http://www.businesswire.com/news/home/20250618827966/en/Artificial-Intelligence-AI-Market-Industry-Trends-and-Global-Forecasts-2025-2035-AI-Adoption-Accelerates-Across-Sectors-as-Investments-Surge-Amid-Rising-Demand-for-Automation-and-AGI-Development---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D)
+- [Musk’s xAI burns through $1 billion a month as costs pile up](https://startupnews.fyi/2025/06/18/musks-xai-burns-through-1-billion-a-month-as-costs-pile-up/)
+- [Jason Isaacs hails success of The Salt Path amid film industry ‘terror’ over AI](https://www.walesonline.co.uk/news/uk-news/jason-isaacs-hails-success-salt-31883900)
+- [Intraocular Lens (IOL) Market to Reach USD 7.59 Billion by 2034, Growing at 4.7% CAGR](https://www.openpr.com/news/4072596/intraocular-lens-iol-market-to-reach-usd-7-59-billion-by-2034)
+- [Serie A: historic club appoints 29-year-old coach 🤯](https://onefootball.com/en/news/serie-a-historic-club-appoints-29-year-old-coach-41261267)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
