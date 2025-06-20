@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Artificial Intelligence (AI) Market Industry Trends and Global Forecasts 2025-2035: AI Adoption Accelerates Across Sectors as Investments Surge Amid Rising Demand for Automation and AGI Development - ResearchAndMarkets.com](http://www.businesswire.com/news/home/20250618827966/en/Artificial-Intelligence-AI-Market-Industry-Trends-and-Global-Forecasts-2025-2035-AI-Adoption-Accelerates-Across-Sectors-as-Investments-Surge-Amid-Rising-Demand-for-Automation-and-AGI-Development---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D)
-- [Musk’s xAI burns through $1 billion a month as costs pile up](https://startupnews.fyi/2025/06/18/musks-xai-burns-through-1-billion-a-month-as-costs-pile-up/)
-- [Jason Isaacs hails success of The Salt Path amid film industry ‘terror’ over AI](https://www.walesonline.co.uk/news/uk-news/jason-isaacs-hails-success-salt-31883900)
-- [Intraocular Lens (IOL) Market to Reach USD 7.59 Billion by 2034, Growing at 4.7% CAGR](https://www.openpr.com/news/4072596/intraocular-lens-iol-market-to-reach-usd-7-59-billion-by-2034)
-- [Serie A: historic club appoints 29-year-old coach 🤯](https://onefootball.com/en/news/serie-a-historic-club-appoints-29-year-old-coach-41261267)
+- [PHL investment focus shifts to mining, semiconductors](https://www.bworldonline.com/economy/2025/06/19/680431/phl-investment-focus-shifts-to-mining-semiconductors/)
+- [Elon Musk’s X to offer investment and trading in ‘super app’ push](https://zephyrnet.com/elon-musks-x-to-offer-investment-and-trading-in-super-app-push/)
+- [‘Defamation’: Court grants Natasha N50m bail](https://dailytrust.com/defamation-court-grants-natasha-n50m-bail/)
+- [HEKA Toronto Set to Open in Late 2025, Advancing the Global Expansion of AI-Driven Sleep Solutions](https://www.thewhig.com/newsfile/255840-heka-toronto-set-to-open-in-late-2025-advancing-the-global-expansion-of-aidriven-sleep-solutions)
+- [Trump fans targets Crowds on Demand for alleged role in anti-ICE protests despite MAGA-friendly CEO’s denials](https://ca.news.yahoo.com/trump-fans-targets-crowds-demand-131944244.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
