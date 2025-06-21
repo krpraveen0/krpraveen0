@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [PHL investment focus shifts to mining, semiconductors](https://www.bworldonline.com/economy/2025/06/19/680431/phl-investment-focus-shifts-to-mining-semiconductors/)
-- [Elon Musk’s X to offer investment and trading in ‘super app’ push](https://zephyrnet.com/elon-musks-x-to-offer-investment-and-trading-in-super-app-push/)
-- [‘Defamation’: Court grants Natasha N50m bail](https://dailytrust.com/defamation-court-grants-natasha-n50m-bail/)
-- [HEKA Toronto Set to Open in Late 2025, Advancing the Global Expansion of AI-Driven Sleep Solutions](https://www.thewhig.com/newsfile/255840-heka-toronto-set-to-open-in-late-2025-advancing-the-global-expansion-of-aidriven-sleep-solutions)
-- [Trump fans targets Crowds on Demand for alleged role in anti-ICE protests despite MAGA-friendly CEO’s denials](https://ca.news.yahoo.com/trump-fans-targets-crowds-demand-131944244.html)
+- [Datamaran lance Core Product : l'intelligence au service de la prochaine ère de la durabilité et du reporting d'entreprise](https://www.prnewswire.com/news-releases/datamaran-lance-core-product--lintelligence-au-service-de-la-prochaine-ere-de-la-durabilite-et-du-reporting-dentreprise-302487123.html)
+- [SoftBank Seeks Support for Proposed $1 Trillion Complex to Build Robots and AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-seeks-support-for-proposed-1-trillion-complex-to-build-robots-and-ai/)
+- [SCB WEALTH จับมือ BlackRock เสิร์ฟกองทุนใหม่ลงทุน “หุ้นเอเชียแปซิฟิก”](https://hoonsmart.com/archives/363216)
+- [African state calls for global financial reform](https://www.rt.com/africa/619980-mozambique-calls-for-financial-reform/)
+- [Lee Vows Full-Scale Support For AI To Create New Growth Engine](http://koreabizwire.com/lee-vows-full-scale-support-for-ai-to-create-new-growth-engine/323028)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
