@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Datamaran lance Core Product : l'intelligence au service de la prochaine ère de la durabilité et du reporting d'entreprise](https://www.prnewswire.com/news-releases/datamaran-lance-core-product--lintelligence-au-service-de-la-prochaine-ere-de-la-durabilite-et-du-reporting-dentreprise-302487123.html)
-- [SoftBank Seeks Support for Proposed $1 Trillion Complex to Build Robots and AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-seeks-support-for-proposed-1-trillion-complex-to-build-robots-and-ai/)
-- [SCB WEALTH จับมือ BlackRock เสิร์ฟกองทุนใหม่ลงทุน “หุ้นเอเชียแปซิฟิก”](https://hoonsmart.com/archives/363216)
-- [African state calls for global financial reform](https://www.rt.com/africa/619980-mozambique-calls-for-financial-reform/)
-- [Lee Vows Full-Scale Support For AI To Create New Growth Engine](http://koreabizwire.com/lee-vows-full-scale-support-for-ai-to-create-new-growth-engine/323028)
+- [AIXA Miner Unveils New Free Cloud Mining Platform Aligned with 2025 Green Tech and Smart Mining Goals](https://www.manilatimes.net/2025/06/21/tmt-newswire/globenewswire/aixa-miner-unveils-new-free-cloud-mining-platform-aligned-with-2025-green-tech-and-smart-mining-goals/2137363)
+- [ChatGPT harms critical thinking and creativity, new MIT study states](https://www.deccanherald.com/science/chatgpt-harms-critical-thinking-and-creativity-new-mit-study-states-3596600)
+- [What’s behind the AI talent gold rush?](https://zephyrnet.com/whats-behind-the-ai-talent-gold-rush/)
+- [BBC Threatens Lawsuit Against Perplexity Over AI Scraping](https://www.webpronews.com/bbc-threatens-lawsuit-against-perplexity-over-ai-scraping/)
+- [Our view: Denouncing political violence is a bipartisan proposition](https://pantagraph.com/opinion/editorial/article_a122beee-ea60-4a73-9a09-d8e45090228f.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
