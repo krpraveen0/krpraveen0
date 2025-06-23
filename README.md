@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AIXA Miner Unveils New Free Cloud Mining Platform Aligned with 2025 Green Tech and Smart Mining Goals](https://www.manilatimes.net/2025/06/21/tmt-newswire/globenewswire/aixa-miner-unveils-new-free-cloud-mining-platform-aligned-with-2025-green-tech-and-smart-mining-goals/2137363)
-- [ChatGPT harms critical thinking and creativity, new MIT study states](https://www.deccanherald.com/science/chatgpt-harms-critical-thinking-and-creativity-new-mit-study-states-3596600)
-- [What’s behind the AI talent gold rush?](https://zephyrnet.com/whats-behind-the-ai-talent-gold-rush/)
-- [BBC Threatens Lawsuit Against Perplexity Over AI Scraping](https://www.webpronews.com/bbc-threatens-lawsuit-against-perplexity-over-ai-scraping/)
-- [Our view: Denouncing political violence is a bipartisan proposition](https://pantagraph.com/opinion/editorial/article_a122beee-ea60-4a73-9a09-d8e45090228f.html)
+- [What Happens When Bitcoin and AI Stop Talking Past Each Other? Bitcoin for AI 2025](https://zephyrnet.com/what-happens-when-bitcoin-and-ai-stop-talking-past-each-other-bitcoin-for-ai-2025/)
+- [Researchers Identify Adolescent Pathways of Problematic Drinking During Adolescence](https://www.newswise.com/articles/researchers-identify-adolescent-pathways-of-problematic-drinking-during-adolescence/?sc=rsln)
+- [RDDT FRAUD ALERT: Reddit, Inc. Investors are Reminded of Ongoing Securities Fraud Class Action -- Contact BFA Law by August 18 Legal Deadline (NYSE:RDDT)](https://www.globenewswire.com/fr/news-release/2025/06/22/3103054/0/en/RDDT-FRAUD-ALERT-Reddit-Inc-Investors-are-Reminded-of-Ongoing-Securities-Fraud-Class-Action-Contact-BFA-Law-by-August-18-Legal-Deadline-NYSE-RDDT.html)
+- [Odisha CM asks officials to make Puri Rath Yatra ‘incident-free’](https://theprint.in/india/odisha-cm-asks-officials-to-make-puri-rath-yatra-incident-free/2666624/)
+- [Odisha CM asks officials to make Puri Rath Yatra ‘incident-free’](https://www.orissapost.com/odisha-cm-asks-officials-to-make-puri-rath-yatra-incident-free/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
