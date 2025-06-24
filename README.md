@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [What Happens When Bitcoin and AI Stop Talking Past Each Other? Bitcoin for AI 2025](https://zephyrnet.com/what-happens-when-bitcoin-and-ai-stop-talking-past-each-other-bitcoin-for-ai-2025/)
-- [Researchers Identify Adolescent Pathways of Problematic Drinking During Adolescence](https://www.newswise.com/articles/researchers-identify-adolescent-pathways-of-problematic-drinking-during-adolescence/?sc=rsln)
-- [RDDT FRAUD ALERT: Reddit, Inc. Investors are Reminded of Ongoing Securities Fraud Class Action -- Contact BFA Law by August 18 Legal Deadline (NYSE:RDDT)](https://www.globenewswire.com/fr/news-release/2025/06/22/3103054/0/en/RDDT-FRAUD-ALERT-Reddit-Inc-Investors-are-Reminded-of-Ongoing-Securities-Fraud-Class-Action-Contact-BFA-Law-by-August-18-Legal-Deadline-NYSE-RDDT.html)
-- [Odisha CM asks officials to make Puri Rath Yatra ‘incident-free’](https://theprint.in/india/odisha-cm-asks-officials-to-make-puri-rath-yatra-incident-free/2666624/)
-- [Odisha CM asks officials to make Puri Rath Yatra ‘incident-free’](https://www.orissapost.com/odisha-cm-asks-officials-to-make-puri-rath-yatra-incident-free/)
+- [Artificial intelligence in agriculture](https://iblnews.org/artificial-intelligence-in-agriculture/)
+- [From permafrost to policy: Mahta Moghaddam is tracking changes to the Earth in its most extreme environments](https://today.usc.edu/from-permafrost-to-policy-mahta-moghaddam-is-tracking-changes-to-the-earth-in-its-most-extreme-environments/)
+- [Inside the Future of the Edge Artificial Intelligence Chip Market: Forecasts, Growth Outlook, and Revenue Insights by 2032 |Qualcomm, Analog Devices, Inc, Rockchip, MediaTek](https://www.openpr.com/news/4078327/inside-the-future-of-the-edge-artificial-intelligence-chip)
+- [AI Stocks Face 'Show Me' Moment: Agent Battle For Consumers Heats Up](https://www.investors.com/news/technology/artificial-intelligence-stocks/?yptr=yahoo)
+- [Medical Simulation Market: Driving the Future of Healthcare Training | Top Companies are CAE Inc., 3D Systems, Inc., Simulab Corporation, Kyoto Kagaku Co., Ltd..](https://www.openpr.com/news/4078325/medical-simulation-market-driving-the-future-of-healthcare)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
