@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Artificial intelligence in agriculture](https://iblnews.org/artificial-intelligence-in-agriculture/)
-- [From permafrost to policy: Mahta Moghaddam is tracking changes to the Earth in its most extreme environments](https://today.usc.edu/from-permafrost-to-policy-mahta-moghaddam-is-tracking-changes-to-the-earth-in-its-most-extreme-environments/)
-- [Inside the Future of the Edge Artificial Intelligence Chip Market: Forecasts, Growth Outlook, and Revenue Insights by 2032 |Qualcomm, Analog Devices, Inc, Rockchip, MediaTek](https://www.openpr.com/news/4078327/inside-the-future-of-the-edge-artificial-intelligence-chip)
-- [AI Stocks Face 'Show Me' Moment: Agent Battle For Consumers Heats Up](https://www.investors.com/news/technology/artificial-intelligence-stocks/?yptr=yahoo)
-- [Medical Simulation Market: Driving the Future of Healthcare Training | Top Companies are CAE Inc., 3D Systems, Inc., Simulab Corporation, Kyoto Kagaku Co., Ltd..](https://www.openpr.com/news/4078325/medical-simulation-market-driving-the-future-of-healthcare)
+- [BAZNAS Manfaatkan Teknologi AI untuk Bangun Kedekatan Emosional dan Spiritual dengan Muzaki](https://daerah.sindonews.com/read/1584451/174/baznas-manfaatkan-teknologi-ai-untuk-bangun-kedekatan-emosional-dan-spiritual-dengan-muzaki-1750770390)
+- [Florida teacher uses AI to make child sexual abuse material of students, police say](https://www.wfla.com/news/florida/florida-teacher-uses-ai-to-make-child-sexual-abuse-material-of-students-police-say/)
+- [Small business AI use is lagging, but one firm is channeling Sherlock Holmes and knocking out ‘grunt work'](https://www.nbcphiladelphia.com/news/business/money-report/small-business-ai-use-is-lagging-but-one-firm-is-channeling-sherlock-holmes-and-knocking-out-grunt-work/4217859/)
+- [Blackout Redaction Now Live on Reveal Enterprise Platform](https://www.businesswire.com/news/home/20250624161258/en/Blackout-Redaction-Now-Live-on-Reveal-Enterprise-Platform)
+- [Carnival shares pop on earnings beat and raised full-year outlook](https://www.nbcdfw.com/news/business/money-report/carnival-shares-pop-on-earnings-beat-and-raised-full-year-outlook/3870939/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
