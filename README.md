@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [BAZNAS Manfaatkan Teknologi AI untuk Bangun Kedekatan Emosional dan Spiritual dengan Muzaki](https://daerah.sindonews.com/read/1584451/174/baznas-manfaatkan-teknologi-ai-untuk-bangun-kedekatan-emosional-dan-spiritual-dengan-muzaki-1750770390)
-- [Florida teacher uses AI to make child sexual abuse material of students, police say](https://www.wfla.com/news/florida/florida-teacher-uses-ai-to-make-child-sexual-abuse-material-of-students-police-say/)
-- [Small business AI use is lagging, but one firm is channeling Sherlock Holmes and knocking out ‘grunt work'](https://www.nbcphiladelphia.com/news/business/money-report/small-business-ai-use-is-lagging-but-one-firm-is-channeling-sherlock-holmes-and-knocking-out-grunt-work/4217859/)
-- [Blackout Redaction Now Live on Reveal Enterprise Platform](https://www.businesswire.com/news/home/20250624161258/en/Blackout-Redaction-Now-Live-on-Reveal-Enterprise-Platform)
-- [Carnival shares pop on earnings beat and raised full-year outlook](https://www.nbcdfw.com/news/business/money-report/carnival-shares-pop-on-earnings-beat-and-raised-full-year-outlook/3870939/)
+- [Hoo Zoo's new holiday clubs to use LEGO and tablets to boost coding skills for children](https://www.shropshirestar.com/your-world/2025/06/25/hoo-zoos-new-holiday-clubs-to-use-lego-and-tablets-to-boost-coding-skills-for-children)
+- [Google Debuts Gemini AI Coding Tool In Bid To Entice Developers](https://www.ndtvprofit.com/technology/google-debuts-gemini-ai-coding-tool-in-bid-to-entice-developers)
+- [‘We Got Very Close to Not Starting OpenAI’: Sam Altman Almost Passed on AI, Says It Was a ‘Pipe Dream’ that ‘Sounded Crazy’](https://www.barchart.com/story/news/33045716/we-got-very-close-to-not-starting-openai-sam-altman-almost-passed-on-ai-says-it-was-a-pipe-dream-that-sounded-crazy)
+- [🚨 'Jenni case': National Court upholds Luis Rubiales' conviction](https://onefootball.com/en/news/jenni-case-national-court-upholds-luis-rubiales-conviction-41289823)
+- [NA must lead in AI adoption, digital transformation: top legislator](https://en.vietnamplus.vn/na-must-lead-in-ai-adoption-digital-transformation-top-legislator-post321635.vnp)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
