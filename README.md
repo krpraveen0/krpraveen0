@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Hoo Zoo's new holiday clubs to use LEGO and tablets to boost coding skills for children](https://www.shropshirestar.com/your-world/2025/06/25/hoo-zoos-new-holiday-clubs-to-use-lego-and-tablets-to-boost-coding-skills-for-children)
-- [Google Debuts Gemini AI Coding Tool In Bid To Entice Developers](https://www.ndtvprofit.com/technology/google-debuts-gemini-ai-coding-tool-in-bid-to-entice-developers)
-- [‘We Got Very Close to Not Starting OpenAI’: Sam Altman Almost Passed on AI, Says It Was a ‘Pipe Dream’ that ‘Sounded Crazy’](https://www.barchart.com/story/news/33045716/we-got-very-close-to-not-starting-openai-sam-altman-almost-passed-on-ai-says-it-was-a-pipe-dream-that-sounded-crazy)
-- [🚨 'Jenni case': National Court upholds Luis Rubiales' conviction](https://onefootball.com/en/news/jenni-case-national-court-upholds-luis-rubiales-conviction-41289823)
-- [NA must lead in AI adoption, digital transformation: top legislator](https://en.vietnamplus.vn/na-must-lead-in-ai-adoption-digital-transformation-top-legislator-post321635.vnp)
+- [Deepmind släpper AI-verktyg som kan förutspå hur DNA-mutationer påverkar gener](https://computersweden.se/article/4013248/deepmind-slapper-ai-verktyg-som-kan-forutspa-hur-dna-mutationer-paverkar-gener.html)
+- [Interpol warns of Africa cybercrime surge, SA also affected](https://www.citizen.co.za/lifestyle/technology/interpol-warns-africa-cybercrime-surge-sa-affected/)
+- [Pearson and Google Team up to Bring AI Learning Tools to Classrooms](https://english.aawsat.com/node/5158586)
+- [La nuova frontiera dello spionaggio: cosa sappiamo del drone-zanzara cinese](https://www.ilgiornale.it/news/attualit/i-droni-insetto-sono-realt-cosa-sappiamo-zanzara-spia-2501044.html)
+- [Meta admits wrongly suspending Facebook Groups but denies wider problem](https://www.bbc.com/news/articles/c3r9nwgvwy3o)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
