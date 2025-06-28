@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Deepmind släpper AI-verktyg som kan förutspå hur DNA-mutationer påverkar gener](https://computersweden.se/article/4013248/deepmind-slapper-ai-verktyg-som-kan-forutspa-hur-dna-mutationer-paverkar-gener.html)
-- [Interpol warns of Africa cybercrime surge, SA also affected](https://www.citizen.co.za/lifestyle/technology/interpol-warns-africa-cybercrime-surge-sa-affected/)
-- [Pearson and Google Team up to Bring AI Learning Tools to Classrooms](https://english.aawsat.com/node/5158586)
-- [La nuova frontiera dello spionaggio: cosa sappiamo del drone-zanzara cinese](https://www.ilgiornale.it/news/attualit/i-droni-insetto-sono-realt-cosa-sappiamo-zanzara-spia-2501044.html)
-- [Meta admits wrongly suspending Facebook Groups but denies wider problem](https://www.bbc.com/news/articles/c3r9nwgvwy3o)
+- [This tech entity surpasses Microsoft, Apple, Amazon to become world’s most valuable company, it is..., total market value is...](https://www.india.com/business/this-tech-entity-surpasses-microsoft-apple-amazon-become-worlds-most-valuable-company-it-is-total-market-value-nvidia-artificial-intelligence-jensen-huang-openai-google-7911338/)
+- [Photo Rejuvenation Devices Market Generated Opportunities, Future Scope By 2032 | Asclepion, Cynosure, Lumenis Be Ltd.](https://www.openpr.com/news/4085430/photo-rejuvenation-devices-market-generated-opportunities)
+- [iPhone 16 e iOS 18: la roadmap per aggiornamenti, funzioni e Apple Intelligence](https://gizchina.it/2025/06/apple-iphone-16-ios-18-roadmap-aggiornamenti-funzioni-apple-intelligence/)
+- [Vietnam pledges to play active role in UNESCO’s global missions: Party chief](https://en.vietnamplus.vn/vietnam-pledges-to-play-active-role-in-unescos-global-missions-party-chief-post321783.vnp)
+- [Rajasthan CM says govt working to transform state into USD 350 bn economy](https://www.theweek.in/wire-updates/business/2025/06/27/nrg5-rj-sharma-agri.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
