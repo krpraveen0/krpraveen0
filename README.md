@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [This tech entity surpasses Microsoft, Apple, Amazon to become world’s most valuable company, it is..., total market value is...](https://www.india.com/business/this-tech-entity-surpasses-microsoft-apple-amazon-become-worlds-most-valuable-company-it-is-total-market-value-nvidia-artificial-intelligence-jensen-huang-openai-google-7911338/)
-- [Photo Rejuvenation Devices Market Generated Opportunities, Future Scope By 2032 | Asclepion, Cynosure, Lumenis Be Ltd.](https://www.openpr.com/news/4085430/photo-rejuvenation-devices-market-generated-opportunities)
-- [iPhone 16 e iOS 18: la roadmap per aggiornamenti, funzioni e Apple Intelligence](https://gizchina.it/2025/06/apple-iphone-16-ios-18-roadmap-aggiornamenti-funzioni-apple-intelligence/)
-- [Vietnam pledges to play active role in UNESCO’s global missions: Party chief](https://en.vietnamplus.vn/vietnam-pledges-to-play-active-role-in-unescos-global-missions-party-chief-post321783.vnp)
-- [Rajasthan CM says govt working to transform state into USD 350 bn economy](https://www.theweek.in/wire-updates/business/2025/06/27/nrg5-rj-sharma-agri.html)
+- [California Focus: We’re No. 4! We’re No. 4! What does ranking mean?](https://www.ukiahdailyjournal.com/2025/06/28/california-focus-were-no-4-were-no-4-what-does-ranking-mean/)
+- [US: Dublin police to get autonomous safety robot to boost public safety](https://interestingengineering.com/innovation/us-dublin-autonomous-safety-robot)
+- [After 6000 job cuts, Microsoft plans another layoff in July, CEO Satya Nadella says ‘If you’re going to use...’](https://www.india.com/business/after-6000-job-cuts-microsoft-plans-another-layoff-in-july-ceo-satya-nadella-says-if-youre-going-to-use-lot-of-energy-ai-you-need-to-have-a-good-reason-7913043/)
+- [Строительство атомных реакторов в США ускорится: в чём секрет AI платформы от Palantir](https://www.pravda.ru/news/economics/2239898-nuclear-operating-system-ai/)
+- [INVESTOR DEADLINE: Apple Inc. (AAPL) Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - Robbins Geller](https://www.benzinga.com/pressreleases/25/06/g46157386/investor-deadline-apple-inc-aapl-investors-with-substantial-losses-have-opportunity-to-lead-class-)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
