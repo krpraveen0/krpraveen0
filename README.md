@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [California Focus: We’re No. 4! We’re No. 4! What does ranking mean?](https://www.ukiahdailyjournal.com/2025/06/28/california-focus-were-no-4-were-no-4-what-does-ranking-mean/)
-- [US: Dublin police to get autonomous safety robot to boost public safety](https://interestingengineering.com/innovation/us-dublin-autonomous-safety-robot)
-- [After 6000 job cuts, Microsoft plans another layoff in July, CEO Satya Nadella says ‘If you’re going to use...’](https://www.india.com/business/after-6000-job-cuts-microsoft-plans-another-layoff-in-july-ceo-satya-nadella-says-if-youre-going-to-use-lot-of-energy-ai-you-need-to-have-a-good-reason-7913043/)
-- [Строительство атомных реакторов в США ускорится: в чём секрет AI платформы от Palantir](https://www.pravda.ru/news/economics/2239898-nuclear-operating-system-ai/)
-- [INVESTOR DEADLINE: Apple Inc. (AAPL) Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - Robbins Geller](https://www.benzinga.com/pressreleases/25/06/g46157386/investor-deadline-apple-inc-aapl-investors-with-substantial-losses-have-opportunity-to-lead-class-)
+- [Cardano Price Forecast: Will ADA Reach $2 or Will Ozak AI 300x From $0.005 in 2025?](https://techbullion.com/cardano-price-forecast-will-ada-reach-2-or-will-ozak-ai-300x-from-0-005-in-2025/)
+- [Amanze Obi At Coal City University, Charges Students On Intelligent Use Of Artificial Intelligence](https://independent.ng/amanze-obi-at-coal-city-university-charges-students-on-intelligent-use-of-artificial-intelligence/)
+- [Pakistan launches crypto diplomacy with strategic Bitcoin reserve](https://www.dialoguepakistan.com/en/business/pakistan-launches-crypto-diplomacy-with-strategic-bitcoin-reserve)
+- [Fake, AI-generated videos about the Diddy trial are raking in millions of views on YouTube](https://www.theguardian.com/technology/2025/jun/29/fake-diddy-ai-videos-youtube)
+- [2 proposed billion-dollar data centers near Ann Arbor face fierce opposition: What to know](https://www.mlive.com/news/ann-arbor/2025/06/2-proposed-billion-dollar-data-centers-near-ann-arbor-face-fierce-opposition-what-to-know.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
