@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [FMS President Chris Conner & Global Franchise CEO Paulo Mauro Co-Author New Book The Future Of Franchising](https://menafn.com/1109742671/FMS-President-Chris-Conner-Global-Franchise-CEO-Paulo-Mauro-Co-Author-New-Book-The-Future-Of-Franchising)
-- [5G Security Market Growing At 40.5% CAGR Reach USD 37.8 Billion By 2031 Globally](https://menafn.com/1109742674/5G-Security-Market-Growing-At-405-CAGR-Reach-USD-378-Billion-By-2031-Globally)
-- [OpenAI's use of Google's TPUs represents 'significant endorsement': Morgan Stanley](https://seekingalpha.com/news/4463696-openais-use-of-googles-tpus-represents-significant-endorsement-morgan-stanley?feed_item_type=news)
-- [AI-Based Pest Management App Market Reaches $2,495.23 Mn in 2024, Poised for Strong Growth Through 2032](https://kalkinemedia.com/news/world-news/ai-based-pest-management-app-market-reaches-249523-mn-in-2024-poised-for-strong-growth-through-2032)
-- [Siemens recruits artificial intelligence expert from Amazon](https://www.reuters.com/business/retail-consumer/siemens-recruits-artificial-intelligence-expert-amazon-2025-06-30/)
+- [Apple weighs using Anthropic or OpenAI to power Siri in major reversal](https://techxplore.com/news/2025-07-apple-anthropic-openai-power-siri.html)
+- [Comprehensive 2025 Claims Processing Software Market Overview: Trends, Forecasts, and Growth Drivers](https://www.openpr.com/news/4088266/comprehensive-2025-claims-processing-software-market)
+- [Why Mark Zuckerberg Spent Rs 14 Billion To Get Alexander Wang To Meta](https://www.news18.com/business/why-mark-zuckerberg-spent-rs-14-billion-to-get-alexander-wang-to-meta-ws-dkl-9414947.html)
+- [Cloudflare shuts the gate on AI crawlers, puts publishers in control](https://invezz.com/news/2025/07/01/cloudflare-shuts-the-gate-on-ai-crawlers-puts-publishers-in-control/)
+- [Dairy Herd Health Management Market: Key Stats & Trends, And Impact of AI](https://www.openpr.com/news/4088262/dairy-herd-health-management-market-key-stats-trends)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
