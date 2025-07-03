@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Apple weighs using Anthropic or OpenAI to power Siri in major reversal](https://techxplore.com/news/2025-07-apple-anthropic-openai-power-siri.html)
-- [Comprehensive 2025 Claims Processing Software Market Overview: Trends, Forecasts, and Growth Drivers](https://www.openpr.com/news/4088266/comprehensive-2025-claims-processing-software-market)
-- [Why Mark Zuckerberg Spent Rs 14 Billion To Get Alexander Wang To Meta](https://www.news18.com/business/why-mark-zuckerberg-spent-rs-14-billion-to-get-alexander-wang-to-meta-ws-dkl-9414947.html)
-- [Cloudflare shuts the gate on AI crawlers, puts publishers in control](https://invezz.com/news/2025/07/01/cloudflare-shuts-the-gate-on-ai-crawlers-puts-publishers-in-control/)
-- [Dairy Herd Health Management Market: Key Stats & Trends, And Impact of AI](https://www.openpr.com/news/4088262/dairy-herd-health-management-market-key-stats-trends)
+- [Amazon will soon employ more robots than humans as 1 million machines toil across facilities: report](https://nypost.com/2025/07/02/business/amazon-will-soon-employ-more-robots-than-humans-report/)
+- [GlucoModicum's non-invasive CGM nears first filing](https://pharmaphorum.com/news/glucomodicums-non-invasive-cgm-nears-first-filing)
+- [Sam Altman Slams Meta’s Hiring Tactics as ‘Distasteful,’ Says OpenAI Remains Mission-Driven](https://www.techrepublic.com/article/news-sam-altman-meta-poaching/)
+- [Buy These 3 Cheap Stocks Now](https://www.fool.com/investing/2025/07/02/buy-these-3-cheap-stocks-now/)
+- [Judge accuses lawyer of fabricating case citation in anti-Trump lawsuit](https://www.washingtontimes.com/news/2025/jul/2/judge-accuses-lawyer-fabricating-case-citation-anti-trump-lawsuit/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
