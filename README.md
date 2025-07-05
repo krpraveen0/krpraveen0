@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [How artificial intelligence controls your health insurance coverage](https://www.logandaily.com/comment/columns/how-artificial-intelligence-controls-your-health-insurance-coverage/article_d9cbd2b9-bd7e-4622-9953-7ad30dd5a2ee.html)
-- [How artificial intelligence controls your health insurance coverage](https://www.athensmessenger.com/how-artificial-intelligence-controls-your-health-insurance-coverage/article_8d0ec5e0-92e3-5fe0-9e31-fabc85639d44.html)
-- [How artificial intelligence controls your health insurance coverage](https://www.crescent-news.com/apgstate/how-artificial-intelligence-controls-your-health-insurance-coverage/article_89032be7-825d-5251-94f4-447402af8961.html)
-- [Artificial intelligence’s next chapter](https://iblnews.org/artificial-intelligences-next-chapter/)
-- [New NHS plan shows ‘future already looks better’ under Labour – Starmer](https://www.belfasttelegraph.co.uk/news/uk/new-nhs-plan-shows-future-already-looks-better-under-labour-starmer/a421503503.html)
+- [Self-Driving Cars Market | AI-Driven Vehicles Reshape the Future of Mobility | Top Most Keyplayers - Daimler AG, Waymo LLC (Google Inc.), Toyota Motor Corp, Nissan Motor Co. Ltd](https://www.openpr.com/news/4092968/self-driving-cars-market-ai-driven-vehicles-reshape)
+- [Meta Poaches CEO of Ilya Sutskever's Startup in AI Talent War](https://www.gadgets360.com/ai/news/meta-hires-ssi-ceo-daniel-gross-ilya-sutskever-ai-startup-8825454)
+- [AIYY Is an Income ETF Monster](https://www.fool.com/investing/2025/07/04/aiyy-is-an-income-etf-monster/)
+- [A first: Mohali tech institute invents water filter to purify toxic dyes](https://www.tribuneindia.com/news/chandigarh/a-first-mohali-tech-institute-invents-water-filter-to-purify-toxic-dyes)
+- [EU confirms no delay for AI Act rollout despite industry pushback](https://thesun.my/world-news/eu-confirms-no-delay-for-ai-act-rollout-despite-industry-pushback-BB14408944)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
