@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Self-Driving Cars Market | AI-Driven Vehicles Reshape the Future of Mobility | Top Most Keyplayers - Daimler AG, Waymo LLC (Google Inc.), Toyota Motor Corp, Nissan Motor Co. Ltd](https://www.openpr.com/news/4092968/self-driving-cars-market-ai-driven-vehicles-reshape)
-- [Meta Poaches CEO of Ilya Sutskever's Startup in AI Talent War](https://www.gadgets360.com/ai/news/meta-hires-ssi-ceo-daniel-gross-ilya-sutskever-ai-startup-8825454)
-- [AIYY Is an Income ETF Monster](https://www.fool.com/investing/2025/07/04/aiyy-is-an-income-etf-monster/)
-- [A first: Mohali tech institute invents water filter to purify toxic dyes](https://www.tribuneindia.com/news/chandigarh/a-first-mohali-tech-institute-invents-water-filter-to-purify-toxic-dyes)
-- [EU confirms no delay for AI Act rollout despite industry pushback](https://thesun.my/world-news/eu-confirms-no-delay-for-ai-act-rollout-despite-industry-pushback-BB14408944)
+- [Govt commits 2nd tranche of Rs 10,000 Cr Fund of Funds for deeptech startups: Piyush Goyal](https://yourstory.com/2025/07/piyush-goyal-rs-10-000-cr-second-tranche-for-deeptech-startups-fof)
+- [AI To Create Mad Max-Like Future? Top Economist's Chilling Prediction](https://www.ndtv.com/offbeat/ai-to-create-mad-max-like-future-top-economists-chilling-prediction-8829774)
+- [Viewpoint: Don’t let America’s copyright crackdown hand China global AI leadership](https://www.grandforksherald.com/opinion/columns/viewpoint-dont-let-americas-copyright-crackdown-hand-china-global-ai-leadership)
+- [Finland backs Nokia bid to host EU AI gigafactory](https://www.helsinkitimes.fi/finland/finland-news/domestic/27331-finland-backs-nokia-bid-to-host-eu-ai-gigafactory.html)
+- [Surging travel in Europe spikes concerns over tourism's drawbacks](https://qconline.com/life-entertainment/nation-world/travel/article_c4324b2d-17d1-5877-8fee-e830fd510928.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
