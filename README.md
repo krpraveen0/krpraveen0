@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Govt commits 2nd tranche of Rs 10,000 Cr Fund of Funds for deeptech startups: Piyush Goyal](https://yourstory.com/2025/07/piyush-goyal-rs-10-000-cr-second-tranche-for-deeptech-startups-fof)
-- [AI To Create Mad Max-Like Future? Top Economist's Chilling Prediction](https://www.ndtv.com/offbeat/ai-to-create-mad-max-like-future-top-economists-chilling-prediction-8829774)
-- [Viewpoint: Don’t let America’s copyright crackdown hand China global AI leadership](https://www.grandforksherald.com/opinion/columns/viewpoint-dont-let-americas-copyright-crackdown-hand-china-global-ai-leadership)
-- [Finland backs Nokia bid to host EU AI gigafactory](https://www.helsinkitimes.fi/finland/finland-news/domestic/27331-finland-backs-nokia-bid-to-host-eu-ai-gigafactory.html)
-- [Surging travel in Europe spikes concerns over tourism's drawbacks](https://qconline.com/life-entertainment/nation-world/travel/article_c4324b2d-17d1-5877-8fee-e830fd510928.html)
+- [The Insider Report: Is There Anything More Patriotic than New All-Time Highs?](https://www.benzinga.com/opinion/25/07/46265711/the-insider-report-is-there-anything-more-patriotic-than-new-all-time-highs)
+- [The coder 'village' at heart of China's latest AI frenzy](https://economictimes.indiatimes.com/news/international/business/the-coder-village-at-heart-of-chinas-latest-ai-frenzy/articleshow/122284150.cms)
+- [BRICS Summit Opens in Brazil Amid Absence of Putin and Xi Jinping](https://egyptdailynews.com/brics-summit-opens-in-brazil-amid-absence-of-putin-and-xi-jinping/)
+- [Palantir: Clarity In A Fractured World](https://seekingalpha.com/article/4799488-palantir-stock-clarity-in-a-fractured-world)
+- [AI vision: How Zuckerberg, Musk and Altman see future of AI differently](https://www.digit.in/features/general/ai-vision-how-zuckerberg-musk-and-altman-see-future-of-ai-differently.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
