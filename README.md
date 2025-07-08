@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [The Insider Report: Is There Anything More Patriotic than New All-Time Highs?](https://www.benzinga.com/opinion/25/07/46265711/the-insider-report-is-there-anything-more-patriotic-than-new-all-time-highs)
-- [The coder 'village' at heart of China's latest AI frenzy](https://economictimes.indiatimes.com/news/international/business/the-coder-village-at-heart-of-chinas-latest-ai-frenzy/articleshow/122284150.cms)
-- [BRICS Summit Opens in Brazil Amid Absence of Putin and Xi Jinping](https://egyptdailynews.com/brics-summit-opens-in-brazil-amid-absence-of-putin-and-xi-jinping/)
-- [Palantir: Clarity In A Fractured World](https://seekingalpha.com/article/4799488-palantir-stock-clarity-in-a-fractured-world)
-- [AI vision: How Zuckerberg, Musk and Altman see future of AI differently](https://www.digit.in/features/general/ai-vision-how-zuckerberg-musk-and-altman-see-future-of-ai-differently.html)
+- [Trump threatens extra 10% tariffs on BRICS as leaders meet in Brazil](https://dailynigerian.com/trump-threatens-extra-10-tariffs-on-brics-as-leaders-meet-in-brazil/)
+- [Kuwaiti, Saudi societies ink agreement to enhance AI, IoT cooperation](https://www.zawya.com/en/economy/gcc/kuwaiti-saudi-societies-ink-agreement-to-enhance-ai-iot-cooperation-t0g620lt)
+- [EXL named a Leader in Everest Group Data and AI Services Specialists PEAK Matrix® Assessment 2025](https://www.manilatimes.net/2025/07/07/tmt-newswire/globenewswire/exl-named-a-leader-in-everest-group-data-and-ai-services-specialists-peak-matrix-assessment-2025/2144735)
+- [Meet the New Agents of Change: uSport.ai is Set to Democratize College Sports Recruiting with AI](https://kalkinemedia.com/news/world-news/meet-the-new-agents-of-change-usportai-is-set-to-democratize-college-sports-recruiting-with-ai)
+- [Above Food and Palm Global Execute Definitive Agreement](https://www.thewhig.com/newsfile/257931-above-food-and-palm-global-execute-definitive-agreement)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
