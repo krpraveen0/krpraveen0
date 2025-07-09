@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Trump threatens extra 10% tariffs on BRICS as leaders meet in Brazil](https://dailynigerian.com/trump-threatens-extra-10-tariffs-on-brics-as-leaders-meet-in-brazil/)
-- [Kuwaiti, Saudi societies ink agreement to enhance AI, IoT cooperation](https://www.zawya.com/en/economy/gcc/kuwaiti-saudi-societies-ink-agreement-to-enhance-ai-iot-cooperation-t0g620lt)
-- [EXL named a Leader in Everest Group Data and AI Services Specialists PEAK Matrix® Assessment 2025](https://www.manilatimes.net/2025/07/07/tmt-newswire/globenewswire/exl-named-a-leader-in-everest-group-data-and-ai-services-specialists-peak-matrix-assessment-2025/2144735)
-- [Meet the New Agents of Change: uSport.ai is Set to Democratize College Sports Recruiting with AI](https://kalkinemedia.com/news/world-news/meet-the-new-agents-of-change-usportai-is-set-to-democratize-college-sports-recruiting-with-ai)
-- [Above Food and Palm Global Execute Definitive Agreement](https://www.thewhig.com/newsfile/257931-above-food-and-palm-global-execute-definitive-agreement)
+- [Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning](https://www.prnewswire.co.uk/news-releases/healthcares-110b-ai-surge-is-picking-up-speedand-its-just-the-beginning-302500199.html)
+- [Mike Lindell lawyers caught making cringeworthy mistake...as tycoon makes shocking Texas floods gaffe](https://www.dailymail.co.uk/news/article-14885753/mike-lindell-lawyers-mistake-Texas-floods-gaffe.html)
+- [Des pistes pour une IA digne de confiance : mélanger expertises humaines et apprentissage automatique](https://theconversation.com/des-pistes-pour-une-ia-digne-de-confiance-melanger-expertises-humaines-et-apprentissage-automatique-260331)
+- [BluSky AI Inc. Secures First Site with 9.3MW to Launch Flagship Data Center in Central, Utah](https://www.manilatimes.net/2025/07/08/tmt-newswire/globenewswire/blusky-ai-inc-secures-first-site-with-93mw-to-launch-flagship-data-center-in-central-utah/2145520)
+- [Hayden AI Wins Third Consecutive Global Award for Solving Real-World Transit Challenges with AI](https://www.postregister.com/businessreport/technology/hayden-ai-wins-third-consecutive-global-award-for-solving-real-world-transit-challenges-with-ai/article_de691aab-a629-5229-9d88-61a26a8bc380.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
