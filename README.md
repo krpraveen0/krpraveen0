@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Healthcare's $110B AI Surge Is Picking Up Speed--and It's Just the Beginning](https://www.prnewswire.co.uk/news-releases/healthcares-110b-ai-surge-is-picking-up-speedand-its-just-the-beginning-302500199.html)
-- [Mike Lindell lawyers caught making cringeworthy mistake...as tycoon makes shocking Texas floods gaffe](https://www.dailymail.co.uk/news/article-14885753/mike-lindell-lawyers-mistake-Texas-floods-gaffe.html)
-- [Des pistes pour une IA digne de confiance : mélanger expertises humaines et apprentissage automatique](https://theconversation.com/des-pistes-pour-une-ia-digne-de-confiance-melanger-expertises-humaines-et-apprentissage-automatique-260331)
-- [BluSky AI Inc. Secures First Site with 9.3MW to Launch Flagship Data Center in Central, Utah](https://www.manilatimes.net/2025/07/08/tmt-newswire/globenewswire/blusky-ai-inc-secures-first-site-with-93mw-to-launch-flagship-data-center-in-central-utah/2145520)
-- [Hayden AI Wins Third Consecutive Global Award for Solving Real-World Transit Challenges with AI](https://www.postregister.com/businessreport/technology/hayden-ai-wins-third-consecutive-global-award-for-solving-real-world-transit-challenges-with-ai/article_de691aab-a629-5229-9d88-61a26a8bc380.html)
+- [X CEO Linda Yaccarino steps down after two years](https://tribune.com.pk/story/2555004/x-ceo-linda-yaccarino-steps-down-after-two-years)
+- [Teknologi AI Tingkatkan Efisiensi Industri Logistik Maritim](https://ekbis.sindonews.com/read/1590713/34/teknologi-ai-tingkatkan-efisiensi-industri-logistik-maritim-1752066424)
+- [Potensi AI dalam Membentuk Karakter Bangsa](https://mediaindonesia.com/humaniora/790115/potensi-ai-dalam-membentuk-karakter-bangsa)
+- [Sam Altman’s subtle sarcastic jab at Elon Musk adds new fuel to the billionaire feud](http://economictimes.indiatimes.com/magazines/panache/sam-altmans-subtle-sarcastic-jab-at-elon-musk-adds-new-fuel-to-the-billionaire-feud/articleshow/122345130.cms)
+- [Immersive Technologies on the Rise, Expected to Near $90bn by 2030](https://researchsnipers.com/immersive-technologies-on-the-rise-expected-to-near-90bn-by-2030/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
