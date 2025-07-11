@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [X CEO Linda Yaccarino steps down after two years](https://tribune.com.pk/story/2555004/x-ceo-linda-yaccarino-steps-down-after-two-years)
-- [Teknologi AI Tingkatkan Efisiensi Industri Logistik Maritim](https://ekbis.sindonews.com/read/1590713/34/teknologi-ai-tingkatkan-efisiensi-industri-logistik-maritim-1752066424)
-- [Potensi AI dalam Membentuk Karakter Bangsa](https://mediaindonesia.com/humaniora/790115/potensi-ai-dalam-membentuk-karakter-bangsa)
-- [Sam Altman’s subtle sarcastic jab at Elon Musk adds new fuel to the billionaire feud](http://economictimes.indiatimes.com/magazines/panache/sam-altmans-subtle-sarcastic-jab-at-elon-musk-adds-new-fuel-to-the-billionaire-feud/articleshow/122345130.cms)
-- [Immersive Technologies on the Rise, Expected to Near $90bn by 2030](https://researchsnipers.com/immersive-technologies-on-the-rise-expected-to-near-90bn-by-2030/)
+- [Parliamentary Committee Passes Bill To Switch AI-Driven Textbooks Into ‘Education Materials’](http://koreabizwire.com/parliamentary-committee-passes-bill-to-switch-ai-driven-textbooks-into-education-materials/325527)
+- [Analistas creen que Tim Cook debería salir de la dirección de Apple: cuáles son los motivos](https://www.infobae.com/tecno/2025/07/10/analistas-creen-que-tim-cook-deberia-salir-de-la-direccion-de-apple-cuales-son-los-motivos/)
+- [Google Announces Rollout of Ads in AI Overviews in India, AI-Powered Ad Solutions](https://www.gadgets360.com/ai/news/google-ads-in-ai-overviews-india-announced-new-ad-solutions-marketing-live-event-8855708)
+- [Colorado State University College of Veterinary Medicine and Biomedical Sciences Partners with CoVet to Advance AI in Veterinary Education and Clinical Practice](https://www.prnewswire.com/news-releases/colorado-state-university-college-of-veterinary-medicine-and-biomedical-sciences-partners-with-covet-to-advance-ai-in-veterinary-education-and-clinical-practice-302502469.html)
+- [UK and France order more cruise missiles, pledge nuclear cooperation](https://www.union-bulletin.com/news/world/uk-and-france-order-more-cruise-missiles-pledge-nuclear-cooperation/article_2d15a765-c02d-5f50-9c5d-dc23850c48ee.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
