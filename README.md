@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Operation Sindoor: NSA Ajit Doval debunks international media claims, dares to provide proof of damage on Indian side](https://www.thestatesman.com/india/operation-sindoor-nsa-ajit-doval-debunks-international-media-claims-dares-to-provide-proof-of-damage-on-indian-side-1503456559.html)
-- [Locker Market Size and Share 2025: Analysis of Emerging Business Opportunities, Key Investments, and Forecast to 2032 |Sherwin-Williams, PPG Industries, AkzoNobel, BASF SE](https://www.openpr.com/news/4101395/locker-market-size-and-share-2025-analysis-of-emerging-business)
-- [How Canada can better attract tech talent as calls to build domestic industry grow](https://www.castanetkamloops.net/news/Business/560988/How-Canada-can-better-attract-tech-talent-as-calls-to-build-domestic-industry-grow)
-- [How Canada can better attract tech talent as calls to build domestic industry grow](https://www.castanet.net/news/Business/560988/How-Canada-can-better-attract-tech-talent-as-calls-to-build-domestic-industry-grow)
-- [Federal Interior Minister Mohsin Naqvi visits UAE to boost bilateral security & ease visa process for Pakistanis](https://www.urdupoint.com/en/pakistan/federal-interior-minister-mohsin-naqvi-visits-2011744.html)
+- [Un biopic explosif sur le gourou de l’IA ? Amazon prépare un film sur Sam Altman (ChatGPT)](https://www.clubic.com/actualite-572634-un-biopic-explosif-sur-le-gourou-de-l-ia-amazon-prepare-un-film-sur-sam-altman-chatgpt.html)
+- [Jim Cramer drops blunt 6-word message on Nvidia stock](https://www.thestreet.com/investing/jim-cramer-drops-blunt-6-word-message-on-nvidia-stock)
+- [AJARI.AI Masuk 10 Besar Pemenang Perusahaan Rintisan Global Program Presight AI-Startup Accelerator](https://news.republika.co.id/berita/szagnk349/ajariai-masuk-10-besar-pemenang-perusahaan-rintisan-global-program-presight-aistartup-accelerator)
+- [How to Invest as the AI Industry Grows Up](https://www.kiplinger.com/investing/how-to-invest-as-the-ai-industry-grows-up)
+- [Health Ministry can’t tackle healthcare brain drain alone, says minister](https://www.theborneopost.com/2025/07/12/health-ministry-cant-tackle-healthcare-brain-drain-alone-says-minister/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
