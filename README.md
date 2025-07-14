@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Un biopic explosif sur le gourou de l’IA ? Amazon prépare un film sur Sam Altman (ChatGPT)](https://www.clubic.com/actualite-572634-un-biopic-explosif-sur-le-gourou-de-l-ia-amazon-prepare-un-film-sur-sam-altman-chatgpt.html)
-- [Jim Cramer drops blunt 6-word message on Nvidia stock](https://www.thestreet.com/investing/jim-cramer-drops-blunt-6-word-message-on-nvidia-stock)
-- [AJARI.AI Masuk 10 Besar Pemenang Perusahaan Rintisan Global Program Presight AI-Startup Accelerator](https://news.republika.co.id/berita/szagnk349/ajariai-masuk-10-besar-pemenang-perusahaan-rintisan-global-program-presight-aistartup-accelerator)
-- [How to Invest as the AI Industry Grows Up](https://www.kiplinger.com/investing/how-to-invest-as-the-ai-industry-grows-up)
-- [Health Ministry can’t tackle healthcare brain drain alone, says minister](https://www.theborneopost.com/2025/07/12/health-ministry-cant-tackle-healthcare-brain-drain-alone-says-minister/)
+- [Fulton Breakefield Broenniman LLC Trims Stock Position in Salesforce Inc. (NYSE:CRM)](https://www.themarketsdaily.com/2025/07/13/fulton-breakefield-broenniman-llc-trims-stock-position-in-salesforce-inc-nysecrm.html)
+- [Dock Street Asset Management Inc. Increases Position in ServiceNow, Inc. (NYSE:NOW)](https://www.watchlistnews.com/dock-street-asset-management-inc-increases-position-in-servicenow-inc-nysenow/10691201.html)
+- [TruNorth Capital Management LLC Has $258,000 Position in Salesforce Inc. (NYSE:CRM)](https://www.thelincolnianonline.com/2025/07/13/trunorth-capital-management-llc-has-258000-position-in-salesforce-inc-nysecrm.html)
+- [Stephens Inc. AR Sells 5,603 Shares of Salesforce Inc. (NYSE:CRM)](https://www.dailypolitical.com/2025/07/13/stephens-inc-ar-sells-5603-shares-of-salesforce-inc-nysecrm.html)
+- [Dock Street Asset Management Inc. Raises Position in ServiceNow, Inc. (NYSE:NOW)](https://www.tickerreport.com/banking-finance/13049640/dock-street-asset-management-inc-raises-position-in-servicenow-inc-nysenow.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
