@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Fulton Breakefield Broenniman LLC Trims Stock Position in Salesforce Inc. (NYSE:CRM)](https://www.themarketsdaily.com/2025/07/13/fulton-breakefield-broenniman-llc-trims-stock-position-in-salesforce-inc-nysecrm.html)
-- [Dock Street Asset Management Inc. Increases Position in ServiceNow, Inc. (NYSE:NOW)](https://www.watchlistnews.com/dock-street-asset-management-inc-increases-position-in-servicenow-inc-nysenow/10691201.html)
-- [TruNorth Capital Management LLC Has $258,000 Position in Salesforce Inc. (NYSE:CRM)](https://www.thelincolnianonline.com/2025/07/13/trunorth-capital-management-llc-has-258000-position-in-salesforce-inc-nysecrm.html)
-- [Stephens Inc. AR Sells 5,603 Shares of Salesforce Inc. (NYSE:CRM)](https://www.dailypolitical.com/2025/07/13/stephens-inc-ar-sells-5603-shares-of-salesforce-inc-nysecrm.html)
-- [Dock Street Asset Management Inc. Raises Position in ServiceNow, Inc. (NYSE:NOW)](https://www.tickerreport.com/banking-finance/13049640/dock-street-asset-management-inc-raises-position-in-servicenow-inc-nysenow.html)
+- [Singapore’s largest IPO since 2017 sees muted debut](https://www.channelnewsasia.com/singapore/ntt-dc-reit-sgx-listing-muted-trade-data-centres-5237341)
+- [LG Says Its New OLED, QNED TVs Use AI to Curate Content and Enhance Viewing](https://www.republicworld.com/tech/lg-says-its-new-oled-qned-tvs-use-ai-to-curate-content-and-enhance-viewing)
+- [Music Licensing, Inc. and Pro Music Rights Featured in Bloomberg News and Los Angeles Times Amid Industry Spotlight on Licensing Fees](https://www.manilatimes.net/2025/07/14/tmt-newswire/globenewswire/music-licensing-inc-and-pro-music-rights-featured-in-bloomberg-news-and-los-angeles-times-amid-industry-spotlight-on-licensing-fees/2148883)
+- [Tevogen.AI Builds Alpha Version of PredicTcellTM Model with Microsoft and Databricks; Observes Drastic Time Reduction in Target Analysis Translating to Potential Savings of Billions in Drug Development Costs](https://www.manilatimes.net/2025/07/14/tmt-newswire/globenewswire/tevogenai-builds-alpha-version-of-predictcell-model-with-microsoft-and-databricks-observes-drastic-time-reduction-in-target-analysis-translating-to-potential-savings-of-billions-in-drug-development-costs/2148882)
+- [Studio 36 Digital Embraces Generative AI to Redefine SEO Services](https://techbullion.com/studio-36-digital-embraces-generative-ai-to-redefine-seo-services/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
