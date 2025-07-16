@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Singapore’s largest IPO since 2017 sees muted debut](https://www.channelnewsasia.com/singapore/ntt-dc-reit-sgx-listing-muted-trade-data-centres-5237341)
-- [LG Says Its New OLED, QNED TVs Use AI to Curate Content and Enhance Viewing](https://www.republicworld.com/tech/lg-says-its-new-oled-qned-tvs-use-ai-to-curate-content-and-enhance-viewing)
-- [Music Licensing, Inc. and Pro Music Rights Featured in Bloomberg News and Los Angeles Times Amid Industry Spotlight on Licensing Fees](https://www.manilatimes.net/2025/07/14/tmt-newswire/globenewswire/music-licensing-inc-and-pro-music-rights-featured-in-bloomberg-news-and-los-angeles-times-amid-industry-spotlight-on-licensing-fees/2148883)
-- [Tevogen.AI Builds Alpha Version of PredicTcellTM Model with Microsoft and Databricks; Observes Drastic Time Reduction in Target Analysis Translating to Potential Savings of Billions in Drug Development Costs](https://www.manilatimes.net/2025/07/14/tmt-newswire/globenewswire/tevogenai-builds-alpha-version-of-predictcell-model-with-microsoft-and-databricks-observes-drastic-time-reduction-in-target-analysis-translating-to-potential-savings-of-billions-in-drug-development-costs/2148882)
-- [Studio 36 Digital Embraces Generative AI to Redefine SEO Services](https://techbullion.com/studio-36-digital-embraces-generative-ai-to-redefine-seo-services/)
+- [BluSky AI, Inc. Selects Data Specialties Inc. (DSI) as Pre-Manufactured Modular Data Center Provider](https://www.globenewswire.com/fr/news-release/2025/07/15/3115752/29006/en/BluSky-AI-Inc-Selects-Data-Specialties-Inc-DSI-as-Pre-Manufactured-Modular-Data-Center-Provider.html)
+- [I used Google's photo-to-video AI tool on my selfie - and it made me do the tango](https://www.zdnet.com/article/i-used-googles-photo-to-video-ai-tool-on-my-selfie-and-it-made-me-do-the-tango/)
+- [BluSky AI, Inc. Selects Data Specialties Inc. (DSI) as Pre-Manufactured Modular Data Center Provider](https://www.globenewswire.com/news-release/2025/07/15/3115752/29006/en/BluSky-AI-Inc-Selects-Data-Specialties-Inc-DSI-as-Pre-Manufactured-Modular-Data-Center-Provider.html)
+- [AI in Agriculture Market to Hit $8.97B by 2031, Driven by Robotics, Precision Farming & Analytics | DataM Intelligence](https://kalkinemedia.com/news/world-news/ai-in-agriculture-market-to-hit-897b-by-2031-driven-by-robotics-precision-farming-analytics-datam-intelligence)
+- [Should You Consider Adding Owens Corning (OC) to Your Portfolio?](https://www.insidermonkey.com/blog/should-you-consider-adding-owens-corning-oc-to-your-portfolio-1569003/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
