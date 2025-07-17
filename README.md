@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [BluSky AI, Inc. Selects Data Specialties Inc. (DSI) as Pre-Manufactured Modular Data Center Provider](https://www.globenewswire.com/fr/news-release/2025/07/15/3115752/29006/en/BluSky-AI-Inc-Selects-Data-Specialties-Inc-DSI-as-Pre-Manufactured-Modular-Data-Center-Provider.html)
-- [I used Google's photo-to-video AI tool on my selfie - and it made me do the tango](https://www.zdnet.com/article/i-used-googles-photo-to-video-ai-tool-on-my-selfie-and-it-made-me-do-the-tango/)
-- [BluSky AI, Inc. Selects Data Specialties Inc. (DSI) as Pre-Manufactured Modular Data Center Provider](https://www.globenewswire.com/news-release/2025/07/15/3115752/29006/en/BluSky-AI-Inc-Selects-Data-Specialties-Inc-DSI-as-Pre-Manufactured-Modular-Data-Center-Provider.html)
-- [AI in Agriculture Market to Hit $8.97B by 2031, Driven by Robotics, Precision Farming & Analytics | DataM Intelligence](https://kalkinemedia.com/news/world-news/ai-in-agriculture-market-to-hit-897b-by-2031-driven-by-robotics-precision-farming-analytics-datam-intelligence)
-- [Should You Consider Adding Owens Corning (OC) to Your Portfolio?](https://www.insidermonkey.com/blog/should-you-consider-adding-owens-corning-oc-to-your-portfolio-1569003/)
+- [Nvidia is the first $4-trillion company. Here are three things to know](https://www.dailygazette.com/tribune/nvidia-is-the-first-4-trillion-company-here-are-three-things-to-know/article_fe567638-e6ff-5e05-b824-8fb8dd9f7922.html)
+- [Column: Of fighting and surviving, ‘Baddest Man’ is a soaring biography of Mike Tyson](https://www.pilotonline.com/2025/07/16/baddest-man-mike-tyson/)
+- [Column: Of fighting and surviving, ‘Baddest Man’ is a soaring biography of Mike Tyson](https://www.greeleytribune.com/2025/07/16/baddest-man-mike-tyson/)
+- [Column: Of fighting and surviving, ‘Baddest Man’ is a soaring biography of Mike Tyson](https://www.capitalgazette.com/2025/07/16/baddest-man-mike-tyson/)
+- [Column: Of fighting and surviving, ‘Baddest Man’ is a soaring biography of Mike Tyson](https://www.orovillemr.com/2025/07/16/baddest-man-mike-tyson/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
