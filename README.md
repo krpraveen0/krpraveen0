@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Nvidia is the first $4-trillion company. Here are three things to know](https://www.dailygazette.com/tribune/nvidia-is-the-first-4-trillion-company-here-are-three-things-to-know/article_fe567638-e6ff-5e05-b824-8fb8dd9f7922.html)
-- [Column: Of fighting and surviving, ‘Baddest Man’ is a soaring biography of Mike Tyson](https://www.pilotonline.com/2025/07/16/baddest-man-mike-tyson/)
-- [Column: Of fighting and surviving, ‘Baddest Man’ is a soaring biography of Mike Tyson](https://www.greeleytribune.com/2025/07/16/baddest-man-mike-tyson/)
-- [Column: Of fighting and surviving, ‘Baddest Man’ is a soaring biography of Mike Tyson](https://www.capitalgazette.com/2025/07/16/baddest-man-mike-tyson/)
-- [Column: Of fighting and surviving, ‘Baddest Man’ is a soaring biography of Mike Tyson](https://www.orovillemr.com/2025/07/16/baddest-man-mike-tyson/)
+- [$9.5 Bn Connected Ship Market Outlook 2025-2034 | Emerging Smart Ports and Automated Docking Gaining Momentum](https://www.globenewswire.com/fr/news-release/2025/07/17/3117334/28124/en/9-5-Bn-Connected-Ship-Market-Outlook-2025-2034-Emerging-Smart-Ports-and-Automated-Docking-Gaining-Momentum.html)
+- [Air quality experts call for partnerships for clean air solutions in Africa](https://www.kenyanews.go.ke/air-quality-experts-call-for-partnerships-for-clean-air-solutions-in-africa/)
+- [India Software as a Service Market Size, Share & Growth 2034](https://www.openpr.com/news/4108633/india-software-as-a-service-market-size-share-growth-2034)
+- [Automation Anywhere erhält „AWS Generative AI Competency"](https://www.prnewswire.com/news-releases/automation-anywhere-erhalt-aws-generative-ai-competency-302507989.html)
+- [Tech giants warn window to monitor AI reasoning is closing, urge action](https://techxplore.com/news/2025-07-tech-giants-window-ai-urge.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
