@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [$9.5 Bn Connected Ship Market Outlook 2025-2034 | Emerging Smart Ports and Automated Docking Gaining Momentum](https://www.globenewswire.com/fr/news-release/2025/07/17/3117334/28124/en/9-5-Bn-Connected-Ship-Market-Outlook-2025-2034-Emerging-Smart-Ports-and-Automated-Docking-Gaining-Momentum.html)
-- [Air quality experts call for partnerships for clean air solutions in Africa](https://www.kenyanews.go.ke/air-quality-experts-call-for-partnerships-for-clean-air-solutions-in-africa/)
-- [India Software as a Service Market Size, Share & Growth 2034](https://www.openpr.com/news/4108633/india-software-as-a-service-market-size-share-growth-2034)
-- [Automation Anywhere erhält „AWS Generative AI Competency"](https://www.prnewswire.com/news-releases/automation-anywhere-erhalt-aws-generative-ai-competency-302507989.html)
-- [Tech giants warn window to monitor AI reasoning is closing, urge action](https://techxplore.com/news/2025-07-tech-giants-window-ai-urge.html)
+- [Saudi Arabia expands tech talent schools to five regions for 2025](https://saudigazette.com.sa/article/653526/SAUDI-ARABIA/Saudi-Education-Ministry-opens-five-new-tech-talent-schools-in-partnership-with-Tuwaiq?format=simple&link=link)
+- [Interview: Malaysia's close cooperation with China will boost its ability to meet EV adoption targets, analyst says](https://english.news.cn/20250718/95bdb442c6f4420b897839b972c5513b/c.html)
+- [Informatica Inc. (NYSE:INFA) EVP John Arthur Schweitzer Sells 48,929 Shares](https://www.watchlistnews.com/informatica-inc-nyseinfa-evp-john-arthur-schweitzer-sells-48929-shares/10698524.html)
+- [XAUPro Exchange’s Daily Trading Volume Surpasses $500 Million, Strengthens Security Framework, and Explores AI Technology](https://techbullion.com/xaupro-exchanges-daily-trading-volume-surpasses-500-million-strengthens-security-framework-and-explores-ai-technology/)
+- [XAUPro Exchange’s Daily Trading Volume Surpasses $500 Million, Strengthens Security Framework, and Explores AI Technology](https://techannouncer.com/xaupro-exchanges-daily-trading-volume-surpasses-500-million-strengthens-security-framework-and-explores-ai-technology/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
