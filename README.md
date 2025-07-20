@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 5.9 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 6.0 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Saudi Arabia expands tech talent schools to five regions for 2025](https://saudigazette.com.sa/article/653526/SAUDI-ARABIA/Saudi-Education-Ministry-opens-five-new-tech-talent-schools-in-partnership-with-Tuwaiq?format=simple&link=link)
-- [Interview: Malaysia's close cooperation with China will boost its ability to meet EV adoption targets, analyst says](https://english.news.cn/20250718/95bdb442c6f4420b897839b972c5513b/c.html)
-- [Informatica Inc. (NYSE:INFA) EVP John Arthur Schweitzer Sells 48,929 Shares](https://www.watchlistnews.com/informatica-inc-nyseinfa-evp-john-arthur-schweitzer-sells-48929-shares/10698524.html)
-- [XAUPro Exchange’s Daily Trading Volume Surpasses $500 Million, Strengthens Security Framework, and Explores AI Technology](https://techbullion.com/xaupro-exchanges-daily-trading-volume-surpasses-500-million-strengthens-security-framework-and-explores-ai-technology/)
-- [XAUPro Exchange’s Daily Trading Volume Surpasses $500 Million, Strengthens Security Framework, and Explores AI Technology](https://techannouncer.com/xaupro-exchanges-daily-trading-volume-surpasses-500-million-strengthens-security-framework-and-explores-ai-technology/)
+- [KLEIN: A bully with a smile, is still a bully](https://winnipegsun.com/opinion/columnists/klein-a-bully-with-a-smile-is-still-a-bully)
+- [ServiceNow, Inc. (NYSE:NOW) Shares Sold by Hollencrest Capital Management](https://www.dailypolitical.com/2025/07/19/servicenow-inc-nysenow-shares-sold-by-hollencrest-capital-management.html)
+- [Leaked Document Reveals Troubling Details About How AI Is Really Being Trained](https://futurism.com/documents-ai-training-surge)
+- [Forget the calendar: This method reveals the ideal time to tackle garden pests](https://www.redbluffdailynews.com/2025/07/19/gardening-growing-degree-days/)
+- [Global Access Control Market Size, Share, forecast 2021 - 2030 | Top key players: Thales, Gunnebo AB, NEC Corporation, Napco Security Technologies, Inc., HID Global Corporation, Vanderbilt Industries, and others Key vendors](https://www.openpr.com/news/4110689/global-access-control-market-size-share-forecast-2021-2030)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
