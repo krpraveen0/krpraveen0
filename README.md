@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [KLEIN: A bully with a smile, is still a bully](https://winnipegsun.com/opinion/columnists/klein-a-bully-with-a-smile-is-still-a-bully)
-- [ServiceNow, Inc. (NYSE:NOW) Shares Sold by Hollencrest Capital Management](https://www.dailypolitical.com/2025/07/19/servicenow-inc-nysenow-shares-sold-by-hollencrest-capital-management.html)
-- [Leaked Document Reveals Troubling Details About How AI Is Really Being Trained](https://futurism.com/documents-ai-training-surge)
-- [Forget the calendar: This method reveals the ideal time to tackle garden pests](https://www.redbluffdailynews.com/2025/07/19/gardening-growing-degree-days/)
-- [Global Access Control Market Size, Share, forecast 2021 - 2030 | Top key players: Thales, Gunnebo AB, NEC Corporation, Napco Security Technologies, Inc., HID Global Corporation, Vanderbilt Industries, and others Key vendors](https://www.openpr.com/news/4110689/global-access-control-market-size-share-forecast-2021-2030)
+- [👀 Mbangula to Bundesliga, Insigne-Lazio, Theo’s replacement: today 🤑](https://onefootball.com/en/news/mbangula-to-bundesliga-insigne-lazio-theos-replacement-today-41400352)
+- [Pbkminer Launches Original XRP (Ripple) AI Cloud Mining Application For Bitcoin Miners, Allowing Everyone To Easily Earn Cryptocurrency Income](https://menafn.com/1109823586/Pbkminer-Launches-Original-XRP-Ripple-AI-Cloud-Mining-Application-For-Bitcoin-Miners-Allowing-Everyone-To-Easily-Earn-Cryptocurrency-Income)
+- [IITs are expected to steer the country ahead through innovation, says officer](https://www.thehindu.com/news/national/karnataka/iits-are-expected-to-steer-the-country-ahead-through-innovation-says-officer/article69834887.ece)
+- [Triunfo histórico: conquistan estudiantes tamaulipecos oro y Grand Prize en WICO 2025 en Corea del Sur](https://www.diariodematamoros.com/2025/07/triunfo-historico-conquistan.html)
+- [CMR Group of Institutions hosts Transformative AI Bharat Utsav, empowering students for an AI-driven future](https://telanganatoday.com/cmr-group-of-institutions-hosts-transformative-ai-bharat-utsav-empowering-students-for-an-ai-driven-future)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
