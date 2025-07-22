@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [👀 Mbangula to Bundesliga, Insigne-Lazio, Theo’s replacement: today 🤑](https://onefootball.com/en/news/mbangula-to-bundesliga-insigne-lazio-theos-replacement-today-41400352)
-- [Pbkminer Launches Original XRP (Ripple) AI Cloud Mining Application For Bitcoin Miners, Allowing Everyone To Easily Earn Cryptocurrency Income](https://menafn.com/1109823586/Pbkminer-Launches-Original-XRP-Ripple-AI-Cloud-Mining-Application-For-Bitcoin-Miners-Allowing-Everyone-To-Easily-Earn-Cryptocurrency-Income)
-- [IITs are expected to steer the country ahead through innovation, says officer](https://www.thehindu.com/news/national/karnataka/iits-are-expected-to-steer-the-country-ahead-through-innovation-says-officer/article69834887.ece)
-- [Triunfo histórico: conquistan estudiantes tamaulipecos oro y Grand Prize en WICO 2025 en Corea del Sur](https://www.diariodematamoros.com/2025/07/triunfo-historico-conquistan.html)
-- [CMR Group of Institutions hosts Transformative AI Bharat Utsav, empowering students for an AI-driven future](https://telanganatoday.com/cmr-group-of-institutions-hosts-transformative-ai-bharat-utsav-empowering-students-for-an-ai-driven-future)
+- [Bitcoin’s Quantum Threat Is Closer Than You Think: Naoris CEO](https://zephyrnet.com/bitcoins-quantum-threat-is-closer-than-you-think-naoris-ceo/)
+- [Apple rivela i segreti dei suoi nuovi modelli AI](https://www.tomshw.it/hardware/apple-svela-i-dettagli-dei-nuovi-modelli-ai-2025-07-21)
+- [General : Sarawak Day: Unity Key To Stateâs Sustainable Growth - Premier](http://www.bernama.com/en/news.php?id=2447682)
+- [Probing AI 'thoughts' reveals models use tree-like math to track shifting information](https://techxplore.com/news/2025-07-probing-ai-thoughts-reveals-tree.html)
+- [Chainlink Price Prediction: LINK Could Hit $30, but Ozak AI Is Poised for a Massive Breakout](https://zephyrnet.com/chainlink-price-prediction-link-could-hit-30-but-ozak-ai-is-poised-for-a-massive-breakout/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
