@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Bitcoin’s Quantum Threat Is Closer Than You Think: Naoris CEO](https://zephyrnet.com/bitcoins-quantum-threat-is-closer-than-you-think-naoris-ceo/)
-- [Apple rivela i segreti dei suoi nuovi modelli AI](https://www.tomshw.it/hardware/apple-svela-i-dettagli-dei-nuovi-modelli-ai-2025-07-21)
-- [General : Sarawak Day: Unity Key To Stateâs Sustainable Growth - Premier](http://www.bernama.com/en/news.php?id=2447682)
-- [Probing AI 'thoughts' reveals models use tree-like math to track shifting information](https://techxplore.com/news/2025-07-probing-ai-thoughts-reveals-tree.html)
-- [Chainlink Price Prediction: LINK Could Hit $30, but Ozak AI Is Poised for a Massive Breakout](https://zephyrnet.com/chainlink-price-prediction-link-could-hit-30-but-ozak-ai-is-poised-for-a-massive-breakout/)
+- [Noel Gallagher’s Jaguar MKII Convertible up for sale](https://jerseyeveningpost.com/motoring/2025/07/22/noel-gallaghers-jaguar-mkii-convertible-up-for-sale/)
+- [Apple almost open-sourced its AI models, here’s why it didn’t: report](https://9to5mac.com/2025/07/22/apple-almost-open-sourced-its-ai-models-heres-why-it-didnt-report/)
+- [BluSky AI Inc. Appoints Andrea Huels as Chief AI and Growth Officer](https://www.globenewswire.com/fr/news-release/2025/07/22/3119560/29006/en/BluSky-AI-Inc-Appoints-Andrea-Huels-as-Chief-AI-and-Growth-Officer.html)
+- [BluSky AI Inc. Appoints Andrea Huels as Chief AI and Growth Officer](https://www.globenewswire.com/news-release/2025/07/22/3119560/29006/en/BluSky-AI-Inc-Appoints-Andrea-Huels-as-Chief-AI-and-Growth-Officer.html)
+- [HMC announces launch of new patient app “Lbaih”](https://thepeninsulaqatar.com/article/22/07/2025/hmc-announces-launch-of-new-patient-app-lbaih)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
