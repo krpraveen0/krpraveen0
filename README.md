@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Noel Gallagher’s Jaguar MKII Convertible up for sale](https://jerseyeveningpost.com/motoring/2025/07/22/noel-gallaghers-jaguar-mkii-convertible-up-for-sale/)
-- [Apple almost open-sourced its AI models, here’s why it didn’t: report](https://9to5mac.com/2025/07/22/apple-almost-open-sourced-its-ai-models-heres-why-it-didnt-report/)
-- [BluSky AI Inc. Appoints Andrea Huels as Chief AI and Growth Officer](https://www.globenewswire.com/fr/news-release/2025/07/22/3119560/29006/en/BluSky-AI-Inc-Appoints-Andrea-Huels-as-Chief-AI-and-Growth-Officer.html)
-- [BluSky AI Inc. Appoints Andrea Huels as Chief AI and Growth Officer](https://www.globenewswire.com/news-release/2025/07/22/3119560/29006/en/BluSky-AI-Inc-Appoints-Andrea-Huels-as-Chief-AI-and-Growth-Officer.html)
-- [HMC announces launch of new patient app “Lbaih”](https://thepeninsulaqatar.com/article/22/07/2025/hmc-announces-launch-of-new-patient-app-lbaih)
+- [Apollo Hospitals partners with Siemens Healthineers to advance innovation in liver healthcare](https://www.thehindubusinessline.com/companies/apollo-hospitals-partners-with-siemens-healthineers-to-advance-innovation-in-liver-healthcare/article69846514.ece)
+- [New AI model aims to increase lactation, breastfeeding rates in NICU](https://medicalxpress.com/news/2025-07-ai-aims-lactation-breastfeeding-nicu.html)
+- [Audio-Technica takes aim at AirPods Pro with new hearing-health earbuds and speakers](https://www.techradar.com/audio/earbuds-airpods/audio-technica-takes-aim-at-airpods-pro-with-new-hearing-health-earbuds-and-speakers)
+- [Kuwait Airways, KFAS pursue enhanced cooperation in training and culture](https://www.arabtimesonline.com/news/kuwait-airways-kfas-pursue-enhanced-cooperation-in-training-and-culture/)
+- [Unlocking Growth in the Consumer Packaged Goods Market: What’s Driving the 2030 Surge](https://www.manilatimes.net/2025/07/23/tmt-newswire/globenewswire/unlocking-growth-in-the-consumer-packaged-goods-market-whats-driving-the-2030-surge/2154840)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
