@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Apollo Hospitals partners with Siemens Healthineers to advance innovation in liver healthcare](https://www.thehindubusinessline.com/companies/apollo-hospitals-partners-with-siemens-healthineers-to-advance-innovation-in-liver-healthcare/article69846514.ece)
-- [New AI model aims to increase lactation, breastfeeding rates in NICU](https://medicalxpress.com/news/2025-07-ai-aims-lactation-breastfeeding-nicu.html)
-- [Audio-Technica takes aim at AirPods Pro with new hearing-health earbuds and speakers](https://www.techradar.com/audio/earbuds-airpods/audio-technica-takes-aim-at-airpods-pro-with-new-hearing-health-earbuds-and-speakers)
-- [Kuwait Airways, KFAS pursue enhanced cooperation in training and culture](https://www.arabtimesonline.com/news/kuwait-airways-kfas-pursue-enhanced-cooperation-in-training-and-culture/)
-- [Unlocking Growth in the Consumer Packaged Goods Market: What’s Driving the 2030 Surge](https://www.manilatimes.net/2025/07/23/tmt-newswire/globenewswire/unlocking-growth-in-the-consumer-packaged-goods-market-whats-driving-the-2030-surge/2154840)
+- [QuickLogic (NASDAQ:QUIK) Shares Pass Above Two Hundred Day Moving Average – Here’s Why](https://www.dailypolitical.com/2025/07/24/quicklogic-nasdaqquik-shares-pass-above-two-hundred-day-moving-average-heres-why.html)
+- [Derniers jours : les expositions qui finissent en août 2025 à Paris et en Île-de-France](https://www.sortiraparis.com/arts-culture/exposition/guides/322764-derniers-jours-les-expositions-qui-se-terminent-en-aout-2025-a-paris-et-en-ile-de-france)
+- [QuickLogic (NASDAQ:QUIK) Shares Pass Above Two Hundred Day Moving Average – Here’s Why](https://www.tickerreport.com/banking-finance/13066126/quicklogic-nasdaqquik-shares-pass-above-two-hundred-day-moving-average-heres-why.html)
+- [CrowdStrike Holdings, Inc. (CRWD): A Bull Case Theory](https://www.insidermonkey.com/blog/crowdstrike-holdings-inc-crwd-a-bull-case-theory-3-1572819/)
+- [Defense Innovation Unit Awards Applied Research Institute Cooperative Agreement to Administer Defense Innovation OnRamp](https://www.postregister.com/businessreport/technology/defense-innovation-unit-awards-applied-research-institute-cooperative-agreement-to-administer-defense-innovation-onramp/article_b4ace404-0551-53e1-be2e-4e66c19b63eb.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
