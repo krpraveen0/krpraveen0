@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [QuickLogic (NASDAQ:QUIK) Shares Pass Above Two Hundred Day Moving Average – Here’s Why](https://www.dailypolitical.com/2025/07/24/quicklogic-nasdaqquik-shares-pass-above-two-hundred-day-moving-average-heres-why.html)
-- [Derniers jours : les expositions qui finissent en août 2025 à Paris et en Île-de-France](https://www.sortiraparis.com/arts-culture/exposition/guides/322764-derniers-jours-les-expositions-qui-se-terminent-en-aout-2025-a-paris-et-en-ile-de-france)
-- [QuickLogic (NASDAQ:QUIK) Shares Pass Above Two Hundred Day Moving Average – Here’s Why](https://www.tickerreport.com/banking-finance/13066126/quicklogic-nasdaqquik-shares-pass-above-two-hundred-day-moving-average-heres-why.html)
-- [CrowdStrike Holdings, Inc. (CRWD): A Bull Case Theory](https://www.insidermonkey.com/blog/crowdstrike-holdings-inc-crwd-a-bull-case-theory-3-1572819/)
-- [Defense Innovation Unit Awards Applied Research Institute Cooperative Agreement to Administer Defense Innovation OnRamp](https://www.postregister.com/businessreport/technology/defense-innovation-unit-awards-applied-research-institute-cooperative-agreement-to-administer-defense-innovation-onramp/article_b4ace404-0551-53e1-be2e-4e66c19b63eb.html)
+- [Booz Allen Hamilton Holding Corporation (NYSE:BAH) Position Trimmed by Hedeker Wealth LLC](https://www.thelincolnianonline.com/2025/07/25/booz-allen-hamilton-holding-corporation-nysebah-position-trimmed-by-hedeker-wealth-llc.html)
+- [US stocks tick toward more records and another winning week](https://www.oakvillenews.org/national-business/us-stocks-tick-toward-more-records-and-another-winning-week-10990600)
+- [US stocks tick toward more records and another winning week](https://www.burnabynow.com/national-business/us-stocks-tick-toward-more-records-and-another-winning-week-10990603)
+- [US stocks tick toward more records and another winning week](https://www.sootoday.com/national-business/us-stocks-tick-toward-more-records-and-another-winning-week-10990600)
+- [US stocks tick toward more records and another winning week](https://www.princegeorgecitizen.com/national-business/us-stocks-tick-toward-more-records-and-another-winning-week-10990603)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
