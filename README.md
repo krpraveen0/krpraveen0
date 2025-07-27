@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Booz Allen Hamilton Holding Corporation (NYSE:BAH) Position Trimmed by Hedeker Wealth LLC](https://www.thelincolnianonline.com/2025/07/25/booz-allen-hamilton-holding-corporation-nysebah-position-trimmed-by-hedeker-wealth-llc.html)
-- [US stocks tick toward more records and another winning week](https://www.oakvillenews.org/national-business/us-stocks-tick-toward-more-records-and-another-winning-week-10990600)
-- [US stocks tick toward more records and another winning week](https://www.burnabynow.com/national-business/us-stocks-tick-toward-more-records-and-another-winning-week-10990603)
-- [US stocks tick toward more records and another winning week](https://www.sootoday.com/national-business/us-stocks-tick-toward-more-records-and-another-winning-week-10990600)
-- [US stocks tick toward more records and another winning week](https://www.princegeorgecitizen.com/national-business/us-stocks-tick-toward-more-records-and-another-winning-week-10990603)
+- [Secretary-General's video message at the World Artificial Intelligence Conference and High-level Meeting on Global Artificial Intelligence Governance](https://www.un.org/sg/en/content/sg/statement/2025-07-26/secretary-generals-video-message-the-world-artificial-intelligence-conference-and-high-level-meeting-global-artificial-intelligence-governance)
+- [How algorithms are transforming the way we communicate](https://www.dailydispatch.co.za/news/2025-07-26-how-algorithms-are-transforming-the-way-we-communicate/)
+- [Perusahaan di Asia Tenggara Gencar Pakai AI untuk Transformasi Bisnis](https://inet.detik.com/business/d-8030819/perusahaan-di-asia-tenggara-gencar-pakai-ai-untuk-transformasi-bisnis)
+- [Sam Altman concerned by young people’s over-reliance on ChatGPT](https://startupnews.fyi/2025/07/26/sam-altman-concerned-by-young-peoples-over-reliance-on-chatgpt/)
+- [The power of AI](https://www.tahoedailytribune.com/news/the-power-of-ai/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
