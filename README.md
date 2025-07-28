@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Secretary-General's video message at the World Artificial Intelligence Conference and High-level Meeting on Global Artificial Intelligence Governance](https://www.un.org/sg/en/content/sg/statement/2025-07-26/secretary-generals-video-message-the-world-artificial-intelligence-conference-and-high-level-meeting-global-artificial-intelligence-governance)
-- [How algorithms are transforming the way we communicate](https://www.dailydispatch.co.za/news/2025-07-26-how-algorithms-are-transforming-the-way-we-communicate/)
-- [Perusahaan di Asia Tenggara Gencar Pakai AI untuk Transformasi Bisnis](https://inet.detik.com/business/d-8030819/perusahaan-di-asia-tenggara-gencar-pakai-ai-untuk-transformasi-bisnis)
-- [Sam Altman concerned by young people’s over-reliance on ChatGPT](https://startupnews.fyi/2025/07/26/sam-altman-concerned-by-young-peoples-over-reliance-on-chatgpt/)
-- [The power of AI](https://www.tahoedailytribune.com/news/the-power-of-ai/)
+- [Elon Musk's Optimus gets tough competition, Chinese company unveils athletic humanoid robot, costs Rs...](https://www.dnaindia.com/business/report-elon-musk-tesla-optimus-robot-gets-tough-competition-chinese-company-unitree-robotics-unveils-new-athletic-humanoid-robot-named-r1-costs-rs-5-lakh-usd-5900-height-weight-capabilities-price-news-3172010)
+- [Customs to launch joint raids with trade bodies](https://dailytimes.com.pk/1343545/customs-to-launch-joint-raids-with-trade-bodies/)
+- [7 Great Peacock TV Shows Nobody Talks About](https://comicbook.com/tv-shows/news/great-peacock-tv-shows-nobody-talks-about-july-2025/)
+- [How to Invest $50,000 of TFSA Cash in 2025](https://www.fool.ca/2025/07/27/how-to-invest-50000-of-tfsa-cash-in-2025-2/)
+- [India News | Gujarat CM Approves Action Plan for AI Implementation to Position State as Nation's Leader in AI-enabled Governance](https://www.latestly.com/agency-news/india-news-gujarat-cm-approves-action-plan-for-ai-implementation-to-position-state-as-nations-leader-in-ai-enabled-governance-7025898.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
