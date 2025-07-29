@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Elon Musk's Optimus gets tough competition, Chinese company unveils athletic humanoid robot, costs Rs...](https://www.dnaindia.com/business/report-elon-musk-tesla-optimus-robot-gets-tough-competition-chinese-company-unitree-robotics-unveils-new-athletic-humanoid-robot-named-r1-costs-rs-5-lakh-usd-5900-height-weight-capabilities-price-news-3172010)
-- [Customs to launch joint raids with trade bodies](https://dailytimes.com.pk/1343545/customs-to-launch-joint-raids-with-trade-bodies/)
-- [7 Great Peacock TV Shows Nobody Talks About](https://comicbook.com/tv-shows/news/great-peacock-tv-shows-nobody-talks-about-july-2025/)
-- [How to Invest $50,000 of TFSA Cash in 2025](https://www.fool.ca/2025/07/27/how-to-invest-50000-of-tfsa-cash-in-2025-2/)
-- [India News | Gujarat CM Approves Action Plan for AI Implementation to Position State as Nation's Leader in AI-enabled Governance](https://www.latestly.com/agency-news/india-news-gujarat-cm-approves-action-plan-for-ai-implementation-to-position-state-as-nations-leader-in-ai-enabled-governance-7025898.html)
+- [‘Mrs. Doubtfire’ Star Matthew Lawrence Wants to Resurrect Robin Williams’ Voice Using AI and Says ‘It Would Be So Cool’: ‘He’s Gotta Be the Voice of AI’](https://variety.com/2025/film/news/matthew-lawrence-robin-williams-voice-ai-mrs-doubtfire-1236471968/)
+- [This Alibaba-backed company is launching AI model to rival OpenAI](https://www.newsbytesapp.com/news/science/zhipu-set-to-unveil-glm-4-5-model-challenges-openai/story)
+- [Electronic Skin Market Thriving with Wearable Sensor Technologies and Biomedical Interface Advancements](https://www.openpr.com/news/4123158/electronic-skin-market-thriving-with-wearable-sensor)
+- [Cable Glands Market to Grow at 7.80% CAGR Led by Amphenol, Emerson, ABB, TE Connectivity, Eaton, Hubbell Incorporated, Axis Communications and PFLITSCH GmbH](https://www.openpr.com/news/4123157/cable-glands-market-to-grow-at-7-80-cagr-led-by-amphenol)
+- [Tesla enters deal with Samsung](https://www.nst.com.my/business/corporate/2025/07/1251766/tesla-enters-deal-samsung)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
