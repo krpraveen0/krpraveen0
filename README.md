@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [‘Mrs. Doubtfire’ Star Matthew Lawrence Wants to Resurrect Robin Williams’ Voice Using AI and Says ‘It Would Be So Cool’: ‘He’s Gotta Be the Voice of AI’](https://variety.com/2025/film/news/matthew-lawrence-robin-williams-voice-ai-mrs-doubtfire-1236471968/)
-- [This Alibaba-backed company is launching AI model to rival OpenAI](https://www.newsbytesapp.com/news/science/zhipu-set-to-unveil-glm-4-5-model-challenges-openai/story)
-- [Electronic Skin Market Thriving with Wearable Sensor Technologies and Biomedical Interface Advancements](https://www.openpr.com/news/4123158/electronic-skin-market-thriving-with-wearable-sensor)
-- [Cable Glands Market to Grow at 7.80% CAGR Led by Amphenol, Emerson, ABB, TE Connectivity, Eaton, Hubbell Incorporated, Axis Communications and PFLITSCH GmbH](https://www.openpr.com/news/4123157/cable-glands-market-to-grow-at-7-80-cagr-led-by-amphenol)
-- [Tesla enters deal with Samsung](https://www.nst.com.my/business/corporate/2025/07/1251766/tesla-enters-deal-samsung)
+- [Celcuity (CELC) Skyrockets 167% on Breast Cancer Treatment Trial](https://www.insidermonkey.com/blog/celcuity-celc-skyrockets-167-on-breast-cancer-treatment-trial-1578131/)
+- [PolyU and Ant Digital Technologies establish AI and Web3 Joint Lab](https://www.manilatimes.net/2025/07/29/tmt-newswire/pr-newswire/polyu-and-ant-digital-technologies-establish-ai-and-web3-joint-lab/2158144)
+- [Is Upstart Holdings (UPST) ready for the next big rally in 2025-26?](https://www.fxstreet.com/news/is-upstart-holdings-upst-ready-for-the-next-big-rally-in-2025-26-202507291343)
+- [IIE Launches South Africa’s Largest AI-Enhanced Learning Platform with Brightspace](https://iafrica.com/iie-launches-south-africas-largest-ai-enhanced-learning-platform-with-brightspace/)
+- [New Era Helium’s JV closes on AI data center site in Permian Basin](https://www.bicmagazine.com/industry/investment-banking/new-era-heliums-jv-closes-on-ai-data-center-site-in-permian-basin/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
