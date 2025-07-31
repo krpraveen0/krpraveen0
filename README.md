@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Celcuity (CELC) Skyrockets 167% on Breast Cancer Treatment Trial](https://www.insidermonkey.com/blog/celcuity-celc-skyrockets-167-on-breast-cancer-treatment-trial-1578131/)
-- [PolyU and Ant Digital Technologies establish AI and Web3 Joint Lab](https://www.manilatimes.net/2025/07/29/tmt-newswire/pr-newswire/polyu-and-ant-digital-technologies-establish-ai-and-web3-joint-lab/2158144)
-- [Is Upstart Holdings (UPST) ready for the next big rally in 2025-26?](https://www.fxstreet.com/news/is-upstart-holdings-upst-ready-for-the-next-big-rally-in-2025-26-202507291343)
-- [IIE Launches South Africa’s Largest AI-Enhanced Learning Platform with Brightspace](https://iafrica.com/iie-launches-south-africas-largest-ai-enhanced-learning-platform-with-brightspace/)
-- [New Era Helium’s JV closes on AI data center site in Permian Basin](https://www.bicmagazine.com/industry/investment-banking/new-era-heliums-jv-closes-on-ai-data-center-site-in-permian-basin/)
+- [Qualcomm Snapdragon For India: Auto Day Unveils Bold Vision For Smart, Safe, And Connected Mobility](https://www.thedailyjagran.com/technology/qualcomm-snapdragon-for-india-auto-day-unveils-bold-vision-for-smart-safe-and-connected-mobility-10256613)
+- [ChatGPT boss compares new AI to inventing nukes and reveals he’s terrified of super-smart bot](https://www.thescottishsun.co.uk/tech/15151270/chatgpt-gpt-5-sam-altman-fear-ai/)
+- [ChatGPT boss compares new AI to inventing nukes and reveals he’s terrified of super-smart bot](https://www.thesun.co.uk/tech/36077722/chatgpt-gpt-5-sam-altman-fear-ai/)
+- [ChatGPT boss compares new AI to inventing nukes and reveals he’s terrified of super-smart bot](https://www.thesun.ie/tech/15619872/chatgpt-gpt-5-sam-altman-fear-ai/)
+- [Plasma Derived Medicine Market Set to Witness Significant Growth by 2025-2032 | CSL Behring, Takeda Pharmaceutical Company Limited, Grifols, S.A., Octapharma AG](https://www.openpr.com/news/4126825/plasma-derived-medicine-market-set-to-witness-significant)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
