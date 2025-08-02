@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [„Chaotyczna papuga” czy „ogólna sztuczna inteligencja”? Na jakim poziomie rozwoju AI jesteśmy?](https://www.forbes.pl/opinie/pomiedzy-stochastyczna-papuga-a-ludzkim-poziomem-jak-blisko-agi-jestesmy/em8r0z1)
-- [Introducing 1 Hour Payday Loans Online from 1F Cash Advance! Experience Instant Approval Loans with No Credit Check and Get Your Quick Cash the Same Day You Apply](https://www.manilatimes.net/2025/07/31/tmt-newswire/globenewswire/introducing-1-hour-payday-loans-online-from-1f-cash-advance-experience-instant-approval-loans-with-no-credit-check-and-get-your-quick-cash-the-same-day-you-apply/2159958)
-- [Meta, Microsoft roar higher on strong earnings as AI spending booms](https://www.cnbc.com/2025/07/31/meta-microsoft-stock-earnings-ai.html)
-- [Apple reports third-quarter earnings after the bell](https://www.nbcphiladelphia.com/news/business/money-report/apple-reports-third-quarter-earnings-after-the-bell-2/4247166/)
-- [From Reactive Repairs to Predictive Care, Aniai is Redefining Grill Servicing in Commercial Kitchens with Alpha Cloud](https://www.prnewswire.com/news-releases/from-reactive-repairs-to-predictive-care-aniai-is-redefining-grill-servicing-in-commercial-kitchens-with-alpha-cloud-302518717.html)
+- [Nvidia’s Hope to Revive Foothold in China Takes A Hit As Beijing Alleges H20 AI Chips Are Compromised](https://www.tekedia.com/nvidias-hope-to-revive-foothold-in-china-takes-a-hit-as-beijing-alleges-h20-ai-chips-are-compromised/)
+- [Universal Beteiligungs und Servicegesellschaft mbH Invests $1.41 Million in SentinelOne, Inc. (NYSE:S)](https://www.dailypolitical.com/2025/08/01/universal-beteiligungs-und-servicegesellschaft-mbh-invests-1-41-million-in-sentinelone-inc-nyses.html)
+- [Universal Beteiligungs und Servicegesellschaft mbH Buys New Holdings in SentinelOne, Inc. (NYSE:S)](https://www.tickerreport.com/banking-finance/13080754/universal-beteiligungs-und-servicegesellschaft-mbh-buys-new-holdings-in-sentinelone-inc-nyses.html)
+- [“Human error led to this happening”](https://nyr.ruv.is/english/2025-08-01-human-error-led-to-this-happening-450030/)
+- [Want a job in tech? You need these skills, McKinsey study shows](https://www.zdnet.com/article/want-a-job-in-tech-you-need-these-skills-mckinsey-study-shows/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
