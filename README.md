@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Nvidia’s Hope to Revive Foothold in China Takes A Hit As Beijing Alleges H20 AI Chips Are Compromised](https://www.tekedia.com/nvidias-hope-to-revive-foothold-in-china-takes-a-hit-as-beijing-alleges-h20-ai-chips-are-compromised/)
-- [Universal Beteiligungs und Servicegesellschaft mbH Invests $1.41 Million in SentinelOne, Inc. (NYSE:S)](https://www.dailypolitical.com/2025/08/01/universal-beteiligungs-und-servicegesellschaft-mbh-invests-1-41-million-in-sentinelone-inc-nyses.html)
-- [Universal Beteiligungs und Servicegesellschaft mbH Buys New Holdings in SentinelOne, Inc. (NYSE:S)](https://www.tickerreport.com/banking-finance/13080754/universal-beteiligungs-und-servicegesellschaft-mbh-buys-new-holdings-in-sentinelone-inc-nyses.html)
-- [“Human error led to this happening”](https://nyr.ruv.is/english/2025-08-01-human-error-led-to-this-happening-450030/)
-- [Want a job in tech? You need these skills, McKinsey study shows](https://www.zdnet.com/article/want-a-job-in-tech-you-need-these-skills-mckinsey-study-shows/)
+- [‘Real Time With Bill Maher’ Returns With Coldplay Jokes, AI Warnings, and a Trump Roast: “Triage Your Outrage”](https://decider.com/2025/08/02/real-time-with-bill-maher-returns-coldplay-jokes-ai-trump/)
+- [Agrify Corporation (AGFY) Raises $25.9M to Fuel THC Beverage Expansion](https://www.insidermonkey.com/blog/agrify-corporation-agfy-raises-25-9m-to-fuel-thc-beverage-expansion-1582295/)
+- [Bayern Munich unveil special kit for the Champions League, see photos 📸](https://onefootball.com/en/news/bayern-munich-unveil-special-kit-for-the-champions-league-see-photos-41458676)
+- [Urban-Gro, Inc. (UGRO) Lands $24M Cannabis Facility Contract Amid Growth Surge](https://www.insidermonkey.com/blog/urban-gro-inc-ugro-lands-24m-cannabis-facility-contract-amid-growth-surge-1582297/)
+- [Malaga Cove Capital LLC Acquires 4,656 Shares of Digital Realty Trust, Inc. (NYSE:DLR)](https://www.themarketsdaily.com/2025/08/02/malaga-cove-capital-llc-acquires-4656-shares-of-digital-realty-trust-inc-nysedlr.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
