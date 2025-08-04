@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [‘Real Time With Bill Maher’ Returns With Coldplay Jokes, AI Warnings, and a Trump Roast: “Triage Your Outrage”](https://decider.com/2025/08/02/real-time-with-bill-maher-returns-coldplay-jokes-ai-trump/)
-- [Agrify Corporation (AGFY) Raises $25.9M to Fuel THC Beverage Expansion](https://www.insidermonkey.com/blog/agrify-corporation-agfy-raises-25-9m-to-fuel-thc-beverage-expansion-1582295/)
-- [Bayern Munich unveil special kit for the Champions League, see photos 📸](https://onefootball.com/en/news/bayern-munich-unveil-special-kit-for-the-champions-league-see-photos-41458676)
-- [Urban-Gro, Inc. (UGRO) Lands $24M Cannabis Facility Contract Amid Growth Surge](https://www.insidermonkey.com/blog/urban-gro-inc-ugro-lands-24m-cannabis-facility-contract-amid-growth-surge-1582297/)
-- [Malaga Cove Capital LLC Acquires 4,656 Shares of Digital Realty Trust, Inc. (NYSE:DLR)](https://www.themarketsdaily.com/2025/08/02/malaga-cove-capital-llc-acquires-4656-shares-of-digital-realty-trust-inc-nysedlr.html)
+- [Training centre inaugurated in Davangere to coach aspirants for competitive exams](https://www.thehindu.com/news/national/karnataka/training-centre-inaugurated-in-davangere-to-coach-aspirants-for-competitive-exams/article69889979.ece)
+- [Beta Wealth Group Inc. Raises Position in ServiceNow, Inc. (NYSE:NOW)](https://www.themarketsdaily.com/2025/08/03/beta-wealth-group-inc-raises-position-in-servicenow-inc-nysenow.html)
+- [🚨Forza, captain: Franco Baresi undergoes surgery for lung nodule](https://onefootball.com/en/news/forza-captain-franco-baresi-undergoes-surgery-for-lung-nodule-41462141)
+- [AI may help solve reading disabilities, close achievement gaps](https://www.gazettextra.com/apgstate/ai-may-help-solve-reading-disabilities-close-achievement-gaps/article_b53773c7-e053-530e-8f61-3bd2e4f22e18.html)
+- [Federated Hermes Inc. Has $8.12 Million Stake in Monolithic Power Systems, Inc. (NASDAQ:MPWR)](https://www.themarketsdaily.com/2025/08/03/federated-hermes-inc-has-8-12-million-stake-in-monolithic-power-systems-inc-nasdaqmpwr.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
