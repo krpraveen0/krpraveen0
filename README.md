@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Training centre inaugurated in Davangere to coach aspirants for competitive exams](https://www.thehindu.com/news/national/karnataka/training-centre-inaugurated-in-davangere-to-coach-aspirants-for-competitive-exams/article69889979.ece)
-- [Beta Wealth Group Inc. Raises Position in ServiceNow, Inc. (NYSE:NOW)](https://www.themarketsdaily.com/2025/08/03/beta-wealth-group-inc-raises-position-in-servicenow-inc-nysenow.html)
-- [🚨Forza, captain: Franco Baresi undergoes surgery for lung nodule](https://onefootball.com/en/news/forza-captain-franco-baresi-undergoes-surgery-for-lung-nodule-41462141)
-- [AI may help solve reading disabilities, close achievement gaps](https://www.gazettextra.com/apgstate/ai-may-help-solve-reading-disabilities-close-achievement-gaps/article_b53773c7-e053-530e-8f61-3bd2e4f22e18.html)
-- [Federated Hermes Inc. Has $8.12 Million Stake in Monolithic Power Systems, Inc. (NASDAQ:MPWR)](https://www.themarketsdaily.com/2025/08/03/federated-hermes-inc-has-8-12-million-stake-in-monolithic-power-systems-inc-nasdaqmpwr.html)
+- [Grid8 Launches Free Interconnection Dashboard to Unlock Faster, Smarter Grid Access for Data Centers and Renewable Developers](https://www.prnewswire.com/news-releases/grid8-launches-free-interconnection-dashboard-to-unlock-faster-smarter-grid-access-for-data-centers-and-renewable-developers-302520754.html)
+- [Dear Nvidia Stock Fans, Mark Your Calendars for August 27](https://www.barchart.com/story/news/33858367/dear-nvidia-stock-fans-mark-your-calendars-for-august-27)
+- [Building AI Products That Work on Low-Resource Devices Without Compromising Functionality](https://cxotoday.com/specials/building-ai-products-that-work-on-low-resource-devices-without-compromising-functionality/)
+- [Turkey revives the sea-skimming Ekranoplan as a smart drone](https://interestingengineering.com/front-lines/turkey-ekranoplan-sea-skimming-drone)
+- [Delta Air Lines Promises Not to Use AI to Hike Fares—Is That Enough for Regulators?](https://www.ibtimes.co.uk/delta-air-lines-promises-not-use-ai-hike-fares-that-enough-regulators-1740107)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
