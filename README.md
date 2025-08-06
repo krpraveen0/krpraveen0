@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Grid8 Launches Free Interconnection Dashboard to Unlock Faster, Smarter Grid Access for Data Centers and Renewable Developers](https://www.prnewswire.com/news-releases/grid8-launches-free-interconnection-dashboard-to-unlock-faster-smarter-grid-access-for-data-centers-and-renewable-developers-302520754.html)
-- [Dear Nvidia Stock Fans, Mark Your Calendars for August 27](https://www.barchart.com/story/news/33858367/dear-nvidia-stock-fans-mark-your-calendars-for-august-27)
-- [Building AI Products That Work on Low-Resource Devices Without Compromising Functionality](https://cxotoday.com/specials/building-ai-products-that-work-on-low-resource-devices-without-compromising-functionality/)
-- [Turkey revives the sea-skimming Ekranoplan as a smart drone](https://interestingengineering.com/front-lines/turkey-ekranoplan-sea-skimming-drone)
-- [Delta Air Lines Promises Not to Use AI to Hike Fares—Is That Enough for Regulators?](https://www.ibtimes.co.uk/delta-air-lines-promises-not-use-ai-hike-fares-that-enough-regulators-1740107)
+- [US adds OpenAI, Google, and Anthropic to list of approved AI vendors for federal agencies](https://techcrunch.com/2025/08/05/us-adds-openai-google-and-anthropic-to-list-of-approved-ai-vendors-for-federal-agencies/)
+- [Software Development Veteran Eran Sher Takes Role as Tricentis Chief Product Officer](https://www.executivebiz.com/articles/eran-sher-tricentis-chief-product-officer)
+- [AI startup by Columbia graduates raises US$7 million to target midsize law firms](https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/08/05/ai-startup-by-columbia-graduates-raises-us7-million-to-target-midsize-law-firms/)
+- [Kuke Music Holding Limited Announces NYSE Compliance Restoration](https://www.manilatimes.net/2025/08/05/tmt-newswire/globenewswire/kuke-music-holding-limited-announces-nyse-compliance-restoration/2162531)
+- [Compliant Expands Strategic Partnership Ecosystem as AI-Driven Media Buying Accelerates](https://www.manilatimes.net/2025/08/05/tmt-newswire/globenewswire/compliant-expands-strategic-partnership-ecosystem-as-ai-driven-media-buying-accelerates/2162525)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
