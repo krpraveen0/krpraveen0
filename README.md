@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [US adds OpenAI, Google, and Anthropic to list of approved AI vendors for federal agencies](https://techcrunch.com/2025/08/05/us-adds-openai-google-and-anthropic-to-list-of-approved-ai-vendors-for-federal-agencies/)
-- [Software Development Veteran Eran Sher Takes Role as Tricentis Chief Product Officer](https://www.executivebiz.com/articles/eran-sher-tricentis-chief-product-officer)
-- [AI startup by Columbia graduates raises US$7 million to target midsize law firms](https://www.bnnbloomberg.ca/business/artificial-intelligence/2025/08/05/ai-startup-by-columbia-graduates-raises-us7-million-to-target-midsize-law-firms/)
-- [Kuke Music Holding Limited Announces NYSE Compliance Restoration](https://www.manilatimes.net/2025/08/05/tmt-newswire/globenewswire/kuke-music-holding-limited-announces-nyse-compliance-restoration/2162531)
-- [Compliant Expands Strategic Partnership Ecosystem as AI-Driven Media Buying Accelerates](https://www.manilatimes.net/2025/08/05/tmt-newswire/globenewswire/compliant-expands-strategic-partnership-ecosystem-as-ai-driven-media-buying-accelerates/2162525)
+- [Top internet providers in Portland, OR: Compare plans and prices](https://www.usatoday.com/story/tech/internet/2025/08/06/best-cheap-internet-providers-in-portland-or/85514734007/)
+- [Gov. Jared Polis calls Colorado lawmakers back for special session to deal with budget fallout from tax bill](https://www.fortmorgantimes.com/2025/08/06/colorado-special-session-trump-tax-bill/)
+- [Gov. Jared Polis calls lawmakers back for special session to deal with budget fallout from tax bill](https://www.denverpost.com/2025/08/06/colorado-special-session-trump-tax-bill/)
+- [Deepmind’s genie 3 unveils dystopian path to AI domination, cloaked in interactive virtual playgrounds](https://easternherald.com/2025/08/06/google-deepmind-genie-3-ai-3d-worlds/)
+- [BigID Powers AI Data Readiness with New Cleansing Capabilities for Sensitive and Regulated Data](https://www.prnewswire.com/news-releases/bigid-powers-ai-data-readiness-with-new-cleansing-capabilities-for-sensitive-and-regulated-data-302523223.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
