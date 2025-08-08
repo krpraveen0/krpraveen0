@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Top internet providers in Portland, OR: Compare plans and prices](https://www.usatoday.com/story/tech/internet/2025/08/06/best-cheap-internet-providers-in-portland-or/85514734007/)
-- [Gov. Jared Polis calls Colorado lawmakers back for special session to deal with budget fallout from tax bill](https://www.fortmorgantimes.com/2025/08/06/colorado-special-session-trump-tax-bill/)
-- [Gov. Jared Polis calls lawmakers back for special session to deal with budget fallout from tax bill](https://www.denverpost.com/2025/08/06/colorado-special-session-trump-tax-bill/)
-- [Deepmind’s genie 3 unveils dystopian path to AI domination, cloaked in interactive virtual playgrounds](https://easternherald.com/2025/08/06/google-deepmind-genie-3-ai-3d-worlds/)
-- [BigID Powers AI Data Readiness with New Cleansing Capabilities for Sensitive and Regulated Data](https://www.prnewswire.com/news-releases/bigid-powers-ai-data-readiness-with-new-cleansing-capabilities-for-sensitive-and-regulated-data-302523223.html)
+- [Study says ChatGPT gave alarming advice on alcohol, drugs to researchers posing as teens](https://www.cbsnews.com/video/study-says-chatgpt-gave-alarming-advice-on-alcohol-drugs-to-researchers-posing-as-teens/)
+- [Anticoagulant Market Booming with Rapid Growth by 2032 Featuring Pfizer Inc., Sanofi SA, and Dr. Reddy's Laboratories](https://www.openpr.com/news/4137388/anticoagulant-market-booming-with-rapid-growth-by-2032)
+- [ChatGPT Is Giving Teens Advice on Hiding Their Eating Disorders](https://futurism.com/chatgpt-teens-advice-eating-disorders)
+- [Will AI Make Students and Teachers Smarter—or Dumber?](https://cxotoday.com/news-analysis/will-ai-make-students-and-teachers-smarter-or-dumber/)
+- [Sesame alcanza los 15.000 clientes en su plataforma global de gestión de Recursos Humanos](https://www.eldebate.com/espana/comunidad-valenciana/20250807/sesame-alcanza-15000-clientes-plataforma-global-gestion-recursos-humanos_324140.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
