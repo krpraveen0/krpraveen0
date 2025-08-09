@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Study says ChatGPT gave alarming advice on alcohol, drugs to researchers posing as teens](https://www.cbsnews.com/video/study-says-chatgpt-gave-alarming-advice-on-alcohol-drugs-to-researchers-posing-as-teens/)
-- [Anticoagulant Market Booming with Rapid Growth by 2032 Featuring Pfizer Inc., Sanofi SA, and Dr. Reddy's Laboratories](https://www.openpr.com/news/4137388/anticoagulant-market-booming-with-rapid-growth-by-2032)
-- [ChatGPT Is Giving Teens Advice on Hiding Their Eating Disorders](https://futurism.com/chatgpt-teens-advice-eating-disorders)
-- [Will AI Make Students and Teachers Smarter—or Dumber?](https://cxotoday.com/news-analysis/will-ai-make-students-and-teachers-smarter-or-dumber/)
-- [Sesame alcanza los 15.000 clientes en su plataforma global de gestión de Recursos Humanos](https://www.eldebate.com/espana/comunidad-valenciana/20250807/sesame-alcanza-15000-clientes-plataforma-global-gestion-recursos-humanos_324140.html)
+- [Summer’s best meteor shower peaks soon. But the moon will interfere with viewing the Perseids](https://www.courant.com/2025/08/08/perseid-meteor-shower-peaks-soon/)
+- [IAMAI Bats For DPDP Act’s Exemption For AI Training, Cites US and China Models](https://www.medianama.com/2025/08/223-iamai-dpdp-act-exemption-ai-training/)
+- [OpenAI’s Altman sees strong enterprise adoption of GPT-5](https://ca.finance.yahoo.com/news/openai-altman-sees-strong-enterprise-132210221.html)
+- [Intel CEO targeted by Trump has been in power struggle with tech company’s board for months: report](https://nypost.com/2025/08/08/business/lip-bu-tan-intel-ceo-targeted-by-trump-has-been-in-dispute-with-companys-board-for-months-report/)
+- [Sam Altman Rewards OpenAI Talent with Surprise Bonuses After Meta Poaches Top AI Engineers](https://www.thehansindia.com/technology/tech-news/sam-altman-rewards-openai-talent-with-surprise-bonuses-after-meta-poaches-top-ai-engineers-995120)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
