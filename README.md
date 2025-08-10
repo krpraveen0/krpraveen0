@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Summer’s best meteor shower peaks soon. But the moon will interfere with viewing the Perseids](https://www.courant.com/2025/08/08/perseid-meteor-shower-peaks-soon/)
-- [IAMAI Bats For DPDP Act’s Exemption For AI Training, Cites US and China Models](https://www.medianama.com/2025/08/223-iamai-dpdp-act-exemption-ai-training/)
-- [OpenAI’s Altman sees strong enterprise adoption of GPT-5](https://ca.finance.yahoo.com/news/openai-altman-sees-strong-enterprise-132210221.html)
-- [Intel CEO targeted by Trump has been in power struggle with tech company’s board for months: report](https://nypost.com/2025/08/08/business/lip-bu-tan-intel-ceo-targeted-by-trump-has-been-in-dispute-with-companys-board-for-months-report/)
-- [Sam Altman Rewards OpenAI Talent with Surprise Bonuses After Meta Poaches Top AI Engineers](https://www.thehansindia.com/technology/tech-news/sam-altman-rewards-openai-talent-with-surprise-bonuses-after-meta-poaches-top-ai-engineers-995120)
+- [Your junk could be Gen Z’s treasure. How to profit from the resurgence of Y2K fashion](https://www.reporterherald.com/2025/08/09/fashion-y2k-resurgence/)
+- [Your junk could be Gen Z’s treasure. How to profit from the resurgence of Y2K fashion](https://www.mcall.com/2025/08/09/fashion-y2k-resurgence/)
+- [Your junk could be Gen Z’s treasure. How to profit from the resurgence of Y2K fashion](https://www.sun-sentinel.com/2025/08/09/fashion-y2k-resurgence/)
+- [Your junk could be Gen Z’s treasure. How to profit from the resurgence of Y2K fashion](https://www.times-standard.com/2025/08/09/fashion-y2k-resurgence/)
+- [Your junk could be Gen Z’s treasure. How to profit from the resurgence of Y2K fashion](https://www.orovillemr.com/2025/08/09/fashion-y2k-resurgence/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
