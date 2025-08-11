@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Your junk could be Gen Z’s treasure. How to profit from the resurgence of Y2K fashion](https://www.reporterherald.com/2025/08/09/fashion-y2k-resurgence/)
-- [Your junk could be Gen Z’s treasure. How to profit from the resurgence of Y2K fashion](https://www.mcall.com/2025/08/09/fashion-y2k-resurgence/)
-- [Your junk could be Gen Z’s treasure. How to profit from the resurgence of Y2K fashion](https://www.sun-sentinel.com/2025/08/09/fashion-y2k-resurgence/)
-- [Your junk could be Gen Z’s treasure. How to profit from the resurgence of Y2K fashion](https://www.times-standard.com/2025/08/09/fashion-y2k-resurgence/)
-- [Your junk could be Gen Z’s treasure. How to profit from the resurgence of Y2K fashion](https://www.orovillemr.com/2025/08/09/fashion-y2k-resurgence/)
+- [Essential Services, Essential Returns: Which Defensive Stock Comes Out on Top?](https://www.fool.ca/2025/08/10/essential-services-essential-returns-which-defensive-stock-comes-out-on-top/)
+- [‘Baywatch’ Star Donna D’Errico Says Playboy Turned Her Down After 30th Anniversary Pitch](https://decider.com/2025/08/10/baywatch-star-donna-derrico-playboy-30th-anniversary/)
+- [Students have been called to the office — and even arrested — for AI surveillance false alarms](https://www.santafenewmexican.com/ap/business/students-have-been-called-to-the-office-and-even-arrested-for-ai-surveillance-false-alarms/article_77ecd566-1fd3-5342-9972-8836d190c0cc.html)
+- [India rapidly moving towards becoming one of the top three economies in the world, says PM Modi](https://www.livemint.com/news/india-rapidly-moving-towards-becoming-one-of-the-top-three-economies-in-the-world-says-pm-modi-11754824174791.html)
+- [Roblox rolls out open-source AI system to protect kids from predators in chats](https://www.niagara-gazette.com/news/roblox-rolls-out-open-source-ai-system-to-protect-kids-from-predators-in-chats/article_4ba23234-152c-4dfd-b532-5f51d702a3c3.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
