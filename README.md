@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Essential Services, Essential Returns: Which Defensive Stock Comes Out on Top?](https://www.fool.ca/2025/08/10/essential-services-essential-returns-which-defensive-stock-comes-out-on-top/)
-- [‘Baywatch’ Star Donna D’Errico Says Playboy Turned Her Down After 30th Anniversary Pitch](https://decider.com/2025/08/10/baywatch-star-donna-derrico-playboy-30th-anniversary/)
-- [Students have been called to the office — and even arrested — for AI surveillance false alarms](https://www.santafenewmexican.com/ap/business/students-have-been-called-to-the-office-and-even-arrested-for-ai-surveillance-false-alarms/article_77ecd566-1fd3-5342-9972-8836d190c0cc.html)
-- [India rapidly moving towards becoming one of the top three economies in the world, says PM Modi](https://www.livemint.com/news/india-rapidly-moving-towards-becoming-one-of-the-top-three-economies-in-the-world-says-pm-modi-11754824174791.html)
-- [Roblox rolls out open-source AI system to protect kids from predators in chats](https://www.niagara-gazette.com/news/roblox-rolls-out-open-source-ai-system-to-protect-kids-from-predators-in-chats/article_4ba23234-152c-4dfd-b532-5f51d702a3c3.html)
+- [📸 Napoli unveil third kit: Cafè, blending elegance with tradition](https://ca.sports.yahoo.com/news/napoli-unveil-third-kit-caf-132100817.html)
+- [Vertical Crossbelt Sorter Market CAGR 9.20% Overview by BEUMER Group, Siemens, Toyota Advanced Logistics, Bastian Solutions, Vanderlande, Fives Intralogistics, Honeywell Intelligrated, Daifuku, KENGIC Intelligent Equipment](https://www.openpr.com/news/4140368/vertical-crossbelt-sorter-market-cagr-9-20-overview-by-beumer)
+- [How to humanize AI content and make it sound like a real person in 2025](https://cyprus-mail.com/2025/08/11/how-to-humanize-ai-content-and-make-it-sound-like-a-real-person-in-2025)
+- [Chip giants Nvidia, AMD to pay US government 15 percent of Chinese revenue](https://biztoc.com/x/d59928a977ead62e)
+- [El nuevo Siri controlará todo el iPhone con la voz: desde editar fotos hasta comentar en redes sociales](https://elcomercio.pe/tecnologia/moviles/apple-intelligence-el-nuevo-siri-controlara-todo-el-iphone-con-la-voz-desde-editar-fotos-hasta-comentar-en-redes-sociales-ia-inteligencia-artificial-celulares-moviles-smartphone-noticia/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
