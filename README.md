@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [📸 Napoli unveil third kit: Cafè, blending elegance with tradition](https://ca.sports.yahoo.com/news/napoli-unveil-third-kit-caf-132100817.html)
-- [Vertical Crossbelt Sorter Market CAGR 9.20% Overview by BEUMER Group, Siemens, Toyota Advanced Logistics, Bastian Solutions, Vanderlande, Fives Intralogistics, Honeywell Intelligrated, Daifuku, KENGIC Intelligent Equipment](https://www.openpr.com/news/4140368/vertical-crossbelt-sorter-market-cagr-9-20-overview-by-beumer)
-- [How to humanize AI content and make it sound like a real person in 2025](https://cyprus-mail.com/2025/08/11/how-to-humanize-ai-content-and-make-it-sound-like-a-real-person-in-2025)
-- [Chip giants Nvidia, AMD to pay US government 15 percent of Chinese revenue](https://biztoc.com/x/d59928a977ead62e)
-- [El nuevo Siri controlará todo el iPhone con la voz: desde editar fotos hasta comentar en redes sociales](https://elcomercio.pe/tecnologia/moviles/apple-intelligence-el-nuevo-siri-controlara-todo-el-iphone-con-la-voz-desde-editar-fotos-hasta-comentar-en-redes-sociales-ia-inteligencia-artificial-celulares-moviles-smartphone-noticia/)
+- [Icelandair Monitors Routes Amid Climate Change Concerns](https://www.icelandreview.com/news/icelandair-monitors-routes-amid-climate-change-concerns/)
+- [Elon Musk accuses Apple of unfairly favouring OpenAI on iPhone](https://www.irishexaminer.com/business/technology/arid-41686140.html)
+- [CBF draw sets up Copa do Brasil quarter-finals, follow live](https://ca.sports.yahoo.com/news/cbf-draw-copa-brasil-quarter-130400407.html)
+- [Crypto Venture Capital Trends In Q2 2025: Mining Firms Lead The Way](https://www.benzinga.com/crypto/cryptocurrency/25/08/47058615/crypto-venture-capital-trends-in-q2-2025-mining-firms-lead-the-way)
+- [Elon Musk claims Apple unfairly favors ChatGPT app, threatens legal action](https://www.cultofmac.com/news/elon-musk-apple-chatgpt)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
