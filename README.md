@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Icelandair Monitors Routes Amid Climate Change Concerns](https://www.icelandreview.com/news/icelandair-monitors-routes-amid-climate-change-concerns/)
-- [Elon Musk accuses Apple of unfairly favouring OpenAI on iPhone](https://www.irishexaminer.com/business/technology/arid-41686140.html)
-- [CBF draw sets up Copa do Brasil quarter-finals, follow live](https://ca.sports.yahoo.com/news/cbf-draw-copa-brasil-quarter-130400407.html)
-- [Crypto Venture Capital Trends In Q2 2025: Mining Firms Lead The Way](https://www.benzinga.com/crypto/cryptocurrency/25/08/47058615/crypto-venture-capital-trends-in-q2-2025-mining-firms-lead-the-way)
-- [Elon Musk claims Apple unfairly favors ChatGPT app, threatens legal action](https://www.cultofmac.com/news/elon-musk-apple-chatgpt)
+- [Super Micro Computer (NASDAQ: SMCI) Stock Price Prediction and Forecast (Aug 2025)](https://biztoc.com/x/dee65980592c61b8)
+- [Worrying truth behind 'video of whale trainer Jessica Radcliffe being attacked by orca'](https://www.dailystar.co.uk/news/weird-news/worrying-truth-behind-video-whale-35724284)
+- [A year after Altman said superintelligence was imminent, GPT-5 is all we get?](https://www.zdnet.com/article/a-year-after-altman-said-superintelligence-was-imminent-gpt-5-is-all-we-get/)
+- [Guest column: A conservative Gid+ strategy for the AI](https://www.inforum.com/opinion/letters/guest-column-a-conservative-gid-strategy-for-the-ai)
+- [Patch the vulnerability: Confirm Sean Plankey as CISA director](https://cyberscoop.com/sean-plankey-cisa-confirmation-op-ed/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
