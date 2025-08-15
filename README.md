@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Super Micro Computer (NASDAQ: SMCI) Stock Price Prediction and Forecast (Aug 2025)](https://biztoc.com/x/dee65980592c61b8)
-- [Worrying truth behind 'video of whale trainer Jessica Radcliffe being attacked by orca'](https://www.dailystar.co.uk/news/weird-news/worrying-truth-behind-video-whale-35724284)
-- [A year after Altman said superintelligence was imminent, GPT-5 is all we get?](https://www.zdnet.com/article/a-year-after-altman-said-superintelligence-was-imminent-gpt-5-is-all-we-get/)
-- [Guest column: A conservative Gid+ strategy for the AI](https://www.inforum.com/opinion/letters/guest-column-a-conservative-gid-strategy-for-the-ai)
-- [Patch the vulnerability: Confirm Sean Plankey as CISA director](https://cyberscoop.com/sean-plankey-cisa-confirmation-op-ed/)
+- [Oligonucleotides: The Tiny Molecules, Reshaping Modern Medicine](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/oligonucleotides-the-tiny-molecules-reshaping-modern-medicine/articleshow/123306426.cms)
+- [Could Poor AI Literacy Cause Bad Personal Decisions?](https://www.forbes.com/sites/marshallshepherd/2025/08/14/could-poor-ai-literacy-cause-bad-personal-decisions/)
+- [MinIO Launches MinIO Academy as AI Adoption Drives Demand for Object Storage Expertise | AAP](https://aap.com.au/aapreleases/cision20250814ae51292/)
+- [Treasure Global Receives AUD 300,000 GPU Purchase Order from I Synergy Under Existing SPA](https://www.benzinga.com/pressreleases/25/08/g47122057/treasure-global-receives-aud-300-000-gpu-purchase-order-from-i-synergy-under-existing-spa)
+- [Back-to-school shopping becomes a summer activity as families juggle technology and tariffs](https://starexponent.com/news/nation-world/business/personal-finance/article_04e62633-2c80-5d31-a49b-73124ab24cb0.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
