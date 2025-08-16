@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Oligonucleotides: The Tiny Molecules, Reshaping Modern Medicine](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/oligonucleotides-the-tiny-molecules-reshaping-modern-medicine/articleshow/123306426.cms)
-- [Could Poor AI Literacy Cause Bad Personal Decisions?](https://www.forbes.com/sites/marshallshepherd/2025/08/14/could-poor-ai-literacy-cause-bad-personal-decisions/)
-- [MinIO Launches MinIO Academy as AI Adoption Drives Demand for Object Storage Expertise | AAP](https://aap.com.au/aapreleases/cision20250814ae51292/)
-- [Treasure Global Receives AUD 300,000 GPU Purchase Order from I Synergy Under Existing SPA](https://www.benzinga.com/pressreleases/25/08/g47122057/treasure-global-receives-aud-300-000-gpu-purchase-order-from-i-synergy-under-existing-spa)
-- [Back-to-school shopping becomes a summer activity as families juggle technology and tariffs](https://starexponent.com/news/nation-world/business/personal-finance/article_04e62633-2c80-5d31-a49b-73124ab24cb0.html)
+- [Evolv Technologies Tops Q2 Estimates](https://www.fool.com/data-news/2025/08/15/evlv-reports-earnings/)
+- [Nadeen Ayoub to represent Palestine at Miss Universe for the first time](https://www.arabnews.pk/node/2611928/lifestyle)
+- [Jet.AI Reports Second Quarter 2025 Financial Results](https://www.manilatimes.net/2025/08/15/tmt-newswire/globenewswire/jetai-reports-second-quarter-2025-financial-results/2168671)
+- [Currenc Group Inc. Announces CEO Transition](https://www.eagletribune.com/region/currenc-group-inc-announces-ceo-transition/article_7fdeda2e-bbd8-59b0-af7c-0b9930dcabf0.html)
+- [Currenc Group Inc. Announces CEO Transition](https://www.benzinga.com/pressreleases/25/08/g47153700/currenc-group-inc-announces-ceo-transition)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
