@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Evolv Technologies Tops Q2 Estimates](https://www.fool.com/data-news/2025/08/15/evlv-reports-earnings/)
-- [Nadeen Ayoub to represent Palestine at Miss Universe for the first time](https://www.arabnews.pk/node/2611928/lifestyle)
-- [Jet.AI Reports Second Quarter 2025 Financial Results](https://www.manilatimes.net/2025/08/15/tmt-newswire/globenewswire/jetai-reports-second-quarter-2025-financial-results/2168671)
-- [Currenc Group Inc. Announces CEO Transition](https://www.eagletribune.com/region/currenc-group-inc-announces-ceo-transition/article_7fdeda2e-bbd8-59b0-af7c-0b9930dcabf0.html)
-- [Currenc Group Inc. Announces CEO Transition](https://www.benzinga.com/pressreleases/25/08/g47153700/currenc-group-inc-announces-ceo-transition)
+- [Russell Investments Group Ltd. Buys 23,245 Shares of Booz Allen Hamilton Holding Corporation (NYSE:BAH)](https://www.thelincolnianonline.com/2025/08/16/russell-investments-group-ltd-buys-23245-shares-of-booz-allen-hamilton-holding-corporation-nysebah.html)
+- [Monolithic Power Systems, Inc. (NASDAQ:MPWR) Position Boosted by Liontrust Investment Partners LLP](https://www.thelincolnianonline.com/2025/08/16/monolithic-power-systems-inc-nasdaqmpwr-position-boosted-by-liontrust-investment-partners-llp.html)
+- [Stem Cells Market to Reach USD 5,380.3 million by 2032, Growing at a CAGR of 11.66% says Credence Research](https://www.openpr.com/news/4146735/stem-cells-market-to-reach-usd-5-380-3-million-by-2032-growing)
+- [Diabetes Management: Foot Care Tips and Smart Devices to Keep You Moving](https://www.timesnownews.com/health/diabetes-management-foot-care-tips-and-smart-devices-to-keep-you-moving-article-152474028)
+- [🧨Atalanta and Juve, unfinished business and star names](https://ca.sports.yahoo.com/news/atalanta-juve-unfinished-business-star-132900293.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
