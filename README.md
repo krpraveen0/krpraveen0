@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Northwest & Ethical Investments L.P. Buys 4,696 Shares of ServiceNow, Inc. (NYSE:NOW)](https://baseballnewssource.com/2025/08/17/northwest-ethical-investments-l-p-buys-4696-shares-of-servicenow-inc-nysenow/10789508.html)
-- [I&M Bank pledges stronger partnerships to drive innovation in education](https://www.newtimes.co.rw/article/28964/news/education/im-bank-pledges-stronger-partnerships-to-drive-innovation-in-education)
-- [France legend gets off the mark in Ligue 1 already 😍](https://onefootball.com/en/news/france-legend-gets-off-the-mark-in-ligue-1-already-41524573)
-- [Kerala’s farm sector on a growth path, says Chief Minister](https://www.thehindu.com/news/national/kerala/keralas-farm-sector-on-a-growth-path-says-chief-minister/article69943699.ece)
-- [NDR 2025: Building a ‘we first’ society will strengthen the Singapore spirit for generations to come, says PM Wong](https://www.channelnewsasia.com/singapore/ndr-lawrence-wong-society-collective-action-singapore-spirit-5298826)
+- [Jinshuo Zhang Contributes to a Smarter Maintenance System for Railway Tunnel Equipment](https://www.manilatimes.net/2025/08/18/tmt-newswire/plentisoft/jinshuo-zhang-contributes-to-a-smarter-maintenance-system-for-railway-tunnel-equipment/2169612)
+- [Johns Hopkins Health System selects Talkdesk for contact center enhancement](https://www.benzinga.com/pressreleases/25/08/g47184297/johns-hopkins-health-system-selects-talkdesk-for-contact-center-enhancement)
+- [Best Crypto Presales: AurealOne and Bitcoin Hyper Eye 100× Growth; while Bitcoin Hits $124K Before Sharp Pullback as Volatility Returns to the Market!!](https://www.analyticsinsight.net/cryptocurrency-analytics-insight/best-crypto-presales-aurealone-and-bitcoin-hyper-eye-100-growth-while-bitcoin-hits-124k-before-sharp-pullback-as-volatility-returns-to-the-market)
+- [Odyssey Math Tuition Launches Free Guide: Empowering Singapore Parents with Balanced Insights on Education from Primary School to Secondary School to Junior College in Singapore](https://www.manilatimes.net/2025/08/18/tmt-newswire/plentisoft/odyssey-math-tuition-launches-free-guide-empowering-singapore-parents-with-balanced-insights-on-education-from-primary-school-to-secondary-school-to-junior-college-in-singapore/2169610)
+- [What Is One of the Best Quantum Computing Stocks to Buy Now?](https://www.fool.com/investing/2025/08/18/best-quantum-computing-stocks-buy--googl/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
