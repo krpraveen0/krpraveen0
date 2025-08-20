@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Jinshuo Zhang Contributes to a Smarter Maintenance System for Railway Tunnel Equipment](https://www.manilatimes.net/2025/08/18/tmt-newswire/plentisoft/jinshuo-zhang-contributes-to-a-smarter-maintenance-system-for-railway-tunnel-equipment/2169612)
-- [Johns Hopkins Health System selects Talkdesk for contact center enhancement](https://www.benzinga.com/pressreleases/25/08/g47184297/johns-hopkins-health-system-selects-talkdesk-for-contact-center-enhancement)
-- [Best Crypto Presales: AurealOne and Bitcoin Hyper Eye 100× Growth; while Bitcoin Hits $124K Before Sharp Pullback as Volatility Returns to the Market!!](https://www.analyticsinsight.net/cryptocurrency-analytics-insight/best-crypto-presales-aurealone-and-bitcoin-hyper-eye-100-growth-while-bitcoin-hits-124k-before-sharp-pullback-as-volatility-returns-to-the-market)
-- [Odyssey Math Tuition Launches Free Guide: Empowering Singapore Parents with Balanced Insights on Education from Primary School to Secondary School to Junior College in Singapore](https://www.manilatimes.net/2025/08/18/tmt-newswire/plentisoft/odyssey-math-tuition-launches-free-guide-empowering-singapore-parents-with-balanced-insights-on-education-from-primary-school-to-secondary-school-to-junior-college-in-singapore/2169610)
-- [What Is One of the Best Quantum Computing Stocks to Buy Now?](https://www.fool.com/investing/2025/08/18/best-quantum-computing-stocks-buy--googl/)
+- [Worried AI will replace you? These startups say the opposite](https://biztoc.com/x/56217cdbe8287bdb)
+- [Tasik Kenyir sebagai hab AI perlukan analisis kos faedah - Tengku Zafrul](https://thesun.my/cerita/berita/tasik-kenyir-sebagai-hab-ai-perlukan-analisis-kos-faedah-tengku-zafrul-GA14720327)
+- [Integrated Circuits Market Expected to Achieve 4.8% CAGR by 2029: Growth Forecast Insights](https://www.openpr.com/news/4150405/integrated-circuits-market-expected-to-achieve-4-8-cagr)
+- [Global Outbound Golf Tourism Market Experiences Dynamic Growth as Luxury Travel Preferences Drive International Golf Destination Popularity](https://www.openpr.com/news/4150403/global-outbound-golf-tourism-market-experiences-dynamic-growth)
+- [Alibaba Releases Qwen-Image-Edit: 20B Open-Source Model For Advanced Image And Text Editing](https://mpost.io/alibaba-releases-qwen-image-edit-20b-open-source-model-for-advanced-image-and-text-editing/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
