@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Worried AI will replace you? These startups say the opposite](https://biztoc.com/x/56217cdbe8287bdb)
-- [Tasik Kenyir sebagai hab AI perlukan analisis kos faedah - Tengku Zafrul](https://thesun.my/cerita/berita/tasik-kenyir-sebagai-hab-ai-perlukan-analisis-kos-faedah-tengku-zafrul-GA14720327)
-- [Integrated Circuits Market Expected to Achieve 4.8% CAGR by 2029: Growth Forecast Insights](https://www.openpr.com/news/4150405/integrated-circuits-market-expected-to-achieve-4-8-cagr)
-- [Global Outbound Golf Tourism Market Experiences Dynamic Growth as Luxury Travel Preferences Drive International Golf Destination Popularity](https://www.openpr.com/news/4150403/global-outbound-golf-tourism-market-experiences-dynamic-growth)
-- [Alibaba Releases Qwen-Image-Edit: 20B Open-Source Model For Advanced Image And Text Editing](https://mpost.io/alibaba-releases-qwen-image-edit-20b-open-source-model-for-advanced-image-and-text-editing/)
+- [Astrónomos usan inteligencia artificial y logran descubrir un nuevo tipo de supernova](https://andina.pe/agencia/noticia-astronomos-usan-inteligencia-artificial-y-logran-descubrir-un-nuevo-tipo-supernova-1041535.aspx)
+- [BharatPe names finance and investments heads to bolster leadership](https://yourstory.com/2025/08/bharatpe-names-finance-and-investments-heads-bolster-leadership-c-rajesh-ashneer-grover)
+- [Ipsos announces Jean Laurent Poitou as Chief Executive Officer](https://www.socialsamosa.com/industry-updates/ipsos-jean-laurent-poitou-chief-executive-officer-9681011)
+- [Embedded Finance Market Expected To Reach $570.9 Billion By 2033 Share, Trends](https://menafn.com/1109954266/Embedded-Finance-Market-Expected-To-Reach-5709-Billion-By-2033-Share-Trends)
+- [Dr. Violet Zahedi Launches Xivius, A Global Venture And Investment Ecosystem](https://menafn.com/1109954265/Dr-Violet-Zahedi-Launches-Xivius-A-Global-Venture-And-Investment-Ecosystem)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
