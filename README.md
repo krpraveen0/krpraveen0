@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Astrónomos usan inteligencia artificial y logran descubrir un nuevo tipo de supernova](https://andina.pe/agencia/noticia-astronomos-usan-inteligencia-artificial-y-logran-descubrir-un-nuevo-tipo-supernova-1041535.aspx)
-- [BharatPe names finance and investments heads to bolster leadership](https://yourstory.com/2025/08/bharatpe-names-finance-and-investments-heads-bolster-leadership-c-rajesh-ashneer-grover)
-- [Ipsos announces Jean Laurent Poitou as Chief Executive Officer](https://www.socialsamosa.com/industry-updates/ipsos-jean-laurent-poitou-chief-executive-officer-9681011)
-- [Embedded Finance Market Expected To Reach $570.9 Billion By 2033 Share, Trends](https://menafn.com/1109954266/Embedded-Finance-Market-Expected-To-Reach-5709-Billion-By-2033-Share-Trends)
-- [Dr. Violet Zahedi Launches Xivius, A Global Venture And Investment Ecosystem](https://menafn.com/1109954265/Dr-Violet-Zahedi-Launches-Xivius-A-Global-Venture-And-Investment-Ecosystem)
+- [Dry Eye Syndrome Treatment Market in 2032: A Glimpse Into the Future of Innovation, Scale, and Global Impact |Allergan plc (Ireland), Novartis AG (Switzerland)](https://www.openpr.com/news/4154569/dry-eye-syndrome-treatment-market-in-2032-a-glimpse-into)
+- [Artificial Intelligence-as-a-Service (AIaaS) Market Report 2025-2034: Components, Functional Offerings, Applications and Industry Sectors](https://www.globenewswire.com/fr/news-release/2025/08/21/3137224/28124/en/Artificial-Intelligence-as-a-Service-AIaaS-Market-Report-2025-2034-Components-Functional-Offerings-Applications-and-Industry-Sectors.html)
+- [Kraken’s Capitalise.ai deal: game-changing no-code AI trading or just more hype in crypto’s AI race?](https://economictimes.indiatimes.com/news/international/us/krakens-capitalise-ai-deal-game-changing-no-code-ai-trading-or-just-more-hype-in-cryptos-ai-race/articleshow/123433913.cms)
+- [GE Aerospace Expands Defense And Semiconductor Partnerships With Kratos, Axcelis](https://www.benzinga.com/markets/large-cap/25/08/47258114/ge-aerospace-expands-defense-and-semiconductor-partnerships-with-kratos-axcelis)
+- [PM Modi, French President Macron hold phone call, discuss conflicts in Ukraine and West Asia](https://www.moneycontrol.com/news/india/pm-narendra-modi-french-president-macron-hold-talks-discuss-peaceful-resolution-of-conflicts-in-ukraine-west-asia-13477546.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
