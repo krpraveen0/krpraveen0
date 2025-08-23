@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Dry Eye Syndrome Treatment Market in 2032: A Glimpse Into the Future of Innovation, Scale, and Global Impact |Allergan plc (Ireland), Novartis AG (Switzerland)](https://www.openpr.com/news/4154569/dry-eye-syndrome-treatment-market-in-2032-a-glimpse-into)
-- [Artificial Intelligence-as-a-Service (AIaaS) Market Report 2025-2034: Components, Functional Offerings, Applications and Industry Sectors](https://www.globenewswire.com/fr/news-release/2025/08/21/3137224/28124/en/Artificial-Intelligence-as-a-Service-AIaaS-Market-Report-2025-2034-Components-Functional-Offerings-Applications-and-Industry-Sectors.html)
-- [Kraken’s Capitalise.ai deal: game-changing no-code AI trading or just more hype in crypto’s AI race?](https://economictimes.indiatimes.com/news/international/us/krakens-capitalise-ai-deal-game-changing-no-code-ai-trading-or-just-more-hype-in-cryptos-ai-race/articleshow/123433913.cms)
-- [GE Aerospace Expands Defense And Semiconductor Partnerships With Kratos, Axcelis](https://www.benzinga.com/markets/large-cap/25/08/47258114/ge-aerospace-expands-defense-and-semiconductor-partnerships-with-kratos-axcelis)
-- [PM Modi, French President Macron hold phone call, discuss conflicts in Ukraine and West Asia](https://www.moneycontrol.com/news/india/pm-narendra-modi-french-president-macron-hold-talks-discuss-peaceful-resolution-of-conflicts-in-ukraine-west-asia-13477546.html)
+- [AI fails to bring businesses returns, report says](https://biztoc.com/x/5d53002ba6efd500)
+- [Global Space Data Analytics Market Projected to Grow at 14.2% CAGR, Reaching $5.74 Billion by 2029](https://www.openpr.com/news/4156319/global-space-data-analytics-market-projected-to-grow-at-14-2)
+- [Semiconductor Plant Construction Market on Track for Strong Growth, Estimated to Grow at 7.7% CAGR Through 2029](https://www.openpr.com/news/4156313/semiconductor-plant-construction-market-on-track-for-strong)
+- [As AI becomes part of everyday life, it brings a hidden climate cost](https://abcnews.go.com/Business/wireStory/ai-part-everyday-life-brings-hidden-climate-cost-124878316)
+- [Experts call for global action against rising Islamophobia](https://www.urdupoint.com/en/pakistan/experts-call-for-global-action-against-rising-2035313.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
