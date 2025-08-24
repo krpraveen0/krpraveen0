@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI fails to bring businesses returns, report says](https://biztoc.com/x/5d53002ba6efd500)
-- [Global Space Data Analytics Market Projected to Grow at 14.2% CAGR, Reaching $5.74 Billion by 2029](https://www.openpr.com/news/4156319/global-space-data-analytics-market-projected-to-grow-at-14-2)
-- [Semiconductor Plant Construction Market on Track for Strong Growth, Estimated to Grow at 7.7% CAGR Through 2029](https://www.openpr.com/news/4156313/semiconductor-plant-construction-market-on-track-for-strong)
-- [As AI becomes part of everyday life, it brings a hidden climate cost](https://abcnews.go.com/Business/wireStory/ai-part-everyday-life-brings-hidden-climate-cost-124878316)
-- [Experts call for global action against rising Islamophobia](https://www.urdupoint.com/en/pakistan/experts-call-for-global-action-against-rising-2035313.html)
+- [Khammam Collector launches ‘Bagless Day’ in govt schools](https://telanganatoday.com/khammam-collector-launches-bagless-day-in-govt-schools)
+- [Live: Witness robots conquer challenges at robotics and AI event](https://news.cgtn.com/news/2025-08-23/Live-Witness-robots-conquer-challenges-at-robotics-and-AI-event-1G4QzNLefHW/p.html)
+- [S. Korean president visits Japan on ties](https://english.news.cn/20250823/07a11a9949c341509f1775a028ce388f/c.html)
+- [Corporate e-Learning Market Accelerating Growth with Future Market Size Strategies and Tactics](https://www.openpr.com/news/4156826/corporate-e-learning-market-accelerating-growth-with-future)
+- [U.S. takes 10% stake in Intel as Trump flexes more power over big business](https://thefrontierpost.com/u-s-takes-10-stake-in-intel-as-trump-flexes-more-power-over-big-business/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
