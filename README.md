@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 6.0 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 6.1 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Khammam Collector launches ‘Bagless Day’ in govt schools](https://telanganatoday.com/khammam-collector-launches-bagless-day-in-govt-schools)
-- [Live: Witness robots conquer challenges at robotics and AI event](https://news.cgtn.com/news/2025-08-23/Live-Witness-robots-conquer-challenges-at-robotics-and-AI-event-1G4QzNLefHW/p.html)
-- [S. Korean president visits Japan on ties](https://english.news.cn/20250823/07a11a9949c341509f1775a028ce388f/c.html)
-- [Corporate e-Learning Market Accelerating Growth with Future Market Size Strategies and Tactics](https://www.openpr.com/news/4156826/corporate-e-learning-market-accelerating-growth-with-future)
-- [U.S. takes 10% stake in Intel as Trump flexes more power over big business](https://thefrontierpost.com/u-s-takes-10-stake-in-intel-as-trump-flexes-more-power-over-big-business/)
+- [Video editing comes to Google Drive, powered by browser-based Vids tool](https://www.techspot.com/news/109185-video-editing-comes-google-drive-powered-browser-based.html)
+- [This Ligue 1 club sees TWO red cards in FIVE minutes 🤯](https://ca.sports.yahoo.com/news/ligue-1-club-sees-two-132300030.html)
+- [Apple Explores Using Google’s Gemini for Siri, Highlighting Uneasy Rivalry and Reliance on Rivals in AI Push](https://www.tekedia.com/apple-explores-using-googles-gemini-for-siri-highlighting-uneasy-rivalry-and-reliance-on-rivals-in-ai-push/)
+- [UK bans people with criminal records from travel, others in new policy](https://www.legit.ng/world/1670769-uk-bans-people-criminal-records-travel-policy/)
+- [Silicon Valley billionaires prepare for Doomsday with secret bunkers and luxury compounds](https://www.ynetnews.com/business/article/skrtcpdkle)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
