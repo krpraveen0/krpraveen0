@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Video editing comes to Google Drive, powered by browser-based Vids tool](https://www.techspot.com/news/109185-video-editing-comes-google-drive-powered-browser-based.html)
-- [This Ligue 1 club sees TWO red cards in FIVE minutes 🤯](https://ca.sports.yahoo.com/news/ligue-1-club-sees-two-132300030.html)
-- [Apple Explores Using Google’s Gemini for Siri, Highlighting Uneasy Rivalry and Reliance on Rivals in AI Push](https://www.tekedia.com/apple-explores-using-googles-gemini-for-siri-highlighting-uneasy-rivalry-and-reliance-on-rivals-in-ai-push/)
-- [UK bans people with criminal records from travel, others in new policy](https://www.legit.ng/world/1670769-uk-bans-people-criminal-records-travel-policy/)
-- [Silicon Valley billionaires prepare for Doomsday with secret bunkers and luxury compounds](https://www.ynetnews.com/business/article/skrtcpdkle)
+- [Sam Altman wants ‘universal extreme wealth’ for all Americans in a future fueled by AI — but is it realistic?](https://biztoc.com/x/ba58d71d4c21d9c5)
+- [YouTube confirms AI alterations to Shorts, raising concerns among creators](https://www.techspot.com/news/109193-youtube-confirms-ai-alterations-shorts-raising-concerns-among.html)
+- [More Than 70% Of Americans Fear AI Could Cause Permanent Job Loss, A New Poll Shows. Two-Thirds Worry It Could Be Used To Fuel Political Chaos](https://biztoc.com/x/f6702233183d486e)
+- [Virtual Number Softwares Market 10.50% CAGR Growth Insights from OpenPhone Google TextNow Grasshopper Nextiva Ooma eVoice and Pinger](https://www.openpr.com/news/4158548/virtual-number-softwares-market-10-50-cagr-growth-insights)
+- [Payday Loans Online - Radcred Launches AI Bot For Fast Cash Instant Loan For Low Credit Score In 2025](https://www.manilatimes.net/2025/08/25/tmt-newswire/globenewswire/payday-loans-online-radcred-launches-ai-bot-for-fast-cash-instant-loan-for-low-credit-score-in-2025/2173242)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
