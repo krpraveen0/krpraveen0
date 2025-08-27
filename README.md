@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Sam Altman wants ‘universal extreme wealth’ for all Americans in a future fueled by AI — but is it realistic?](https://biztoc.com/x/ba58d71d4c21d9c5)
-- [YouTube confirms AI alterations to Shorts, raising concerns among creators](https://www.techspot.com/news/109193-youtube-confirms-ai-alterations-shorts-raising-concerns-among.html)
-- [More Than 70% Of Americans Fear AI Could Cause Permanent Job Loss, A New Poll Shows. Two-Thirds Worry It Could Be Used To Fuel Political Chaos](https://biztoc.com/x/f6702233183d486e)
-- [Virtual Number Softwares Market 10.50% CAGR Growth Insights from OpenPhone Google TextNow Grasshopper Nextiva Ooma eVoice and Pinger](https://www.openpr.com/news/4158548/virtual-number-softwares-market-10-50-cagr-growth-insights)
-- [Payday Loans Online - Radcred Launches AI Bot For Fast Cash Instant Loan For Low Credit Score In 2025](https://www.manilatimes.net/2025/08/25/tmt-newswire/globenewswire/payday-loans-online-radcred-launches-ai-bot-for-fast-cash-instant-loan-for-low-credit-score-in-2025/2173242)
+- [SEALSQ’s SEALQuantum.com Lab is Advancing the Convergence of Quantum, Cybersecurity, and AI to Empower the Next-Generation of Startups](https://www.globenewswire.com/news-release/2025/08/26/3139342/0/en/SEALSQ-s-SEALQuantum-com-Lab-is-Advancing-the-Convergence-of-Quantum-Cybersecurity-and-AI-to-Empower-the-Next-Generation-of-Startups.html)
+- [AI Hyper-Personalization: Revolutionizing Business Growth and Ethics](https://www.webpronews.com/ai-hyper-personalization-revolutionizing-business-growth-and-ethics/)
+- [Is the AI boom finally starting to slow down?](https://www.theguardian.com/technology/2025/aug/25/artificial-intelligence-openai-tiktok)
+- [95% of Generative AI Projects Fail to Deliver Revenue: Key Lessons](https://www.webpronews.com/95-of-generative-ai-projects-fail-to-deliver-revenue-key-lessons/)
+- [Oregonians share urgency and ire over latest proposal to raise taxes for transportation funding](https://bendbulletin.com/2025/08/26/oregonians-share-urgency-and-ire-over-latest-proposal-to-raise-taxes-for-transportation-funding/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
