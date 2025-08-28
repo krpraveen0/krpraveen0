@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [SEALSQ’s SEALQuantum.com Lab is Advancing the Convergence of Quantum, Cybersecurity, and AI to Empower the Next-Generation of Startups](https://www.globenewswire.com/news-release/2025/08/26/3139342/0/en/SEALSQ-s-SEALQuantum-com-Lab-is-Advancing-the-Convergence-of-Quantum-Cybersecurity-and-AI-to-Empower-the-Next-Generation-of-Startups.html)
-- [AI Hyper-Personalization: Revolutionizing Business Growth and Ethics](https://www.webpronews.com/ai-hyper-personalization-revolutionizing-business-growth-and-ethics/)
-- [Is the AI boom finally starting to slow down?](https://www.theguardian.com/technology/2025/aug/25/artificial-intelligence-openai-tiktok)
-- [95% of Generative AI Projects Fail to Deliver Revenue: Key Lessons](https://www.webpronews.com/95-of-generative-ai-projects-fail-to-deliver-revenue-key-lessons/)
-- [Oregonians share urgency and ire over latest proposal to raise taxes for transportation funding](https://bendbulletin.com/2025/08/26/oregonians-share-urgency-and-ire-over-latest-proposal-to-raise-taxes-for-transportation-funding/)
+- [Stock market on ‘pins and needles’ as AI bellwether Nvidia gets set to report earnings](https://financialpost.com/news/nvidia-report-earnings-aug-27-2025)
+- [AP Business SummaryBrief at 9:19 a.m. EDT](https://www.ivpressonline.com/business/ap-business-summarybrief-at-9-19-a-m-edt/article_56603671-648e-56c2-9237-e3380dd42b39.html)
+- [NUHS SPEARHEADS AI-POWERED BRAIN CARE PROGRAMME TO TACKLE UNDERDIAGNOSIS AND IMPROVE PREVENTION OF DEMENTIA](https://www.itbiznews.com/news/articleView.html?idxno=178666)
+- [Brits fears a ‘bot will nick their job' says trade unions and 'step change' is needed](https://www.dailystar.co.uk/tech/news/brits-fears-bot-nick-job-35802106)
+- [Meta Platforms (NASDAQ: META) Price Prediction and Forecast 2025-2030 for August 27](https://247wallst.com/technology-3/2025/08/27/meta-platforms-meta-price-prediction-and-forecast-2025-2030/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
