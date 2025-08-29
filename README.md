@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Stock market on ‘pins and needles’ as AI bellwether Nvidia gets set to report earnings](https://financialpost.com/news/nvidia-report-earnings-aug-27-2025)
-- [AP Business SummaryBrief at 9:19 a.m. EDT](https://www.ivpressonline.com/business/ap-business-summarybrief-at-9-19-a-m-edt/article_56603671-648e-56c2-9237-e3380dd42b39.html)
-- [NUHS SPEARHEADS AI-POWERED BRAIN CARE PROGRAMME TO TACKLE UNDERDIAGNOSIS AND IMPROVE PREVENTION OF DEMENTIA](https://www.itbiznews.com/news/articleView.html?idxno=178666)
-- [Brits fears a ‘bot will nick their job' says trade unions and 'step change' is needed](https://www.dailystar.co.uk/tech/news/brits-fears-bot-nick-job-35802106)
-- [Meta Platforms (NASDAQ: META) Price Prediction and Forecast 2025-2030 for August 27](https://247wallst.com/technology-3/2025/08/27/meta-platforms-meta-price-prediction-and-forecast-2025-2030/)
+- [Is iPhone 17 Releasing on 9th September?](https://www.analyticsinsight.net/gadgets/is-iphone-17-releasing-on-9th-september)
+- [Bairong Inc. Announces 2025 Interim Financial Results](https://www.itbiznews.com/news/articleView.html?idxno=178795)
+- [Eseospace Launches AI-Focused SEO Services To Help Websites Get Discovered By Artificial Intelligence](https://menafn.com/1109989702/Eseospace-Launches-AI-Focused-SEO-Services-To-Help-Websites-Get-Discovered-By-Artificial-Intelligence)
+- [AI In Water Management Market To Reach US$53.85 Billion By 2032, Driven By Smart Infrastructure And Predictive Analytics Datam Intelligence](https://menafn.com/1109989701/AI-In-Water-Management-Market-To-Reach-US5385-Billion-By-2032-Driven-By-Smart-Infrastructure-And-Predictive-Analytics-Datam-Intelligence)
+- [Nvidia CEO Huang’s Net Worth Hits $158 Billion](https://247wallst.com/investing/2025/08/28/nvidia-ceo-huangs-net-worth-hits-158-billion/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
