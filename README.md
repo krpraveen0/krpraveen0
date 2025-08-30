@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Is iPhone 17 Releasing on 9th September?](https://www.analyticsinsight.net/gadgets/is-iphone-17-releasing-on-9th-september)
-- [Bairong Inc. Announces 2025 Interim Financial Results](https://www.itbiznews.com/news/articleView.html?idxno=178795)
-- [Eseospace Launches AI-Focused SEO Services To Help Websites Get Discovered By Artificial Intelligence](https://menafn.com/1109989702/Eseospace-Launches-AI-Focused-SEO-Services-To-Help-Websites-Get-Discovered-By-Artificial-Intelligence)
-- [AI In Water Management Market To Reach US$53.85 Billion By 2032, Driven By Smart Infrastructure And Predictive Analytics Datam Intelligence](https://menafn.com/1109989701/AI-In-Water-Management-Market-To-Reach-US5385-Billion-By-2032-Driven-By-Smart-Infrastructure-And-Predictive-Analytics-Datam-Intelligence)
-- [Nvidia CEO Huang’s Net Worth Hits $158 Billion](https://247wallst.com/investing/2025/08/28/nvidia-ceo-huangs-net-worth-hits-158-billion/)
+- [Tesla Self-Driving Feature Is a Loser](https://247wallst.com/cars-and-drivers/2025/08/29/tesla-self-driving-feature-is-a-loser/)
+- [Amsterdam-based startups that raised funding in August 2025; 5 of them are hiring](https://siliconcanals.com/amsterdam-startups-raised-funding-august-2025/)
+- [How can AI be used in the classroom? Massachusetts schools are working to identify the benefits](https://www.cbsnews.com/boston/news/artificial-intelligence-schools-massachusetts/)
+- [Billionaire Ambani plans to take Reliance Jio public by mid-2026](https://www.reuters.com/world/india/billionaire-ambani-plans-take-reliance-jio-public-by-mid-2026-2025-08-29/)
+- [How AI is Powering AV & ADAS Testing in India: Insights From Shitendra Bhattacharya, Emerson](https://www.analyticsinsight.net/podcast/how-ai-is-powering-av-adas-testing-in-india-insights-from-shitendra-bhattacharya-emerson)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
