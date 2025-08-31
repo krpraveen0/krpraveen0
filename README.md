@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Tesla Self-Driving Feature Is a Loser](https://247wallst.com/cars-and-drivers/2025/08/29/tesla-self-driving-feature-is-a-loser/)
-- [Amsterdam-based startups that raised funding in August 2025; 5 of them are hiring](https://siliconcanals.com/amsterdam-startups-raised-funding-august-2025/)
-- [How can AI be used in the classroom? Massachusetts schools are working to identify the benefits](https://www.cbsnews.com/boston/news/artificial-intelligence-schools-massachusetts/)
-- [Billionaire Ambani plans to take Reliance Jio public by mid-2026](https://www.reuters.com/world/india/billionaire-ambani-plans-take-reliance-jio-public-by-mid-2026-2025-08-29/)
-- [How AI is Powering AV & ADAS Testing in India: Insights From Shitendra Bhattacharya, Emerson](https://www.analyticsinsight.net/podcast/how-ai-is-powering-av-adas-testing-in-india-insights-from-shitendra-bhattacharya-emerson)
+- [Oyo Gov’t Dangles AI-backed Reforms To Curb Low Literacy Rates](https://leadership.ng/oyo-govt-dangles-ai-backed-reforms-to-curb-low-literacy-rates/)
+- [Bernstein Calls Meta the Top Consumer AI Play With Outperform Rating](https://www.insidermonkey.com/blog/bernstein-calls-meta-the-top-consumer-ai-play-with-outperform-rating-1599313/)
+- [💣 ESPN reports: Liverpool and Newcastle reach agreement for Isak](https://ca.sports.yahoo.com/news/espn-reports-liverpool-newcastle-reach-132200540.html)
+- [Punjab VCs’ Conference 2025 adopts landmark declaration for higher education reform](https://www.urdupoint.com/en/pakistan/punjab-vcs-conference-2025-adopts-landmark-2037653.html)
+- [Contrasting Datasea (NASDAQ:DTSS) and Fujitsu (OTCMKTS:FJTSY)](https://www.watchlistnews.com/contrasting-datasea-nasdaqdtss-and-fujitsu-otcmktsfjtsy/10769624.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
