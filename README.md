@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Oyo Gov’t Dangles AI-backed Reforms To Curb Low Literacy Rates](https://leadership.ng/oyo-govt-dangles-ai-backed-reforms-to-curb-low-literacy-rates/)
-- [Bernstein Calls Meta the Top Consumer AI Play With Outperform Rating](https://www.insidermonkey.com/blog/bernstein-calls-meta-the-top-consumer-ai-play-with-outperform-rating-1599313/)
-- [💣 ESPN reports: Liverpool and Newcastle reach agreement for Isak](https://ca.sports.yahoo.com/news/espn-reports-liverpool-newcastle-reach-132200540.html)
-- [Punjab VCs’ Conference 2025 adopts landmark declaration for higher education reform](https://www.urdupoint.com/en/pakistan/punjab-vcs-conference-2025-adopts-landmark-2037653.html)
-- [Contrasting Datasea (NASDAQ:DTSS) and Fujitsu (OTCMKTS:FJTSY)](https://www.watchlistnews.com/contrasting-datasea-nasdaqdtss-and-fujitsu-otcmktsfjtsy/10769624.html)
+- [24/7 service: Bacayan’s digital system ends red tape, long waits](https://www.sunstar.com.ph/cebu/247-service-bacayans-digital-system-ends-red-tape-long-waits)
+- [Adopsi AI di Indonesia Sangat Cepat, Konsumen Mengapresiasi](https://bali.jpnn.com/bali-terkini/36822/adopsi-ai-di-indonesia-sangat-cepat-konsumen-mengapresiasi)
+- [DOST XII Advances Smart and Sustainable Communities through Regional Science and Technology Week 2025](https://journal.com.ph/dost-xii-advances-smart-and-sustainable-communities-through-regional-science-and-technology-week-2025/)
+- [Can AI Be Your Personal Stylist? Here’s What Happens When You Let AI Do The Shopping For You](https://www.timesnownews.com/health/can-ai-be-your-personal-stylist-heres-what-happens-when-you-let-ai-do-the-shopping-for-you-article-152565408)
+- [Top 10 Photo Sharing Apps For Photographers in 2025](https://www.analyticsinsight.net/apps/top-10-photo-sharing-apps-for-photographers-in-2025)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
