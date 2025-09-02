@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [24/7 service: Bacayan’s digital system ends red tape, long waits](https://www.sunstar.com.ph/cebu/247-service-bacayans-digital-system-ends-red-tape-long-waits)
-- [Adopsi AI di Indonesia Sangat Cepat, Konsumen Mengapresiasi](https://bali.jpnn.com/bali-terkini/36822/adopsi-ai-di-indonesia-sangat-cepat-konsumen-mengapresiasi)
-- [DOST XII Advances Smart and Sustainable Communities through Regional Science and Technology Week 2025](https://journal.com.ph/dost-xii-advances-smart-and-sustainable-communities-through-regional-science-and-technology-week-2025/)
-- [Can AI Be Your Personal Stylist? Here’s What Happens When You Let AI Do The Shopping For You](https://www.timesnownews.com/health/can-ai-be-your-personal-stylist-heres-what-happens-when-you-let-ai-do-the-shopping-for-you-article-152565408)
-- [Top 10 Photo Sharing Apps For Photographers in 2025](https://www.analyticsinsight.net/apps/top-10-photo-sharing-apps-for-photographers-in-2025)
+- [Industry veteran Shripad Kulkarni launches 'MatheMedia' podcast](https://www.socialsamosa.com/industry-updates/shripad-kulkarni-podcast-mathemedia-9775678)
+- [Brisante Studie: KI verdrängt junge Arbeitnehmer in Studentenjobs](https://kurier.at/trend-hub/ki-arbeit-zukunft-gefahr-studie/403079845)
+- [Top 10 Google Gemini AI Alternatives You Can Try Now](https://www.analyticsinsight.net/artificial-intelligence/top-10-google-gemini-ai-alternatives-you-can-try-now)
+- [Madbouly at SCO Plus Summit: Gaza War Has Become a Campaign of Starvation and Erasure of Palestinian Rights](https://egyptdailynews.com/madbouly-at-sco-plus-summit-gaza-war-has-become-a-campaign-of-starvation-and-erasure-of-palestinian-rights/)
+- [Prosper Stars & Stripes’ Long Book Contributor: Magnite (MGNI)](https://www.insidermonkey.com/blog/prosper-stars-stripes-long-book-contributor-magnite-mgni-1601496/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
