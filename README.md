@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Industry veteran Shripad Kulkarni launches 'MatheMedia' podcast](https://www.socialsamosa.com/industry-updates/shripad-kulkarni-podcast-mathemedia-9775678)
-- [Brisante Studie: KI verdrängt junge Arbeitnehmer in Studentenjobs](https://kurier.at/trend-hub/ki-arbeit-zukunft-gefahr-studie/403079845)
-- [Top 10 Google Gemini AI Alternatives You Can Try Now](https://www.analyticsinsight.net/artificial-intelligence/top-10-google-gemini-ai-alternatives-you-can-try-now)
-- [Madbouly at SCO Plus Summit: Gaza War Has Become a Campaign of Starvation and Erasure of Palestinian Rights](https://egyptdailynews.com/madbouly-at-sco-plus-summit-gaza-war-has-become-a-campaign-of-starvation-and-erasure-of-palestinian-rights/)
-- [Prosper Stars & Stripes’ Long Book Contributor: Magnite (MGNI)](https://www.insidermonkey.com/blog/prosper-stars-stripes-long-book-contributor-magnite-mgni-1601496/)
+- [Telus to buy remaining digital unit stake for $539 million](https://www.channelnewsasia.com/business/telus-buy-remaining-digital-unit-stake-539-million-5329101)
+- [Telus to buy remaining digital unit stake for $539 million](https://ca.news.yahoo.com/telus-buy-remaining-digital-unit-131558965.html)
+- [Amarillo National Bank Adopts Point Predictive's AutoPass, IEValidate, And DealerCheck Solutions](https://www.manilatimes.net/2025/09/02/tmt-newswire/globenewswire/amarillo-national-bank-adopts-point-predictives-autopass-ievalidate-and-dealercheck-solutions/2177562)
+- [GreetEat Corporation (OTC: GEAT) Announces Official Re-Launch of Wall Street Stats Mobile Applications with Advanced AI and Machine Learning Features](https://www.manilatimes.net/2025/09/02/tmt-newswire/globenewswire/greeteat-corporation-otc-geat-announces-official-re-launch-of-wall-street-stats-mobile-applications-with-advanced-ai-and-machine-learning-features/2177552)
+- [Nuggets' Trust Solutions for the AI Era Now Available on GSA Schedule Contract](https://www.manilatimes.net/2025/09/02/tmt-newswire/globenewswire/nuggets-trust-solutions-for-the-ai-era-now-available-on-gsa-schedule-contract/2177539)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
