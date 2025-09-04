@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Telus to buy remaining digital unit stake for $539 million](https://www.channelnewsasia.com/business/telus-buy-remaining-digital-unit-stake-539-million-5329101)
-- [Telus to buy remaining digital unit stake for $539 million](https://ca.news.yahoo.com/telus-buy-remaining-digital-unit-131558965.html)
-- [Amarillo National Bank Adopts Point Predictive's AutoPass, IEValidate, And DealerCheck Solutions](https://www.manilatimes.net/2025/09/02/tmt-newswire/globenewswire/amarillo-national-bank-adopts-point-predictives-autopass-ievalidate-and-dealercheck-solutions/2177562)
-- [GreetEat Corporation (OTC: GEAT) Announces Official Re-Launch of Wall Street Stats Mobile Applications with Advanced AI and Machine Learning Features](https://www.manilatimes.net/2025/09/02/tmt-newswire/globenewswire/greeteat-corporation-otc-geat-announces-official-re-launch-of-wall-street-stats-mobile-applications-with-advanced-ai-and-machine-learning-features/2177552)
-- [Nuggets' Trust Solutions for the AI Era Now Available on GSA Schedule Contract](https://www.manilatimes.net/2025/09/02/tmt-newswire/globenewswire/nuggets-trust-solutions-for-the-ai-era-now-available-on-gsa-schedule-contract/2177539)
+- [Zambia’s eShandi Uses AI to Drive Financial Inclusion for Africa’s Underserved](https://iafrica.com/zambias-eshandi-uses-ai-to-drive-financial-inclusion-for-africas-underserved/)
+- [Watch live: House convenes hearing on AI in health care](https://thehill.com/video-clips/5483246-watch-live-house-ai-health-care-hearing/)
+- [Kuwait launches first tourism training programs in cooperation with Google](https://www.arabtimesonline.com/news/kuwait-launches-first-tourism-training-programs-in-cooperation-with-google/)
+- [Vincent Quigley: AI as Collaborative Agents with Daily Amnesia for Agile Workflows](https://www.webpronews.com/vincent-quigley-ai-as-collaborative-agents-with-daily-amnesia-for-agile-workflows/)
+- [Stocks Could Rally 50% in 2 Years](https://247wallst.com/investing/2025/09/03/stocks-could-rally-50-in-2-years/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
