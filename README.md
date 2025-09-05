@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Zambia’s eShandi Uses AI to Drive Financial Inclusion for Africa’s Underserved](https://iafrica.com/zambias-eshandi-uses-ai-to-drive-financial-inclusion-for-africas-underserved/)
-- [Watch live: House convenes hearing on AI in health care](https://thehill.com/video-clips/5483246-watch-live-house-ai-health-care-hearing/)
-- [Kuwait launches first tourism training programs in cooperation with Google](https://www.arabtimesonline.com/news/kuwait-launches-first-tourism-training-programs-in-cooperation-with-google/)
-- [Vincent Quigley: AI as Collaborative Agents with Daily Amnesia for Agile Workflows](https://www.webpronews.com/vincent-quigley-ai-as-collaborative-agents-with-daily-amnesia-for-agile-workflows/)
-- [Stocks Could Rally 50% in 2 Years](https://247wallst.com/investing/2025/09/03/stocks-could-rally-50-in-2-years/)
+- [GeneDx (NASDAQ:WGS) Reaches New 1-Year High – Here’s What Happened](https://baseballnewssource.com/2025/09/04/genedx-nasdaqwgs-reaches-new-1-year-high-heres-what-happened/10816773.html)
+- [Science Applications International (NYSE:SAIC) Issues FY 2026 Earnings Guidance](https://www.watchlistnews.com/science-applications-international-nysesaic-issues-fy-2026-earnings-guidance/10776965.html)
+- [GeneDx (NASDAQ:WGS) Reaches New 52-Week High – Time to Buy?](https://www.tickerreport.com/banking-finance/13135552/genedx-nasdaqwgs-reaches-new-52-week-high-time-to-buy.html)
+- [Science Applications International (NYSE:SAIC) Posts Earnings Results, Beats Expectations By $1.38 EPS](https://www.dailypolitical.com/2025/09/04/science-applications-international-nysesaic-posts-earnings-results-beats-expectations-by-1-38-eps.html)
+- [New Malware Uses Windows Character Map for Cryptomining](https://hackread.com/new-malware-uses-windows-character-map-cryptomining/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
