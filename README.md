@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [GeneDx (NASDAQ:WGS) Reaches New 1-Year High – Here’s What Happened](https://baseballnewssource.com/2025/09/04/genedx-nasdaqwgs-reaches-new-1-year-high-heres-what-happened/10816773.html)
-- [Science Applications International (NYSE:SAIC) Issues FY 2026 Earnings Guidance](https://www.watchlistnews.com/science-applications-international-nysesaic-issues-fy-2026-earnings-guidance/10776965.html)
-- [GeneDx (NASDAQ:WGS) Reaches New 52-Week High – Time to Buy?](https://www.tickerreport.com/banking-finance/13135552/genedx-nasdaqwgs-reaches-new-52-week-high-time-to-buy.html)
-- [Science Applications International (NYSE:SAIC) Posts Earnings Results, Beats Expectations By $1.38 EPS](https://www.dailypolitical.com/2025/09/04/science-applications-international-nysesaic-posts-earnings-results-beats-expectations-by-1-38-eps.html)
-- [New Malware Uses Windows Character Map for Cryptomining](https://hackread.com/new-malware-uses-windows-character-map-cryptomining/)
+- [Skin Cancer Dermatology Market Trends and Investment Outlook 2025-2030](https://www.globenewswire.com/fr/news-release/2025/09/05/3145287/28124/en/Skin-Cancer-Dermatology-Market-Trends-and-Investment-Outlook-2025-2030.html)
+- [Gen Z Are Finding It Hardest to Get a Job](https://www.newsweek.com/gen-z-unemployment-rates-job-struggle-2125071)
+- [Lieutenant Governor addresses Teachers’ Day event in Srinagar](https://www.greaterkashmir.com/jammu-kashmir/lieutenant-governor-addresses-teachers-day-event-in-srinagar/)
+- [Cerence Sues Apple Over Six Patents in Siri Voice Tech Dispute](https://www.webpronews.com/cerence-sues-apple-over-six-patents-in-siri-voice-tech-dispute/)
+- [Leading billionaire rambles about science — and Trump had to take it](https://www.nj.com/politics/2025/09/leading-billionaire-rambles-about-science-and-trump-had-to-take-it.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
