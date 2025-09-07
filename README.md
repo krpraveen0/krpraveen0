@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Skin Cancer Dermatology Market Trends and Investment Outlook 2025-2030](https://www.globenewswire.com/fr/news-release/2025/09/05/3145287/28124/en/Skin-Cancer-Dermatology-Market-Trends-and-Investment-Outlook-2025-2030.html)
-- [Gen Z Are Finding It Hardest to Get a Job](https://www.newsweek.com/gen-z-unemployment-rates-job-struggle-2125071)
-- [Lieutenant Governor addresses Teachers’ Day event in Srinagar](https://www.greaterkashmir.com/jammu-kashmir/lieutenant-governor-addresses-teachers-day-event-in-srinagar/)
-- [Cerence Sues Apple Over Six Patents in Siri Voice Tech Dispute](https://www.webpronews.com/cerence-sues-apple-over-six-patents-in-siri-voice-tech-dispute/)
-- [Leading billionaire rambles about science — and Trump had to take it](https://www.nj.com/politics/2025/09/leading-billionaire-rambles-about-science-and-trump-had-to-take-it.html)
+- [Mitesh Khapra among 100 global pioneers in Time’s 2025 AI list, revolutionizes AI for Non-English speakers of India](https://organiser.org/2025/09/06/314444/bharat/mitesh-khapra-among-100-global-pioneers-in-times-2025-ai-list-revolutionizes-ai-for-non-english-speakers-of-india/)
+- [PM Modi and French President Macron Discuss Bilateral Ties, Ukraine Peace Efforts](https://pragativadi.com/pm-modi-and-french-president-macron-discuss-bilateral-ties-ukraine-peace-efforts/)
+- [1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Soars at Least 24%, According to Wall Street](https://biztoc.com/x/45b0e1fe7592eab8)
+- [100,000 Shares in Penguin Solutions, Inc. $PENG Bought by Needham Investment Management LLC](https://www.thelincolnianonline.com/2025/09/06/100000-shares-in-penguin-solutions-inc-peng-bought-by-needham-investment-management-llc.html)
+- [চ্যাটজিপিটির ভুলে চাকরি হারানোর শঙ্কায় এক তরুণী](https://www.prothomalo.com/technology/artificial-intelligence/r7e3itnlf1)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
