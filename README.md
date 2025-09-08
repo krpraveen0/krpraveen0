@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Mitesh Khapra among 100 global pioneers in Time’s 2025 AI list, revolutionizes AI for Non-English speakers of India](https://organiser.org/2025/09/06/314444/bharat/mitesh-khapra-among-100-global-pioneers-in-times-2025-ai-list-revolutionizes-ai-for-non-english-speakers-of-india/)
-- [PM Modi and French President Macron Discuss Bilateral Ties, Ukraine Peace Efforts](https://pragativadi.com/pm-modi-and-french-president-macron-discuss-bilateral-ties-ukraine-peace-efforts/)
-- [1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Soars at Least 24%, According to Wall Street](https://biztoc.com/x/45b0e1fe7592eab8)
-- [100,000 Shares in Penguin Solutions, Inc. $PENG Bought by Needham Investment Management LLC](https://www.thelincolnianonline.com/2025/09/06/100000-shares-in-penguin-solutions-inc-peng-bought-by-needham-investment-management-llc.html)
-- [চ্যাটজিপিটির ভুলে চাকরি হারানোর শঙ্কায় এক তরুণী](https://www.prothomalo.com/technology/artificial-intelligence/r7e3itnlf1)
+- [Keep Abreast Trends of Times and Open Up a New Chapter for Future](https://www.pakistantoday.com.pk/2025/09/07/keep-abreast-trends-of-times-and-open-up-a-new-chapter-for-future/)
+- [German woman sues Google over nude pictures and sex videos](https://www.muscatdaily.com/2025/09/07/german-woman-sues-google-over-nude-pictures-and-sex-videos/)
+- [Japan's stressed bond market, stocks brace for PM Ishiba exit reaction](https://www.reuters.com/business/japans-stressed-bond-market-stocks-brace-pm-ishiba-exit-reaction-2025-09-07/)
+- [Talon Private Wealth LLC Has $1.10 Million Position in ServiceNow, Inc. $NOW](https://www.themarketsdaily.com/2025/09/07/talon-private-wealth-llc-has-1-10-million-position-in-servicenow-inc-now.html)
+- [1 Canadian Stock That Could Be the Next Big AI Winner](https://www.fool.ca/2025/09/07/1-canadian-stock-that-could-be-the-next-big-ai-winner/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
