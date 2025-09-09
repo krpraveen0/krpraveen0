@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Keep Abreast Trends of Times and Open Up a New Chapter for Future](https://www.pakistantoday.com.pk/2025/09/07/keep-abreast-trends-of-times-and-open-up-a-new-chapter-for-future/)
-- [German woman sues Google over nude pictures and sex videos](https://www.muscatdaily.com/2025/09/07/german-woman-sues-google-over-nude-pictures-and-sex-videos/)
-- [Japan's stressed bond market, stocks brace for PM Ishiba exit reaction](https://www.reuters.com/business/japans-stressed-bond-market-stocks-brace-pm-ishiba-exit-reaction-2025-09-07/)
-- [Talon Private Wealth LLC Has $1.10 Million Position in ServiceNow, Inc. $NOW](https://www.themarketsdaily.com/2025/09/07/talon-private-wealth-llc-has-1-10-million-position-in-servicenow-inc-now.html)
-- [1 Canadian Stock That Could Be the Next Big AI Winner](https://www.fool.ca/2025/09/07/1-canadian-stock-that-could-be-the-next-big-ai-winner/)
+- [Thermal Jumpers Market Size Worth USD 20,12,537.70 Thousand by 2034 Driven by EV Adoption and Electronics Miniaturization](https://www.globenewswire.com/news-release/2025/09/08/3146170/0/en/Thermal-Jumpers-Market-Size-Worth-USD-20-12-537-70-Thousand-by-2034-Driven-by-EV-Adoption-and-Electronics-Miniaturization.html)
+- [Thermal Jumpers Market Size Worth USD 20,12,537.70 Thousand by 2034 Driven by EV Adoption and Electronics Miniaturization](https://www.globenewswire.com/fr/news-release/2025/09/08/3146170/0/en/Thermal-Jumpers-Market-Size-Worth-USD-20-12-537-70-Thousand-by-2034-Driven-by-EV-Adoption-and-Electronics-Miniaturization.html)
+- [Adobe receives price cuts ahead of Q3 earnings as focus falls on GenAI monetization](https://seekingalpha.com/news/4493012-adobe-receives-price-cuts-ahead-of-q3-earnings-as-focus-falls-on-genai-monetization?feed_item_type=news)
+- [Here’s Silver Beech Capital’s Updates on Fairfax Financial Holdings Ltd (FRFHF)](https://www.insidermonkey.com/blog/heres-silver-beech-capitals-updates-on-fairfax-financial-holdings-ltd-frfhf-1604793/)
+- [Medical Devices Market Size to Exceed USD 1,146.95 Billion by 2034 with Rapid Tech Advancements](https://www.globenewswire.com/news-release/2025/09/08/3146169/0/en/Medical-Devices-Market-Size-to-Exceed-USD-1-146-95-Billion-by-2034-with-Rapid-Tech-Advancements.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
