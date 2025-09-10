@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Thermal Jumpers Market Size Worth USD 20,12,537.70 Thousand by 2034 Driven by EV Adoption and Electronics Miniaturization](https://www.globenewswire.com/news-release/2025/09/08/3146170/0/en/Thermal-Jumpers-Market-Size-Worth-USD-20-12-537-70-Thousand-by-2034-Driven-by-EV-Adoption-and-Electronics-Miniaturization.html)
-- [Thermal Jumpers Market Size Worth USD 20,12,537.70 Thousand by 2034 Driven by EV Adoption and Electronics Miniaturization](https://www.globenewswire.com/fr/news-release/2025/09/08/3146170/0/en/Thermal-Jumpers-Market-Size-Worth-USD-20-12-537-70-Thousand-by-2034-Driven-by-EV-Adoption-and-Electronics-Miniaturization.html)
-- [Adobe receives price cuts ahead of Q3 earnings as focus falls on GenAI monetization](https://seekingalpha.com/news/4493012-adobe-receives-price-cuts-ahead-of-q3-earnings-as-focus-falls-on-genai-monetization?feed_item_type=news)
-- [Here’s Silver Beech Capital’s Updates on Fairfax Financial Holdings Ltd (FRFHF)](https://www.insidermonkey.com/blog/heres-silver-beech-capitals-updates-on-fairfax-financial-holdings-ltd-frfhf-1604793/)
-- [Medical Devices Market Size to Exceed USD 1,146.95 Billion by 2034 with Rapid Tech Advancements](https://www.globenewswire.com/news-release/2025/09/08/3146169/0/en/Medical-Devices-Market-Size-to-Exceed-USD-1-146-95-Billion-by-2034-with-Rapid-Tech-Advancements.html)
+- [Lightbeam Health Solutions Receives Microsoft AI Cloud Partner Program Certified Software Designation](https://www.prnewswire.com/news-releases/lightbeam-health-solutions-receives-microsoft-ai-cloud-partner-program-certified-software-designation-302550931.html)
+- [XtalPi AI Drug Discovery Collaboration Reaches Milestone as PharmaEngine's Novel PRMT5 Inhibitor PEP08 Receives Clinical Trial Approvals](https://www.manilatimes.net/2025/09/09/tmt-newswire/pr-newswire/xtalpi-ai-drug-discovery-collaboration-reaches-milestone-as-pharmaengines-novel-prmt5-inhibitor-pep08-receives-clinical-trial-approvals/2181485)
+- [Telestream Expands Vantage Ecosystem to Empower Distributed Media Organizations with Modern, Scalable, Cloud-Native Solutions](https://www.milescitystar.com/ap_news/montana/telestream-expands-vantage-ecosystem-to-empower-distributed-media-organizations-with-modern-scalable-cloud-native-solutions/article_3a2c7d85-0ace-5ae7-810f-ec2e4bcafb83.html)
+- [First global medical AI foundation model drives 100-country research collaboration](https://medicalxpress.com/news/2025-09-global-medical-ai-foundation-country.html)
+- [AI phishing simulation startup Adaptive Security gets OpenAI funding boost](https://siliconangle.com/2025/09/09/ai-phishing-simulation-startup-adaptive-security-gets-openai-funding-boost/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
