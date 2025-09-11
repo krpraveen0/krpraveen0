@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Lightbeam Health Solutions Receives Microsoft AI Cloud Partner Program Certified Software Designation](https://www.prnewswire.com/news-releases/lightbeam-health-solutions-receives-microsoft-ai-cloud-partner-program-certified-software-designation-302550931.html)
-- [XtalPi AI Drug Discovery Collaboration Reaches Milestone as PharmaEngine's Novel PRMT5 Inhibitor PEP08 Receives Clinical Trial Approvals](https://www.manilatimes.net/2025/09/09/tmt-newswire/pr-newswire/xtalpi-ai-drug-discovery-collaboration-reaches-milestone-as-pharmaengines-novel-prmt5-inhibitor-pep08-receives-clinical-trial-approvals/2181485)
-- [Telestream Expands Vantage Ecosystem to Empower Distributed Media Organizations with Modern, Scalable, Cloud-Native Solutions](https://www.milescitystar.com/ap_news/montana/telestream-expands-vantage-ecosystem-to-empower-distributed-media-organizations-with-modern-scalable-cloud-native-solutions/article_3a2c7d85-0ace-5ae7-810f-ec2e4bcafb83.html)
-- [First global medical AI foundation model drives 100-country research collaboration](https://medicalxpress.com/news/2025-09-global-medical-ai-foundation-country.html)
-- [AI phishing simulation startup Adaptive Security gets OpenAI funding boost](https://siliconangle.com/2025/09/09/ai-phishing-simulation-startup-adaptive-security-gets-openai-funding-boost/)
+- [From AI to Climate Tech, 27 Nasscom DeepTech Startups Begin a Journey of Learning & Partnership in the U.S. with InnoTrek 2025](https://www.prnewswire.com/news-releases/from-ai-to-climate-tech-27-nasscom-deeptech-startups-begin-a-journey-of-learning--partnership-in-the-us-with-innotrek-2025-302552610.html)
+- [Doctors are joining unions in a bid to improve working conditions and raise wages in a stressful health care system](https://www.nationaltribune.com.au/doctors-are-joining-unions-in-a-bid-to-improve-working-conditions-and-raise-wages-in-a-stressful-health-care-system/)
+- [Leonardo snaps up Nordic cybersecurity firms in bid to shift focus](https://www.defensenews.com/global/europe/2025/09/10/leonardo-snaps-up-nordic-cybersecurity-firms-in-bid-to-shift-focus/)
+- [Preply Learners Achieve Up to 3x Faster Language Learning, with Measurable Progress in Just 12 Weeks, Study Finds](https://www.prnewswire.com/news-releases/preply-learners-achieve-up-to-3x-faster-language-learning-with-measurable-progress-in-just-12-weeks-study-finds-302551519.html)
+- [S. Korea, Japan Hold Economic Security Dialogue](http://koreabizwire.com/s-korea-japan-hold-economic-security-dialogue/332824)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
