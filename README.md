@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [From AI to Climate Tech, 27 Nasscom DeepTech Startups Begin a Journey of Learning & Partnership in the U.S. with InnoTrek 2025](https://www.prnewswire.com/news-releases/from-ai-to-climate-tech-27-nasscom-deeptech-startups-begin-a-journey-of-learning--partnership-in-the-us-with-innotrek-2025-302552610.html)
-- [Doctors are joining unions in a bid to improve working conditions and raise wages in a stressful health care system](https://www.nationaltribune.com.au/doctors-are-joining-unions-in-a-bid-to-improve-working-conditions-and-raise-wages-in-a-stressful-health-care-system/)
-- [Leonardo snaps up Nordic cybersecurity firms in bid to shift focus](https://www.defensenews.com/global/europe/2025/09/10/leonardo-snaps-up-nordic-cybersecurity-firms-in-bid-to-shift-focus/)
-- [Preply Learners Achieve Up to 3x Faster Language Learning, with Measurable Progress in Just 12 Weeks, Study Finds](https://www.prnewswire.com/news-releases/preply-learners-achieve-up-to-3x-faster-language-learning-with-measurable-progress-in-just-12-weeks-study-finds-302551519.html)
-- [S. Korea, Japan Hold Economic Security Dialogue](http://koreabizwire.com/s-korea-japan-hold-economic-security-dialogue/332824)
+- [Anthropic’s Claude AI Weaponized in $500K Cybercrime Spree](https://www.esecurityplanet.com/news/anthropics-claude-ai-weaponized-in-500k-cybercrime-spree/)
+- [Apple AirPods’ Critical Live Translation Feature Faces Unfortunate EU Block](https://bitcoinworld.co.in/apple-airpods-eu-block/)
+- [Never Alone: AIIMS Delhi launches mental health app for young adults to curb suicides](https://www.edexlive.com/news/2025/Sep/11/never-alone-aiims-delhi-launches-mental-health-app-for-young-adults-to-curb-suicides)
+- [Billion Dollar Global DaaS Agricultural Drone Market Booming as Demand is Projected to Rise](https://www.benzinga.com/pressreleases/25/09/n47619241/billion-dollar-global-daas-agricultural-drone-market-booming-as-demand-is-projected-to-rise)
+- [Billion Dollar Global DaaS Agricultural Drone Market Booming as Demand is Projected to Rise](https://www.prnewswire.co.uk/news-releases/billion-dollar-global-daas-agricultural-drone-market-booming-as-demand-is-projected-to-rise-302553602.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
