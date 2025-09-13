@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Anthropic’s Claude AI Weaponized in $500K Cybercrime Spree](https://www.esecurityplanet.com/news/anthropics-claude-ai-weaponized-in-500k-cybercrime-spree/)
-- [Apple AirPods’ Critical Live Translation Feature Faces Unfortunate EU Block](https://bitcoinworld.co.in/apple-airpods-eu-block/)
-- [Never Alone: AIIMS Delhi launches mental health app for young adults to curb suicides](https://www.edexlive.com/news/2025/Sep/11/never-alone-aiims-delhi-launches-mental-health-app-for-young-adults-to-curb-suicides)
-- [Billion Dollar Global DaaS Agricultural Drone Market Booming as Demand is Projected to Rise](https://www.benzinga.com/pressreleases/25/09/n47619241/billion-dollar-global-daas-agricultural-drone-market-booming-as-demand-is-projected-to-rise)
-- [Billion Dollar Global DaaS Agricultural Drone Market Booming as Demand is Projected to Rise](https://www.prnewswire.co.uk/news-releases/billion-dollar-global-daas-agricultural-drone-market-booming-as-demand-is-projected-to-rise-302553602.html)
+- [Soon out of the drop zone? Klose eyes move up the table](https://onefootball.com/en/news/soon-out-of-the-drop-zone-klose-eyes-move-up-the-table-41651629)
+- [Analyst Shares His ‘Concern’ About Nvidia (NVDA) Stock](https://www.insidermonkey.com/blog/analyst-shares-his-concern-about-nvidia-nvda-stock-1606453/)
+- [From the USA to Veneto: “Sandbox VR,” the International Platform for Immersive and Virtual Experiences, Arrives in Treviso](https://www.postregister.com/businessreport/government/from-the-usa-to-veneto-sandbox-vr-the-international-platform-for-immersive-and-virtual-experiences/article_62fb9348-1866-5a76-a1ba-5d0da824c68c.html)
+- [From the USA to Veneto: “Sandbox VR,” the International Platform for Immersive and Virtual Experiences, Arrives in Treviso](https://www.hastingstribune.com/ap/business/from-the-usa-to-veneto-sandbox-vr-the-international-platform-for-immersive-and-virtual-experiences/article_1091fdd4-ddbc-501c-8d48-def80a490b72.html)
+- [After layoffs, another bad news for IT services, slowdown risk warning by..., revenue may decline...](https://www.india.com/business/after-layoffs-another-bad-news-for-it-services-slowdown-risk-warning-by-jefferies-revenue-may-decline-by-20-percent-due-to-ai-8071351/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
