@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Soon out of the drop zone? Klose eyes move up the table](https://onefootball.com/en/news/soon-out-of-the-drop-zone-klose-eyes-move-up-the-table-41651629)
-- [Analyst Shares His ‘Concern’ About Nvidia (NVDA) Stock](https://www.insidermonkey.com/blog/analyst-shares-his-concern-about-nvidia-nvda-stock-1606453/)
-- [From the USA to Veneto: “Sandbox VR,” the International Platform for Immersive and Virtual Experiences, Arrives in Treviso](https://www.postregister.com/businessreport/government/from-the-usa-to-veneto-sandbox-vr-the-international-platform-for-immersive-and-virtual-experiences/article_62fb9348-1866-5a76-a1ba-5d0da824c68c.html)
-- [From the USA to Veneto: “Sandbox VR,” the International Platform for Immersive and Virtual Experiences, Arrives in Treviso](https://www.hastingstribune.com/ap/business/from-the-usa-to-veneto-sandbox-vr-the-international-platform-for-immersive-and-virtual-experiences/article_1091fdd4-ddbc-501c-8d48-def80a490b72.html)
-- [After layoffs, another bad news for IT services, slowdown risk warning by..., revenue may decline...](https://www.india.com/business/after-layoffs-another-bad-news-for-it-services-slowdown-risk-warning-by-jefferies-revenue-may-decline-by-20-percent-due-to-ai-8071351/)
+- [✨ Magic from set pieces? Leipzig’s plan to boost goal threat against Mainz](https://ca.sports.yahoo.com/news/magic-set-pieces-leipzig-plan-132300586.html)
+- [Doliver Advisors LP Sells 1,708 Shares of Salesforce Inc. $CRM](https://www.themarketsdaily.com/2025/09/13/doliver-advisors-lp-sells-1708-shares-of-salesforce-inc-crm.html)
+- [Salesforce Inc. $CRM Stock Position Cut by Howard Financial Services LTD.](https://baseballnewssource.com/2025/09/13/salesforce-inc-crm-stock-position-cut-by-howard-financial-services-ltd/10830238.html)
+- [LVM Capital Management Ltd. MI Has $12.86 Million Stock Holdings in Salesforce Inc. $CRM](https://www.watchlistnews.com/lvm-capital-management-ltd-mi-has-12-86-million-stock-holdings-in-salesforce-inc-crm/10790584.html)
+- [Howard Financial Services LTD. Has $409,000 Holdings in Salesforce Inc. $CRM](https://www.thelincolnianonline.com/2025/09/13/howard-financial-services-ltd-has-409000-holdings-in-salesforce-inc-crm.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
