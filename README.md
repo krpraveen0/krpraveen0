@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [✨ Magic from set pieces? Leipzig’s plan to boost goal threat against Mainz](https://ca.sports.yahoo.com/news/magic-set-pieces-leipzig-plan-132300586.html)
-- [Doliver Advisors LP Sells 1,708 Shares of Salesforce Inc. $CRM](https://www.themarketsdaily.com/2025/09/13/doliver-advisors-lp-sells-1708-shares-of-salesforce-inc-crm.html)
-- [Salesforce Inc. $CRM Stock Position Cut by Howard Financial Services LTD.](https://baseballnewssource.com/2025/09/13/salesforce-inc-crm-stock-position-cut-by-howard-financial-services-ltd/10830238.html)
-- [LVM Capital Management Ltd. MI Has $12.86 Million Stock Holdings in Salesforce Inc. $CRM](https://www.watchlistnews.com/lvm-capital-management-ltd-mi-has-12-86-million-stock-holdings-in-salesforce-inc-crm/10790584.html)
-- [Howard Financial Services LTD. Has $409,000 Holdings in Salesforce Inc. $CRM](https://www.thelincolnianonline.com/2025/09/13/howard-financial-services-ltd-has-409000-holdings-in-salesforce-inc-crm.html)
+- [NGO To Recruit Youth Transparency Champions For Beta Government Project 2.0 In Ekiti](https://independent.ng/ngo-to-recruit-youth-transparency-champions-for-beta-government-project-2-0-in-ekiti/)
+- [Police probing blackmailing of MPs, senator and assemblyman with AI porn](https://www.nst.com.my/news/crime-courts/2025/09/1275174/police-probing-blackmailing-mps-senator-and-assemblyman-ai-porn)
+- [Can an Amazon AI voice guide you better than customer product reviews? It's starting to try](https://www.cnbc.com/2025/09/14/amazon-product-reviews-ai-customers-online-shopping.html)
+- [ആരോഗ്യ മേഖലയിൽ നിർമിത ബുദ്ധി ഉപയോഗിക്കാൻ കുവൈത്ത്, രോഗനിർണയം കൂടുതൽ വേഗത്തിലാകും](https://www.asianetnews.com/pravasam/kuwait-to-use-artificial-intelligence-in-the-health-sector-articleshow-waddi8p)
+- [Top 3 Low-Cap Gems for Massive ROI: Ozak AI, Kava, and Polygon](https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-3-low-cap-gems-for-massive-roi-ozak-ai-kava-and-polygon)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
