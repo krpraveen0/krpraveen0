@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [NGO To Recruit Youth Transparency Champions For Beta Government Project 2.0 In Ekiti](https://independent.ng/ngo-to-recruit-youth-transparency-champions-for-beta-government-project-2-0-in-ekiti/)
-- [Police probing blackmailing of MPs, senator and assemblyman with AI porn](https://www.nst.com.my/news/crime-courts/2025/09/1275174/police-probing-blackmailing-mps-senator-and-assemblyman-ai-porn)
-- [Can an Amazon AI voice guide you better than customer product reviews? It's starting to try](https://www.cnbc.com/2025/09/14/amazon-product-reviews-ai-customers-online-shopping.html)
-- [ആരോഗ്യ മേഖലയിൽ നിർമിത ബുദ്ധി ഉപയോഗിക്കാൻ കുവൈത്ത്, രോഗനിർണയം കൂടുതൽ വേഗത്തിലാകും](https://www.asianetnews.com/pravasam/kuwait-to-use-artificial-intelligence-in-the-health-sector-articleshow-waddi8p)
-- [Top 3 Low-Cap Gems for Massive ROI: Ozak AI, Kava, and Polygon](https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-3-low-cap-gems-for-massive-roi-ozak-ai-kava-and-polygon)
+- [TruWealth Advisors LLC Invests $208,000 in Salesforce Inc. $CRM](https://www.watchlistnews.com/truwealth-advisors-llc-invests-208000-in-salesforce-inc-crm/10793415.html)
+- [Salesforce Inc. $CRM Shares Sold by RDA Financial Network](https://www.watchlistnews.com/salesforce-inc-crm-shares-sold-by-rda-financial-network/10793412.html)
+- [Lingohr Asset Management GmbH Reduces Position in Salesforce Inc. $CRM](https://www.thelincolnianonline.com/2025/09/15/lingohr-asset-management-gmbh-reduces-position-in-salesforce-inc-crm.html)
+- [Thurston Springer Miller Herd & Titak Inc. Raises Stock Position in Salesforce Inc. $CRM](https://baseballnewssource.com/2025/09/15/thurston-springer-miller-herd-titak-inc-raises-stock-position-in-salesforce-inc-crm/10833067.html)
+- [Oracle's AI Gains 'Are Clear.' Here's How Its Cloud Stacks Up Against Amazon, Microsoft, Google.](https://www.investors.com/news/technology/oracle-stock-orcl-ai-amzn-msft-googl-cloud-share/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
