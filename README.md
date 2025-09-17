@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [TruWealth Advisors LLC Invests $208,000 in Salesforce Inc. $CRM](https://www.watchlistnews.com/truwealth-advisors-llc-invests-208000-in-salesforce-inc-crm/10793415.html)
-- [Salesforce Inc. $CRM Shares Sold by RDA Financial Network](https://www.watchlistnews.com/salesforce-inc-crm-shares-sold-by-rda-financial-network/10793412.html)
-- [Lingohr Asset Management GmbH Reduces Position in Salesforce Inc. $CRM](https://www.thelincolnianonline.com/2025/09/15/lingohr-asset-management-gmbh-reduces-position-in-salesforce-inc-crm.html)
-- [Thurston Springer Miller Herd & Titak Inc. Raises Stock Position in Salesforce Inc. $CRM](https://baseballnewssource.com/2025/09/15/thurston-springer-miller-herd-titak-inc-raises-stock-position-in-salesforce-inc-crm/10833067.html)
-- [Oracle's AI Gains 'Are Clear.' Here's How Its Cloud Stacks Up Against Amazon, Microsoft, Google.](https://www.investors.com/news/technology/oracle-stock-orcl-ai-amzn-msft-googl-cloud-share/)
+- [Brev AI Music Generator: Next-Gen Music for Video and Metaverse Innovation](https://www.analyticsinsight.net/artificial-intelligence/brev-ai-music-generator-next-gen-music-for-video-and-metaverse-innovation)
+- [સાયન્સ સિટીમાં ઓઝોન ડે અને નેશનલ એન્જિનિયર્સ ડેની ઉજવણી](https://chitralekha.com/news/gujarat-science-city-celebrates-world-ozone-day-and-national-engineers-day/)
+- [How to Build Your Own Android Bot With Google’s Androidify](https://www.techopedia.com/google-androidify-ai-android-bot)
+- [Fighting a health insurance denial? Here are 7 tips to help](https://www.eastbaytimes.com/2025/09/16/fighting-a-health-insurance-denial-here-are-7-tips-to-help/)
+- [Fighting a health insurance denial? Here are 7 tips to help](https://www.mercurynews.com/2025/09/16/fighting-a-health-insurance-denial-here-are-7-tips-to-help/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
