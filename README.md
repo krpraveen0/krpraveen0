@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AudioCodes Expands Voice CPaaS Offering with AI Agents](https://www.prnewswire.com/news-releases/audiocodes-expands-voice-cpaas-offering-with-ai-agents-302559225.html)
-- [IntelePeer Appoints Nancy Scott Chief Marketing Officer](https://www.hastingstribune.com/ap/business/intelepeer-appoints-nancy-scott-chief-marketing-officer/article_7d09ee68-88f0-5849-a344-9061b80b0d20.html)
-- [IntelePeer Appoints Nancy Scott Chief Marketing Officer](https://www.cadillacnews.com/ap/business/intelepeer-appoints-nancy-scott-chief-marketing-officer/article_eeffcc34-cd89-5346-b204-a190cfdfbcf0.html)
-- [Construction 4.0 Strategic Business Research Report 2025-2030 | Growing Venture Capital Activity in ConTech Startups Accelerates Innovation in End-to-End Platforms - ResearchAndMarkets.com](https://www.businesswire.com/news/home/20250917615096/en/Construction-4.0-Strategic-Business-Research-Report-2025-2030-Growing-Venture-Capital-Activity-in-ConTech-Startups-Accelerates-Innovation-in-End-to-End-Platforms---ResearchAndMarkets.com)
-- [Apple’s Crippled China Sales](https://247wallst.com/technology-3/2025/09/17/apples-crippled-china-sales/)
+- [Cryogenic Vacuum Pumps for Semiconductor Market 12.00% CAGR Growth with SHI Cryogenics Ulvac Brooks Leybold Trillium PHPK Vacree Edwards Vacuum](https://www.openpr.com/news/4188599/cryogenic-vacuum-pumps-for-semiconductor-market-12-00-cagr)
+- [Stocks in play: VersaBank](https://ca.finance.yahoo.com/news/stocks-play-versabank-131800878.html)
+- [Scams and frauds: Here are the tactics criminals use on you in the age of AI and cryptocurrencies](https://www.nationaltribune.com.au/scams-and-frauds-here-are-the-tactics-criminals-use-on-you-in-the-age-of-ai-and-cryptocurrencies/)
+- [China's DeepSeek says its hit AI model cost just US$294,000 to train](https://www.thestandard.com.hk/tech-and-startup/article/311947/Chinas-DeepSeek-says-its-hit-AI-model-cost-just-US294000-to-train)
+- [Nvidia to invest $5 bil. in Intel; companies will work together on AI infrastructure and PCs](https://www.koreatimes.co.kr/world/20250918/nvidia-to-invest-5-bil-in-intel-companies-will-work-together-on-ai-infrastructure-and-pcs)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
