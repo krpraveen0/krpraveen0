@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Cryogenic Vacuum Pumps for Semiconductor Market 12.00% CAGR Growth with SHI Cryogenics Ulvac Brooks Leybold Trillium PHPK Vacree Edwards Vacuum](https://www.openpr.com/news/4188599/cryogenic-vacuum-pumps-for-semiconductor-market-12-00-cagr)
-- [Stocks in play: VersaBank](https://ca.finance.yahoo.com/news/stocks-play-versabank-131800878.html)
-- [Scams and frauds: Here are the tactics criminals use on you in the age of AI and cryptocurrencies](https://www.nationaltribune.com.au/scams-and-frauds-here-are-the-tactics-criminals-use-on-you-in-the-age-of-ai-and-cryptocurrencies/)
-- [China's DeepSeek says its hit AI model cost just US$294,000 to train](https://www.thestandard.com.hk/tech-and-startup/article/311947/Chinas-DeepSeek-says-its-hit-AI-model-cost-just-US294000-to-train)
-- [Nvidia to invest $5 bil. in Intel; companies will work together on AI infrastructure and PCs](https://www.koreatimes.co.kr/world/20250918/nvidia-to-invest-5-bil-in-intel-companies-will-work-together-on-ai-infrastructure-and-pcs)
+- [Apple Stock Rises as iPhone 17 Goes on Sale. Investors, Though, Await Something Else.](https://www.barrons.com/articles/apple-stock-iphone-17-ai-artificial-intelligence-f0352e81)
+- [Kim Jong-Un Oversees Test Of New Combat Drones](https://iha.news/kim-jong-un-oversees-test-of-new-combat-drones/)
+- [Mornington Clinics Transform Pain Relief with AI Enhanced Massage Mornington](https://www.benzinga.com/pressreleases/25/09/g47760635/mornington-clinics-transform-pain-relief-with-ai-enhanced-massage-mornington)
+- [Mornington Clinics Transform Pain Relief with AI Enhanced Massage Mornington](https://www.globenewswire.com/news-release/2025/09/19/3153204/0/en/Mornington-Clinics-Transform-Pain-Relief-with-AI-Enhanced-Massage-Mornington.html)
+- [Mornington Clinics Transform Pain Relief with AI Enhanced Massage Mornington](https://www.globenewswire.com/fr/news-release/2025/09/19/3153204/0/en/Mornington-Clinics-Transform-Pain-Relief-with-AI-Enhanced-Massage-Mornington.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
