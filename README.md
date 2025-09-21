@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Apple Stock Rises as iPhone 17 Goes on Sale. Investors, Though, Await Something Else.](https://www.barrons.com/articles/apple-stock-iphone-17-ai-artificial-intelligence-f0352e81)
-- [Kim Jong-Un Oversees Test Of New Combat Drones](https://iha.news/kim-jong-un-oversees-test-of-new-combat-drones/)
-- [Mornington Clinics Transform Pain Relief with AI Enhanced Massage Mornington](https://www.benzinga.com/pressreleases/25/09/g47760635/mornington-clinics-transform-pain-relief-with-ai-enhanced-massage-mornington)
-- [Mornington Clinics Transform Pain Relief with AI Enhanced Massage Mornington](https://www.globenewswire.com/news-release/2025/09/19/3153204/0/en/Mornington-Clinics-Transform-Pain-Relief-with-AI-Enhanced-Massage-Mornington.html)
-- [Mornington Clinics Transform Pain Relief with AI Enhanced Massage Mornington](https://www.globenewswire.com/fr/news-release/2025/09/19/3153204/0/en/Mornington-Clinics-Transform-Pain-Relief-with-AI-Enhanced-Massage-Mornington.html)
+- [AI detects hidden signs of depression in students’ facial expressions](https://www.techexplorist.com/ai-detects-hidden-signs-depression-student-facial-expressions/101044/)
+- [15 Best Robotics Stocks to Buy Under $20](https://www.insidermonkey.com/blog/15-best-robotics-stocks-to-buy-under-20-1613016/)
+- [🚨 Real Madrid v Espanyol XIs: Xabi goes for a 4-2-4!](https://ca.sports.yahoo.com/news/real-madrid-v-espanyol-xis-132200148.html)
+- [Khalid Maqbool urges Karachi's business community to be partner on education](https://www.urdupoint.com/en/pakistan/khalid-maqbool-urges-karachis-business-commu-2047614.html)
+- [1 Dominant Enterprise AI Stock to Keep on Your Radar](https://biztoc.com/x/c5e133be061488fb)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
