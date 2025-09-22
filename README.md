@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI detects hidden signs of depression in students’ facial expressions](https://www.techexplorist.com/ai-detects-hidden-signs-depression-student-facial-expressions/101044/)
-- [15 Best Robotics Stocks to Buy Under $20](https://www.insidermonkey.com/blog/15-best-robotics-stocks-to-buy-under-20-1613016/)
-- [🚨 Real Madrid v Espanyol XIs: Xabi goes for a 4-2-4!](https://ca.sports.yahoo.com/news/real-madrid-v-espanyol-xis-132200148.html)
-- [Khalid Maqbool urges Karachi's business community to be partner on education](https://www.urdupoint.com/en/pakistan/khalid-maqbool-urges-karachis-business-commu-2047614.html)
-- [1 Dominant Enterprise AI Stock to Keep on Your Radar](https://biztoc.com/x/c5e133be061488fb)
+- [15 Best Biotech Penny Stocks to Invest in Right Now](https://www.insidermonkey.com/blog/15-best-biotech-penny-stocks-to-invest-in-right-now-1613059/)
+- [Arthur M. Cohen & Associates LLC Trims Position in Salesforce Inc. $CRM](https://www.tickerreport.com/banking-finance/13161040/arthur-m-cohen-associates-llc-trims-position-in-salesforce-inc-crm.html)
+- [Mark Zuckerberg agrees with Sam Altman on possible AI bubble, explains reason behind Meta's aggressive investments](https://www.livemint.com/technology/tech-news/mark-zuckerberg-agrees-with-sam-altman-on-impending-ai-bubble-but-justifies-metas-spending-if-we-end-up-misspending-11758456182356.html)
+- [😱Will Dembélé miss out? PSG v OM clashes with Ballon d'Or ceremony](https://ca.sports.yahoo.com/news/demb-l-miss-psg-v-132200437.html)
+- [Gilead Sciences, Inc. (GILD) Expands U.S. Manufacturing Capacity With $32B Investment Through 2030](https://www.insidermonkey.com/blog/gilead-sciences-inc-gild-expands-u-s-manufacturing-capacity-with-32b-investment-through-2030-1612872/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
