@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [15 Best Biotech Penny Stocks to Invest in Right Now](https://www.insidermonkey.com/blog/15-best-biotech-penny-stocks-to-invest-in-right-now-1613059/)
-- [Arthur M. Cohen & Associates LLC Trims Position in Salesforce Inc. $CRM](https://www.tickerreport.com/banking-finance/13161040/arthur-m-cohen-associates-llc-trims-position-in-salesforce-inc-crm.html)
-- [Mark Zuckerberg agrees with Sam Altman on possible AI bubble, explains reason behind Meta's aggressive investments](https://www.livemint.com/technology/tech-news/mark-zuckerberg-agrees-with-sam-altman-on-impending-ai-bubble-but-justifies-metas-spending-if-we-end-up-misspending-11758456182356.html)
-- [😱Will Dembélé miss out? PSG v OM clashes with Ballon d'Or ceremony](https://ca.sports.yahoo.com/news/demb-l-miss-psg-v-132200437.html)
-- [Gilead Sciences, Inc. (GILD) Expands U.S. Manufacturing Capacity With $32B Investment Through 2030](https://www.insidermonkey.com/blog/gilead-sciences-inc-gild-expands-u-s-manufacturing-capacity-with-32b-investment-through-2030-1612872/)
+- [📜 Real Madrid squad to face Levante: Huijsen returns](https://ca.sports.yahoo.com/news/real-madrid-squad-face-levante-131800886.html)
+- [US government approves Meta's LLaMA for official use](https://www.newsbytesapp.com/news/science/us-government-can-now-use-meta-s-ai-tool-llama/story)
+- [DeepSeek R1 Safe AI model launched by Huawei with focus on safety, dodging politics](https://www.businesstoday.in/technology/news/story/deepseek-r1-safe-ai-model-launched-by-huawei-with-focus-on-safety-dodging-politics-495157-2025-09-22)
+- [How US-UK tech deal could yield significant benefits for the British public – expert Q&A](https://ca.news.yahoo.com/us-uk-tech-deal-could-131620332.html)
+- [How US-UK tech deal could yield significant benefits for the British public – expert Q&A](https://theconversation.com/how-us-uk-tech-deal-could-yield-significant-benefits-for-the-british-public-expert-qanda-265707)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
