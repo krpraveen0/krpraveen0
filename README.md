@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [📜 Real Madrid squad to face Levante: Huijsen returns](https://ca.sports.yahoo.com/news/real-madrid-squad-face-levante-131800886.html)
-- [US government approves Meta's LLaMA for official use](https://www.newsbytesapp.com/news/science/us-government-can-now-use-meta-s-ai-tool-llama/story)
-- [DeepSeek R1 Safe AI model launched by Huawei with focus on safety, dodging politics](https://www.businesstoday.in/technology/news/story/deepseek-r1-safe-ai-model-launched-by-huawei-with-focus-on-safety-dodging-politics-495157-2025-09-22)
-- [How US-UK tech deal could yield significant benefits for the British public – expert Q&A](https://ca.news.yahoo.com/us-uk-tech-deal-could-131620332.html)
-- [How US-UK tech deal could yield significant benefits for the British public – expert Q&A](https://theconversation.com/how-us-uk-tech-deal-could-yield-significant-benefits-for-the-british-public-expert-qanda-265707)
+- [Software Development Services: Smart Solutions for a Future-Ready Enterprise](https://techbullion.com/software-development-services-smart-solutions-for-a-future-ready-enterprise/)
+- [How AI is helping the wine industry](https://iblnews.org/how-ai-is-helping-the-wine-industry/)
+- [BigBear.ai and SMX to Enhance Maritime Domain Awareness for U.S. Navy 4th Fleet at UNITAS 2025](https://www.postregister.com/businessreport/government/bigbear-ai-and-smx-to-enhance-maritime-domain-awareness-for-u-s-navy-4th-fleet/article_82b5db73-9cd5-5559-b516-79d82ae8a198.html)
+- [BigBear.ai and SMX to Enhance Maritime Domain Awareness for U.S. Navy 4th Fleet at UNITAS 2025](https://www.hastingstribune.com/ap/business/bigbear-ai-and-smx-to-enhance-maritime-domain-awareness-for-u-s-navy-4th-fleet/article_bf1068c2-06a8-52f8-becc-98fe8e0624a9.html)
+- [Retired tennis star Rafael Nadal alerts about fake videos of him offering financial advice](https://www.chicagotribune.com/2025/09/23/rafael-nadal-fake-video-financial-advice/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
