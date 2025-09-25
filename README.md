@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Software Development Services: Smart Solutions for a Future-Ready Enterprise](https://techbullion.com/software-development-services-smart-solutions-for-a-future-ready-enterprise/)
-- [How AI is helping the wine industry](https://iblnews.org/how-ai-is-helping-the-wine-industry/)
-- [BigBear.ai and SMX to Enhance Maritime Domain Awareness for U.S. Navy 4th Fleet at UNITAS 2025](https://www.postregister.com/businessreport/government/bigbear-ai-and-smx-to-enhance-maritime-domain-awareness-for-u-s-navy-4th-fleet/article_82b5db73-9cd5-5559-b516-79d82ae8a198.html)
-- [BigBear.ai and SMX to Enhance Maritime Domain Awareness for U.S. Navy 4th Fleet at UNITAS 2025](https://www.hastingstribune.com/ap/business/bigbear-ai-and-smx-to-enhance-maritime-domain-awareness-for-u-s-navy-4th-fleet/article_bf1068c2-06a8-52f8-becc-98fe8e0624a9.html)
-- [Retired tennis star Rafael Nadal alerts about fake videos of him offering financial advice](https://www.chicagotribune.com/2025/09/23/rafael-nadal-fake-video-financial-advice/)
+- [Beyond the Big Four: Enriching Nigeria’s AI Language Diversity](https://dailytrust.com/beyond-the-big-four-enriching-nigerias-ai-language-diversity/)
+- [Fortifying pharmaceutical innovation, from laboratory to clinic](https://www.independent.co.uk/news/business/business-reporter/pharmaceutical-innovation-laboratory-clinic-medicine-drugs-b2831173.html)
+- [Revolutionising retail: how AI-powered insights drive smarter decisions](https://www.independent.co.uk/news/business/business-reporter/retail-ai-shops-data-customers-b2830900.html)
+- [Artificial Intelligence For IT Operations Platform Market Segmentation Analysis by Application, Type, and Key Players-IBM Watson, Google, ServiceNow, AppDynamics, BMC Software](https://www.openpr.com/news/4196272/artificial-intelligence-for-it-operations-platform-market)
+- [China's Alibaba teams up with Nvidia on AI robot tech](https://business.inquirer.net/548973/chinas-alibaba-teams-up-with-nvidia-on-ai-robot-tech)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
