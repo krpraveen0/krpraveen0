@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Beyond the Big Four: Enriching Nigeria’s AI Language Diversity](https://dailytrust.com/beyond-the-big-four-enriching-nigerias-ai-language-diversity/)
-- [Fortifying pharmaceutical innovation, from laboratory to clinic](https://www.independent.co.uk/news/business/business-reporter/pharmaceutical-innovation-laboratory-clinic-medicine-drugs-b2831173.html)
-- [Revolutionising retail: how AI-powered insights drive smarter decisions](https://www.independent.co.uk/news/business/business-reporter/retail-ai-shops-data-customers-b2830900.html)
-- [Artificial Intelligence For IT Operations Platform Market Segmentation Analysis by Application, Type, and Key Players-IBM Watson, Google, ServiceNow, AppDynamics, BMC Software](https://www.openpr.com/news/4196272/artificial-intelligence-for-it-operations-platform-market)
-- [China's Alibaba teams up with Nvidia on AI robot tech](https://business.inquirer.net/548973/chinas-alibaba-teams-up-with-nvidia-on-ai-robot-tech)
+- [Revolving Doors Market to Exhibit Strong Growth with Increasing Emphasis on Energy Efficiency and New Architectural Styles](https://www.openpr.com/news/4198348/revolving-doors-market-to-exhibit-strong-growth-with-increasing)
+- [Gen Z protests brought about change in Nepal via the powers—and perils—of social media](https://phys.org/news/2025-09-gen-protests-brought-nepal-powers.html)
+- [CobbleStone® to Showcase Contract Management Innovation at 2025 ACC Annual Meeting in Philadelphia](https://www.prnewswire.com/news-releases/cobblestone-to-showcase-contract-management-innovation-at-2025-acc-annual-meeting-in-philadelphia-302566348.html)
+- [New SAS Retrieval Agent Manager supercharges generative and agentic AI](https://www.prnewswire.com/news-releases/new-sas-retrieval-agent-manager-supercharges-generative-and-agentic-ai-302566783.html)
+- [Business News | Sarala Birla University to Host Eastern India's First Center of Excellence for Immersive Nursing Experience in Partnership with MediSim VR](https://www.latestly.com/agency-news/business-news-sarala-birla-university-to-host-eastern-indias-first-center-of-excellence-for-immersive-nursing-experience-in-partnership-with-medisim-vr-7129622.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
