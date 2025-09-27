@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Revolving Doors Market to Exhibit Strong Growth with Increasing Emphasis on Energy Efficiency and New Architectural Styles](https://www.openpr.com/news/4198348/revolving-doors-market-to-exhibit-strong-growth-with-increasing)
-- [Gen Z protests brought about change in Nepal via the powers—and perils—of social media](https://phys.org/news/2025-09-gen-protests-brought-nepal-powers.html)
-- [CobbleStone® to Showcase Contract Management Innovation at 2025 ACC Annual Meeting in Philadelphia](https://www.prnewswire.com/news-releases/cobblestone-to-showcase-contract-management-innovation-at-2025-acc-annual-meeting-in-philadelphia-302566348.html)
-- [New SAS Retrieval Agent Manager supercharges generative and agentic AI](https://www.prnewswire.com/news-releases/new-sas-retrieval-agent-manager-supercharges-generative-and-agentic-ai-302566783.html)
-- [Business News | Sarala Birla University to Host Eastern India's First Center of Excellence for Immersive Nursing Experience in Partnership with MediSim VR](https://www.latestly.com/agency-news/business-news-sarala-birla-university-to-host-eastern-indias-first-center-of-excellence-for-immersive-nursing-experience-in-partnership-with-medisim-vr-7129622.html)
+- [Samsung’s ‘Super Big Celebrations’ Festive Offer: Get a Free Soundbar Worth Rs. 92,990](https://www.analyticsinsight.net/gadgets/samsungs-super-big-celebrations-festive-offer-get-a-free-soundbar-worth-rs-92990)
+- [ChatGPT Pulse: এবার আর প্রশ্ন নয়, নিজে থেকেই উত্তর দেবে আপনার AI অ্যাসিস্ট্যান্ট!](https://tv9bangla.com/business/chatgpt-pulse-no-more-questions-your-ai-assistant-will-answer-them-automatically-1245321.html)
+- [Why has Microsoft terminated Israeli spy agency's access to its cloud, AI technology? Investigative report makes SHOCKING revelation](https://www.dnaindia.com/world/report-why-has-microsoft-terminated-israeli-spy-agency-s-access-to-its-cloud-ai-technology-investigative-report-makes-shocking-revelation-3181795)
+- [Transform Static Images into Dynamic Videos with Somake AI](https://techbullion.com/transform-static-images-into-dynamic-videos-with-somake-ai/)
+- [Bill Gross on the Big Questions of Our Time](https://www.bloomberg.com/news/newsletters/2025-09-26/bill-gross-on-the-big-questions-of-our-time)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
