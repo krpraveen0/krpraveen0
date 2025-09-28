@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Samsung’s ‘Super Big Celebrations’ Festive Offer: Get a Free Soundbar Worth Rs. 92,990](https://www.analyticsinsight.net/gadgets/samsungs-super-big-celebrations-festive-offer-get-a-free-soundbar-worth-rs-92990)
-- [ChatGPT Pulse: এবার আর প্রশ্ন নয়, নিজে থেকেই উত্তর দেবে আপনার AI অ্যাসিস্ট্যান্ট!](https://tv9bangla.com/business/chatgpt-pulse-no-more-questions-your-ai-assistant-will-answer-them-automatically-1245321.html)
-- [Why has Microsoft terminated Israeli spy agency's access to its cloud, AI technology? Investigative report makes SHOCKING revelation](https://www.dnaindia.com/world/report-why-has-microsoft-terminated-israeli-spy-agency-s-access-to-its-cloud-ai-technology-investigative-report-makes-shocking-revelation-3181795)
-- [Transform Static Images into Dynamic Videos with Somake AI](https://techbullion.com/transform-static-images-into-dynamic-videos-with-somake-ai/)
-- [Bill Gross on the Big Questions of Our Time](https://www.bloomberg.com/news/newsletters/2025-09-26/bill-gross-on-the-big-questions-of-our-time)
+- [Arizona State University Tops U.S. News & World Report's Most Innovative Schools List for 11th Year in a Row](https://hoodline.com/2025/09/arizona-state-university-tops-u-s-news-world-report-s-most-innovative-schools-list-for-11th-year-in-a-row/)
+- [Accenture PLC $ACN Shares Sold by Congress Asset Management Co.](https://www.themarketsdaily.com/2025/09/27/accenture-plc-acn-shares-sold-by-congress-asset-management-co.html)
+- [Bank Pictet & Cie Europe AG Has $436,000 Stake in Accenture PLC $ACN](https://www.thelincolnianonline.com/2025/09/27/bank-pictet-cie-europe-ag-has-436000-stake-in-accenture-plc-acn.html)
+- [ST Germain D J Co. Inc. Has $734,000 Stock Position in Accenture PLC $ACN](https://www.dailypolitical.com/2025/09/27/st-germain-d-j-co-inc-has-734000-stock-position-in-accenture-plc-acn.html)
+- [Western Financial Corp CA Sells 34 Shares of ServiceNow, Inc. $NOW](https://www.thelincolnianonline.com/2025/09/27/western-financial-corp-ca-sells-34-shares-of-servicenow-inc-now.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
