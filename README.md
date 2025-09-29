@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Arizona State University Tops U.S. News & World Report's Most Innovative Schools List for 11th Year in a Row](https://hoodline.com/2025/09/arizona-state-university-tops-u-s-news-world-report-s-most-innovative-schools-list-for-11th-year-in-a-row/)
-- [Accenture PLC $ACN Shares Sold by Congress Asset Management Co.](https://www.themarketsdaily.com/2025/09/27/accenture-plc-acn-shares-sold-by-congress-asset-management-co.html)
-- [Bank Pictet & Cie Europe AG Has $436,000 Stake in Accenture PLC $ACN](https://www.thelincolnianonline.com/2025/09/27/bank-pictet-cie-europe-ag-has-436000-stake-in-accenture-plc-acn.html)
-- [ST Germain D J Co. Inc. Has $734,000 Stock Position in Accenture PLC $ACN](https://www.dailypolitical.com/2025/09/27/st-germain-d-j-co-inc-has-734000-stock-position-in-accenture-plc-acn.html)
-- [Western Financial Corp CA Sells 34 Shares of ServiceNow, Inc. $NOW](https://www.thelincolnianonline.com/2025/09/27/western-financial-corp-ca-sells-34-shares-of-servicenow-inc-now.html)
+- ['Truly insane': Trump posts bizarre QAnon claim he will heal people with alien 'medbeds'](https://www.rawstory.com/medbed-trump/)
+- [Making amends: A friendship forged from the Unabomber's violence](https://www.cbsnews.com/video/making-amends-a-friendship-forged-from-the-unabombers-violence/)
+- [Symmetry Partners LLC Buys 409 Shares of Upstart Holdings, Inc. $UPST](https://www.dailypolitical.com/2025/09/28/symmetry-partners-llc-buys-409-shares-of-upstart-holdings-inc-upst.html)
+- [1,395 Shares in Snowflake Inc. $SNOW Bought by Symmetry Partners LLC](https://www.themarketsdaily.com/2025/09/28/1395-shares-in-snowflake-inc-snow-bought-by-symmetry-partners-llc.html)
+- [Symmetry Partners LLC Purchases 409 Shares of Upstart Holdings, Inc. $UPST](https://www.watchlistnews.com/symmetry-partners-llc-purchases-409-shares-of-upstart-holdings-inc-upst/10812995.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
