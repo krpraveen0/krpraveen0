@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- ['Truly insane': Trump posts bizarre QAnon claim he will heal people with alien 'medbeds'](https://www.rawstory.com/medbed-trump/)
-- [Making amends: A friendship forged from the Unabomber's violence](https://www.cbsnews.com/video/making-amends-a-friendship-forged-from-the-unabombers-violence/)
-- [Symmetry Partners LLC Buys 409 Shares of Upstart Holdings, Inc. $UPST](https://www.dailypolitical.com/2025/09/28/symmetry-partners-llc-buys-409-shares-of-upstart-holdings-inc-upst.html)
-- [1,395 Shares in Snowflake Inc. $SNOW Bought by Symmetry Partners LLC](https://www.themarketsdaily.com/2025/09/28/1395-shares-in-snowflake-inc-snow-bought-by-symmetry-partners-llc.html)
-- [Symmetry Partners LLC Purchases 409 Shares of Upstart Holdings, Inc. $UPST](https://www.watchlistnews.com/symmetry-partners-llc-purchases-409-shares-of-upstart-holdings-inc-upst/10812995.html)
+- [BSF Deploys Decision Support System For Modern Border Management](https://www.republicworld.com/india/bsf-deploys-decision-support-system-for-modern-border-management)
+- [DeepSeek's new AI model paves way for its next-gen architecture](https://www.newsbytesapp.com/news/science/china-s-deepseek-launches-new-ai-model-slashes-api-prices/story)
+- [Emirati Real Estate Business Incubator launched to empower Emirati talent to build leading brokerage firms](https://www.zawya.com/en/press-release/government-news/emirati-real-estate-business-incubator-launched-to-empower-emirati-talent-to-build-leading-brokerage-firms-bpsgmuee)
+- [Walmart’s 3-Year AI Plan for Company’s Future](https://247wallst.com/investing/2025/09/29/walmarts-3-year-ai-plan-for-companys-future/)
+- [Warsaw’s Expeditions secures €100M+ for Fund II with NATO backing to fuel Europe’s security and defence startups](https://siliconcanals.com/expeditions-secures-100m/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
