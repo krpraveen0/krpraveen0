@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 6.1 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 6.2 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [BSF Deploys Decision Support System For Modern Border Management](https://www.republicworld.com/india/bsf-deploys-decision-support-system-for-modern-border-management)
-- [DeepSeek's new AI model paves way for its next-gen architecture](https://www.newsbytesapp.com/news/science/china-s-deepseek-launches-new-ai-model-slashes-api-prices/story)
-- [Emirati Real Estate Business Incubator launched to empower Emirati talent to build leading brokerage firms](https://www.zawya.com/en/press-release/government-news/emirati-real-estate-business-incubator-launched-to-empower-emirati-talent-to-build-leading-brokerage-firms-bpsgmuee)
-- [Walmart’s 3-Year AI Plan for Company’s Future](https://247wallst.com/investing/2025/09/29/walmarts-3-year-ai-plan-for-companys-future/)
-- [Warsaw’s Expeditions secures €100M+ for Fund II with NATO backing to fuel Europe’s security and defence startups](https://siliconcanals.com/expeditions-secures-100m/)
+- [Simulations Plus (NASDAQ:SLP) Now Covered by Analysts at TD Cowen](https://www.watchlistnews.com/simulations-plus-nasdaqslp-now-covered-by-analysts-at-td-cowen/10816052.html)
+- [Simulations Plus (NASDAQ:SLP) Now Covered by TD Cowen](https://www.tickerreport.com/banking-finance/13174580/simulations-plus-nasdaqslp-now-covered-by-td-cowen.html)
+- [Nuvei Launches First AI Integration Agent to Accelerate Client Onboarding](https://www.prnewswire.com/news-releases/nuvei-launches-first-ai-integration-agent-to-accelerate-client-onboarding-302570951.html)
+- [Sandisk starts operations at new Japanese plant, building flash memory for AI-driven storage demand](https://seekingalpha.com/news/4500195-sandisk-starts-operations-at-new-japanese-plant-building-flash-memory-for-ai-driven-storage?feed_item_type=news)
+- [Terra Innovatum Announces Strategic Alliance with Defense Engineering Center, RAIT 88, to ...](https://www.postregister.com/businessreport/technology/terra-innovatum-announces-strategic-alliance-with-defense-engineering-center-rait-88-to/article_a6915587-8bf5-5352-a2af-d66c46c1ed94.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
