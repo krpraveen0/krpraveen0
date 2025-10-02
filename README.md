@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Simulations Plus (NASDAQ:SLP) Now Covered by Analysts at TD Cowen](https://www.watchlistnews.com/simulations-plus-nasdaqslp-now-covered-by-analysts-at-td-cowen/10816052.html)
-- [Simulations Plus (NASDAQ:SLP) Now Covered by TD Cowen](https://www.tickerreport.com/banking-finance/13174580/simulations-plus-nasdaqslp-now-covered-by-td-cowen.html)
-- [Nuvei Launches First AI Integration Agent to Accelerate Client Onboarding](https://www.prnewswire.com/news-releases/nuvei-launches-first-ai-integration-agent-to-accelerate-client-onboarding-302570951.html)
-- [Sandisk starts operations at new Japanese plant, building flash memory for AI-driven storage demand](https://seekingalpha.com/news/4500195-sandisk-starts-operations-at-new-japanese-plant-building-flash-memory-for-ai-driven-storage?feed_item_type=news)
-- [Terra Innovatum Announces Strategic Alliance with Defense Engineering Center, RAIT 88, to ...](https://www.postregister.com/businessreport/technology/terra-innovatum-announces-strategic-alliance-with-defense-engineering-center-rait-88-to/article_a6915587-8bf5-5352-a2af-d66c46c1ed94.html)
+- [Business News | Miss Universe Partners with Zetrix to Launch Global Blockchain Voting App](https://www.latestly.com/agency-news/business-news-miss-universe-partners-with-zetrix-to-launch-global-blockchain-voting-app-7139445.html)
+- [Carestream Introduces New Software Update to Boost Diagnostic Accuracy](https://www.benzinga.com/pressreleases/25/10/g47966993/carestream-introduces-new-software-update-to-boost-diagnostic-accuracy)
+- [OpenAI unveils Sora app to rival TikTok, launches next-gen Sora 2 model](https://www.ripplesnigeria.com/openai-unveils-sora-app-to-rival-tiktok-launches-next-gen-sora-2-model/)
+- [Workday Completes Acquisition of Paradox](https://www.prnewswire.com/news-releases/workday-completes-acquisition-of-paradox-302571738.html)
+- [NextNRG Expands Mobile Fueling Operations to Fort Myers, Florida](https://www.globenewswire.com/fr/news-release/2025/10/01/3159628/0/en/NextNRG-Expands-Mobile-Fueling-Operations-to-Fort-Myers-Florida.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
