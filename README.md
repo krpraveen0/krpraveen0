@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Business News | Miss Universe Partners with Zetrix to Launch Global Blockchain Voting App](https://www.latestly.com/agency-news/business-news-miss-universe-partners-with-zetrix-to-launch-global-blockchain-voting-app-7139445.html)
-- [Carestream Introduces New Software Update to Boost Diagnostic Accuracy](https://www.benzinga.com/pressreleases/25/10/g47966993/carestream-introduces-new-software-update-to-boost-diagnostic-accuracy)
-- [OpenAI unveils Sora app to rival TikTok, launches next-gen Sora 2 model](https://www.ripplesnigeria.com/openai-unveils-sora-app-to-rival-tiktok-launches-next-gen-sora-2-model/)
-- [Workday Completes Acquisition of Paradox](https://www.prnewswire.com/news-releases/workday-completes-acquisition-of-paradox-302571738.html)
-- [NextNRG Expands Mobile Fueling Operations to Fort Myers, Florida](https://www.globenewswire.com/fr/news-release/2025/10/01/3159628/0/en/NextNRG-Expands-Mobile-Fueling-Operations-to-Fort-Myers-Florida.html)
+- [Microsoft invests $33B in cloud to boost AI computing power](https://www.newsbytesapp.com/news/science/microsoft-invests-33b-in-neocloud-companies-to-boost-ai-capacity/story)
+- [Dutch tech giant ASML's executive recalls company CEO meeting PM Modi for two hours, says "not always easy" to meet EU politicians](https://www.moneycontrol.com/news/business/dutch-tech-giant-asml-s-executive-recalls-company-ceo-meeting-pm-modi-for-two-hours-says-not-always-easy-to-meet-eu-politicians-13594456.html)
+- [Why Monday.com (MNDY) Could Be the Discounted AI Name to Trade Now](https://www.barchart.com/story/news/35190076/why-monday-com-mndy-could-be-the-discounted-ai-name-to-trade-now)
+- [SEALSQ CEO to Deliver Opening Keynote at IQT Quantum + AI Summit: “AI Meets Quantum, Building Unbreakable Post-Quantum Security” in New York, on October 20th](https://www.globenewswire.com/news-release/2025/10/02/3160435/0/en/SEALSQ-CEO-to-Deliver-Opening-Keynote-at-IQT-Quantum-AI-Summit-AI-Meets-Quantum-Building-Unbreakable-Post-Quantum-Security-in-New-York-on-October-20th.html)
+- [SEALSQ CEO to Deliver Opening Keynote at IQT Quantum + AI Summit: “AI Meets Quantum, Building Unbreakable Post-Quantum Security” in New York, on October 20th](https://www.globenewswire.com/fr/news-release/2025/10/02/3160435/0/en/SEALSQ-CEO-to-Deliver-Opening-Keynote-at-IQT-Quantum-AI-Summit-AI-Meets-Quantum-Building-Unbreakable-Post-Quantum-Security-in-New-York-on-October-20th.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
