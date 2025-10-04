@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Microsoft invests $33B in cloud to boost AI computing power](https://www.newsbytesapp.com/news/science/microsoft-invests-33b-in-neocloud-companies-to-boost-ai-capacity/story)
-- [Dutch tech giant ASML's executive recalls company CEO meeting PM Modi for two hours, says "not always easy" to meet EU politicians](https://www.moneycontrol.com/news/business/dutch-tech-giant-asml-s-executive-recalls-company-ceo-meeting-pm-modi-for-two-hours-says-not-always-easy-to-meet-eu-politicians-13594456.html)
-- [Why Monday.com (MNDY) Could Be the Discounted AI Name to Trade Now](https://www.barchart.com/story/news/35190076/why-monday-com-mndy-could-be-the-discounted-ai-name-to-trade-now)
-- [SEALSQ CEO to Deliver Opening Keynote at IQT Quantum + AI Summit: “AI Meets Quantum, Building Unbreakable Post-Quantum Security” in New York, on October 20th](https://www.globenewswire.com/news-release/2025/10/02/3160435/0/en/SEALSQ-CEO-to-Deliver-Opening-Keynote-at-IQT-Quantum-AI-Summit-AI-Meets-Quantum-Building-Unbreakable-Post-Quantum-Security-in-New-York-on-October-20th.html)
-- [SEALSQ CEO to Deliver Opening Keynote at IQT Quantum + AI Summit: “AI Meets Quantum, Building Unbreakable Post-Quantum Security” in New York, on October 20th](https://www.globenewswire.com/fr/news-release/2025/10/02/3160435/0/en/SEALSQ-CEO-to-Deliver-Opening-Keynote-at-IQT-Quantum-AI-Summit-AI-Meets-Quantum-Building-Unbreakable-Post-Quantum-Security-in-New-York-on-October-20th.html)
+- [Hong Kong to install surveillance cameras with AI facial recognition](https://www.columbiagorgenews.com/news/national/hong-kong-to-install-surveillance-cameras-with-ai-facial-recognition/article_06c45aba-48bb-569a-8cce-d068def25e69.html)
+- [Hong Kong to install surveillance cameras with AI facial recognition](https://www.romesentinel.com/ce/news/hong-kong-to-install-surveillance-cameras-with-ai-facial-recognition/article_7dd5142f-5b20-57cd-9e1c-30b0018a5640.html)
+- [Hong Kong to install surveillance cameras with AI facial recognition](https://www.newsargus.com/news/national/hong-kong-to-install-surveillance-cameras-with-ai-facial-recognition/article_d846f8fd-970d-5df5-aa7c-f667772bd83d.html)
+- [Hong Kong to install surveillance cameras with AI facial recognition](https://www.mtdemocrat.com/news/national/hong-kong-to-install-surveillance-cameras-with-ai-facial-recognition/article_a5fcc212-ef19-561f-8865-83e9c5819c03.html)
+- [Hong Kong to install surveillance cameras with AI facial recognition](https://www.griffindailynews.com/news/national/hong-kong-to-install-surveillance-cameras-with-ai-facial-recognition/article_04e95062-1ea1-5ef0-9fdb-5d9a677349c9.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
