@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Hong Kong to install surveillance cameras with AI facial recognition](https://www.columbiagorgenews.com/news/national/hong-kong-to-install-surveillance-cameras-with-ai-facial-recognition/article_06c45aba-48bb-569a-8cce-d068def25e69.html)
-- [Hong Kong to install surveillance cameras with AI facial recognition](https://www.romesentinel.com/ce/news/hong-kong-to-install-surveillance-cameras-with-ai-facial-recognition/article_7dd5142f-5b20-57cd-9e1c-30b0018a5640.html)
-- [Hong Kong to install surveillance cameras with AI facial recognition](https://www.newsargus.com/news/national/hong-kong-to-install-surveillance-cameras-with-ai-facial-recognition/article_d846f8fd-970d-5df5-aa7c-f667772bd83d.html)
-- [Hong Kong to install surveillance cameras with AI facial recognition](https://www.mtdemocrat.com/news/national/hong-kong-to-install-surveillance-cameras-with-ai-facial-recognition/article_a5fcc212-ef19-561f-8865-83e9c5819c03.html)
-- [Hong Kong to install surveillance cameras with AI facial recognition](https://www.griffindailynews.com/news/national/hong-kong-to-install-surveillance-cameras-with-ai-facial-recognition/article_04e95062-1ea1-5ef0-9fdb-5d9a677349c9.html)
+- [4,646 Shares in Snowflake Inc. $SNOW Purchased by Fairvoy Private Wealth LLC](https://zolmax.com/investing/4646-shares-in-snowflake-inc-snow-purchased-by-fairvoy-private-wealth-llc/11596191.html)
+- [ICE wants to build a 24/7 social media surveillance team](https://arstechnica.com/security/2025/10/ice-wants-to-build-a-24-7-social-media-surveillance-team/)
+- [How the Booming Travel and Tourism Industry is Set to Boost Global Employment with Millions of New Jobs](https://www.travelandtourworld.com/news/article/how-the-booming-travel-and-tourism-industry-is-set-to-boost-global-employment-with-millions-of-new-jobs/)
+- [Digital Realty Trust, Inc. $DLR Stock Holdings Trimmed by Franklin Street Advisors Inc. NC](https://zolmax.com/investing/digital-realty-trust-inc-dlr-stock-holdings-trimmed-by-franklin-street-advisors-inc-nc/11596187.html)
+- [AI की कम्प्युटर सायन्स? कशात करावे करिअर? जाणून घ्या](https://www.navarashtra.com/career/ai-or-computer-science-in-marathi-1010936.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
