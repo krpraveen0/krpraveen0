@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [4,646 Shares in Snowflake Inc. $SNOW Purchased by Fairvoy Private Wealth LLC](https://zolmax.com/investing/4646-shares-in-snowflake-inc-snow-purchased-by-fairvoy-private-wealth-llc/11596191.html)
-- [ICE wants to build a 24/7 social media surveillance team](https://arstechnica.com/security/2025/10/ice-wants-to-build-a-24-7-social-media-surveillance-team/)
-- [How the Booming Travel and Tourism Industry is Set to Boost Global Employment with Millions of New Jobs](https://www.travelandtourworld.com/news/article/how-the-booming-travel-and-tourism-industry-is-set-to-boost-global-employment-with-millions-of-new-jobs/)
-- [Digital Realty Trust, Inc. $DLR Stock Holdings Trimmed by Franklin Street Advisors Inc. NC](https://zolmax.com/investing/digital-realty-trust-inc-dlr-stock-holdings-trimmed-by-franklin-street-advisors-inc-nc/11596187.html)
-- [AI की कम्प्युटर सायन्स? कशात करावे करिअर? जाणून घ्या](https://www.navarashtra.com/career/ai-or-computer-science-in-marathi-1010936.html)
+- [Foxconn's Q3 results: Revenue jumps 11% YoY to $67.7B](https://www.newsbytesapp.com/news/business/foxconn-s-record-q3-revenue-falls-short-of-market-expectations/story)
+- [2 Canadian Stocks That Could Power Your Portfolio for Decades](https://www.fool.ca/2025/10/05/2-canadian-stocks-that-could-power-your-portfolio-for-decades-2/)
+- [Predictive Oncology Inc. (NASDAQ:POAI) Short Interest Update](https://www.dailypolitical.com/2025/10/05/predictive-oncology-inc-nasdaqpoai-short-interest-update.html)
+- [Predictive Oncology Inc. (NASDAQ:POAI) Short Interest Update](https://www.tickerreport.com/banking-finance/13182163/predictive-oncology-inc-nasdaqpoai-short-interest-update.html)
+- [Olistico Wealth LLC Acquires 570 Shares of Snowflake Inc. $SNOW](https://www.thelincolnianonline.com/2025/10/05/olistico-wealth-llc-acquires-570-shares-of-snowflake-inc-snow.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
