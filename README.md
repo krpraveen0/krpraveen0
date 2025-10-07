@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Foxconn's Q3 results: Revenue jumps 11% YoY to $67.7B](https://www.newsbytesapp.com/news/business/foxconn-s-record-q3-revenue-falls-short-of-market-expectations/story)
-- [2 Canadian Stocks That Could Power Your Portfolio for Decades](https://www.fool.ca/2025/10/05/2-canadian-stocks-that-could-power-your-portfolio-for-decades-2/)
-- [Predictive Oncology Inc. (NASDAQ:POAI) Short Interest Update](https://www.dailypolitical.com/2025/10/05/predictive-oncology-inc-nasdaqpoai-short-interest-update.html)
-- [Predictive Oncology Inc. (NASDAQ:POAI) Short Interest Update](https://www.tickerreport.com/banking-finance/13182163/predictive-oncology-inc-nasdaqpoai-short-interest-update.html)
-- [Olistico Wealth LLC Acquires 570 Shares of Snowflake Inc. $SNOW](https://www.thelincolnianonline.com/2025/10/05/olistico-wealth-llc-acquires-570-shares-of-snowflake-inc-snow.html)
+- [Qualifacts Unites 300+ Customers at 2025 Executive Summit and Customer Conference in Nashville](https://www.manilatimes.net/2025/10/06/tmt-newswire/globenewswire/qualifacts-unites-300-customers-at-2025-executive-summit-and-customer-conference-in-nashville/2195461)
+- [Solar energy is now the world's cheapest source of power, study finds](https://techxplore.com/news/2025-10-solar-energy-world-cheapest-source.html)
+- [The Tariff Opportunity for Medtech: Building the Supply Chain of the Future](https://medcitynews.com/2025/10/the-tariff-opportunity-for-medtech-building-the-supply-chain-of-the-future/)
+- [Huge new attraction launching in UK this month that could rival Science Museum and Natural History Museum](https://www.thesun.co.uk/travel/36922051/uk-attraction-rivals-science-natural-history-museums/)
+- [Huge new attraction launching in UK this month that could rival Science Museum and Natural History Museum](https://www.thescottishsun.co.uk/travel/15423400/uk-attraction-rivals-science-natural-history-museums/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
