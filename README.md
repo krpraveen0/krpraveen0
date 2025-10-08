@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Qualifacts Unites 300+ Customers at 2025 Executive Summit and Customer Conference in Nashville](https://www.manilatimes.net/2025/10/06/tmt-newswire/globenewswire/qualifacts-unites-300-customers-at-2025-executive-summit-and-customer-conference-in-nashville/2195461)
-- [Solar energy is now the world's cheapest source of power, study finds](https://techxplore.com/news/2025-10-solar-energy-world-cheapest-source.html)
-- [The Tariff Opportunity for Medtech: Building the Supply Chain of the Future](https://medcitynews.com/2025/10/the-tariff-opportunity-for-medtech-building-the-supply-chain-of-the-future/)
-- [Huge new attraction launching in UK this month that could rival Science Museum and Natural History Museum](https://www.thesun.co.uk/travel/36922051/uk-attraction-rivals-science-natural-history-museums/)
-- [Huge new attraction launching in UK this month that could rival Science Museum and Natural History Museum](https://www.thescottishsun.co.uk/travel/15423400/uk-attraction-rivals-science-natural-history-museums/)
+- [Over 60% higher education institutions permitting use of AI tools by students: Report](https://www.news9live.com/education-career/edu-news/over-60-higher-education-institutions-permitting-use-of-ai-tools-by-students-report-2895031)
+- [Autonomía a escala: PassiveLogic y Aroundtown se asocian para transformar el sector inmobiliario europeo](https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/autonom-a-a-escala-passivelogic-y-aroundtown-se-asocian-para-transformar-el-sector-inmobiliario-europeo/article_3c9105f9-abf5-57ef-a24a-1bbbcbb701c8.html)
+- [Autonomía a escala: PassiveLogic y Aroundtown se asocian para transformar el sector inmobiliario europeo](https://www.prnewswire.com/news-releases/autonomia-a-escala-passivelogic-y-aroundtown-se-asocian-para-transformar-el-sector-inmobiliario-europeo-302577083.html)
+- [Roadzen’s DrivebuddyAI Secures EU’s General Safety Regulation 2144 Compliance, Becomes the World’s Only Driver Monitoring System Validated Under Both Indian and EU Safety Standards](https://www.manilatimes.net/2025/10/07/tmt-newswire/globenewswire/roadzens-drivebuddyai-secures-eus-general-safety-regulation-2144-compliance-becomes-the-worlds-only-driver-monitoring-system-validated-under-both-indian-and-eu-safety-standards/2196187)
+- [PS6 Everything We KnowSo Far : Rumours, Release Date, Price & Specifications](https://www.geeky-gadgets.com/playstation-6-console-rumors/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
