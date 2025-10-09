@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Over 60% higher education institutions permitting use of AI tools by students: Report](https://www.news9live.com/education-career/edu-news/over-60-higher-education-institutions-permitting-use-of-ai-tools-by-students-report-2895031)
-- [Autonomía a escala: PassiveLogic y Aroundtown se asocian para transformar el sector inmobiliario europeo](https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/autonom-a-a-escala-passivelogic-y-aroundtown-se-asocian-para-transformar-el-sector-inmobiliario-europeo/article_3c9105f9-abf5-57ef-a24a-1bbbcbb701c8.html)
-- [Autonomía a escala: PassiveLogic y Aroundtown se asocian para transformar el sector inmobiliario europeo](https://www.prnewswire.com/news-releases/autonomia-a-escala-passivelogic-y-aroundtown-se-asocian-para-transformar-el-sector-inmobiliario-europeo-302577083.html)
-- [Roadzen’s DrivebuddyAI Secures EU’s General Safety Regulation 2144 Compliance, Becomes the World’s Only Driver Monitoring System Validated Under Both Indian and EU Safety Standards](https://www.manilatimes.net/2025/10/07/tmt-newswire/globenewswire/roadzens-drivebuddyai-secures-eus-general-safety-regulation-2144-compliance-becomes-the-worlds-only-driver-monitoring-system-validated-under-both-indian-and-eu-safety-standards/2196187)
-- [PS6 Everything We KnowSo Far : Rumours, Release Date, Price & Specifications](https://www.geeky-gadgets.com/playstation-6-console-rumors/)
+- [Starmer’s India visit to deepen cooperation in AI and emerging tech: Kanishka Narayan](https://www.easterneye.biz/keir-starmer-india-visit-artificial-intelligence/)
+- [FICCI Frames 2025: Kalli Purie says AI can make journalism more 'efficient and less monotonous'](https://www.livemint.com/technology/tech-news/ficci-frames-2025-kalli-purie-says-ai-can-make-journalism-more-efficient-and-less-monotonous-11759929428951.html)
+- [NITI Aayog calls for Mission Digital ShramSetu to make AI accessible for workers](https://www.theweek.in/wire-updates/business/2025/10/08/dcm90-biz-ai-niti.html)
+- [Intuitive expands AI and advanced imaging integration in Ion Endoluminal System](https://www.postregister.com/businessreport/healthcare/intuitive-expands-ai-and-advanced-imaging-integration-in-ion-endoluminal-system/article_2a22bab8-73a7-5f3f-b1cb-d776319f8979.html)
+- [Intuitive expands AI and advanced imaging integration in Ion Endoluminal System](https://www.hastingstribune.com/ap/business/intuitive-expands-ai-and-advanced-imaging-integration-in-ion-endoluminal-system/article_9f8c2cda-4c27-5b19-9241-81b749e9816e.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
