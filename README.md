@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Starmer’s India visit to deepen cooperation in AI and emerging tech: Kanishka Narayan](https://www.easterneye.biz/keir-starmer-india-visit-artificial-intelligence/)
-- [FICCI Frames 2025: Kalli Purie says AI can make journalism more 'efficient and less monotonous'](https://www.livemint.com/technology/tech-news/ficci-frames-2025-kalli-purie-says-ai-can-make-journalism-more-efficient-and-less-monotonous-11759929428951.html)
-- [NITI Aayog calls for Mission Digital ShramSetu to make AI accessible for workers](https://www.theweek.in/wire-updates/business/2025/10/08/dcm90-biz-ai-niti.html)
-- [Intuitive expands AI and advanced imaging integration in Ion Endoluminal System](https://www.postregister.com/businessreport/healthcare/intuitive-expands-ai-and-advanced-imaging-integration-in-ion-endoluminal-system/article_2a22bab8-73a7-5f3f-b1cb-d776319f8979.html)
-- [Intuitive expands AI and advanced imaging integration in Ion Endoluminal System](https://www.hastingstribune.com/ap/business/intuitive-expands-ai-and-advanced-imaging-integration-in-ion-endoluminal-system/article_9f8c2cda-4c27-5b19-9241-81b749e9816e.html)
+- [MilikiRumah Dorong Skema Pra KPR Dukung Program 3 Juta Rumah](https://ekbis.sindonews.com/read/1630585/34/milikirumah-dorong-skema-pra-kpr-dukung-program-3-juta-rumah-1760015401)
+- [5 Signs We’re in a Stock Market Bubble, and What Traders Can Do to Protect Their Portfolios Now](https://www.barchart.com/story/news/35339413/5-signs-were-in-a-stock-market-bubble-and-what-traders-can-do-to-protect-their-portfolios-now)
+- [CEO of America’s largest bank Jamie Dimon makes a grim prediction: Says more worried than others about AI investors as ...](https://timesofindia.indiatimes.com/technology/tech-news/ceo-of-americas-largest-bank-jamie-dimon-makes-a-grim-prediction-says-more-worried-than-others-about-ai-investors-as-/articleshow/124419046.cms)
+- [Balance Wins Tearsheet’s Most Innovative Payments Award 2025](https://www.hastingstribune.com/ap/business/balance-wins-tearsheet-s-most-innovative-payments-award-2025/article_a16ad40b-8929-5b01-9a3d-1f6df2f201b2.html)
+- [Intel outlines details of first PC chip made on its new manufacturing tech](http://economictimes.indiatimes.com/tech/technology/intel-outlines-details-of-first-pc-chip-made-on-its-new-manufacturing-tech/articleshow/124418998.cms)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
