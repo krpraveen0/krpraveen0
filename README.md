@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [MilikiRumah Dorong Skema Pra KPR Dukung Program 3 Juta Rumah](https://ekbis.sindonews.com/read/1630585/34/milikirumah-dorong-skema-pra-kpr-dukung-program-3-juta-rumah-1760015401)
-- [5 Signs We’re in a Stock Market Bubble, and What Traders Can Do to Protect Their Portfolios Now](https://www.barchart.com/story/news/35339413/5-signs-were-in-a-stock-market-bubble-and-what-traders-can-do-to-protect-their-portfolios-now)
-- [CEO of America’s largest bank Jamie Dimon makes a grim prediction: Says more worried than others about AI investors as ...](https://timesofindia.indiatimes.com/technology/tech-news/ceo-of-americas-largest-bank-jamie-dimon-makes-a-grim-prediction-says-more-worried-than-others-about-ai-investors-as-/articleshow/124419046.cms)
-- [Balance Wins Tearsheet’s Most Innovative Payments Award 2025](https://www.hastingstribune.com/ap/business/balance-wins-tearsheet-s-most-innovative-payments-award-2025/article_a16ad40b-8929-5b01-9a3d-1f6df2f201b2.html)
-- [Intel outlines details of first PC chip made on its new manufacturing tech](http://economictimes.indiatimes.com/tech/technology/intel-outlines-details-of-first-pc-chip-made-on-its-new-manufacturing-tech/articleshow/124418998.cms)
+- [Genijalni Bosanac oduševio i svjetske naučnike: Dok njegovi vršnjaci rješavaju testove, mladi Banjalučanin predaje profesorima](https://www.haber.ba/sci-tech/1041678-genijalni-bosanac-odusevio-i-svjetske-naucnike-dok-njegovi-vrsnjaci-rjesavaju-testove-mladi-banjalucanin-predaje-profesorima)
+- [UAE: How learning Arabic young helps create a 'sense of belonging'](https://www.khaleejtimes.com/uae/learning-arabic-early-childhood-literacy-conference-sheikha-bodour)
+- [Tesla Shares Recover All Their 2025 Losses](https://247wallst.com/investing/2025/10/10/tesla-shares-recover-all-their-2025-losses/)
+- [From Road to Sky: BingEx and Hangzhou Join Forces to Launch a Next-Generation Urban Drone Network](http://www.roboticstomorrow.com/news/2025/10/10/from-road-to-sky-bingex-and-hangzhou-join-forces-to-launch-a-next-generation-urban-drone-network/25660)
+- [Slaying monsters: Nine has its job cut out against the US tech giants](https://www.smh.com.au/business/companies/slaying-monsters-nine-has-its-job-cut-out-against-the-us-tech-giants-20251010-p5n1lo.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
