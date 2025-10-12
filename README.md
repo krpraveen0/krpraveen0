@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Genijalni Bosanac oduševio i svjetske naučnike: Dok njegovi vršnjaci rješavaju testove, mladi Banjalučanin predaje profesorima](https://www.haber.ba/sci-tech/1041678-genijalni-bosanac-odusevio-i-svjetske-naucnike-dok-njegovi-vrsnjaci-rjesavaju-testove-mladi-banjalucanin-predaje-profesorima)
-- [UAE: How learning Arabic young helps create a 'sense of belonging'](https://www.khaleejtimes.com/uae/learning-arabic-early-childhood-literacy-conference-sheikha-bodour)
-- [Tesla Shares Recover All Their 2025 Losses](https://247wallst.com/investing/2025/10/10/tesla-shares-recover-all-their-2025-losses/)
-- [From Road to Sky: BingEx and Hangzhou Join Forces to Launch a Next-Generation Urban Drone Network](http://www.roboticstomorrow.com/news/2025/10/10/from-road-to-sky-bingex-and-hangzhou-join-forces-to-launch-a-next-generation-urban-drone-network/25660)
-- [Slaying monsters: Nine has its job cut out against the US tech giants](https://www.smh.com.au/business/companies/slaying-monsters-nine-has-its-job-cut-out-against-the-us-tech-giants-20251010-p5n1lo.html)
+- [Market Moves: Beyond Big Tech Focus](https://internetprotocol.co/big-tech/2025/10/11/market-moves-beyond-big-tech-focus/)
+- [Sam Altman-backed college startup Campus acquires Sizzle AI; hires Meta’s exec as technology head](http://economictimes.indiatimes.com/tech/startups/sam-altman-backed-college-startup-campus-acquires-sizzle-ai-hires-metas-exec-as-technology-head/articleshow/124479611.cms)
+- [Tariffs and AI Spending in Focus as Traders Brace For Earnings](https://financialpost.com/pmn/business-pmn/tariffs-and-ai-spending-in-focus-as-traders-brace-for-earnings)
+- [World Cup 2026 or Ballon d'Or? Piqué speaks his mind on Neymar 🗣️](https://ca.sports.yahoo.com/news/world-cup-2026-ballon-dor-131800375.html)
+- [Wikipédia n'est pas encore morte, mais l'IA pose des défis majeurs (étude)](http://fr.euronews.com/next/2025/10/11/wikipedia-nest-pas-encore-morte-mais-lia-pose-des-defis-majeurs-etude)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
