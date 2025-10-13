@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Market Moves: Beyond Big Tech Focus](https://internetprotocol.co/big-tech/2025/10/11/market-moves-beyond-big-tech-focus/)
-- [Sam Altman-backed college startup Campus acquires Sizzle AI; hires Meta’s exec as technology head](http://economictimes.indiatimes.com/tech/startups/sam-altman-backed-college-startup-campus-acquires-sizzle-ai-hires-metas-exec-as-technology-head/articleshow/124479611.cms)
-- [Tariffs and AI Spending in Focus as Traders Brace For Earnings](https://financialpost.com/pmn/business-pmn/tariffs-and-ai-spending-in-focus-as-traders-brace-for-earnings)
-- [World Cup 2026 or Ballon d'Or? Piqué speaks his mind on Neymar 🗣️](https://ca.sports.yahoo.com/news/world-cup-2026-ballon-dor-131800375.html)
-- [Wikipédia n'est pas encore morte, mais l'IA pose des défis majeurs (étude)](http://fr.euronews.com/next/2025/10/11/wikipedia-nest-pas-encore-morte-mais-lia-pose-des-defis-majeurs-etude)
+- [Concurrent Investment Advisors LLC Sells 8,145 Shares of Accenture PLC $ACN](https://www.watchlistnews.com/concurrent-investment-advisors-llc-sells-8145-shares-of-accenture-plc-acn/10834210.html)
+- [Concurrent Investment Advisors LLC Sells 8,145 Shares of Accenture PLC $ACN](https://www.tickerreport.com/banking-finance/13192767/concurrent-investment-advisors-llc-sells-8145-shares-of-accenture-plc-acn.html)
+- [From barks to words: Researchers aim to translate dog sounds with AI](https://www.timesherald.com/2025/10/12/dog-sounds-ai-translator/)
+- [From barks to words: Researchers aim to translate dog sounds with AI](https://www.orlandosentinel.com/2025/10/12/dog-sounds-ai-translator/)
+- [From barks to words: Researchers aim to translate dog sounds with AI](https://www.lowellsun.com/2025/10/12/dog-sounds-ai-translator/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
