@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Concurrent Investment Advisors LLC Sells 8,145 Shares of Accenture PLC $ACN](https://www.watchlistnews.com/concurrent-investment-advisors-llc-sells-8145-shares-of-accenture-plc-acn/10834210.html)
-- [Concurrent Investment Advisors LLC Sells 8,145 Shares of Accenture PLC $ACN](https://www.tickerreport.com/banking-finance/13192767/concurrent-investment-advisors-llc-sells-8145-shares-of-accenture-plc-acn.html)
-- [From barks to words: Researchers aim to translate dog sounds with AI](https://www.timesherald.com/2025/10/12/dog-sounds-ai-translator/)
-- [From barks to words: Researchers aim to translate dog sounds with AI](https://www.orlandosentinel.com/2025/10/12/dog-sounds-ai-translator/)
-- [From barks to words: Researchers aim to translate dog sounds with AI](https://www.lowellsun.com/2025/10/12/dog-sounds-ai-translator/)
+- [Creative destruction theorists win Nobel Prize for economics - Mon, 13 Oct 2025 PST](http://www.spokesman.com/stories/2025/oct/13/creative-destruction-theorists-win-nobel-prize-for/)
+- [Salesforce to invest $15 billion in San Francisco over five years](https://www.thestar.com.my/tech/tech-news/2025/10/13/salesforce-to-invest-15-billion-in-san-francisco-over-five-years)
+- [How Your Favorite Streaming Services Knows What To Recommend You](https://www.bgr.com/1989339/how-favorite-streaming-services-recommendations-work-explained/)
+- [Dream job with your app: become OneFootball’s next video host! ⚽🎥](https://ca.sports.yahoo.com/news/dream-job-app-become-onefootball-131700390.html)
+- [Wealth Architects LLC Sells 2,870 Shares of Snowflake Inc. $SNOW](https://www.themarketsdaily.com/2025/10/13/wealth-architects-llc-sells-2870-shares-of-snowflake-inc-snow.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
