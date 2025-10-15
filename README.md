@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Creative destruction theorists win Nobel Prize for economics - Mon, 13 Oct 2025 PST](http://www.spokesman.com/stories/2025/oct/13/creative-destruction-theorists-win-nobel-prize-for/)
-- [Salesforce to invest $15 billion in San Francisco over five years](https://www.thestar.com.my/tech/tech-news/2025/10/13/salesforce-to-invest-15-billion-in-san-francisco-over-five-years)
-- [How Your Favorite Streaming Services Knows What To Recommend You](https://www.bgr.com/1989339/how-favorite-streaming-services-recommendations-work-explained/)
-- [Dream job with your app: become OneFootball’s next video host! ⚽🎥](https://ca.sports.yahoo.com/news/dream-job-app-become-onefootball-131700390.html)
-- [Wealth Architects LLC Sells 2,870 Shares of Snowflake Inc. $SNOW](https://www.themarketsdaily.com/2025/10/13/wealth-architects-llc-sells-2870-shares-of-snowflake-inc-snow.html)
+- [IMF Warns of Dim Outlook for World Economy Hit by Rolling Shocks](https://financialpost.com/pmn/business-pmn/imf-warns-of-dim-outlook-for-world-economy-hit-by-rolling-shocks)
+- [AP Business SummaryBrief at 9:20 a.m. EDT](https://www.hastingstribune.com/ap/business/ap-business-summarybrief-at-9-20-a-m-edt/article_08c967e8-2f4f-5c4c-b802-b0652a7e0b72.html)
+- [Google announces £11 billion investment in AI hub in India](https://www.belfasttelegraph.co.uk/business/uk-world/google-announces-11-billion-investment-in-ai-hub-in-india/a426163449.html)
+- [Micropolis and Dubai Police Announce Official Deployment of the Autonomous Police Patrol at Global Village](https://www.globenewswire.com/news-release/2025/10/14/3166330/0/en/Micropolis-and-Dubai-Police-Announce-Official-Deployment-of-the-Autonomous-Police-Patrol-at-Global-Village.html)
+- [Micropolis and Dubai Police Announce Official Deployment of the Autonomous Police Patrol at Global Village](https://www.globenewswire.com/fr/news-release/2025/10/14/3166330/0/en/Micropolis-and-Dubai-Police-Announce-Official-Deployment-of-the-Autonomous-Police-Patrol-at-Global-Village.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
