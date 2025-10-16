@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [IMF Warns of Dim Outlook for World Economy Hit by Rolling Shocks](https://financialpost.com/pmn/business-pmn/imf-warns-of-dim-outlook-for-world-economy-hit-by-rolling-shocks)
-- [AP Business SummaryBrief at 9:20 a.m. EDT](https://www.hastingstribune.com/ap/business/ap-business-summarybrief-at-9-20-a-m-edt/article_08c967e8-2f4f-5c4c-b802-b0652a7e0b72.html)
-- [Google announces £11 billion investment in AI hub in India](https://www.belfasttelegraph.co.uk/business/uk-world/google-announces-11-billion-investment-in-ai-hub-in-india/a426163449.html)
-- [Micropolis and Dubai Police Announce Official Deployment of the Autonomous Police Patrol at Global Village](https://www.globenewswire.com/news-release/2025/10/14/3166330/0/en/Micropolis-and-Dubai-Police-Announce-Official-Deployment-of-the-Autonomous-Police-Patrol-at-Global-Village.html)
-- [Micropolis and Dubai Police Announce Official Deployment of the Autonomous Police Patrol at Global Village](https://www.globenewswire.com/fr/news-release/2025/10/14/3166330/0/en/Micropolis-and-Dubai-Police-Announce-Official-Deployment-of-the-Autonomous-Police-Patrol-at-Global-Village.html)
+- [Winners and Losers of the AI Revolution: Artificial Intelligence Is Radically Changing the Employment Landscape](https://www.spiegel.de/international/business/winners-and-losers-of-the-ai-revolution-artificial-intelligence-is-radically-changing-the-employment-landscape-a-77b505e4-401b-448b-8593-b5fbef4054f2)
+- [Boyd Recognized for Commissioning Service Excellence by Liquid Cooled Data Center Pioneers](https://www.businesswire.com/news/home/20251015518228/en/Boyd-Recognized-for-Commissioning-Service-Excellence-by-Liquid-Cooled-Data-Center-Pioneers)
+- [Elon Musk’s Dubai Loop project to be operational by mid-2026](https://gulfnews.com/uae/transport/elon-musks-dubai-loop-to-be-operational-by-mid-2026-1.500308642)
+- [Astana Think Tank Forum Calls for Renewed Trust and Dialogue in Polarized World](https://astanatimes.com/2025/10/astana-think-tank-forum-calls-for-renewed-trust-and-dialogue-in-polarized-world/)
+- [BluSky AI Inc. to Update Investors on the Emerging Growth Conference on October 22, 2025](https://www.globenewswire.com/fr/news-release/2025/10/15/3167187/29006/en/BluSky-AI-Inc-to-Update-Investors-on-the-Emerging-Growth-Conference-on-October-22-2025.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
