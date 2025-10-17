@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Winners and Losers of the AI Revolution: Artificial Intelligence Is Radically Changing the Employment Landscape](https://www.spiegel.de/international/business/winners-and-losers-of-the-ai-revolution-artificial-intelligence-is-radically-changing-the-employment-landscape-a-77b505e4-401b-448b-8593-b5fbef4054f2)
-- [Boyd Recognized for Commissioning Service Excellence by Liquid Cooled Data Center Pioneers](https://www.businesswire.com/news/home/20251015518228/en/Boyd-Recognized-for-Commissioning-Service-Excellence-by-Liquid-Cooled-Data-Center-Pioneers)
-- [Elon Musk’s Dubai Loop project to be operational by mid-2026](https://gulfnews.com/uae/transport/elon-musks-dubai-loop-to-be-operational-by-mid-2026-1.500308642)
-- [Astana Think Tank Forum Calls for Renewed Trust and Dialogue in Polarized World](https://astanatimes.com/2025/10/astana-think-tank-forum-calls-for-renewed-trust-and-dialogue-in-polarized-world/)
-- [BluSky AI Inc. to Update Investors on the Emerging Growth Conference on October 22, 2025](https://www.globenewswire.com/fr/news-release/2025/10/15/3167187/29006/en/BluSky-AI-Inc-to-Update-Investors-on-the-Emerging-Growth-Conference-on-October-22-2025.html)
+- [Laos plans to pull plug on crypto miners by early 2026](https://www.straitstimes.com/asia/se-asia/laos-plans-to-pull-plug-on-crypto-miners-by-early-2026)
+- [Powerball player asks ChatGPT to pick their numbers, lands six-figure payout](https://www.mlive.com/lottery/2025/10/powerball-player-asks-chatgpt-to-pick-their-numbers-lands-six-figure-payout.html)
+- [Huawei James Chen: Yapay Zekaya Üçlü Sıçrama UBB ve İlham Veren Yeni İş Büyümesi](https://www.prnewswire.com/news-releases/huawei-james-chen-yapay-zekaya-uclu-scrama-ubb-ve-ilham-veren-yeni-i-buyumesi-302586362.html)
+- [Tlwm Has $1.88 Million Position in Salesforce Inc. $CRM](https://www.themarketsdaily.com/2025/10/16/tlwm-has-1-88-million-position-in-salesforce-inc-crm.html)
+- [Salesforce Inc. $CRM Shares Bought by AEGON ASSET MANAGEMENT UK Plc](https://zolmax.com/investing/salesforce-inc-crm-shares-bought-by-aegon-asset-management-uk-plc/11614352.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
