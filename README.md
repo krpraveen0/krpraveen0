@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Laos plans to pull plug on crypto miners by early 2026](https://www.straitstimes.com/asia/se-asia/laos-plans-to-pull-plug-on-crypto-miners-by-early-2026)
-- [Powerball player asks ChatGPT to pick their numbers, lands six-figure payout](https://www.mlive.com/lottery/2025/10/powerball-player-asks-chatgpt-to-pick-their-numbers-lands-six-figure-payout.html)
-- [Huawei James Chen: Yapay Zekaya Üçlü Sıçrama UBB ve İlham Veren Yeni İş Büyümesi](https://www.prnewswire.com/news-releases/huawei-james-chen-yapay-zekaya-uclu-scrama-ubb-ve-ilham-veren-yeni-i-buyumesi-302586362.html)
-- [Tlwm Has $1.88 Million Position in Salesforce Inc. $CRM](https://www.themarketsdaily.com/2025/10/16/tlwm-has-1-88-million-position-in-salesforce-inc-crm.html)
-- [Salesforce Inc. $CRM Shares Bought by AEGON ASSET MANAGEMENT UK Plc](https://zolmax.com/investing/salesforce-inc-crm-shares-bought-by-aegon-asset-management-uk-plc/11614352.html)
+- [Fired Goldman Sachs Workers Won’t Find Jobs–AI Diary](https://247wallst.com/jobs/2025/10/17/fired-goldman-sachs-workers-wont-find-jobs-ai-diary/)
+- [Galaxy S25 vs iPhone 17: diferenças, especificações e preço](https://jornal24horas.com.br/?p=20053)
+- [Apple Loses Siri AI Search Chief Ke Yang to Meta in Talent Wars](https://www.webpronews.com/apple-loses-siri-ai-search-chief-ke-yang-to-meta-in-talent-wars/)
+- [Best Premium TVs in 2025: Luxury Home Theatre Picks](https://www.analyticsinsight.net/home-electronics/best-premium-tvs-in-2025-luxury-home-theatre-picks)
+- [Meta announces new AI parental controls following FTC inquiry](https://www.cnbc.com/2025/10/17/meta-ai-chatbot-parental-controls-ftc.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
