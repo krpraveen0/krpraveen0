@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Fired Goldman Sachs Workers Won’t Find Jobs–AI Diary](https://247wallst.com/jobs/2025/10/17/fired-goldman-sachs-workers-wont-find-jobs-ai-diary/)
-- [Galaxy S25 vs iPhone 17: diferenças, especificações e preço](https://jornal24horas.com.br/?p=20053)
-- [Apple Loses Siri AI Search Chief Ke Yang to Meta in Talent Wars](https://www.webpronews.com/apple-loses-siri-ai-search-chief-ke-yang-to-meta-in-talent-wars/)
-- [Best Premium TVs in 2025: Luxury Home Theatre Picks](https://www.analyticsinsight.net/home-electronics/best-premium-tvs-in-2025-luxury-home-theatre-picks)
-- [Meta announces new AI parental controls following FTC inquiry](https://www.cnbc.com/2025/10/17/meta-ai-chatbot-parental-controls-ftc.html)
+- [Dutch intelligence services now share less information with US](https://www.dutchnews.nl/2025/10/dutch-intelligence-services-now-share-less-information-with-us/)
+- [AI is changing at breakneck speed: How companies can keep pace and develop skilled workers properly](https://www.openpr.com/news/4230202/ai-is-changing-at-breakneck-speed-how-companies-can-keep-pace)
+- [Anak Usaha Telkom Pacu Transformasi Bisnis lewat AI dan Otomasi Cerdas](https://inet.detik.com/telecommunication/d-8167172/anak-usaha-telkom-pacu-transformasi-bisnis-lewat-ai-dan-otomasi-cerdas)
+- [To fight scams, banks and the authorities now have more control over customers' accounts. How do we strike a balance between protection and overreach?](https://www.channelnewsasia.com/today/big-read/scams-powers-authorities-bank-police-5405076)
+- [Avoiding AI Enshittification: Lessons from Tech Platforms](https://www.webpronews.com/avoiding-ai-enshittification-lessons-from-tech-platforms/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
