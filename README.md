@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Dutch intelligence services now share less information with US](https://www.dutchnews.nl/2025/10/dutch-intelligence-services-now-share-less-information-with-us/)
-- [AI is changing at breakneck speed: How companies can keep pace and develop skilled workers properly](https://www.openpr.com/news/4230202/ai-is-changing-at-breakneck-speed-how-companies-can-keep-pace)
-- [Anak Usaha Telkom Pacu Transformasi Bisnis lewat AI dan Otomasi Cerdas](https://inet.detik.com/telecommunication/d-8167172/anak-usaha-telkom-pacu-transformasi-bisnis-lewat-ai-dan-otomasi-cerdas)
-- [To fight scams, banks and the authorities now have more control over customers' accounts. How do we strike a balance between protection and overreach?](https://www.channelnewsasia.com/today/big-read/scams-powers-authorities-bank-police-5405076)
-- [Avoiding AI Enshittification: Lessons from Tech Platforms](https://www.webpronews.com/avoiding-ai-enshittification-lessons-from-tech-platforms/)
+- [I don't want to see that: Fritz criticises Romano Schmid](https://ca.sports.yahoo.com/news/dont-want-see-fritz-criticises-132600547.html)
+- [Can AI dream? Artist Refik Anadol believes the answer is yes](https://www.cbsnews.com/video/can-ai-dream-artist-refik-anadol-believes-the-answer-is-yes/)
+- [We Take Labour Matters, Skill Acquisition, Gender Based Violence, Seriously – Gov Otti](https://www.tekedia.com/we-take-labour-matters-skill-acquisition-gender-based-violence-seriously-gov-otti/)
+- [HDAI to announce AI tools that drive quality outcomes at HLTH 2025](https://www.prnewswire.com/news-releases/hdai-to-announce-ai-tools-that-drive-quality-outcomes-at-hlth-2025-302588198.html)
+- [Interested in BCE Stock? Look at Telus Instead](https://www.fool.ca/2025/10/19/interested-in-bce-stock-look-at-telus-instead/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
