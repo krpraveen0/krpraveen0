@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [I don't want to see that: Fritz criticises Romano Schmid](https://ca.sports.yahoo.com/news/dont-want-see-fritz-criticises-132600547.html)
-- [Can AI dream? Artist Refik Anadol believes the answer is yes](https://www.cbsnews.com/video/can-ai-dream-artist-refik-anadol-believes-the-answer-is-yes/)
-- [We Take Labour Matters, Skill Acquisition, Gender Based Violence, Seriously – Gov Otti](https://www.tekedia.com/we-take-labour-matters-skill-acquisition-gender-based-violence-seriously-gov-otti/)
-- [HDAI to announce AI tools that drive quality outcomes at HLTH 2025](https://www.prnewswire.com/news-releases/hdai-to-announce-ai-tools-that-drive-quality-outcomes-at-hlth-2025-302588198.html)
-- [Interested in BCE Stock? Look at Telus Instead](https://www.fool.ca/2025/10/19/interested-in-bce-stock-look-at-telus-instead/)
+- [This poll reveals how Americans feel about the job market under Trump](https://www.fastcompany.com/91425081/this-poll-shows-how-americans-feeling-about-their-chances-job-market)
+- [Market Collapsed 23% 38 Years Ago, Would Be 11,000 Points Today](https://247wallst.com/investing/2025/10/20/market-collapsed-23-38-years-ago-would-be-11000-points-today/)
+- [Napster Lights Up a New Era with Napster 26 Platform and "View” Holographic AI Device](https://www.manilatimes.net/2025/10/20/tmt-newswire/globenewswire/napster-lights-up-a-new-era-with-napster-26-platform-and-view-holographic-ai-device/2204253)
+- [First Scientific Conference of College of Dentistry at September 21 University Concludes](https://www.saba.ye/en/news3573947.htm)
+- [It’s Time to Rethink Prior Authorization for Chronic and Serious Conditions](https://medcitynews.com/2025/10/its-time-to-rethink-prior-authorization-for-chronic-and-serious-conditions/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
