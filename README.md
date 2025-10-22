@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [This poll reveals how Americans feel about the job market under Trump](https://www.fastcompany.com/91425081/this-poll-shows-how-americans-feeling-about-their-chances-job-market)
-- [Market Collapsed 23% 38 Years Ago, Would Be 11,000 Points Today](https://247wallst.com/investing/2025/10/20/market-collapsed-23-38-years-ago-would-be-11000-points-today/)
-- [Napster Lights Up a New Era with Napster 26 Platform and "View” Holographic AI Device](https://www.manilatimes.net/2025/10/20/tmt-newswire/globenewswire/napster-lights-up-a-new-era-with-napster-26-platform-and-view-holographic-ai-device/2204253)
-- [First Scientific Conference of College of Dentistry at September 21 University Concludes](https://www.saba.ye/en/news3573947.htm)
-- [It’s Time to Rethink Prior Authorization for Chronic and Serious Conditions](https://medcitynews.com/2025/10/its-time-to-rethink-prior-authorization-for-chronic-and-serious-conditions/)
+- [Enhanced Oil Recovery Forecast Report 2025: A $68.38 Billion Market by 2033 Featuring Baker Hughes, BP, Chevron, Exxon Mobil, Halliburton, Praxair, Shell, Schlumberger, TotalEnergies, Weatherford](https://www.globenewswire.com/fr/news-release/2025/10/21/3170315/28124/en/Enhanced-Oil-Recovery-Forecast-Report-2025-A-68-38-Billion-Market-by-2033-Featuring-Baker-Hughes-BP-Chevron-Exxon-Mobil-Halliburton-Praxair-Shell-Schlumberger-TotalEnergies-Weather.html)
+- [High Precision Micro-Positioning Actuators Available for Fast Delivery](http://www.roboticstomorrow.com/news/2025/10/21/high-precision-micro-positioning-actuators-available-for-fast-delivery/25700)
+- [Mount Sinai Health System Hospitals Recognized Among World’s Best in Newsweek/Statista Rankings](https://www.globenewswire.com/fr/news-release/2025/10/21/3170313/0/en/Mount-Sinai-Health-System-Hospitals-Recognized-Among-World-s-Best-in-Newsweek-Statista-Rankings.html)
+- [Indian Navy Commanders’ Conference 2025 kicks off tomorrow amid strategic challenges](https://www.thehindubusinessline.com/news/indian-navy-commanders-conference-2025-kicks-off-tomorrow-amid-strategic-challenges/article70186446.ece)
+- [Beverly Hills Private Wealth LLC Increases Stock Holdings in Snowflake Inc. $SNOW](https://www.watchlistnews.com/beverly-hills-private-wealth-llc-increases-stock-holdings-in-snowflake-inc-snow/10847875.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
