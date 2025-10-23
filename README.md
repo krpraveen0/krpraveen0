@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Enhanced Oil Recovery Forecast Report 2025: A $68.38 Billion Market by 2033 Featuring Baker Hughes, BP, Chevron, Exxon Mobil, Halliburton, Praxair, Shell, Schlumberger, TotalEnergies, Weatherford](https://www.globenewswire.com/fr/news-release/2025/10/21/3170315/28124/en/Enhanced-Oil-Recovery-Forecast-Report-2025-A-68-38-Billion-Market-by-2033-Featuring-Baker-Hughes-BP-Chevron-Exxon-Mobil-Halliburton-Praxair-Shell-Schlumberger-TotalEnergies-Weather.html)
-- [High Precision Micro-Positioning Actuators Available for Fast Delivery](http://www.roboticstomorrow.com/news/2025/10/21/high-precision-micro-positioning-actuators-available-for-fast-delivery/25700)
-- [Mount Sinai Health System Hospitals Recognized Among World’s Best in Newsweek/Statista Rankings](https://www.globenewswire.com/fr/news-release/2025/10/21/3170313/0/en/Mount-Sinai-Health-System-Hospitals-Recognized-Among-World-s-Best-in-Newsweek-Statista-Rankings.html)
-- [Indian Navy Commanders’ Conference 2025 kicks off tomorrow amid strategic challenges](https://www.thehindubusinessline.com/news/indian-navy-commanders-conference-2025-kicks-off-tomorrow-amid-strategic-challenges/article70186446.ece)
-- [Beverly Hills Private Wealth LLC Increases Stock Holdings in Snowflake Inc. $SNOW](https://www.watchlistnews.com/beverly-hills-private-wealth-llc-increases-stock-holdings-in-snowflake-inc-snow/10847875.html)
+- [A leading Middle Eastern company makes a historic investment in Pakistan’s financial sector](https://dailythepatriot.com/a-leading-middle-eastern-company-makes-a-historic-investment-in-pakistans-financial-sector/)
+- [Nigeria: France, Nigeria Strengthen Bilateral Ties Through Innovation, Culture](https://allafrica.com/stories/202510220408.html)
+- [Netflix posts 17% Y-o-Y revenue growth in Q3 despite missing projections](https://technext24.com/2025/10/22/netflix-posts-strong-q3-earnings-growth/)
+- [Research team reveals complex biology behind severe muscle wasting in cancer](https://medicalxpress.com/news/2025-10-team-reveals-complex-biology-severe.html)
+- [Apple co-founder Steve Wozniak supports an interim ban on AI superintelligence](https://9to5mac.com/2025/10/22/apple-co-founder-steve-wozniak-supports-an-interim-ban-on-ai-superintelligence/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
