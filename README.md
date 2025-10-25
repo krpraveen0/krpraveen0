@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [ZTE veranstaltet ZTE Broadband User Congress 2025 in Mexiko-Stadt unter dem Motto „AI Boosting Broadband Benefits"](https://www.prnewswire.com/news-releases/zte-veranstaltet-zte-broadband-user-congress-2025-in-mexiko-stadt-unter-dem-motto-ai-boosting-broadband-benefits-302592857.html)
-- [VitVio Closes $8M Seed to Boost Operating Room Efficiency and Ease Staff Burden with AI Ambient Sensing](https://www.manilatimes.net/2025/10/23/tmt-newswire/globenewswire/vitvio-closes-8m-seed-to-boost-operating-room-efficiency-and-ease-staff-burden-with-ai-ambient-sensing/2207145)
-- [Unleash Your Creativity with the Leonardo AI Image Generator](https://techannouncer.com/unleash-your-creativity-with-the-leonardo-ai-image-generator/)
-- [Tesla shares slide as margin pressures mount despite record sales](https://www.koreatimes.co.kr/world/20251023/tesla-shares-slide-as-margin-pressures-mount-despite-record-sales)
-- [Parcion Private Wealth LLC Raises Position in Snowflake Inc. $SNOW](https://baseballnewssource.com/2025/10/23/parcion-private-wealth-llc-raises-position-in-snowflake-inc-snow/10890906.html)
+- [EU To Expand Science, Innovation Partnership With Nigeria To Boost Research](https://newtelegraphng.com/eu-to-expand-science-innovation-partnership-with-nigeria-to-boost-research/)
+- [2025-2034 Generative Design Software Market Outlook: Key Drivers, Emerging Challenges, and Strategic Insights](https://www.openpr.com/news/4238313/2025-2034-generative-design-software-market-outlook-key)
+- [Carnegie Investment Counsel Has $12.86 Million Stock Holdings in SoundHound AI, Inc. $SOUN](https://www.themarketsdaily.com/2025/10/24/carnegie-investment-counsel-has-12-86-million-stock-holdings-in-soundhound-ai-inc-soun.html)
+- [Discover the Ultimate Free AI Tools List for 2025: Your All-In-One Guide](https://techannouncer.com/discover-the-ultimate-free-ai-tools-list-for-2025-your-all-in-one-guide/)
+- [Securing India: Balancing self-reliance and collaboration](https://timesofindia.indiatimes.com/blogs/voices/securing-india-balancing-self-reliance-and-collaboration/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
