@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [EU To Expand Science, Innovation Partnership With Nigeria To Boost Research](https://newtelegraphng.com/eu-to-expand-science-innovation-partnership-with-nigeria-to-boost-research/)
-- [2025-2034 Generative Design Software Market Outlook: Key Drivers, Emerging Challenges, and Strategic Insights](https://www.openpr.com/news/4238313/2025-2034-generative-design-software-market-outlook-key)
-- [Carnegie Investment Counsel Has $12.86 Million Stock Holdings in SoundHound AI, Inc. $SOUN](https://www.themarketsdaily.com/2025/10/24/carnegie-investment-counsel-has-12-86-million-stock-holdings-in-soundhound-ai-inc-soun.html)
-- [Discover the Ultimate Free AI Tools List for 2025: Your All-In-One Guide](https://techannouncer.com/discover-the-ultimate-free-ai-tools-list-for-2025-your-all-in-one-guide/)
-- [Securing India: Balancing self-reliance and collaboration](https://timesofindia.indiatimes.com/blogs/voices/securing-india-balancing-self-reliance-and-collaboration/)
+- [🚨 Real Madrid squad for El Clásico announced, three key players return!](https://ca.sports.yahoo.com/news/real-madrid-squad-el-cl-132500576.html)
+- [States, world leaders must act to end impunity for crimes against journalists: IPI](https://www.geo.tv/latest/630487-states-world-leaders-must-act-to-end-impunity-for-crimes-against-journalists-ipi)
+- [EU, Nigeria Set To Expand Partnership In Science, Innovation – Mignot](https://independent.ng/eu-nigeria-set-to-expand-partnership-in-science-innovation-mignot/)
+- [World looks up to India for innovative, affordable solutions: C-DAC chief](https://www.thehindu.com/news/cities/Tiruchirapalli/world-looks-up-to-india-for-innovative-affordable-solutions-c-dac-chief/article70201529.ece)
+- [Wall Street Is Worried About an AI Bubble—Here's the Sector Where Stock Prices Really Stand Out](https://biztoc.com/x/a353f013828fa150)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
