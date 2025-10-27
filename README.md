@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [🚨 Real Madrid squad for El Clásico announced, three key players return!](https://ca.sports.yahoo.com/news/real-madrid-squad-el-cl-132500576.html)
-- [States, world leaders must act to end impunity for crimes against journalists: IPI](https://www.geo.tv/latest/630487-states-world-leaders-must-act-to-end-impunity-for-crimes-against-journalists-ipi)
-- [EU, Nigeria Set To Expand Partnership In Science, Innovation – Mignot](https://independent.ng/eu-nigeria-set-to-expand-partnership-in-science-innovation-mignot/)
-- [World looks up to India for innovative, affordable solutions: C-DAC chief](https://www.thehindu.com/news/cities/Tiruchirapalli/world-looks-up-to-india-for-innovative-affordable-solutions-c-dac-chief/article70201529.ece)
-- [Wall Street Is Worried About an AI Bubble—Here's the Sector Where Stock Prices Really Stand Out](https://biztoc.com/x/a353f013828fa150)
+- [Remember 'Clippy'? Meet Microsoft's New Virtual Pal](https://www.newser.com/story/377411/remember-clippy-meet-microsofts-new-virtual-pal.html)
+- [Anthropic is said to gain ground on OpenAI with focus on corporate AI market](https://seekingalpha.com/news/4508448-anthropic-is-said-to-gain-ground-on-openai-with-focus-on-corporate-ai-market?feed_item_type=news)
+- [QatarEnergy CEO HE Saad Al Kaabi Talks Energy Transition with CMU-Q Students](https://marhaba.qa/qatarenergy-ceo-he-saad-al-kaabi-talks-energy-transition-with-cmu-q-students/)
+- [Financial Survey: Gaxos.ai (GXAI) and Its Rivals](https://www.watchlistnews.com/financial-survey-gaxos-ai-gxai-and-its-rivals/10855231.html)
+- [Head to Head Comparison: Able View Global (NASDAQ:ABLV) & CorVel (NASDAQ:CRVL)](https://www.dailypolitical.com/2025/10/26/head-to-head-comparison-able-view-global-nasdaqablv-corvel-nasdaqcrvl.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
