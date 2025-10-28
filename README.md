@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Remember 'Clippy'? Meet Microsoft's New Virtual Pal](https://www.newser.com/story/377411/remember-clippy-meet-microsofts-new-virtual-pal.html)
-- [Anthropic is said to gain ground on OpenAI with focus on corporate AI market](https://seekingalpha.com/news/4508448-anthropic-is-said-to-gain-ground-on-openai-with-focus-on-corporate-ai-market?feed_item_type=news)
-- [QatarEnergy CEO HE Saad Al Kaabi Talks Energy Transition with CMU-Q Students](https://marhaba.qa/qatarenergy-ceo-he-saad-al-kaabi-talks-energy-transition-with-cmu-q-students/)
-- [Financial Survey: Gaxos.ai (GXAI) and Its Rivals](https://www.watchlistnews.com/financial-survey-gaxos-ai-gxai-and-its-rivals/10855231.html)
-- [Head to Head Comparison: Able View Global (NASDAQ:ABLV) & CorVel (NASDAQ:CRVL)](https://www.dailypolitical.com/2025/10/26/head-to-head-comparison-able-view-global-nasdaqablv-corvel-nasdaqcrvl.html)
+- [Business models need to be transformed to unlock AI’s true potential, IBM senior VP says](https://fortune.com/2025/10/27/ai-ibm-business-models-transformed-adopt-tech/)
+- [‘Agility and forward-looking mindset will be key to Malta’s success’](https://timesofmalta.com/article/agility-forwardlooking-mindset-key-malta-success.1118463)
+- [Tesla Gains Investor Confidence as Cantor Fitzgerald Ups Price Target](https://newslinker.co/tesla-gains-investor-confidence-as-cantor-fitzgerald-ups-price-target/)
+- [Transformative global supply chain planning “from farm to fork” with AI](https://www.cio.com/article/4079410/transformative-global-supply-chain-planning-from-farm-to-fork-with-ai.html)
+- [Japan's finance minister promises U.S. swift implementation of trade deal](https://english.kyodonews.net/articles/-/63637)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
