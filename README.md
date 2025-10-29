@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Business models need to be transformed to unlock AI’s true potential, IBM senior VP says](https://fortune.com/2025/10/27/ai-ibm-business-models-transformed-adopt-tech/)
-- [‘Agility and forward-looking mindset will be key to Malta’s success’](https://timesofmalta.com/article/agility-forwardlooking-mindset-key-malta-success.1118463)
-- [Tesla Gains Investor Confidence as Cantor Fitzgerald Ups Price Target](https://newslinker.co/tesla-gains-investor-confidence-as-cantor-fitzgerald-ups-price-target/)
-- [Transformative global supply chain planning “from farm to fork” with AI](https://www.cio.com/article/4079410/transformative-global-supply-chain-planning-from-farm-to-fork-with-ai.html)
-- [Japan's finance minister promises U.S. swift implementation of trade deal](https://english.kyodonews.net/articles/-/63637)
+- [First Thing: Humanity has missed 1.5C climate target, says UN head](https://www.theguardian.com/us-news/2025/oct/28/first-thing-humanity-has-missed-15c-climate-target-says-un-head)
+- [First Thing: Humanity has missed 1.5C climate target, says UN head](https://ca.news.yahoo.com/first-thing-humanity-missed-1-132455401.html)
+- [Elon Musk Launches AI-Powered Rival to Wikipedia — and It’s Already Been Accused of Copying Wiki Pages](https://ca.news.yahoo.com/elon-musk-launches-ai-powered-132429694.html)
+- [Musk Launches Grokipedia To Rival Wikipedia](https://www.channelstv.com/2025/10/28/musk-launches-grokipedia-to-rival-wikipedia/)
+- [Zinc battery storage startup Eos to invest US$353 million in manufacturing and HQ move to Pennsylvania](https://www.energy-storage.news/zinc-battery-storage-startup-eos-to-invest-us353-million-in-manufacturing-and-hq-move-to-pennsylvania/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
