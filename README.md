@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [First Thing: Humanity has missed 1.5C climate target, says UN head](https://www.theguardian.com/us-news/2025/oct/28/first-thing-humanity-has-missed-15c-climate-target-says-un-head)
-- [First Thing: Humanity has missed 1.5C climate target, says UN head](https://ca.news.yahoo.com/first-thing-humanity-missed-1-132455401.html)
-- [Elon Musk Launches AI-Powered Rival to Wikipedia — and It’s Already Been Accused of Copying Wiki Pages](https://ca.news.yahoo.com/elon-musk-launches-ai-powered-132429694.html)
-- [Musk Launches Grokipedia To Rival Wikipedia](https://www.channelstv.com/2025/10/28/musk-launches-grokipedia-to-rival-wikipedia/)
-- [Zinc battery storage startup Eos to invest US$353 million in manufacturing and HQ move to Pennsylvania](https://www.energy-storage.news/zinc-battery-storage-startup-eos-to-invest-us353-million-in-manufacturing-and-hq-move-to-pennsylvania/)
+- [Arcfield's Strategic Technology Consulting team wins NDIA Lt. Gen. Thomas R. Ferguson Jr. Systems Engineering Excellence award](https://www.prnewswire.com/news-releases/arcfields-strategic-technology-consulting-team-wins-ndia-lt-gen-thomas-r-ferguson-jr-systems-engineering-excellence-award-302598430.html)
+- [Analyst Explains Why She Trimmed Her Meta Platforms (META) Stake – ‘It’s Prudent’](https://www.insidermonkey.com/blog/analyst-explains-why-she-trimmed-her-meta-platforms-meta-stake-its-prudent-1635418/)
+- [Interview: EU, China have big potential in translating research into industry, says EU lawmaker](https://english.news.cn/20251029/1d58bf93cd384977bde1034e2e4118b3/c.html)
+- [Mark Cuban Foundation Announces Carlow University as Host Site for Pittsburgh AI Bootcamp](https://www.manilatimes.net/2025/10/29/tmt-newswire/globenewswire/mark-cuban-foundation-announces-carlow-university-as-host-site-for-pittsburgh-ai-bootcamp/2211278)
+- [🚨 Barça and Spain worried, key player sidelined for now](https://ca.sports.yahoo.com/news/bar-spain-worried-key-player-132300200.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
