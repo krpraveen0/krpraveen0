@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Arcfield's Strategic Technology Consulting team wins NDIA Lt. Gen. Thomas R. Ferguson Jr. Systems Engineering Excellence award](https://www.prnewswire.com/news-releases/arcfields-strategic-technology-consulting-team-wins-ndia-lt-gen-thomas-r-ferguson-jr-systems-engineering-excellence-award-302598430.html)
-- [Analyst Explains Why She Trimmed Her Meta Platforms (META) Stake – ‘It’s Prudent’](https://www.insidermonkey.com/blog/analyst-explains-why-she-trimmed-her-meta-platforms-meta-stake-its-prudent-1635418/)
-- [Interview: EU, China have big potential in translating research into industry, says EU lawmaker](https://english.news.cn/20251029/1d58bf93cd384977bde1034e2e4118b3/c.html)
-- [Mark Cuban Foundation Announces Carlow University as Host Site for Pittsburgh AI Bootcamp](https://www.manilatimes.net/2025/10/29/tmt-newswire/globenewswire/mark-cuban-foundation-announces-carlow-university-as-host-site-for-pittsburgh-ai-bootcamp/2211278)
-- [🚨 Barça and Spain worried, key player sidelined for now](https://ca.sports.yahoo.com/news/bar-spain-worried-key-player-132300200.html)
+- [Ex-McKinsey consultants training AI to replace entry-level roles](https://thefreesheet.com/2025/10/30/ex-mckinsey-consultants-training-ai-to-replace-entry-level-roles/)
+- [Mistake-filled legal briefs show the limits of relying on AI tools at work](https://financialpost.com/pmn/mistake-filled-legal-briefs-show-the-limits-of-relying-on-ai-tools-at-work)
+- [Agentic AI Tops Gartner’s 2025 Trends: Autonomous Revolution](https://www.webpronews.com/agentic-ai-tops-gartners-2025-trends-autonomous-revolution/)
+- [Tesla Brings Cybercab to China Import Expo, Eyes Asia Market](https://newslinker.co/tesla-brings-cybercab-to-china-import-expo-eyes-asia-market/)
+- [RIL to offer free Google AI Pro access worth Rs 35 100 to select Jio users](https://www.theweek.in/wire-updates/business/2025/10/30/dcm91-biz-relaince-google-ai--rpt.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
