@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Ex-McKinsey consultants training AI to replace entry-level roles](https://thefreesheet.com/2025/10/30/ex-mckinsey-consultants-training-ai-to-replace-entry-level-roles/)
-- [Mistake-filled legal briefs show the limits of relying on AI tools at work](https://financialpost.com/pmn/mistake-filled-legal-briefs-show-the-limits-of-relying-on-ai-tools-at-work)
-- [Agentic AI Tops Gartner’s 2025 Trends: Autonomous Revolution](https://www.webpronews.com/agentic-ai-tops-gartners-2025-trends-autonomous-revolution/)
-- [Tesla Brings Cybercab to China Import Expo, Eyes Asia Market](https://newslinker.co/tesla-brings-cybercab-to-china-import-expo-eyes-asia-market/)
-- [RIL to offer free Google AI Pro access worth Rs 35 100 to select Jio users](https://www.theweek.in/wire-updates/business/2025/10/30/dcm91-biz-relaince-google-ai--rpt.html)
+- [Japan-Hong Kong Innovation and Technology Forum Ushers in a New Chapter for Bilateral Innovation and Technology Collaboration](https://www.manilatimes.net/2025/10/31/tmt-newswire/media-outreach-newswire/japan-hong-kong-innovation-and-technology-forum-ushers-in-a-new-chapter-for-bilateral-innovation-and-technology-collaboration/2213202)
+- [Agentic AI M&A and Investment Report 2025](https://www.analyticsinsight.net/reports/agentic-ai-ma-and-investment-report-2025)
+- [Artificial intelligence and the future of work](https://iblnews.org/artificial-intelligence-and-the-future-of-work/)
+- [Wall Street on track to regain much of Thursday's losses as Amazon posts strong 3Q results](https://www.durangoherald.com/articles/wall-street-on-track-to-regain-much-of-thursdays-losses-as-amazon-posts-strong-3q-results/)
+- [Le pavillon chinois de l'Expo 2025 Osaka remporte le Gold Award ! Unilumin fournit une solution multimédia complète](https://www.prnewswire.com/news-releases/le-pavillon-chinois-de-lexpo-2025-osaka-remporte-le-gold-award--unilumin-fournit-une-solution-multimedia-complete-302601085.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
