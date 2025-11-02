@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Japan-Hong Kong Innovation and Technology Forum Ushers in a New Chapter for Bilateral Innovation and Technology Collaboration](https://www.manilatimes.net/2025/10/31/tmt-newswire/media-outreach-newswire/japan-hong-kong-innovation-and-technology-forum-ushers-in-a-new-chapter-for-bilateral-innovation-and-technology-collaboration/2213202)
-- [Agentic AI M&A and Investment Report 2025](https://www.analyticsinsight.net/reports/agentic-ai-ma-and-investment-report-2025)
-- [Artificial intelligence and the future of work](https://iblnews.org/artificial-intelligence-and-the-future-of-work/)
-- [Wall Street on track to regain much of Thursday's losses as Amazon posts strong 3Q results](https://www.durangoherald.com/articles/wall-street-on-track-to-regain-much-of-thursdays-losses-as-amazon-posts-strong-3q-results/)
-- [Le pavillon chinois de l'Expo 2025 Osaka remporte le Gold Award ! Unilumin fournit une solution multimédia complète](https://www.prnewswire.com/news-releases/le-pavillon-chinois-de-lexpo-2025-osaka-remporte-le-gold-award--unilumin-fournit-une-solution-multimedia-complete-302601085.html)
+- [AP Business SummaryBrief at 9:22 a.m. EDT](https://www.ivpressonline.com/business/ap-business-summarybrief-at-9-22-a-m-edt/article_53171dc2-d95c-5696-b89c-3f890999f8ad.html)
+- [AP Business SummaryBrief at 9:22 a.m. EDT](https://www.hastingstribune.com/ap/business/ap-business-summarybrief-at-9-22-a-m-edt/article_be0179e5-b2a6-5d00-87c7-b487bef742fd.html)
+- [China proposes establishing global AI cooperation organization — Xi Jinping](https://tass.com/economy/2038507)
+- [Lagos now a ‘Silicon Savannah’ as TIA set to celebrate Africa’s innovators](https://businessday.ng/technology/article/lagos-now-a-silicon-savannah-as-tia-set-to-celebrate-africas-innovators/)
+- [South Korean president Lee asks China’s Xi for help in engaging North Korea](https://www.dawn.com/news/1952547/south-korean-president-lee-asks-chinas-xi-for-help-in-engaging-north-korea)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
