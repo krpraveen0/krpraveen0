@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AP Business SummaryBrief at 9:22 a.m. EDT](https://www.ivpressonline.com/business/ap-business-summarybrief-at-9-22-a-m-edt/article_53171dc2-d95c-5696-b89c-3f890999f8ad.html)
-- [AP Business SummaryBrief at 9:22 a.m. EDT](https://www.hastingstribune.com/ap/business/ap-business-summarybrief-at-9-22-a-m-edt/article_be0179e5-b2a6-5d00-87c7-b487bef742fd.html)
-- [China proposes establishing global AI cooperation organization — Xi Jinping](https://tass.com/economy/2038507)
-- [Lagos now a ‘Silicon Savannah’ as TIA set to celebrate Africa’s innovators](https://businessday.ng/technology/article/lagos-now-a-silicon-savannah-as-tia-set-to-celebrate-africas-innovators/)
-- [South Korean president Lee asks China’s Xi for help in engaging North Korea](https://www.dawn.com/news/1952547/south-korean-president-lee-asks-chinas-xi-for-help-in-engaging-north-korea)
+- [AI song generator Udio offers brief window for downloads after Universal settlement upsets users](https://www.thestar.com/business/technology/ai-song-generator-udio-offers-brief-window-for-downloads-after-universal-settlement-upsets-users/article_7198597e-6963-5dbf-834f-3628d1e6f217.html)
+- [AI’s energy appetite sparks global call for action at ENACT Majlis in Abu Dhabi](https://www.khaleejtimes.com/business/energy/ais-energy-appetite-sparks-global-call-for-action-at-enact-majlis-in-abu-dhabi)
+- [Who is Zico Kolter? A professor leads OpenAI safety panel with power to halt unsafe AI releases](https://financialpost.com/pmn/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases)
+- [Nicholas Company Inc. Acquires 3,605 Shares of Snowflake Inc. $SNOW](https://baseballnewssource.com/2025/11/02/nicholas-company-inc-acquires-3605-shares-of-snowflake-inc-snow/10905882.html)
+- [Who is Zico Kolter? A professor leads OpenAI safety panel with power to halt unsafe AI releases](https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2025/11/02/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
