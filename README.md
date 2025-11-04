@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI song generator Udio offers brief window for downloads after Universal settlement upsets users](https://www.thestar.com/business/technology/ai-song-generator-udio-offers-brief-window-for-downloads-after-universal-settlement-upsets-users/article_7198597e-6963-5dbf-834f-3628d1e6f217.html)
-- [AI’s energy appetite sparks global call for action at ENACT Majlis in Abu Dhabi](https://www.khaleejtimes.com/business/energy/ais-energy-appetite-sparks-global-call-for-action-at-enact-majlis-in-abu-dhabi)
-- [Who is Zico Kolter? A professor leads OpenAI safety panel with power to halt unsafe AI releases](https://financialpost.com/pmn/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases)
-- [Nicholas Company Inc. Acquires 3,605 Shares of Snowflake Inc. $SNOW](https://baseballnewssource.com/2025/11/02/nicholas-company-inc-acquires-3605-shares-of-snowflake-inc-snow/10905882.html)
-- [Who is Zico Kolter? A professor leads OpenAI safety panel with power to halt unsafe AI releases](https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2025/11/02/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases)
+- [How agentic AI is changing the future of marketing](https://martech.org/how-agentic-ai-is-changing-the-future-of-marketing/)
+- [AI in Healthcare: How generative tools are transforming clinical practice](https://www.news-medical.net/news/20251103/AI-in-Healthcare-How-generative-tools-are-transforming-clinical-practice.aspx)
+- [Global Mergers And Acquisitions Rise 10% To USD 1.9 Trillion In 2025: BCG Report](https://zeenews.india.com/economy/global-mergers-and-acquisitions-rise-10-to-usd-1-9-trillion-in-2025-bcg-report-2979652.html)
+- [China's marine economy reports 5.6 pct growth in first 9 months of 2025](https://english.news.cn/20251103/367c94416bfb4158ba01b9cccead4bda/c.html)
+- [Why corporate executives shouldn’t ignore their own AI upskilling](https://biztoc.com/x/4048d08a38c62c11)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
