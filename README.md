@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [How agentic AI is changing the future of marketing](https://martech.org/how-agentic-ai-is-changing-the-future-of-marketing/)
-- [AI in Healthcare: How generative tools are transforming clinical practice](https://www.news-medical.net/news/20251103/AI-in-Healthcare-How-generative-tools-are-transforming-clinical-practice.aspx)
-- [Global Mergers And Acquisitions Rise 10% To USD 1.9 Trillion In 2025: BCG Report](https://zeenews.india.com/economy/global-mergers-and-acquisitions-rise-10-to-usd-1-9-trillion-in-2025-bcg-report-2979652.html)
-- [China's marine economy reports 5.6 pct growth in first 9 months of 2025](https://english.news.cn/20251103/367c94416bfb4158ba01b9cccead4bda/c.html)
-- [Why corporate executives shouldn’t ignore their own AI upskilling](https://biztoc.com/x/4048d08a38c62c11)
+- [New York mayor elections: Zohran Mamdani vs Andrew Cuomo in high-stakes NYC race; why Donald Trump’s taken the battle personally](https://timesofindia.indiatimes.com/world/us/new-york-mayor-elections-zohran-mamdani-vs-andrew-cuomo-in-high-stakes-nyc-race-why-donald-trumps-taken-the-battle-personally/articleshow/125088736.cms)
+- [AVOD Wins Gulf Industrial Excellence Award in the Large Factories Category, at 3rd Industrial Exhibition in Kuwait](https://www.muscatdaily.com/2025/11/04/vod-wins-gulf-industrial-excellence-award/)
+- [Nvidia en Deutsche Telekom smeden een AI-alliantie van $ 1.17 miljard](https://invezz.com/nl/nieuws/2025/11/04/nvidia-en-deutsche-telekom-smeden-een-ai-alliantie-van-1-17-miljard/)
+- [Budget pledges to shrink size of public service by 40,000 over three years](https://www.castanetkamloops.net/news/Canada/582085/Budget-pledges-to-shrink-size-of-public-service-by-40-000-over-three-years)
+- [Rezolve Ai Poised to Lead the Trillion-Dollar Agentic Commerce Revolution as Amazon CEO Declares It “the Future of eCommerce”](https://www.globenewswire.com/fr/news-release/2025/11/04/3180324/0/en/Rezolve-Ai-Poised-to-Lead-the-Trillion-Dollar-Agentic-Commerce-Revolution-as-Amazon-CEO-Declares-It-the-Future-of-eCommerce.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
