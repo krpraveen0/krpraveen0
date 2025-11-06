@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 6.2 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 6.3 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [New York mayor elections: Zohran Mamdani vs Andrew Cuomo in high-stakes NYC race; why Donald Trump’s taken the battle personally](https://timesofindia.indiatimes.com/world/us/new-york-mayor-elections-zohran-mamdani-vs-andrew-cuomo-in-high-stakes-nyc-race-why-donald-trumps-taken-the-battle-personally/articleshow/125088736.cms)
-- [AVOD Wins Gulf Industrial Excellence Award in the Large Factories Category, at 3rd Industrial Exhibition in Kuwait](https://www.muscatdaily.com/2025/11/04/vod-wins-gulf-industrial-excellence-award/)
-- [Nvidia en Deutsche Telekom smeden een AI-alliantie van $ 1.17 miljard](https://invezz.com/nl/nieuws/2025/11/04/nvidia-en-deutsche-telekom-smeden-een-ai-alliantie-van-1-17-miljard/)
-- [Budget pledges to shrink size of public service by 40,000 over three years](https://www.castanetkamloops.net/news/Canada/582085/Budget-pledges-to-shrink-size-of-public-service-by-40-000-over-three-years)
-- [Rezolve Ai Poised to Lead the Trillion-Dollar Agentic Commerce Revolution as Amazon CEO Declares It “the Future of eCommerce”](https://www.globenewswire.com/fr/news-release/2025/11/04/3180324/0/en/Rezolve-Ai-Poised-to-Lead-the-Trillion-Dollar-Agentic-Commerce-Revolution-as-Amazon-CEO-Declares-It-the-Future-of-eCommerce.html)
+- [US Firm Launches AI-Powered Veterinary Care Services In Nigeria](https://www.thisdaylive.com/2025/11/05/us-firm-launches-ai-powered-veterinary-care-services-in-nigeria/)
+- [Private payrolls rose 42,000 in October, more than expected and countering labor market fears, ADP says](https://www.cnbc.com/2025/11/05/private-payrolls-rose-42000-in-october-more-than-expected-and-countering-labor-market-fears-adp-says.html)
+- [China’s new 5-year plan: A high-stakes bet on self-reliance that won’t fix an unbalanced economy](https://theconversation.com/chinas-new-5-year-plan-a-high-stakes-bet-on-self-reliance-that-wont-fix-an-unbalanced-economy-268699)
+- [How Australia’s First AI Film Festival Convinced ‘Mad Max’ Director George Miller Of A Creative Revolution](https://deadline.com/2025/11/mad-max-george-miller-omni-ai-film-festival-1236607709/)
+- [OFA Group Announces Initial Closing of up to $50 Million Founder-Backed Financing with Greentree Financial Group and TriCore Foundation](https://www.manilatimes.net/2025/11/05/tmt-newswire/globenewswire/ofa-group-announces-initial-closing-of-up-to-50-million-founder-backed-financing-with-greentree-financial-group-and-tricore-foundation/2216672)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
