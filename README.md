@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [US Firm Launches AI-Powered Veterinary Care Services In Nigeria](https://www.thisdaylive.com/2025/11/05/us-firm-launches-ai-powered-veterinary-care-services-in-nigeria/)
-- [Private payrolls rose 42,000 in October, more than expected and countering labor market fears, ADP says](https://www.cnbc.com/2025/11/05/private-payrolls-rose-42000-in-october-more-than-expected-and-countering-labor-market-fears-adp-says.html)
-- [China’s new 5-year plan: A high-stakes bet on self-reliance that won’t fix an unbalanced economy](https://theconversation.com/chinas-new-5-year-plan-a-high-stakes-bet-on-self-reliance-that-wont-fix-an-unbalanced-economy-268699)
-- [How Australia’s First AI Film Festival Convinced ‘Mad Max’ Director George Miller Of A Creative Revolution](https://deadline.com/2025/11/mad-max-george-miller-omni-ai-film-festival-1236607709/)
-- [OFA Group Announces Initial Closing of up to $50 Million Founder-Backed Financing with Greentree Financial Group and TriCore Foundation](https://www.manilatimes.net/2025/11/05/tmt-newswire/globenewswire/ofa-group-announces-initial-closing-of-up-to-50-million-founder-backed-financing-with-greentree-financial-group-and-tricore-foundation/2216672)
+- [CreditBlockchain Launches AI-Powered Referral Program to Advance Intelligent, Transparent Financial Growth](https://www.globenewswire.com/fr/news-release/2025/11/06/3182573/0/en/CreditBlockchain-Launches-AI-Powered-Referral-Program-to-Advance-Intelligent-Transparent-Financial-Growth.html)
+- [From startup grit to investor gold: Mumbai hosts grand finale of ET Soonicorns Summit 2025 Sundowner series](https://economictimes.indiatimes.com/tech/startups/from-startup-grit-to-investor-gold-mumbai-hosts-grand-finale-of-et-soonicorns-summit-2025-sundowner-series/articleshow/125133951.cms)
+- [A pupil’s comment about planes shocked me to my core](https://metro.co.uk/2025/11/06/a-pupils-comment-planes-shocked-core-24633544/)
+- [Transforming Care Search Using Artificial Intelligence: The Intelligent Search Revolution](https://www.ibtimes.sg/transforming-care-search-using-artificial-intelligence-intelligent-search-revolution-82310)
+- [CreditBlockchain Launches AI-Powered Intelligent Finance Platform for the Web3 Era](https://www.globenewswire.com/fr/news-release/2025/11/06/3182571/0/en/CreditBlockchain-Launches-AI-Powered-Intelligent-Finance-Platform-for-the-Web3-Era.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
