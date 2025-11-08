@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [CreditBlockchain Launches AI-Powered Referral Program to Advance Intelligent, Transparent Financial Growth](https://www.globenewswire.com/fr/news-release/2025/11/06/3182573/0/en/CreditBlockchain-Launches-AI-Powered-Referral-Program-to-Advance-Intelligent-Transparent-Financial-Growth.html)
-- [From startup grit to investor gold: Mumbai hosts grand finale of ET Soonicorns Summit 2025 Sundowner series](https://economictimes.indiatimes.com/tech/startups/from-startup-grit-to-investor-gold-mumbai-hosts-grand-finale-of-et-soonicorns-summit-2025-sundowner-series/articleshow/125133951.cms)
-- [A pupil’s comment about planes shocked me to my core](https://metro.co.uk/2025/11/06/a-pupils-comment-planes-shocked-core-24633544/)
-- [Transforming Care Search Using Artificial Intelligence: The Intelligent Search Revolution](https://www.ibtimes.sg/transforming-care-search-using-artificial-intelligence-intelligent-search-revolution-82310)
-- [CreditBlockchain Launches AI-Powered Intelligent Finance Platform for the Web3 Era](https://www.globenewswire.com/fr/news-release/2025/11/06/3182571/0/en/CreditBlockchain-Launches-AI-Powered-Intelligent-Finance-Platform-for-the-Web3-Era.html)
+- [IPDN Welcomes His Highness Shaikh Ali Sultan Al Nuaimi of the UAE Royal Family as Independent Director](https://www.globenewswire.com/fr/news-release/2025/11/07/3183627/25762/en/IPDN-Welcomes-His-Highness-Shaikh-Ali-Sultan-Al-Nuaimi-of-the-UAE-Royal-Family-as-Independent-Director.html)
+- [IPDN Welcomes His Highness Shaikh Ali Sultan Al Nuaimi of the UAE Royal Family as Independent Director](https://www.benzinga.com/pressreleases/25/11/g48717309/ipdn-welcomes-his-highness-shaikh-ali-sultan-al-nuaimi-of-the-uae-royal-family-as-independent-dire)
+- [Tinubu approves establishment of Federal University of Science, Technology in Epe](https://www.nigerianeye.com/2025/11/tinubu-approves-establishment-of.html)
+- [Türkiye aims to register 60 food products under EU’s geographical indications scheme](https://www.aa.com.tr/en/turkiye/turkiye-aims-to-register-60-food-products-under-eu-s-geographical-indications-scheme/3737730)
+- [Govt proposes consumer law reforms to speed up case resolution cut backlog](https://www.theweek.in/wire-updates/business/2025/11/07/dcm117-biz-consumer-ministry.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
