@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [IPDN Welcomes His Highness Shaikh Ali Sultan Al Nuaimi of the UAE Royal Family as Independent Director](https://www.globenewswire.com/fr/news-release/2025/11/07/3183627/25762/en/IPDN-Welcomes-His-Highness-Shaikh-Ali-Sultan-Al-Nuaimi-of-the-UAE-Royal-Family-as-Independent-Director.html)
-- [IPDN Welcomes His Highness Shaikh Ali Sultan Al Nuaimi of the UAE Royal Family as Independent Director](https://www.benzinga.com/pressreleases/25/11/g48717309/ipdn-welcomes-his-highness-shaikh-ali-sultan-al-nuaimi-of-the-uae-royal-family-as-independent-dire)
-- [Tinubu approves establishment of Federal University of Science, Technology in Epe](https://www.nigerianeye.com/2025/11/tinubu-approves-establishment-of.html)
-- [Türkiye aims to register 60 food products under EU’s geographical indications scheme](https://www.aa.com.tr/en/turkiye/turkiye-aims-to-register-60-food-products-under-eu-s-geographical-indications-scheme/3737730)
-- [Govt proposes consumer law reforms to speed up case resolution cut backlog](https://www.theweek.in/wire-updates/business/2025/11/07/dcm117-biz-consumer-ministry.html)
+- [Gray Media, Inc. (NYSE:GTN) Q3 2025 Earnings Call Transcript](https://www.insidermonkey.com/blog/gray-media-inc-nysegtn-q3-2025-earnings-call-transcript-1642599/)
+- [Media Track at BRIDGE Summit 2025 to confront the global credibility crisis and the economics of influence](https://uaenews247.com/2025/11/08/media-track-at-bridge-summit-2025-to-confront-the-global-credibility-crisis-and-the-economics-of-influence/)
+- [QuinStreet, Inc. (NASDAQ:QNST) Q1 2026 Earnings Call Transcript](https://www.insidermonkey.com/blog/quinstreet-inc-nasdaqqnst-q1-2026-earnings-call-transcript-1642562/)
+- [India should build AI models for public good, industry experts say](https://yourstory.com/2025/11/india-should-build-ai-models-for-public-good-industry-experts-say)
+- [🚨Kovac rings the changes against Hamburg](https://ca.sports.yahoo.com/news/kovac-rings-changes-against-hamburg-132300591.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
