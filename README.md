@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Gray Media, Inc. (NYSE:GTN) Q3 2025 Earnings Call Transcript](https://www.insidermonkey.com/blog/gray-media-inc-nysegtn-q3-2025-earnings-call-transcript-1642599/)
-- [Media Track at BRIDGE Summit 2025 to confront the global credibility crisis and the economics of influence](https://uaenews247.com/2025/11/08/media-track-at-bridge-summit-2025-to-confront-the-global-credibility-crisis-and-the-economics-of-influence/)
-- [QuinStreet, Inc. (NASDAQ:QNST) Q1 2026 Earnings Call Transcript](https://www.insidermonkey.com/blog/quinstreet-inc-nasdaqqnst-q1-2026-earnings-call-transcript-1642562/)
-- [India should build AI models for public good, industry experts say](https://yourstory.com/2025/11/india-should-build-ai-models-for-public-good-industry-experts-say)
-- [🚨Kovac rings the changes against Hamburg](https://ca.sports.yahoo.com/news/kovac-rings-changes-against-hamburg-132300591.html)
+- [The Harvard scientist, Kim Kardashian and the comet that probably isn’t an alien spaceship](https://www.boston.com/news/local-news/2025/11/09/the-harvard-scientist-kim-kardashian-and-the-comet-that-probably-isnt-an-alien-spaceship/)
+- [Pinnacle Wealth Management Advisory Group LLC Buys 437 Shares of Accenture PLC $ACN](https://www.themarketsdaily.com/2025/11/09/pinnacle-wealth-management-advisory-group-llc-buys-437-shares-of-accenture-plc-acn.html)
+- [Kenya’s Digital Transformation, Powered By AI And Data, Creates A Seamless New Era For African Travel](https://www.travelandtourworld.com/news/article/kenyas-digital-transformation-powered-by-ai-and-data-creates-a-seamless-new-era-for-african-travel/)
+- [Capital Highlights: Premiums rise as ACA open enrollment begins](https://kilgorenewsherald.com/2025/11/09/capital-highlights-premiums-rise-as-aca-open-enrollment-begins/)
+- [ADEA Triennale 2025 Closes in Accra With Bold Commitments to “Walk the Talk” on Education Reform](https://www.ghanamma.com/2025/11/09/adea-triennale-2025-closes-in-accra-with-bold-commitments-to-walk-the-talk-on-education-reform/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
