@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [The Harvard scientist, Kim Kardashian and the comet that probably isn’t an alien spaceship](https://www.boston.com/news/local-news/2025/11/09/the-harvard-scientist-kim-kardashian-and-the-comet-that-probably-isnt-an-alien-spaceship/)
-- [Pinnacle Wealth Management Advisory Group LLC Buys 437 Shares of Accenture PLC $ACN](https://www.themarketsdaily.com/2025/11/09/pinnacle-wealth-management-advisory-group-llc-buys-437-shares-of-accenture-plc-acn.html)
-- [Kenya’s Digital Transformation, Powered By AI And Data, Creates A Seamless New Era For African Travel](https://www.travelandtourworld.com/news/article/kenyas-digital-transformation-powered-by-ai-and-data-creates-a-seamless-new-era-for-african-travel/)
-- [Capital Highlights: Premiums rise as ACA open enrollment begins](https://kilgorenewsherald.com/2025/11/09/capital-highlights-premiums-rise-as-aca-open-enrollment-begins/)
-- [ADEA Triennale 2025 Closes in Accra With Bold Commitments to “Walk the Talk” on Education Reform](https://www.ghanamma.com/2025/11/09/adea-triennale-2025-closes-in-accra-with-bold-commitments-to-walk-the-talk-on-education-reform/)
+- [Bear attacks in Japan give rise to fake AI images, service disruptions](https://english.kyodonews.net/articles/-/64620)
+- [Arsene Wenger fires warning to Arsenal boss Mikel Arteta over 'dangerous' use of AI](https://www.mirror.co.uk/sport/football/news/arsenal-ai-mikel-arteta-wenger-36220957)
+- [Abu Dhabi Investment Office announces 29 strategic partnerships to accelerate commercialisation of autonomous mobility](https://www.prnewswire.com/news-releases/abu-dhabi-investment-office-announces-29-strategic-partnerships-to-accelerate-commercialisation-of-autonomous-mobility-302610159.html)
+- [S Squared Technology LLC Reduces Stock Holdings in Ambarella, Inc. $AMBA](https://www.dailypolitical.com/2025/11/10/s-squared-technology-llc-reduces-stock-holdings-in-ambarella-inc-amba.html)
+- [Eagles vs. Packers SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI](https://www.cbssports.com/nfl/news/eagles-packers-props-sgp-monday-night-football-same-game-parlay-picks-bets/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
