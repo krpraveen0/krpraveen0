@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Bear attacks in Japan give rise to fake AI images, service disruptions](https://english.kyodonews.net/articles/-/64620)
-- [Arsene Wenger fires warning to Arsenal boss Mikel Arteta over 'dangerous' use of AI](https://www.mirror.co.uk/sport/football/news/arsenal-ai-mikel-arteta-wenger-36220957)
-- [Abu Dhabi Investment Office announces 29 strategic partnerships to accelerate commercialisation of autonomous mobility](https://www.prnewswire.com/news-releases/abu-dhabi-investment-office-announces-29-strategic-partnerships-to-accelerate-commercialisation-of-autonomous-mobility-302610159.html)
-- [S Squared Technology LLC Reduces Stock Holdings in Ambarella, Inc. $AMBA](https://www.dailypolitical.com/2025/11/10/s-squared-technology-llc-reduces-stock-holdings-in-ambarella-inc-amba.html)
-- [Eagles vs. Packers SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI](https://www.cbssports.com/nfl/news/eagles-packers-props-sgp-monday-night-football-same-game-parlay-picks-bets/)
+- [Where AI ends, writer’s creativity breathes free](https://www.hindustantimes.com/cities/chandigarh-news/where-ai-ends-writer-s-creativity-breathes-free-101762867407951.html)
+- [Senate returns to the fray with legislation that would allow mayors to increase their salaries](https://www.elnuevodia.com/english/news/story/senate-returns-to-the-fray-with-legislation-that-would-allow-mayors-to-increase-their-salaries/)
+- [Senate renews push for legislation that would allow mayors to increase their salaries](https://www.elnuevodia.com/english/news/story/senate-renews-push-for-legislation-that-would-allow-mayors-to-increase-their-salaries/)
+- [Bridging the digital divide and actively promoting globalization, Chinese philosophy becomes a 'stabilizer': senior Chinese economist](http://www.ecns.cn/news/politics/2025-11-11/detail-ihewyezc9796685.shtml)
+- [AI cloud firm Nebius signs US$3 billion deal with Meta, posts more than four-fold rise in revenue](https://www.ctvnews.ca/business/article/ai-cloud-firm-nebius-signs-us3-billion-deal-with-meta-posts-more-than-four-fold-rise-in-revenue/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
