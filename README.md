@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Where AI ends, writer’s creativity breathes free](https://www.hindustantimes.com/cities/chandigarh-news/where-ai-ends-writer-s-creativity-breathes-free-101762867407951.html)
-- [Senate returns to the fray with legislation that would allow mayors to increase their salaries](https://www.elnuevodia.com/english/news/story/senate-returns-to-the-fray-with-legislation-that-would-allow-mayors-to-increase-their-salaries/)
-- [Senate renews push for legislation that would allow mayors to increase their salaries](https://www.elnuevodia.com/english/news/story/senate-renews-push-for-legislation-that-would-allow-mayors-to-increase-their-salaries/)
-- [Bridging the digital divide and actively promoting globalization, Chinese philosophy becomes a 'stabilizer': senior Chinese economist](http://www.ecns.cn/news/politics/2025-11-11/detail-ihewyezc9796685.shtml)
-- [AI cloud firm Nebius signs US$3 billion deal with Meta, posts more than four-fold rise in revenue](https://www.ctvnews.ca/business/article/ai-cloud-firm-nebius-signs-us3-billion-deal-with-meta-posts-more-than-four-fold-rise-in-revenue/)
+- [AI is redefining how nations design, operate, and secure their skies](https://www.khaleejtimes.com/business/ai-is-redefining-how-nations-design-operate-and-secure-their-skies)
+- [Nvidia's Upcoming Q3 Earnings Report Draws Intense Interest In Direxion's NVDU, NVDD ETFs](https://www.benzinga.com/etfs/specialty-etfs/25/11/48801049/nvidias-upcoming-q3-earnings-report-draws-intense-interest-in-direxions-nvdu-nvdd-etfs)
+- [Cassava Technologies Launches Africa’s First AI Model Exchange for Mobile Operators](https://iafrica.com/cassava-technologies-launches-africas-first-ai-model-exchange-for-mobile-operators/)
+- [OOB Token Debuts on Kraken Following VCIG's US$100 Million Acquisition](https://www.benzinga.com/pressreleases/25/11/g48801027/oob-token-debuts-on-kraken-following-vcigs-us-100-million-acquisition)
+- [OOB Token Debuts on Kraken Following VCIG’s US$100 Million Acquisition](https://www.globenewswire.com/fr/news-release/2025/11/12/3186243/0/en/OOB-Token-Debuts-on-Kraken-Following-VCIG-s-US-100-Million-Acquisition.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
