@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI is redefining how nations design, operate, and secure their skies](https://www.khaleejtimes.com/business/ai-is-redefining-how-nations-design-operate-and-secure-their-skies)
-- [Nvidia's Upcoming Q3 Earnings Report Draws Intense Interest In Direxion's NVDU, NVDD ETFs](https://www.benzinga.com/etfs/specialty-etfs/25/11/48801049/nvidias-upcoming-q3-earnings-report-draws-intense-interest-in-direxions-nvdu-nvdd-etfs)
-- [Cassava Technologies Launches Africa’s First AI Model Exchange for Mobile Operators](https://iafrica.com/cassava-technologies-launches-africas-first-ai-model-exchange-for-mobile-operators/)
-- [OOB Token Debuts on Kraken Following VCIG's US$100 Million Acquisition](https://www.benzinga.com/pressreleases/25/11/g48801027/oob-token-debuts-on-kraken-following-vcigs-us-100-million-acquisition)
-- [OOB Token Debuts on Kraken Following VCIG’s US$100 Million Acquisition](https://www.globenewswire.com/fr/news-release/2025/11/12/3186243/0/en/OOB-Token-Debuts-on-Kraken-Following-VCIG-s-US-100-Million-Acquisition.html)
+- [One entrepreneur per family: Chandrababu Naidu’s new economic vision for Andhra Pradesh](https://www.cnbctv18.com/business/andhra-pradesh-chandrababu-naidu-one-entrepreneur-per-family-ai-investment-google-vision-19759833.htm)
+- [Wall Street inches down modestly in premarket after Trump signs bill ending US government shutdown](https://www.ottumwacourier.com/news/business/wall-street-inches-down-modestly-in-premarket-after-trump-signs-bill-ending-us-government-shutdown/article_291f8956-5c83-5d64-bc36-98e15f7925f1.html)
+- [Oman interested in working with Russian IT companies — business council chief](https://tass.com/economy/2043359)
+- [Coordinate Measuring Machine Market Size, Share, Growth, and Outlook Forecast to 2035](https://www.openpr.com/news/4269361/coordinate-measuring-machine-market-size-share-growth)
+- [Canada eyes fresh start in trade talks with India, says minister Sidhu](https://www.ctvnews.ca/business/article/canada-eyes-fresh-start-in-trade-talks-with-india-says-minister-sidhu/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
