@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [One entrepreneur per family: Chandrababu Naidu’s new economic vision for Andhra Pradesh](https://www.cnbctv18.com/business/andhra-pradesh-chandrababu-naidu-one-entrepreneur-per-family-ai-investment-google-vision-19759833.htm)
-- [Wall Street inches down modestly in premarket after Trump signs bill ending US government shutdown](https://www.ottumwacourier.com/news/business/wall-street-inches-down-modestly-in-premarket-after-trump-signs-bill-ending-us-government-shutdown/article_291f8956-5c83-5d64-bc36-98e15f7925f1.html)
-- [Oman interested in working with Russian IT companies — business council chief](https://tass.com/economy/2043359)
-- [Coordinate Measuring Machine Market Size, Share, Growth, and Outlook Forecast to 2035](https://www.openpr.com/news/4269361/coordinate-measuring-machine-market-size-share-growth)
-- [Canada eyes fresh start in trade talks with India, says minister Sidhu](https://www.ctvnews.ca/business/article/canada-eyes-fresh-start-in-trade-talks-with-india-says-minister-sidhu/)
+- [Walmart CEO Doug McMillon announces his surprise retirement at age 59](https://www.newsday.com/business/walmart-ceo-retire-mcmillon-furner-e43326)
+- [Walmart CEO Doug McMillon to retire in January and US operations chief John Furner will take over](https://www.clickondetroit.com/business/2025/11/14/walmart-ceo-doug-mcmillon-to-retire-in-january-and-us-operations-chief-john-furner-will-take-over/)
+- [Walmart CEO Doug McMillon to retire in January and US operations chief John Furner will take over](https://www.ksat.com/business/2025/11/14/walmart-ceo-doug-mcmillon-to-retire-in-january-and-us-operations-chief-john-furner-will-take-over/)
+- [Walmart Stock Tumbles After CEO Unexpectedly Announces Retirement](https://www.westernjournal.com/ap-walmart-ceo-doug-mcmillon-retire-january-us-operations-chief-john-furner-will-take/)
+- [Walmart CEO Doug McMillon to retire in January and US operations chief John Furner will take over](https://apnews.com/article/walmart-ceo-retire-mcmillon-furner-b97f97d17a692c9280c954775481ce2d)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
