@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Walmart CEO Doug McMillon announces his surprise retirement at age 59](https://www.newsday.com/business/walmart-ceo-retire-mcmillon-furner-e43326)
-- [Walmart CEO Doug McMillon to retire in January and US operations chief John Furner will take over](https://www.clickondetroit.com/business/2025/11/14/walmart-ceo-doug-mcmillon-to-retire-in-january-and-us-operations-chief-john-furner-will-take-over/)
-- [Walmart CEO Doug McMillon to retire in January and US operations chief John Furner will take over](https://www.ksat.com/business/2025/11/14/walmart-ceo-doug-mcmillon-to-retire-in-january-and-us-operations-chief-john-furner-will-take-over/)
-- [Walmart Stock Tumbles After CEO Unexpectedly Announces Retirement](https://www.westernjournal.com/ap-walmart-ceo-doug-mcmillon-retire-january-us-operations-chief-john-furner-will-take/)
-- [Walmart CEO Doug McMillon to retire in January and US operations chief John Furner will take over](https://apnews.com/article/walmart-ceo-retire-mcmillon-furner-b97f97d17a692c9280c954775481ce2d)
+- [🚨 Over in Russia: Chile’s confirmed line-up for the friendly](https://sports.yahoo.com/article/over-russia-chile-confirmed-line-133700345.html)
+- [Samsung’s Speedy Decision Slashes Galaxy S25 Ultra Pricing](https://www.forbes.com/sites/ewanspence/2025/11/15/samsung-galaxy-s25-ultra-refurbished-renewed-discount-sale-new-galaxy-s25/)
+- [OpenAI and Microsoft team up with state law enforcers on AI safety task force](https://egyptindependent.com/openai-and-microsoft-team-up-with-state-law-enforcers-on-ai-safety-task-force/)
+- [GDRFA Dubai unveils seamless travel and smart services at airshow](https://gulfnews.com/uae/gdrfa-dubai-unveils-seamless-travel-and-smart-services-at-airshow-1.500347509)
+- [Israel's hi-tech industry faces major AI risks and energy challenges, lags behind global leaders](https://www.jpost.com/business-and-innovation/article-873912)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
