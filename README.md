@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [🚨 Over in Russia: Chile’s confirmed line-up for the friendly](https://sports.yahoo.com/article/over-russia-chile-confirmed-line-133700345.html)
-- [Samsung’s Speedy Decision Slashes Galaxy S25 Ultra Pricing](https://www.forbes.com/sites/ewanspence/2025/11/15/samsung-galaxy-s25-ultra-refurbished-renewed-discount-sale-new-galaxy-s25/)
-- [OpenAI and Microsoft team up with state law enforcers on AI safety task force](https://egyptindependent.com/openai-and-microsoft-team-up-with-state-law-enforcers-on-ai-safety-task-force/)
-- [GDRFA Dubai unveils seamless travel and smart services at airshow](https://gulfnews.com/uae/gdrfa-dubai-unveils-seamless-travel-and-smart-services-at-airshow-1.500347509)
-- [Israel's hi-tech industry faces major AI risks and energy challenges, lags behind global leaders](https://www.jpost.com/business-and-innovation/article-873912)
+- [Lower temperatures expected starting later this week in Puerto Rico](https://www.elnuevodia.com/english/news/story/lower-temperatures-expected-starting-later-this-week-in-puerto-rico/)
+- [Tesla Bull sends ‘Google message’ to Apple CEO Tim Cook, says: It’s time for ...](https://timesofindia.indiatimes.com/technology/tech-news/tesla-bull-sends-google-message-to-apple-ceo-tim-cook-says-its-time-for-/articleshow/125364531.cms)
+- [Still world-class at 40: Is he the greatest midfielder ever?](https://ca.sports.yahoo.com/news/still-world-class-40-greatest-132200707.html)
+- [Saudi Arabia Takes the Lead in Travel Innovation with the Launch of the Agentic Tourism Protocol at TOURISE Summit, Shaping the Future of AI and Sustainable Tourism](https://www.travelandtourworld.com/news/article/saudi-arabia-takes-the-lead-in-travel-innovation-with-the-launch-of-the-agentic-tourism-protocol-at-tourise-summit-shaping-the-future-of-ai-and-sustainable-tourism/)
+- [Crossmark Global Holdings Inc. Increases Holdings in Salesforce Inc. $CRM](https://www.themarketsdaily.com/2025/11/16/crossmark-global-holdings-inc-increases-holdings-in-salesforce-inc-crm.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
