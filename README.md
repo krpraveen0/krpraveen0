@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Lower temperatures expected starting later this week in Puerto Rico](https://www.elnuevodia.com/english/news/story/lower-temperatures-expected-starting-later-this-week-in-puerto-rico/)
-- [Tesla Bull sends ‘Google message’ to Apple CEO Tim Cook, says: It’s time for ...](https://timesofindia.indiatimes.com/technology/tech-news/tesla-bull-sends-google-message-to-apple-ceo-tim-cook-says-its-time-for-/articleshow/125364531.cms)
-- [Still world-class at 40: Is he the greatest midfielder ever?](https://ca.sports.yahoo.com/news/still-world-class-40-greatest-132200707.html)
-- [Saudi Arabia Takes the Lead in Travel Innovation with the Launch of the Agentic Tourism Protocol at TOURISE Summit, Shaping the Future of AI and Sustainable Tourism](https://www.travelandtourworld.com/news/article/saudi-arabia-takes-the-lead-in-travel-innovation-with-the-launch-of-the-agentic-tourism-protocol-at-tourise-summit-shaping-the-future-of-ai-and-sustainable-tourism/)
-- [Crossmark Global Holdings Inc. Increases Holdings in Salesforce Inc. $CRM](https://www.themarketsdaily.com/2025/11/16/crossmark-global-holdings-inc-increases-holdings-in-salesforce-inc-crm.html)
+- [Ophthalmic Drugs Market Trends, Challenges and Strategic Insights](https://www.openpr.com/news/4274015/ophthalmic-drugs-market-trends-challenges-and-strategic)
+- [Monoclonal Antibody Market Forecast 2035 | Key Driver, Restraint, and Growth Opportunity](https://www.openpr.com/news/4274014/monoclonal-antibody-market-forecast-2035-key-driver)
+- [Artists & Robots Launches; Returns Human Creative to an AI-Fueled World](https://www.prnewswire.com/news-releases/artists--robots-launches-returns-human-creative-to-an-ai-fueled-world-302617134.html)
+- [Exploring the Medical Biomimetics Market: Innovations Inspired by Nature](https://www.openpr.com/news/4274009/exploring-the-medical-biomimetics-market-innovations)
+- [Student cheating dominates talk of generative AI in higher ed, but universities and tech companies face ethical issues too](https://theconversation.com/student-cheating-dominates-talk-of-generative-ai-in-higher-ed-but-universities-and-tech-companies-face-ethical-issues-too-268167)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
