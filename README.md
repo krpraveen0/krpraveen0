@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Ophthalmic Drugs Market Trends, Challenges and Strategic Insights](https://www.openpr.com/news/4274015/ophthalmic-drugs-market-trends-challenges-and-strategic)
-- [Monoclonal Antibody Market Forecast 2035 | Key Driver, Restraint, and Growth Opportunity](https://www.openpr.com/news/4274014/monoclonal-antibody-market-forecast-2035-key-driver)
-- [Artists & Robots Launches; Returns Human Creative to an AI-Fueled World](https://www.prnewswire.com/news-releases/artists--robots-launches-returns-human-creative-to-an-ai-fueled-world-302617134.html)
-- [Exploring the Medical Biomimetics Market: Innovations Inspired by Nature](https://www.openpr.com/news/4274009/exploring-the-medical-biomimetics-market-innovations)
-- [Student cheating dominates talk of generative AI in higher ed, but universities and tech companies face ethical issues too](https://theconversation.com/student-cheating-dominates-talk-of-generative-ai-in-higher-ed-but-universities-and-tech-companies-face-ethical-issues-too-268167)
+- [Why Brewing Fears Of An AI Bubble Might Raise The Profile Of ProShares Nasdaq-100 High Income ETF](https://www.benzinga.com/etfs/specialty-etfs/25/11/48921080/why-brewing-fears-of-an-ai-bubble-might-raise-the-profile-of-proshares-nasdaq-100-high-income)
+- [India’s IPO Market witnesses a structural shift towards domestic capital](https://www.livemint.com/focus/indias-ipo-market-witnesses-a-structural-shift-towards-domestic-capital-11763468175906.html)
+- [Intuit to pay OpenAI over $100 million a year for model access, ChatGPT integrates with TurboTax](https://www.cnbc.com/2025/11/18/intuit-pays-openai-100-million-a-year-turbotax-integrates-chatgpt.html)
+- [Cloudflare outage disrupts ChatGPT, X, other internet services](https://www.djournal.com/news/nation-world/cloudflare-outage-disrupts-chatgpt-x-other-internet-services/article_e0732a60-4f67-50c1-9e75-0d662ac11d62.html)
+- [Lily Allen's break up album inspired Cambridge Dictionary's Word of the Year for 2025](https://www.dailyrecord.co.uk/news/uk-world-news/lily-allens-break-up-album-36264352)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
