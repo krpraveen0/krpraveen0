@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Why Brewing Fears Of An AI Bubble Might Raise The Profile Of ProShares Nasdaq-100 High Income ETF](https://www.benzinga.com/etfs/specialty-etfs/25/11/48921080/why-brewing-fears-of-an-ai-bubble-might-raise-the-profile-of-proshares-nasdaq-100-high-income)
-- [India’s IPO Market witnesses a structural shift towards domestic capital](https://www.livemint.com/focus/indias-ipo-market-witnesses-a-structural-shift-towards-domestic-capital-11763468175906.html)
-- [Intuit to pay OpenAI over $100 million a year for model access, ChatGPT integrates with TurboTax](https://www.cnbc.com/2025/11/18/intuit-pays-openai-100-million-a-year-turbotax-integrates-chatgpt.html)
-- [Cloudflare outage disrupts ChatGPT, X, other internet services](https://www.djournal.com/news/nation-world/cloudflare-outage-disrupts-chatgpt-x-other-internet-services/article_e0732a60-4f67-50c1-9e75-0d662ac11d62.html)
-- [Lily Allen's break up album inspired Cambridge Dictionary's Word of the Year for 2025](https://www.dailyrecord.co.uk/news/uk-world-news/lily-allens-break-up-album-36264352)
+- [AI in Dentistry Market Report on the Untapped Growth Opportunities in the Industry](https://www.openpr.com/news/4278424/ai-in-dentistry-market-report-on-the-untapped-growth)
+- ['टीईटी' परीक्षेत 'फोटो व्ह्यू' प्रणाली ओळखणार डमी उमेदवार; परीक्षेत उमेदवारांवर एआय ठेवणार लक्ष](https://www.lokmat.com/gondia/dummy-candidates-will-be-identified-by-the-photo-view-system-in-the-tet-exam-ai-will-keep-an-eye-on-candidates-in-the-exam-a-a1000/)
+- [Adobe’s $1.9 Billion SEO Power Play: Snapping Up Semrush in AI Era](https://www.webpronews.com/adobes-1-9-billion-seo-power-play-snapping-up-semrush-in-ai-era/)
+- [Stock Market Today: Dow Rises Ahead Of Fed Minutes; Nvidia Rallies With Earnings On The Way (Live Coverage)](https://biztoc.com/x/c08f9de120861bf0)
+- [Three Strategic Segments Drive EPWK's Synergistic Growth, Building New Pattern for Its Sustainable Expansion](https://www.manilatimes.net/2025/11/19/tmt-newswire/pr-newswire/three-strategic-segments-drive-epwks-synergistic-growth-building-new-pattern-for-its-sustainable-expansion/2227438)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
