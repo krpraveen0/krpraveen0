@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI in Dentistry Market Report on the Untapped Growth Opportunities in the Industry](https://www.openpr.com/news/4278424/ai-in-dentistry-market-report-on-the-untapped-growth)
-- ['टीईटी' परीक्षेत 'फोटो व्ह्यू' प्रणाली ओळखणार डमी उमेदवार; परीक्षेत उमेदवारांवर एआय ठेवणार लक्ष](https://www.lokmat.com/gondia/dummy-candidates-will-be-identified-by-the-photo-view-system-in-the-tet-exam-ai-will-keep-an-eye-on-candidates-in-the-exam-a-a1000/)
-- [Adobe’s $1.9 Billion SEO Power Play: Snapping Up Semrush in AI Era](https://www.webpronews.com/adobes-1-9-billion-seo-power-play-snapping-up-semrush-in-ai-era/)
-- [Stock Market Today: Dow Rises Ahead Of Fed Minutes; Nvidia Rallies With Earnings On The Way (Live Coverage)](https://biztoc.com/x/c08f9de120861bf0)
-- [Three Strategic Segments Drive EPWK's Synergistic Growth, Building New Pattern for Its Sustainable Expansion](https://www.manilatimes.net/2025/11/19/tmt-newswire/pr-newswire/three-strategic-segments-drive-epwks-synergistic-growth-building-new-pattern-for-its-sustainable-expansion/2227438)
+- [The Latest: Trump administration plans for new oil drilling off California and Florida coasts](https://www.newsday.com/news/nation/president-donald-trump-d84003)
+- [The Latest: Trump administration plans for new oil drilling off California and Florida coasts](https://www.thestar.com/news/world/united-states/the-latest-trump-administration-plans-for-new-oil-drilling-off-california-and-florida-coasts/article_62cb6f9e-a0e8-5bcc-9c47-e8a06c579e11.html)
+- [HUMAIN And xAI Sign Agreement To Build 500MW Hyperscale GPU Data Centers In Saudi Arabia](https://mpost.io/humain-and-xai-sign-agreement-to-build-500mw-hyperscale-gpu-data-centers-in-saudi-arabia/)
+- [Analyzing TCTM Kids IT Education (VSA) & Its Rivals](https://www.themarketsdaily.com/2025/11/20/analyzing-tctm-kids-it-education-vsa-its-rivals.html)
+- [EMEET PIXY Wins Prestigious G Mark and MUSE Design Gold Awards for Its Elegant Design](https://www.prnewswire.com/news-releases/emeet-pixy-wins-prestigious-g-mark-and-muse-design-gold-awards-for-its-elegant-design-302621731.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
