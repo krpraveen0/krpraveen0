@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [The Latest: Trump administration plans for new oil drilling off California and Florida coasts](https://www.newsday.com/news/nation/president-donald-trump-d84003)
-- [The Latest: Trump administration plans for new oil drilling off California and Florida coasts](https://www.thestar.com/news/world/united-states/the-latest-trump-administration-plans-for-new-oil-drilling-off-california-and-florida-coasts/article_62cb6f9e-a0e8-5bcc-9c47-e8a06c579e11.html)
-- [HUMAIN And xAI Sign Agreement To Build 500MW Hyperscale GPU Data Centers In Saudi Arabia](https://mpost.io/humain-and-xai-sign-agreement-to-build-500mw-hyperscale-gpu-data-centers-in-saudi-arabia/)
-- [Analyzing TCTM Kids IT Education (VSA) & Its Rivals](https://www.themarketsdaily.com/2025/11/20/analyzing-tctm-kids-it-education-vsa-its-rivals.html)
-- [EMEET PIXY Wins Prestigious G Mark and MUSE Design Gold Awards for Its Elegant Design](https://www.prnewswire.com/news-releases/emeet-pixy-wins-prestigious-g-mark-and-muse-design-gold-awards-for-its-elegant-design-302621731.html)
+- [President El-Sisi’s Speech at Press Conference with President of Republic of Korea](https://egyptdailynews.com/president-el-sisis-speech-at-press-conference-with-president-of-republic-of-korea/)
+- [OpenAI partner Foxconn plans multibillion-dollar US AI push](https://startupnews.fyi/2025/11/21/openai-partner-foxconn-plans-multibillion-dollar-us-ai-push/)
+- [Federal court considers structural fixes after Google found to hold illegal ad monopoly](https://www.socialsamosa.com/news-2/federal-court-considers-structural-fixes-google-found-hold-illegal-ad-monopoly-10800140)
+- [Build Smarter AI Agents : Fast-Track Blueprint & Agent Design Steps That Work](https://www.geeky-gadgets.com/agentic-ai-design-patterns-and-workflows/)
+- [The market's surprising reversal, Gap's viral ad, AI regulation and more in Morning Squawk](https://www.cnbc.com/2025/11/21/5-things-to-know-before-the-stock-market-opens.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
