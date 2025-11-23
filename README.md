@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [President El-Sisi’s Speech at Press Conference with President of Republic of Korea](https://egyptdailynews.com/president-el-sisis-speech-at-press-conference-with-president-of-republic-of-korea/)
-- [OpenAI partner Foxconn plans multibillion-dollar US AI push](https://startupnews.fyi/2025/11/21/openai-partner-foxconn-plans-multibillion-dollar-us-ai-push/)
-- [Federal court considers structural fixes after Google found to hold illegal ad monopoly](https://www.socialsamosa.com/news-2/federal-court-considers-structural-fixes-google-found-hold-illegal-ad-monopoly-10800140)
-- [Build Smarter AI Agents : Fast-Track Blueprint & Agent Design Steps That Work](https://www.geeky-gadgets.com/agentic-ai-design-patterns-and-workflows/)
-- [The market's surprising reversal, Gap's viral ad, AI regulation and more in Morning Squawk](https://www.cnbc.com/2025/11/21/5-things-to-know-before-the-stock-market-opens.html)
+- [Ai Survival Kit quinta edizione: tutto quello che c’è da sapere sull’intelligenza artificiale](https://www.infodata.ilsole24ore.com/2025/11/22/ai-survival-kit-quinta-edizione-tutto-quello-che-ce-da-sapere-sullintelligenza-artificiale/)
+- [India, Australia, Canada launch Trilateral Tech Partnership](https://www.thestatesman.com/india/india-australia-canada-launch-trilateral-tech-partnership-1503515956.html)
+- [Analisis Rismon soal Ijazah Jokowi adalah Temuan Ilmiah, Ridho Rahmadi: Sulit untuk Dibantah](https://fajar.co.id/2025/11/22/analisis-rismon-soal-ijazah-jokowi-adalah-temuan-ilmiah-ridho-rahmadi-sulit-untuk-dibantah/)
+- [Accenture PLC $ACN Stock Position Decreased by Rhumbline Advisers](https://www.dailypolitical.com/2025/11/22/accenture-plc-acn-stock-position-decreased-by-rhumbline-advisers.html)
+- [AI will reshape labor markets at 'a pace our institutions will struggle to match,' warns Malaysian premier](https://www.aa.com.tr/en/asia-pacific/ai-will-reshape-labor-markets-at-a-pace-our-institutions-will-struggle-to-match-warns-malaysian-premier/3750958)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
