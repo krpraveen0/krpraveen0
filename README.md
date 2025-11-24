@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Ai Survival Kit quinta edizione: tutto quello che c’è da sapere sull’intelligenza artificiale](https://www.infodata.ilsole24ore.com/2025/11/22/ai-survival-kit-quinta-edizione-tutto-quello-che-ce-da-sapere-sullintelligenza-artificiale/)
-- [India, Australia, Canada launch Trilateral Tech Partnership](https://www.thestatesman.com/india/india-australia-canada-launch-trilateral-tech-partnership-1503515956.html)
-- [Analisis Rismon soal Ijazah Jokowi adalah Temuan Ilmiah, Ridho Rahmadi: Sulit untuk Dibantah](https://fajar.co.id/2025/11/22/analisis-rismon-soal-ijazah-jokowi-adalah-temuan-ilmiah-ridho-rahmadi-sulit-untuk-dibantah/)
-- [Accenture PLC $ACN Stock Position Decreased by Rhumbline Advisers](https://www.dailypolitical.com/2025/11/22/accenture-plc-acn-stock-position-decreased-by-rhumbline-advisers.html)
-- [AI will reshape labor markets at 'a pace our institutions will struggle to match,' warns Malaysian premier](https://www.aa.com.tr/en/asia-pacific/ai-will-reshape-labor-markets-at-a-pace-our-institutions-will-struggle-to-match-warns-malaysian-premier/3750958)
+- [Verizon and AWS Launch High-Capacity Network for Next-Gen AI Innovation](https://smallbiztrends.com/verizon-and-aws-launch-high-capacity-network-for-next-gen-ai-innovation/)
+- [Outgoing CJI Gavai defends collegium system, bats for creamy layer exclusion in SC quota](https://www.hindustantimes.com/india-news/outgoing-cji-gavai-defends-collegium-system-bats-for-creamy-layer-exclusion-in-sc-quota-101763905038743.html)
+- [Nemes Rush Group LLC Decreases Stake in Snowflake Inc. $SNOW](https://www.watchlistnews.com/nemes-rush-group-llc-decreases-stake-in-snowflake-inc-snow/10904407.html)
+- [DH Evening Brief | MHA after backlash says no intention to present Bill on Chandigarh; Modi throws light on AI misuse at G20 summit](https://www.deccanherald.com/india/dh-evening-brief-mha-after-backlash-says-no-intention-to-present-bill-on-chandigarh-modi-throws-light-on-ai-misuse-at-g20-summit-3807792)
+- [Automotive Stocks Worth Watching – November 22nd](https://www.watchlistnews.com/automotive-stocks-worth-watching-november-22nd/10904405.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
