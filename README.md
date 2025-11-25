@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Verizon and AWS Launch High-Capacity Network for Next-Gen AI Innovation](https://smallbiztrends.com/verizon-and-aws-launch-high-capacity-network-for-next-gen-ai-innovation/)
-- [Outgoing CJI Gavai defends collegium system, bats for creamy layer exclusion in SC quota](https://www.hindustantimes.com/india-news/outgoing-cji-gavai-defends-collegium-system-bats-for-creamy-layer-exclusion-in-sc-quota-101763905038743.html)
-- [Nemes Rush Group LLC Decreases Stake in Snowflake Inc. $SNOW](https://www.watchlistnews.com/nemes-rush-group-llc-decreases-stake-in-snowflake-inc-snow/10904407.html)
-- [DH Evening Brief | MHA after backlash says no intention to present Bill on Chandigarh; Modi throws light on AI misuse at G20 summit](https://www.deccanherald.com/india/dh-evening-brief-mha-after-backlash-says-no-intention-to-present-bill-on-chandigarh-modi-throws-light-on-ai-misuse-at-g20-summit-3807792)
-- [Automotive Stocks Worth Watching – November 22nd](https://www.watchlistnews.com/automotive-stocks-worth-watching-november-22nd/10904405.html)
+- [Alpha Modus Files Coordinated Patent Enforcement Actions Against V-Count and Stratacache, Advancing the Standardization of In-Store AI Infrastructure](https://www.manilatimes.net/2025/11/24/tmt-newswire/globenewswire/alpha-modus-files-coordinated-patent-enforcement-actions-against-v-count-and-stratacache-advancing-the-standardization-of-in-store-ai-infrastructure/2230431)
+- [Egbetokun Appoints SP Ikwen To Lead Police Anti-Cultism Campaign](https://thewillnews.com/2025/11/24/egbetokun-appoints-sp-ikwen-to-lead-police-anti-cultism-campaign/)
+- [LINK FOREX presents an innovative "investment as a side hustle” model to redefine global financial equity](https://www.manilatimes.net/2025/11/24/tmt-newswire/globenewswire/link-forex-presents-an-innovative-investment-as-a-side-hustle-model-to-redefine-global-financial-equity/2230417)
+- [HealthLynked Engages NE Holdings, LLC to Lead Strategic Advisory Services for Nasdaq Listing](https://www.manilatimes.net/2025/11/24/tmt-newswire/globenewswire/healthlynked-engages-ne-holdings-llc-to-lead-strategic-advisory-services-for-nasdaq-listing/2230416)
+- [Intellus Advisors LLC Purchases New Holdings in Snowflake Inc. $SNOW](https://www.thelincolnianonline.com/2025/11/24/intellus-advisors-llc-purchases-new-holdings-in-snowflake-inc-snow.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
