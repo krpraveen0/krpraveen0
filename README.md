@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Alpha Modus Files Coordinated Patent Enforcement Actions Against V-Count and Stratacache, Advancing the Standardization of In-Store AI Infrastructure](https://www.manilatimes.net/2025/11/24/tmt-newswire/globenewswire/alpha-modus-files-coordinated-patent-enforcement-actions-against-v-count-and-stratacache-advancing-the-standardization-of-in-store-ai-infrastructure/2230431)
-- [Egbetokun Appoints SP Ikwen To Lead Police Anti-Cultism Campaign](https://thewillnews.com/2025/11/24/egbetokun-appoints-sp-ikwen-to-lead-police-anti-cultism-campaign/)
-- [LINK FOREX presents an innovative "investment as a side hustle” model to redefine global financial equity](https://www.manilatimes.net/2025/11/24/tmt-newswire/globenewswire/link-forex-presents-an-innovative-investment-as-a-side-hustle-model-to-redefine-global-financial-equity/2230417)
-- [HealthLynked Engages NE Holdings, LLC to Lead Strategic Advisory Services for Nasdaq Listing](https://www.manilatimes.net/2025/11/24/tmt-newswire/globenewswire/healthlynked-engages-ne-holdings-llc-to-lead-strategic-advisory-services-for-nasdaq-listing/2230416)
-- [Intellus Advisors LLC Purchases New Holdings in Snowflake Inc. $SNOW](https://www.thelincolnianonline.com/2025/11/24/intellus-advisors-llc-purchases-new-holdings-in-snowflake-inc-snow.html)
+- [Fear of AI-driven job displacement nearly doubles in a year: KPMG](https://www.cfodive.com/news/fear-of-ai-driven-job-displacement-nearly-doubles-in-a-year-kpmg/806380/)
+- [Aluminium OS will be Google’s take on Android for PC](https://www.theverge.com/news/828595/google-aluminium-os-android-pc-chromeos-ai)
+- [Trump launches 'Genesis Mission', calls it a 'Manhattan Project'-like push for AI](https://www.cnbctv18.com/world/trump-launches-genesis-mission-calls-it-a-manhattan-project-like-push-for-ai-19772301.htm)
+- [Denmark Data Center Colocation Market Supply & Demand Analysis 2025-2030 Featuring Leading Operators - Digital Realty, GlobalConnect, Cibicom, Aeven, Bulk Infrastructure, STACK Infrastructure - ResearchAndMarkets.com](https://www.businesswire.com/news/home/20251125807538/en/Denmark-Data-Center-Colocation-Market-Supply-Demand-Analysis-2025-2030-Featuring-Leading-Operators---Digital-Realty-GlobalConnect-Cibicom-Aeven-Bulk-Infrastructure-STACK-Infrastructure---ResearchAndMarkets.com)
+- [ScanTech AI Systems and unival group GmbH Announce Strategic Partnership to Expand Security Technology Deployments Across Europe, the Middle East, and Africa](https://www.manilatimes.net/2025/11/25/tmt-newswire/globenewswire/scantech-ai-systems-and-unival-group-gmbh-announce-strategic-partnership-to-expand-security-technology-deployments-across-europe-the-middle-east-and-africa/2231280)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
