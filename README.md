@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Fear of AI-driven job displacement nearly doubles in a year: KPMG](https://www.cfodive.com/news/fear-of-ai-driven-job-displacement-nearly-doubles-in-a-year-kpmg/806380/)
-- [Aluminium OS will be Google’s take on Android for PC](https://www.theverge.com/news/828595/google-aluminium-os-android-pc-chromeos-ai)
-- [Trump launches 'Genesis Mission', calls it a 'Manhattan Project'-like push for AI](https://www.cnbctv18.com/world/trump-launches-genesis-mission-calls-it-a-manhattan-project-like-push-for-ai-19772301.htm)
-- [Denmark Data Center Colocation Market Supply & Demand Analysis 2025-2030 Featuring Leading Operators - Digital Realty, GlobalConnect, Cibicom, Aeven, Bulk Infrastructure, STACK Infrastructure - ResearchAndMarkets.com](https://www.businesswire.com/news/home/20251125807538/en/Denmark-Data-Center-Colocation-Market-Supply-Demand-Analysis-2025-2030-Featuring-Leading-Operators---Digital-Realty-GlobalConnect-Cibicom-Aeven-Bulk-Infrastructure-STACK-Infrastructure---ResearchAndMarkets.com)
-- [ScanTech AI Systems and unival group GmbH Announce Strategic Partnership to Expand Security Technology Deployments Across Europe, the Middle East, and Africa](https://www.manilatimes.net/2025/11/25/tmt-newswire/globenewswire/scantech-ai-systems-and-unival-group-gmbh-announce-strategic-partnership-to-expand-security-technology-deployments-across-europe-the-middle-east-and-africa/2231280)
+- [Mark Cuban to Perplexity, OpenAI, Anthropic, Google, Microsoft: You are overspending on AI, only one you will ...](https://timesofindia.indiatimes.com/technology/tech-news/mark-cuban-to-perplexity-openai-anthropic-google-microsoft-you-are-overspending-on-ai-only-one-you-will-/articleshow/125591144.cms)
+- [Russell Investments Group Ltd. Purchases 235,232 Shares of Accenture PLC $ACN](https://www.thelincolnianonline.com/2025/11/26/russell-investments-group-ltd-purchases-235232-shares-of-accenture-plc-acn.html)
+- [Allianz to cut up to 1,800 jobs due to AI advances, says source](https://economictimes.indiatimes.com/news/international/business/allianz-to-cut-up-to-1800-jobs-due-to-ai-advances-says-source/articleshow/125591130.cms)
+- [East Grand Forks Public Schools district leaders say artificial intelligence has potential in education](https://www.grandforksherald.com/news/north-dakota/east-grand-forks-public-schools-district-leaders-say-artificial-intelligence-has-potential-in-education)
+- [East Grand Forks Public Schools district leaders say artificial intelligence has potential in education](https://www.inforum.com/news/north-dakota/east-grand-forks-public-schools-district-leaders-say-artificial-intelligence-has-potential-in-education)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
