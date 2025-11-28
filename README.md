@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Mark Cuban to Perplexity, OpenAI, Anthropic, Google, Microsoft: You are overspending on AI, only one you will ...](https://timesofindia.indiatimes.com/technology/tech-news/mark-cuban-to-perplexity-openai-anthropic-google-microsoft-you-are-overspending-on-ai-only-one-you-will-/articleshow/125591144.cms)
-- [Russell Investments Group Ltd. Purchases 235,232 Shares of Accenture PLC $ACN](https://www.thelincolnianonline.com/2025/11/26/russell-investments-group-ltd-purchases-235232-shares-of-accenture-plc-acn.html)
-- [Allianz to cut up to 1,800 jobs due to AI advances, says source](https://economictimes.indiatimes.com/news/international/business/allianz-to-cut-up-to-1800-jobs-due-to-ai-advances-says-source/articleshow/125591130.cms)
-- [East Grand Forks Public Schools district leaders say artificial intelligence has potential in education](https://www.grandforksherald.com/news/north-dakota/east-grand-forks-public-schools-district-leaders-say-artificial-intelligence-has-potential-in-education)
-- [East Grand Forks Public Schools district leaders say artificial intelligence has potential in education](https://www.inforum.com/news/north-dakota/east-grand-forks-public-schools-district-leaders-say-artificial-intelligence-has-potential-in-education)
+- [Atlassian (TEAM) Fell Amid Concerns Over AI Dominance](https://www.insidermonkey.com/blog/atlassian-team-fell-amid-concerns-over-ai-dominance-1651471/)
+- [Atlassian (TEAM) Fell Amid Concerns Over AI Dominance](https://ca.finance.yahoo.com/news/atlassian-team-fell-amid-concerns-132245571.html)
+- [AI-driven cyber threats push businesses toward unified resilience](https://www.khaleejtimes.com/business/ai-driven-cyber-threats-push-businesses-toward-unified-resilience)
+- [Aahbibi Will Foster Digital Literacy, Tech-Driven Opportunities For Enugu Youths’](https://independent.ng/aahbibi-will-foster-digital-literacy-tech-driven-opportunities-for-enugu-youths/)
+- [Wipro secures multi-year AI transformation deal with Odido Netherlands](https://www.theweek.in/wire-updates/business/2025/11/27/dcm111-biz-wipro-odido.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
