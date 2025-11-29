@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Atlassian (TEAM) Fell Amid Concerns Over AI Dominance](https://www.insidermonkey.com/blog/atlassian-team-fell-amid-concerns-over-ai-dominance-1651471/)
-- [Atlassian (TEAM) Fell Amid Concerns Over AI Dominance](https://ca.finance.yahoo.com/news/atlassian-team-fell-amid-concerns-132245571.html)
-- [AI-driven cyber threats push businesses toward unified resilience](https://www.khaleejtimes.com/business/ai-driven-cyber-threats-push-businesses-toward-unified-resilience)
-- [Aahbibi Will Foster Digital Literacy, Tech-Driven Opportunities For Enugu Youths’](https://independent.ng/aahbibi-will-foster-digital-literacy-tech-driven-opportunities-for-enugu-youths/)
-- [Wipro secures multi-year AI transformation deal with Odido Netherlands](https://www.theweek.in/wire-updates/business/2025/11/27/dcm111-biz-wipro-odido.html)
+- [Business News | Narasaraopeta Engineering College Signs MoU with Curtin University Malaysia](https://www.latestly.com/agency-news/business-news-narasaraopeta-engineering-college-signs-mou-with-curtin-university-malaysia-7221748.html)
+- [Dubai: 6 new malls opening soon to transform dining, shopping in country](https://www.khaleejtimes.com/uae/dubai-six-new-malls-opening-soon)
+- [Google’s AI Comeback: Gemini 3 and 10x Faster Ironwood TPUs](https://www.webpronews.com/googles-ai-comeback-gemini-3-and-10x-faster-ironwood-tpus/)
+- [Explainer-Keeping cool: heat a key challenge for data centers and AI](https://www.thestar.com.my/tech/tech-news/2025/11/28/explainer-keeping-cool-heat-a-key-challenge-for-data-centers-and-ai)
+- [Beijing Rolls Out Walker S2 Humanoids for Border Control and Heavy Industry](https://english.pravda.ru/news/world/165008-china-humanoid-robots-border-walker-s2/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
