@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Business News | Narasaraopeta Engineering College Signs MoU with Curtin University Malaysia](https://www.latestly.com/agency-news/business-news-narasaraopeta-engineering-college-signs-mou-with-curtin-university-malaysia-7221748.html)
-- [Dubai: 6 new malls opening soon to transform dining, shopping in country](https://www.khaleejtimes.com/uae/dubai-six-new-malls-opening-soon)
-- [Google’s AI Comeback: Gemini 3 and 10x Faster Ironwood TPUs](https://www.webpronews.com/googles-ai-comeback-gemini-3-and-10x-faster-ironwood-tpus/)
-- [Explainer-Keeping cool: heat a key challenge for data centers and AI](https://www.thestar.com.my/tech/tech-news/2025/11/28/explainer-keeping-cool-heat-a-key-challenge-for-data-centers-and-ai)
-- [Beijing Rolls Out Walker S2 Humanoids for Border Control and Heavy Industry](https://english.pravda.ru/news/world/165008-china-humanoid-robots-border-walker-s2/)
+- [How MaiA is Shaping Indonesia’s Tourism Future with Smart Technology and Personalized Travel Experiences](https://www.travelandtourworld.com/news/article/how-maia-is-shaping-indonesias-tourism-future-with-smart-technology-and-personalized-travel-experiences/)
+- [New York State Common Retirement Fund Buys 20,798 Shares of Accenture PLC $ACN](https://www.themarketsdaily.com/2025/11/29/new-york-state-common-retirement-fund-buys-20798-shares-of-accenture-plc-acn.html)
+- [Nvidia's Jensen Huang urges employees to automate every task possible with AI](https://www.techspot.com/news/110418-nvidia-jensen-huang-urges-employees-automate-every-task.html)
+- [SHAREHOLDER ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Synopsys](https://www.postregister.com/businessreport/technology/shareholder-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-synopsys/article_5afdb016-e0b5-521b-ad7c-0a24fa80ea7c.html)
+- [Due to load management, Bayern star misses out against St Pauli](https://ca.sports.yahoo.com/news/due-load-management-bayern-star-133500796.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
