@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [How MaiA is Shaping Indonesia’s Tourism Future with Smart Technology and Personalized Travel Experiences](https://www.travelandtourworld.com/news/article/how-maia-is-shaping-indonesias-tourism-future-with-smart-technology-and-personalized-travel-experiences/)
-- [New York State Common Retirement Fund Buys 20,798 Shares of Accenture PLC $ACN](https://www.themarketsdaily.com/2025/11/29/new-york-state-common-retirement-fund-buys-20798-shares-of-accenture-plc-acn.html)
-- [Nvidia's Jensen Huang urges employees to automate every task possible with AI](https://www.techspot.com/news/110418-nvidia-jensen-huang-urges-employees-automate-every-task.html)
-- [SHAREHOLDER ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Synopsys](https://www.postregister.com/businessreport/technology/shareholder-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-synopsys/article_5afdb016-e0b5-521b-ad7c-0a24fa80ea7c.html)
-- [Due to load management, Bayern star misses out against St Pauli](https://ca.sports.yahoo.com/news/due-load-management-bayern-star-133500796.html)
+- [Black Friday online spending surges as Americans embrace AI to assist with holiday shopping](https://nypost.com/2025/11/30/business/black-friday-online-spending-surges-as-americans-embrace-ai-to-assist-with-shopping/)
+- [Accenture PLC $ACN Shares Sold by Virtue Capital Management LLC](https://www.themarketsdaily.com/2025/11/30/accenture-plc-acn-shares-sold-by-virtue-capital-management-llc.html)
+- [3 Stocks That Outperformed Palantir in 2025. Can They Repeat in 2026?](https://247wallst.com/investing/2025/11/30/3-stocks-that-outperformed-palantir-in-2025-can-they-repeat-in-2026/)
+- [AI is changing how we shop for the holidays. Here’s what’s new](https://headtopics.com/news/ai-is-changing-how-we-shop-for-the-holidays-here-s-what-s-76531878)
+- [PM Modi wants a change in public perception of police](https://munsifdaily.com/pm-modi-wants-a-change-in-public-perception-of-police/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
