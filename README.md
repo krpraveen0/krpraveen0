@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Black Friday online spending surges as Americans embrace AI to assist with holiday shopping](https://nypost.com/2025/11/30/business/black-friday-online-spending-surges-as-americans-embrace-ai-to-assist-with-shopping/)
-- [Accenture PLC $ACN Shares Sold by Virtue Capital Management LLC](https://www.themarketsdaily.com/2025/11/30/accenture-plc-acn-shares-sold-by-virtue-capital-management-llc.html)
-- [3 Stocks That Outperformed Palantir in 2025. Can They Repeat in 2026?](https://247wallst.com/investing/2025/11/30/3-stocks-that-outperformed-palantir-in-2025-can-they-repeat-in-2026/)
-- [AI is changing how we shop for the holidays. Here’s what’s new](https://headtopics.com/news/ai-is-changing-how-we-shop-for-the-holidays-here-s-what-s-76531878)
-- [PM Modi wants a change in public perception of police](https://munsifdaily.com/pm-modi-wants-a-change-in-public-perception-of-police/)
+- [BNB Might Rally to $1,200; Ozak AI Prediction Dominates Analyst Sentiment](https://www.analyticsinsight.net/cryptocurrency-analytics-insight/bnb-might-rally-to-1200-ozak-ai-prediction-dominates-analyst-sentiment)
+- [AI is transforming pilot training and the aircraft they fly](https://breakingdefense.com/2025/12/ai-is-transforming-pilot-training-and-the-aircraft-they-fly/)
+- [Akamai Technologies Announces Acquisition of Function-as-a-Service Company Fermyon](https://www.manilatimes.net/2025/12/01/tmt-newswire/globenewswire/akamai-technologies-announces-acquisition-of-function-as-a-service-company-fermyon/2234330)
+- [Vidu Launches Q2 Image Generation With Unlimited Free Access, Challenging Top Global Image Models](https://www.manilatimes.net/2025/12/01/tmt-newswire/pr-newswire/vidu-launches-q2-image-generation-with-unlimited-free-access-challenging-top-global-image-models/2234329)
+- [Schneider Electric looks to digitalisation, new partners to tackle rapid electrification](https://www.businesstimes.com.sg/companies-markets/schneider-electric-looks-digitalisation-new-partners-tackle-rapid-electrification)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
