@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [BNB Might Rally to $1,200; Ozak AI Prediction Dominates Analyst Sentiment](https://www.analyticsinsight.net/cryptocurrency-analytics-insight/bnb-might-rally-to-1200-ozak-ai-prediction-dominates-analyst-sentiment)
-- [AI is transforming pilot training and the aircraft they fly](https://breakingdefense.com/2025/12/ai-is-transforming-pilot-training-and-the-aircraft-they-fly/)
-- [Akamai Technologies Announces Acquisition of Function-as-a-Service Company Fermyon](https://www.manilatimes.net/2025/12/01/tmt-newswire/globenewswire/akamai-technologies-announces-acquisition-of-function-as-a-service-company-fermyon/2234330)
-- [Vidu Launches Q2 Image Generation With Unlimited Free Access, Challenging Top Global Image Models](https://www.manilatimes.net/2025/12/01/tmt-newswire/pr-newswire/vidu-launches-q2-image-generation-with-unlimited-free-access-challenging-top-global-image-models/2234329)
-- [Schneider Electric looks to digitalisation, new partners to tackle rapid electrification](https://www.businesstimes.com.sg/companies-markets/schneider-electric-looks-digitalisation-new-partners-tackle-rapid-electrification)
+- [Sam Altman declares ‘code red’ to improve ChatGPT, delays other projects: Report](https://startupnews.fyi/2025/12/02/sam-altman-declares-code-red-to-improve-chatgpt-delays-other-projects-report/)
+- [Revolutionary AI Payment Infrastructure: OpenMind and Circle Partner to Enable Robot Transactions](https://bitcoinworld.co.in/openmind-circle-ai-payment-infrastructure/)
+- [DeepSeek unveils new AI models rivalling GPT-5 and Gemini 3 Pro](https://indianexpress.com/article/technology/artificial-intelligence/deepseek-unveils-new-ai-models-rivalling-gpt-5-and-gemini-3-pro-10398473/)
+- [India’s AI spending to grow 38% annually, set to reach $10.4 bn by 2028: Report](https://www.socialsamosa.com/report/india-ai-spending-grow-38-annually-reach-104-bn-2028-10846442)
+- [2025 Understanding China Conference Opens in Guangzhou: Exploring Chinese Modernization Through the Lens of the 15th Five-Year Plan](https://www.prnewswire.com/apac/news-releases/2025-understanding-china-conference-opens-in-guangzhou-exploring-chinese-modernization-through-the-lens-of-the-15th-five-year-plan-302630446.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
