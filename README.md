@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Sam Altman declares ‘code red’ to improve ChatGPT, delays other projects: Report](https://startupnews.fyi/2025/12/02/sam-altman-declares-code-red-to-improve-chatgpt-delays-other-projects-report/)
-- [Revolutionary AI Payment Infrastructure: OpenMind and Circle Partner to Enable Robot Transactions](https://bitcoinworld.co.in/openmind-circle-ai-payment-infrastructure/)
-- [DeepSeek unveils new AI models rivalling GPT-5 and Gemini 3 Pro](https://indianexpress.com/article/technology/artificial-intelligence/deepseek-unveils-new-ai-models-rivalling-gpt-5-and-gemini-3-pro-10398473/)
-- [India’s AI spending to grow 38% annually, set to reach $10.4 bn by 2028: Report](https://www.socialsamosa.com/report/india-ai-spending-grow-38-annually-reach-104-bn-2028-10846442)
-- [2025 Understanding China Conference Opens in Guangzhou: Exploring Chinese Modernization Through the Lens of the 15th Five-Year Plan](https://www.prnewswire.com/apac/news-releases/2025-understanding-china-conference-opens-in-guangzhou-exploring-chinese-modernization-through-the-lens-of-the-15th-five-year-plan-302630446.html)
+- [Google’s proposed data center in orbit will face issues with space debris in an already crowded orbit](https://theconversation.com/googles-proposed-data-center-in-orbit-will-face-issues-with-space-debris-in-an-already-crowded-orbit-270410)
+- [Accenture PLC $ACN Shares Acquired by River Wealth Advisors LLC](https://www.dailypolitical.com/2025/12/03/accenture-plc-acn-shares-acquired-by-river-wealth-advisors-llc.html)
+- [River Wealth Advisors LLC Buys 3,938 Shares of Accenture PLC $ACN](https://www.tickerreport.com/banking-finance/13279205/river-wealth-advisors-llc-buys-3938-shares-of-accenture-plc-acn.html)
+- [Inuvo Launches Ranger: AI Tool for Ad Quality and Compliance](https://www.manilatimes.net/2025/12/03/tmt-newswire/globenewswire/inuvo-launches-ranger-ai-tool-for-ad-quality-and-compliance/2236236)
+- [Anthropic taps IPO lawyers as it races OpenAI to go public](https://financialpost.com/financial-times/anthropic-ipo-lawyers-races-openai-public)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
