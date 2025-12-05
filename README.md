@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Google’s proposed data center in orbit will face issues with space debris in an already crowded orbit](https://theconversation.com/googles-proposed-data-center-in-orbit-will-face-issues-with-space-debris-in-an-already-crowded-orbit-270410)
-- [Accenture PLC $ACN Shares Acquired by River Wealth Advisors LLC](https://www.dailypolitical.com/2025/12/03/accenture-plc-acn-shares-acquired-by-river-wealth-advisors-llc.html)
-- [River Wealth Advisors LLC Buys 3,938 Shares of Accenture PLC $ACN](https://www.tickerreport.com/banking-finance/13279205/river-wealth-advisors-llc-buys-3938-shares-of-accenture-plc-acn.html)
-- [Inuvo Launches Ranger: AI Tool for Ad Quality and Compliance](https://www.manilatimes.net/2025/12/03/tmt-newswire/globenewswire/inuvo-launches-ranger-ai-tool-for-ad-quality-and-compliance/2236236)
-- [Anthropic taps IPO lawyers as it races OpenAI to go public](https://financialpost.com/financial-times/anthropic-ipo-lawyers-races-openai-public)
+- [Visa Helps Launch Vietnam’s First AI-Powered Pay-Later Card](https://www.pymnts.com/news/payment-methods/2025/visa-helps-launch-vietnams-first-ai-powered-pay-later-card/)
+- [Epigenetics Market size to reach $8.63 Billion by 2035 | Key players include Illumina Inc., Thermo Fisher Scientific, Merck KGaA, Abcam plc, Zymo Research](https://www.openpr.com/news/4301033/epigenetics-market-size-to-reach-8-63-billion-by-2035-key)
+- [Yann LeCun says Meta won't invest in new AI startup: report](https://seekingalpha.com/news/4528526-yann-lecun-says-meta-wont-invest-in-new-ai-startup-report?feed_item_type=news)
+- [Cognizant beats 1 mn AI skilling goal, doubles target to 2 mn; over 1.5 lakh Indians benefit](https://www.moneycontrol.com/artificial-intelligence/cognizant-beats-1-mn-ai-skilling-goal-doubles-target-to-2-mn-over-1-5-lakh-indians-benefit-article-13711170.html)
+- [Partner Relationship Management Market is Reaching at a CAGR of 5.22% During the 2025 - 2035 | Emerging Drives Market Outlook](https://www.openpr.com/news/4301030/partner-relationship-management-market-is-reaching-at-a-cagr)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
