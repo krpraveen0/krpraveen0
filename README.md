@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Visa Helps Launch Vietnam’s First AI-Powered Pay-Later Card](https://www.pymnts.com/news/payment-methods/2025/visa-helps-launch-vietnams-first-ai-powered-pay-later-card/)
-- [Epigenetics Market size to reach $8.63 Billion by 2035 | Key players include Illumina Inc., Thermo Fisher Scientific, Merck KGaA, Abcam plc, Zymo Research](https://www.openpr.com/news/4301033/epigenetics-market-size-to-reach-8-63-billion-by-2035-key)
-- [Yann LeCun says Meta won't invest in new AI startup: report](https://seekingalpha.com/news/4528526-yann-lecun-says-meta-wont-invest-in-new-ai-startup-report?feed_item_type=news)
-- [Cognizant beats 1 mn AI skilling goal, doubles target to 2 mn; over 1.5 lakh Indians benefit](https://www.moneycontrol.com/artificial-intelligence/cognizant-beats-1-mn-ai-skilling-goal-doubles-target-to-2-mn-over-1-5-lakh-indians-benefit-article-13711170.html)
-- [Partner Relationship Management Market is Reaching at a CAGR of 5.22% During the 2025 - 2035 | Emerging Drives Market Outlook](https://www.openpr.com/news/4301030/partner-relationship-management-market-is-reaching-at-a-cagr)
+- [Cloud Printing Services Market Poised for Robust Growth, Projected to Hit $4.88 Billion by 2029](https://www.openpr.com/news/4303005/cloud-printing-services-market-poised-for-robust-growth)
+- [2025’s words of the year reflect a year of digital disillusionment](https://theconversation.com/2025s-words-of-the-year-reflect-a-year-of-digital-disillusionment-270769)
+- [Iran Holds Drills in Gulf, Firing Ballistic, Cruise Missiles at Simulated Targets](https://gcaptain.com/iran-holds-drills-in-gulf-firing-ballistic-cruise-missiles-at-simulated-targets/)
+- [Grok 4.20 Wins Alpha Arena, Posting 12.11% Gains and a 50% Peak in Tests over Two Weeks](https://www.geeky-gadgets.com/grok-4-2-ai-model-stock-trading/)
+- [Broadcom Snaps Up Half Of Samsung's HBM Output For Google AI Chips](https://biztoc.com/x/ef67a5cc62d954d6)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
