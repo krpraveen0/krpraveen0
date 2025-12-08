@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Morton Community Bank Buys Shares of 10,997 Salesforce Inc. $CRM](https://www.themarketsdaily.com/2025/12/06/morton-community-bank-buys-shares-of-10997-salesforce-inc-crm.html)
-- [Top Artificial Intelligence Stocks To Watch Now – December 5th](https://baseballnewssource.com/2025/12/06/top-artificial-intelligence-stocks-to-watch-now-december-5th/10964603.html)
-- [Japan or Norway? Brazil’s possible route in the Copa knockout stage 🇧🇷](https://ca.sports.yahoo.com/news/japan-norway-brazil-possible-knockout-133600490.html)
-- [🚨Kompany rings the changes against Stuttgart](https://sports.yahoo.com/articles/kompany-rings-changes-against-stuttgart-133100119.html)
-- [The Winds of Winter Author GRRM Confessed Rushing to Complete Book, Then He Became a Zombie](https://www.ibtimes.co.uk/winds-winter-author-grrm-confessed-rushing-complete-book-then-he-became-zombie-1760754)
+- [How the UAE Is Emerging as a Global AI Powerhouse](https://thepakistan.pk/uae-is-emerging-as-a-global-ai-powerhouse/)
+- [IMF backs Pakistan reforms, pledges $1.3 billion RSF support; Aurangzeb highlights trade, climate, and digital push at Doha forum](https://profit.pakistantoday.com.pk/2025/12/07/imf-backs-pakistan-reforms-pledges-1-3-billion-rsf-support-aurangzeb-highlights-trade-climate-and-digital-push-at-doha-forum/)
+- [Power Minister urges discoms to enable transition to consumer-focused distribution systems](https://www.cnbctv18.com/energy/power-minister-urges-discoms-to-enable-transition-to-consumer-focused-distribution-systems-ws-l-19783489.htm)
+- [OpenAI’s o3 Wins AI Poker Tournament, Masters Bluffing Strategy](https://www.webpronews.com/openais-o3-wins-ai-poker-tournament-masters-bluffing-strategy/)
+- [Saudi Arabia ranks 5th globally, first in Arab world in AI sector growth](https://saudigazette.com.sa/article/657205/SAUDI-ARABIA/Saudi-Arabia-ranks-5th-globally-first-in-Arab-world-in-AI-sector-growth?format=simple&link=link)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
