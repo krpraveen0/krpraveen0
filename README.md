@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [How the UAE Is Emerging as a Global AI Powerhouse](https://thepakistan.pk/uae-is-emerging-as-a-global-ai-powerhouse/)
-- [IMF backs Pakistan reforms, pledges $1.3 billion RSF support; Aurangzeb highlights trade, climate, and digital push at Doha forum](https://profit.pakistantoday.com.pk/2025/12/07/imf-backs-pakistan-reforms-pledges-1-3-billion-rsf-support-aurangzeb-highlights-trade-climate-and-digital-push-at-doha-forum/)
-- [Power Minister urges discoms to enable transition to consumer-focused distribution systems](https://www.cnbctv18.com/energy/power-minister-urges-discoms-to-enable-transition-to-consumer-focused-distribution-systems-ws-l-19783489.htm)
-- [OpenAI’s o3 Wins AI Poker Tournament, Masters Bluffing Strategy](https://www.webpronews.com/openais-o3-wins-ai-poker-tournament-masters-bluffing-strategy/)
-- [Saudi Arabia ranks 5th globally, first in Arab world in AI sector growth](https://saudigazette.com.sa/article/657205/SAUDI-ARABIA/Saudi-Arabia-ranks-5th-globally-first-in-Arab-world-in-AI-sector-growth?format=simple&link=link)
+- [Microsoft (NASDAQ: MSFT) Stock Price Prediction and Forecast 2025-2030 (Dec 2025)](https://247wallst.com/forecasts/2025/12/08/microsoft-msft-price-prediction-and-forecast/)
+- [Baidu Stock Is Up 48% This Past Year — So Why Did One Fund Just Exit a $108 Million Position?](https://www.fool.com/coverage/filings/2025/12/08/baidu-stock-is-up-48-this-past-year-so-why-did-one-fund-just-exit-a-usd108-million-position/)
+- [Artificial Intelligence in Healthcare Strategic Intelligence Report 2025: Transforming Healthcare Through Automation, Analytics, and Smarter Clinical Tools - ResearchAndMarkets.com](https://www.businesswire.com/news/home/20251208696042/en/Artificial-Intelligence-in-Healthcare-Strategic-Intelligence-Report-2025-Transforming-Healthcare-Through-Automation-Analytics-and-Smarter-Clinical-Tools---ResearchAndMarkets.com)
+- [Global scramble for critical minerals to shape markets in 2026: BMI](https://www.mining.com/global-scramble-for-critical-minerals-to-shape-markets-in-2026-bmi/)
+- [ECZ urged to adopt AI in its operations](https://www.lusakatimes.com/2025/12/08/ecz-urged-to-adopt-ai-in-its-operations/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
