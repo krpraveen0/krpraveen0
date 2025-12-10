@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Microsoft (NASDAQ: MSFT) Stock Price Prediction and Forecast 2025-2030 (Dec 2025)](https://247wallst.com/forecasts/2025/12/08/microsoft-msft-price-prediction-and-forecast/)
-- [Baidu Stock Is Up 48% This Past Year — So Why Did One Fund Just Exit a $108 Million Position?](https://www.fool.com/coverage/filings/2025/12/08/baidu-stock-is-up-48-this-past-year-so-why-did-one-fund-just-exit-a-usd108-million-position/)
-- [Artificial Intelligence in Healthcare Strategic Intelligence Report 2025: Transforming Healthcare Through Automation, Analytics, and Smarter Clinical Tools - ResearchAndMarkets.com](https://www.businesswire.com/news/home/20251208696042/en/Artificial-Intelligence-in-Healthcare-Strategic-Intelligence-Report-2025-Transforming-Healthcare-Through-Automation-Analytics-and-Smarter-Clinical-Tools---ResearchAndMarkets.com)
-- [Global scramble for critical minerals to shape markets in 2026: BMI](https://www.mining.com/global-scramble-for-critical-minerals-to-shape-markets-in-2026-bmi/)
-- [ECZ urged to adopt AI in its operations](https://www.lusakatimes.com/2025/12/08/ecz-urged-to-adopt-ai-in-its-operations/)
+- [Cursor Version 2 Slashes Task Time with Multiple AI Agents in the IDE](https://www.geeky-gadgets.com/cursor-2-update-make-ai-coding-faster/)
+- [Blockchain Stocks To Add to Your Watchlist – December 8th](https://www.thelincolnianonline.com/2025/12/09/blockchain-stocks-to-add-to-your-watchlist-december-8th.html)
+- [Goldstream Capital Management Ltd Makes New Investment in Snowflake Inc. $SNOW](https://www.thelincolnianonline.com/2025/12/09/goldstream-capital-management-ltd-makes-new-investment-in-snowflake-inc-snow.html)
+- [Best Artificial Intelligence Stocks To Consider – December 8th](https://www.themarketsdaily.com/2025/12/09/best-artificial-intelligence-stocks-to-consider-december-8th.html)
+- [GRS Advisors LLC Sells 210,177 Shares of Digital Realty Trust, Inc. $DLR](https://www.themarketsdaily.com/2025/12/09/grs-advisors-llc-sells-210177-shares-of-digital-realty-trust-inc-dlr.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
