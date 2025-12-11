@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Cursor Version 2 Slashes Task Time with Multiple AI Agents in the IDE](https://www.geeky-gadgets.com/cursor-2-update-make-ai-coding-faster/)
-- [Blockchain Stocks To Add to Your Watchlist – December 8th](https://www.thelincolnianonline.com/2025/12/09/blockchain-stocks-to-add-to-your-watchlist-december-8th.html)
-- [Goldstream Capital Management Ltd Makes New Investment in Snowflake Inc. $SNOW](https://www.thelincolnianonline.com/2025/12/09/goldstream-capital-management-ltd-makes-new-investment-in-snowflake-inc-snow.html)
-- [Best Artificial Intelligence Stocks To Consider – December 8th](https://www.themarketsdaily.com/2025/12/09/best-artificial-intelligence-stocks-to-consider-december-8th.html)
-- [GRS Advisors LLC Sells 210,177 Shares of Digital Realty Trust, Inc. $DLR](https://www.themarketsdaily.com/2025/12/09/grs-advisors-llc-sells-210177-shares-of-digital-realty-trust-inc-dlr.html)
+- [Thredd Helps Netbank Roll Out Cards-as-a-Service Solution](https://www.pymnts.com/partnerships/2025/thredd-helps-netbank-roll-out-cards-as-a-service-solution/)
+- [Kenya rallies global support for 2026 Our Ocean Conference at UNEA 7](https://www.standardmedia.co.ke/business/article/2001536213/kenya-rallies-global-support-for-2026-our-ocean-conference-at-unea-7)
+- [Dit underdog-aandeel kan in 2026 prestaties op Nvidia-niveau leveren](https://invezz.com/nl/nieuws/2025/12/10/dit-underdog-aandeel-kan-in-2026-prestaties-op-nvidia-niveau-leveren/)
+- [Harry and Meghan release joint statement as they say 'it shouldn't have come to this'](https://www.the-express.com/entertainment/celebrity-news/193046/harry-meghan-release-joint-statement-australia-ban)
+- [Next Century Growth Investors LLC Sells 404,808 Shares of Innodata Inc. $INOD](https://www.thelincolnianonline.com/2025/12/10/next-century-growth-investors-llc-sells-404808-shares-of-innodata-inc-inod.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
