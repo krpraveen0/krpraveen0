@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Thredd Helps Netbank Roll Out Cards-as-a-Service Solution](https://www.pymnts.com/partnerships/2025/thredd-helps-netbank-roll-out-cards-as-a-service-solution/)
-- [Kenya rallies global support for 2026 Our Ocean Conference at UNEA 7](https://www.standardmedia.co.ke/business/article/2001536213/kenya-rallies-global-support-for-2026-our-ocean-conference-at-unea-7)
-- [Dit underdog-aandeel kan in 2026 prestaties op Nvidia-niveau leveren](https://invezz.com/nl/nieuws/2025/12/10/dit-underdog-aandeel-kan-in-2026-prestaties-op-nvidia-niveau-leveren/)
-- [Harry and Meghan release joint statement as they say 'it shouldn't have come to this'](https://www.the-express.com/entertainment/celebrity-news/193046/harry-meghan-release-joint-statement-australia-ban)
-- [Next Century Growth Investors LLC Sells 404,808 Shares of Innodata Inc. $INOD](https://www.thelincolnianonline.com/2025/12/10/next-century-growth-investors-llc-sells-404808-shares-of-innodata-inc-inod.html)
+- [Astra Tech's Flagship Platform, botim has Partnered with Jingle Pay to Launch Low-Cost Remittances to Pakistan](https://www.prnewswire.com/news-releases/astra-techs-flagship-platform-botim-has-partnered-with-jingle-pay-to-launch-low-cost-remittances-to-pakistan-302639233.html)
+- [AI’s errors may be impossible to eliminate – what that means for its use in health care](https://www.caledonianrecord.com/opinion/conversation/ai-s-errors-may-be-impossible-to-eliminate-what-that-means-for-its-use-in/article_f74429b8-1d1a-5b0c-bd09-255a7ef12d07.html)
+- [Why Oracle Is Worrying Investors About the A.I. Boom](https://www.nytimes.com/2025/12/11/business/dealbook/ai-spending-oracle-openai.html)
+- [Polytechnic universities focus on practical, career-oriented skills, offering an alternative to traditional universities](https://theconversation.com/polytechnic-universities-focus-on-practical-career-oriented-skills-offering-an-alternative-to-traditional-universities-268349)
+- [GAP Launches Executive-Level ByteInsight Reports to Expose Technical Debt Risks](https://www.prnewswire.com/news-releases/gap-launches-executive-level-byteinsight-reports-to-expose-technical-debt-risks-302638838.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
