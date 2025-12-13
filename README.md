@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 6.3 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 6.4 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Astra Tech's Flagship Platform, botim has Partnered with Jingle Pay to Launch Low-Cost Remittances to Pakistan](https://www.prnewswire.com/news-releases/astra-techs-flagship-platform-botim-has-partnered-with-jingle-pay-to-launch-low-cost-remittances-to-pakistan-302639233.html)
-- [AI’s errors may be impossible to eliminate – what that means for its use in health care](https://www.caledonianrecord.com/opinion/conversation/ai-s-errors-may-be-impossible-to-eliminate-what-that-means-for-its-use-in/article_f74429b8-1d1a-5b0c-bd09-255a7ef12d07.html)
-- [Why Oracle Is Worrying Investors About the A.I. Boom](https://www.nytimes.com/2025/12/11/business/dealbook/ai-spending-oracle-openai.html)
-- [Polytechnic universities focus on practical, career-oriented skills, offering an alternative to traditional universities](https://theconversation.com/polytechnic-universities-focus-on-practical-career-oriented-skills-offering-an-alternative-to-traditional-universities-268349)
-- [GAP Launches Executive-Level ByteInsight Reports to Expose Technical Debt Risks](https://www.prnewswire.com/news-releases/gap-launches-executive-level-byteinsight-reports-to-expose-technical-debt-risks-302638838.html)
+- [This holiday season isn't very merry for consumers, an AP-NORC poll finds](https://www.rutlandherald.com/news/business/this-holiday-season-isnt-very-merry-for-consumers-an-ap-norc-poll-finds/article_369a33fa-8aac-5dd5-bc9f-9fc80866daf1.html)
+- [This holiday season isn't very merry for consumers, an AP-NORC poll finds](https://www.news-gazette.com/news/nation-world/this-holiday-season-isnt-very-merry-for-consumers-an-ap-norc-poll-finds/article_44c3af28-1dbb-5d83-bc27-133b9f7ac987.html)
+- [This holiday season isn't very merry for consumers, an AP-NORC poll finds](https://www.timesargus.com/news/business/this-holiday-season-isnt-very-merry-for-consumers-an-ap-norc-poll-finds/article_6dcff671-52c9-5712-9da2-c2b57049b8d0.html)
+- [This holiday season isn't very merry for consumers, an AP-NORC poll finds](https://www.union-bulletin.com/news/national/this-holiday-season-isnt-very-merry-for-consumers-an-ap-norc-poll-finds/article_ae8155c4-1775-54f0-b33e-5b3db70c2e0c.html)
+- [This holiday season isn't very merry for consumers, an AP-NORC poll finds](https://www.messenger-inquirer.com/ap/elections/this-holiday-season-isnt-very-merry-for-consumers-an-ap-norc-poll-finds/article_fdf9ba94-7f3f-5a54-b51f-2baa8deb4792.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
