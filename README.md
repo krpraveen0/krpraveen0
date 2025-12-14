@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [This holiday season isn't very merry for consumers, an AP-NORC poll finds](https://www.rutlandherald.com/news/business/this-holiday-season-isnt-very-merry-for-consumers-an-ap-norc-poll-finds/article_369a33fa-8aac-5dd5-bc9f-9fc80866daf1.html)
-- [This holiday season isn't very merry for consumers, an AP-NORC poll finds](https://www.news-gazette.com/news/nation-world/this-holiday-season-isnt-very-merry-for-consumers-an-ap-norc-poll-finds/article_44c3af28-1dbb-5d83-bc27-133b9f7ac987.html)
-- [This holiday season isn't very merry for consumers, an AP-NORC poll finds](https://www.timesargus.com/news/business/this-holiday-season-isnt-very-merry-for-consumers-an-ap-norc-poll-finds/article_6dcff671-52c9-5712-9da2-c2b57049b8d0.html)
-- [This holiday season isn't very merry for consumers, an AP-NORC poll finds](https://www.union-bulletin.com/news/national/this-holiday-season-isnt-very-merry-for-consumers-an-ap-norc-poll-finds/article_ae8155c4-1775-54f0-b33e-5b3db70c2e0c.html)
-- [This holiday season isn't very merry for consumers, an AP-NORC poll finds](https://www.messenger-inquirer.com/ap/elections/this-holiday-season-isnt-very-merry-for-consumers-an-ap-norc-poll-finds/article_fdf9ba94-7f3f-5a54-b51f-2baa8deb4792.html)
+- [India News | Delhi Govt Working to Shift Tihar Jail, Expand Courts: CM Rekha Gupta](https://www.latestly.com/agency-news/india-news-delhi-govt-working-to-shift-tihar-jail-expand-courts-cm-rekha-gupta-7237572.html)
+- [KeyCrew Media Selects Brooke Pfautz as Verified Expert for Vacation Rental Management and Property Technology](https://www.openpr.com/news/4314064/keycrew-media-selects-brooke-pfautz-as-verified-expert)
+- [Russian Investment in Indonesia Hits US$147.2 Million](https://en.tempo.co/read/2073232/russian-investment-in-indonesia-hits-us147-2-million)
+- [Top judicial body resolve to strengthen institutional capacity, accelerates access to justice](https://thefrontierpost.com/top-judicial-body-resolve-to-strengthen-institutional-capacity-accelerates-access-to-justice/)
+- [Delhi Govt working to shift Tihar Jail, expand courts: CM Rekha Gupta](https://thenewsmill.com/2025/12/delhi-govt-working-to-shift-tihar-jail-expand-courts-cm-rekha-gupta/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
