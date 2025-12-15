@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [India News | Delhi Govt Working to Shift Tihar Jail, Expand Courts: CM Rekha Gupta](https://www.latestly.com/agency-news/india-news-delhi-govt-working-to-shift-tihar-jail-expand-courts-cm-rekha-gupta-7237572.html)
-- [KeyCrew Media Selects Brooke Pfautz as Verified Expert for Vacation Rental Management and Property Technology](https://www.openpr.com/news/4314064/keycrew-media-selects-brooke-pfautz-as-verified-expert)
-- [Russian Investment in Indonesia Hits US$147.2 Million](https://en.tempo.co/read/2073232/russian-investment-in-indonesia-hits-us147-2-million)
-- [Top judicial body resolve to strengthen institutional capacity, accelerates access to justice](https://thefrontierpost.com/top-judicial-body-resolve-to-strengthen-institutional-capacity-accelerates-access-to-justice/)
-- [Delhi Govt working to shift Tihar Jail, expand courts: CM Rekha Gupta](https://thenewsmill.com/2025/12/delhi-govt-working-to-shift-tihar-jail-expand-courts-cm-rekha-gupta/)
+- [Rexford Capital Inc. Makes New $718,000 Investment in Accenture PLC $ACN](https://baseballnewssource.com/2025/12/14/rexford-capital-inc-makes-new-718000-investment-in-accenture-plc-acn/10973648.html)
+- [TV prices to rise due to chip shortage, weak rupee](https://www.newsbytesapp.com/news/business/tv-prices-to-rise-from-january-amid-chip-shortage/story)
+- [Agentic AI Revolutionizes Industries with Robust Data Foundations](https://www.webpronews.com/agentic-ai-revolutionizes-industries-with-robust-data-foundations/)
+- [Nikko Asset Management Americas Inc. Sells 9,476 Shares of Salesforce Inc. $CRM](https://www.themarketsdaily.com/2025/12/14/nikko-asset-management-americas-inc-sells-9476-shares-of-salesforce-inc-crm.html)
+- [How daily reading helped me bag first-class — UNIJOS best graduating student](https://punchng.com/how-daily-reading-helped-me-bag-first-class-unijos-best-graduating-student/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
