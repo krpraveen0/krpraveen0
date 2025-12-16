@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Rexford Capital Inc. Makes New $718,000 Investment in Accenture PLC $ACN](https://baseballnewssource.com/2025/12/14/rexford-capital-inc-makes-new-718000-investment-in-accenture-plc-acn/10973648.html)
-- [TV prices to rise due to chip shortage, weak rupee](https://www.newsbytesapp.com/news/business/tv-prices-to-rise-from-january-amid-chip-shortage/story)
-- [Agentic AI Revolutionizes Industries with Robust Data Foundations](https://www.webpronews.com/agentic-ai-revolutionizes-industries-with-robust-data-foundations/)
-- [Nikko Asset Management Americas Inc. Sells 9,476 Shares of Salesforce Inc. $CRM](https://www.themarketsdaily.com/2025/12/14/nikko-asset-management-americas-inc-sells-9476-shares-of-salesforce-inc-crm.html)
-- [How daily reading helped me bag first-class — UNIJOS best graduating student](https://punchng.com/how-daily-reading-helped-me-bag-first-class-unijos-best-graduating-student/)
+- [Molecular Oncology Market to Surpass USD 7.4 Billion by 2034, Registering a Robust CAGR of 11.0% | TMR](https://www.openpr.com/news/4315594/molecular-oncology-market-to-surpass-usd-7-4-billion-by-2034)
+- [McKinsey plots thousands of layoffs in consulting slowdown](https://financialpost.com/fp-work/mckinsey-thousands-layoffs-consulting-slowdown)
+- [A Breakdown of Apple’s Expected 2026 Devices and Features](https://www.primanews.org/a-breakdown-of-apples-expected-2026-devices-and-features/)
+- [Stock Market Live December 15: S&P 500 (SPY) Could Test 7,600 in 2026](https://247wallst.com/investing/2025/12/15/stock-market-live-december-15-sp-500-spy-could-test-7600-in-2026/)
+- [Musk eyes massive SpaceX float as rocket firm could go public in 2026](https://www.express.co.uk/news/us/2146450/elon-musk-spacex-float-ipo-2026-public-offering-starlink)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
