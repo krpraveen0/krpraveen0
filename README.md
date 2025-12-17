@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Molecular Oncology Market to Surpass USD 7.4 Billion by 2034, Registering a Robust CAGR of 11.0% | TMR](https://www.openpr.com/news/4315594/molecular-oncology-market-to-surpass-usd-7-4-billion-by-2034)
-- [McKinsey plots thousands of layoffs in consulting slowdown](https://financialpost.com/fp-work/mckinsey-thousands-layoffs-consulting-slowdown)
-- [A Breakdown of Apple’s Expected 2026 Devices and Features](https://www.primanews.org/a-breakdown-of-apples-expected-2026-devices-and-features/)
-- [Stock Market Live December 15: S&P 500 (SPY) Could Test 7,600 in 2026](https://247wallst.com/investing/2025/12/15/stock-market-live-december-15-sp-500-spy-could-test-7600-in-2026/)
-- [Musk eyes massive SpaceX float as rocket firm could go public in 2026](https://www.express.co.uk/news/us/2146450/elon-musk-spacex-float-ipo-2026-public-offering-starlink)
+- [क्‍या AI बन गया आतंकियों का नया हथियार, खुफिया एजेंसियों ने चेतावनी में क्‍या कहा?](https://www.jagran.com/news/national-ai-new-terrorist-weapon-intelligence-agencies-warn-40074595.html)
+- [Marine Biologics Named a Top Food Technology Company for 2025 in Global Food Tech Awards](https://www.manilatimes.net/2025/12/16/tmt-newswire/globenewswire/marine-biologics-named-a-top-food-technology-company-for-2025-in-global-food-tech-awards/2244403)
+- [U.S. Senators Challenge Trump Administration's Approval of NVIDIA Chip Sales to China Over National Security Concerns](https://hoodline.com/2025/12/u-s-senators-challenge-trump-administration-s-approval-of-nvidia-chip-sales-to-china-over-national-security-concerns/)
+- [Neuer Höchststand - FH Joanneum freut sich über neuen Studenten-Rekord](https://www.krone.at/3989577)
+- [Global mHealth Market Set to Reach USD 353.4 Billion by 2031, Driven by Rapid Adoption of Remote Patient Monitoring and Digital Health Technologies](https://www.openpr.com/news/4317604/global-mhealth-market-set-to-reach-usd-353-4-billion-by-2031)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
