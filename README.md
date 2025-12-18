@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [क्‍या AI बन गया आतंकियों का नया हथियार, खुफिया एजेंसियों ने चेतावनी में क्‍या कहा?](https://www.jagran.com/news/national-ai-new-terrorist-weapon-intelligence-agencies-warn-40074595.html)
-- [Marine Biologics Named a Top Food Technology Company for 2025 in Global Food Tech Awards](https://www.manilatimes.net/2025/12/16/tmt-newswire/globenewswire/marine-biologics-named-a-top-food-technology-company-for-2025-in-global-food-tech-awards/2244403)
-- [U.S. Senators Challenge Trump Administration's Approval of NVIDIA Chip Sales to China Over National Security Concerns](https://hoodline.com/2025/12/u-s-senators-challenge-trump-administration-s-approval-of-nvidia-chip-sales-to-china-over-national-security-concerns/)
-- [Neuer Höchststand - FH Joanneum freut sich über neuen Studenten-Rekord](https://www.krone.at/3989577)
-- [Global mHealth Market Set to Reach USD 353.4 Billion by 2031, Driven by Rapid Adoption of Remote Patient Monitoring and Digital Health Technologies](https://www.openpr.com/news/4317604/global-mhealth-market-set-to-reach-usd-353-4-billion-by-2031)
+- [OSpark.ai Launches All-Round Free AI Assistant That Unifies Search, Summaries, and Creation in One App](https://www.manilatimes.net/2025/12/17/tmt-newswire/globenewswire/osparkai-launches-all-round-free-ai-assistant-that-unifies-search-summaries-and-creation-in-one-app/2245298)
+- [Atos Strengthens Leadership in Data & AI in Spain as the Country Moves Towards AI at Scale](https://live.euronext.com/en/products/equities/company-news/2025-12-17-atos-strengthens-leadership-data-ai-spain-country-moves)
+- [EU Will Be AIsimmilated](https://www.zerohedge.com/markets/eu-will-be-aisimmilated)
+- [Oracle data center plan hit as Blue Owl walks from $10 billion deal, source says](https://www.channelnewsasia.com/business/oracle-data-center-plan-hit-blue-owl-walks-10-billion-deal-source-says-5623691)
+- [Oracle's $10 billion Michigan data center in limbo after Blue Owl funding talks stall, FT reports](https://www.channelnewsasia.com/business/oracles-10-billion-michigan-data-center-in-limbo-after-blue-owl-funding-talks-stall-ft-reports-5623691)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
