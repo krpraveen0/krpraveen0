@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [OSpark.ai Launches All-Round Free AI Assistant That Unifies Search, Summaries, and Creation in One App](https://www.manilatimes.net/2025/12/17/tmt-newswire/globenewswire/osparkai-launches-all-round-free-ai-assistant-that-unifies-search-summaries-and-creation-in-one-app/2245298)
-- [Atos Strengthens Leadership in Data & AI in Spain as the Country Moves Towards AI at Scale](https://live.euronext.com/en/products/equities/company-news/2025-12-17-atos-strengthens-leadership-data-ai-spain-country-moves)
-- [EU Will Be AIsimmilated](https://www.zerohedge.com/markets/eu-will-be-aisimmilated)
-- [Oracle data center plan hit as Blue Owl walks from $10 billion deal, source says](https://www.channelnewsasia.com/business/oracle-data-center-plan-hit-blue-owl-walks-10-billion-deal-source-says-5623691)
-- [Oracle's $10 billion Michigan data center in limbo after Blue Owl funding talks stall, FT reports](https://www.channelnewsasia.com/business/oracles-10-billion-michigan-data-center-in-limbo-after-blue-owl-funding-talks-stall-ft-reports-5623691)
+- [Flexcompute and Rescale Partner to Accelerate Physics AI Development with GPU-Native Simulation](https://www.prnewswire.com/news-releases/flexcompute-and-rescale-partner-to-accelerate-physics-ai-development-with-gpu-native-simulation-302645491.html)
+- [Globtec Investment LLC Solidifies Global Presence with Establishment of Globtec Investment LTD in London](https://www.prnewswire.com/news-releases/globtec-investment-llc-solidifies-global-presence-with-establishment-of-globtec-investment-ltd-in-london-302645489.html)
+- [Annual consumer inflation slows in November, but report distorted by missing data](https://www.unionleader.com/news/business/economy/annual-consumer-inflation-slows-in-november-but-report-distorted-by-missing-data/article_5e543fe9-4fc5-54f2-8eb0-b7f481c37b36.html)
+- [IA causará emissões de CO2 iguais às da cidade de Nova Iorque](https://jornaleconomico.sapo.pt/noticias/ia-causara-emissoes-de-co2-iguais-as-da-cidade-de-nova-iorque/)
+- [Web Design Mechanic Highlights the Growing Need for Human-Centered Real Estate Websites](https://www.openpr.com/news/4321192/web-design-mechanic-highlights-the-growing-need)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
