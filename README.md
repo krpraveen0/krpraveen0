@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Flexcompute and Rescale Partner to Accelerate Physics AI Development with GPU-Native Simulation](https://www.prnewswire.com/news-releases/flexcompute-and-rescale-partner-to-accelerate-physics-ai-development-with-gpu-native-simulation-302645491.html)
-- [Globtec Investment LLC Solidifies Global Presence with Establishment of Globtec Investment LTD in London](https://www.prnewswire.com/news-releases/globtec-investment-llc-solidifies-global-presence-with-establishment-of-globtec-investment-ltd-in-london-302645489.html)
-- [Annual consumer inflation slows in November, but report distorted by missing data](https://www.unionleader.com/news/business/economy/annual-consumer-inflation-slows-in-november-but-report-distorted-by-missing-data/article_5e543fe9-4fc5-54f2-8eb0-b7f481c37b36.html)
-- [IA causará emissões de CO2 iguais às da cidade de Nova Iorque](https://jornaleconomico.sapo.pt/noticias/ia-causara-emissoes-de-co2-iguais-as-da-cidade-de-nova-iorque/)
-- [Web Design Mechanic Highlights the Growing Need for Human-Centered Real Estate Websites](https://www.openpr.com/news/4321192/web-design-mechanic-highlights-the-growing-need)
+- [People are getting their news from AI – and it’s altering their views](https://www.caledonianrecord.com/opinion/conversation/people-are-getting-their-news-from-ai-and-it-s-altering-their-views/article_27c02605-8b3a-596b-afbe-c96c1cb9d35b.html)
+- [Over half of Romanians dissatisfied with the healthcare system, survey shows](https://www.romania-insider.com/romanians-dissatisfied-healthcare-system-dec-2025)
+- [What to know about the Bank of Japan’s interest rate hike](https://www.ctvnews.ca/business/article/what-to-know-about-the-bank-of-japans-interest-rate-hike/)
+- [What to know about the Bank of Japan’s interest rate hike](https://www.bnnbloomberg.ca/business/2025/12/19/what-to-know-about-the-bank-of-japans-interest-rate-hike/)
+- [Asia Pacific CRO Market Size, Share & Growth Report by 2035](https://www.openpr.com/news/4323061/asia-pacific-cro-market-size-share-growth-report-by-2035)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
