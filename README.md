@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [People are getting their news from AI – and it’s altering their views](https://www.caledonianrecord.com/opinion/conversation/people-are-getting-their-news-from-ai-and-it-s-altering-their-views/article_27c02605-8b3a-596b-afbe-c96c1cb9d35b.html)
-- [Over half of Romanians dissatisfied with the healthcare system, survey shows](https://www.romania-insider.com/romanians-dissatisfied-healthcare-system-dec-2025)
-- [What to know about the Bank of Japan’s interest rate hike](https://www.ctvnews.ca/business/article/what-to-know-about-the-bank-of-japans-interest-rate-hike/)
-- [What to know about the Bank of Japan’s interest rate hike](https://www.bnnbloomberg.ca/business/2025/12/19/what-to-know-about-the-bank-of-japans-interest-rate-hike/)
-- [Asia Pacific CRO Market Size, Share & Growth Report by 2035](https://www.openpr.com/news/4323061/asia-pacific-cro-market-size-share-growth-report-by-2035)
+- [3I/ATLAS departs, Japan tests laser weapon, and AI cracks the 'impossible' math problems this week](https://www.thenews.com.pk/latest/1385563-3iatlas-departs-japan-tests-laser-weapon-and-ai-cracks-the-impossible-math-problems-this-week)
+- [Voya Investment Management LLC Sells 73,133 Shares of Dynatrace, Inc. $DT](https://baseballnewssource.com/2025/12/20/voya-investment-management-llc-sells-73133-shares-of-dynatrace-inc-dt/10979153.html)
+- [Voya Investment Management LLC Takes Position in CoreWeave Inc. $CRWV](https://www.watchlistnews.com/voya-investment-management-llc-takes-position-in-coreweave-inc-crwv/10938959.html)
+- [Voya Investment Management LLC Has $93.70 Million Holdings in Dynatrace, Inc. $DT](https://www.thelincolnianonline.com/2025/12/20/voya-investment-management-llc-has-93-70-million-holdings-in-dynatrace-inc-dt.html)
+- [Fox News viewers accuse Donald Trump ally of making 'bald faced lie' live on air](https://www.the-express.com/entertainment/tv/193986/fox-news-donald-trump-jobs)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
