@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [3I/ATLAS departs, Japan tests laser weapon, and AI cracks the 'impossible' math problems this week](https://www.thenews.com.pk/latest/1385563-3iatlas-departs-japan-tests-laser-weapon-and-ai-cracks-the-impossible-math-problems-this-week)
-- [Voya Investment Management LLC Sells 73,133 Shares of Dynatrace, Inc. $DT](https://baseballnewssource.com/2025/12/20/voya-investment-management-llc-sells-73133-shares-of-dynatrace-inc-dt/10979153.html)
-- [Voya Investment Management LLC Takes Position in CoreWeave Inc. $CRWV](https://www.watchlistnews.com/voya-investment-management-llc-takes-position-in-coreweave-inc-crwv/10938959.html)
-- [Voya Investment Management LLC Has $93.70 Million Holdings in Dynatrace, Inc. $DT](https://www.thelincolnianonline.com/2025/12/20/voya-investment-management-llc-has-93-70-million-holdings-in-dynatrace-inc-dt.html)
-- [Fox News viewers accuse Donald Trump ally of making 'bald faced lie' live on air](https://www.the-express.com/entertainment/tv/193986/fox-news-donald-trump-jobs)
+- [Live: Macron addresses French troops on visit to the United Arab Emirates](https://ca.news.yahoo.com/live-macron-addresses-french-troops-134247214.html)
+- [India-origin entrepreneur in UK earns $200 an hour training AI models part-time: 'Intellectual curiosity drew me in’](https://www.hindustantimes.com/trending/indiaorigin-entrepreneur-in-uk-earns-200-an-hour-training-ai-models-part-time-intellectual-curiosity-drew-me-in-101766323313700.html)
+- [Sheikh Hamdan drives Elon Musk in Dubai, hosts high-level talks](https://gulfnews.com/uae/government/sheikh-hamdan-drives-elon-musk-in-dubai-hosts-high-level-talks-1.500386698)
+- [Fines from Canada’s financial crime watchdog set to dramatically increase](https://www.theglobeandmail.com/business/article-fintrac-fines-to-increase-bill-c-12/)
+- [Mobilicom (NASDAQ:MOB) Trading 4.3% Higher – Should You Buy?](https://www.thelincolnianonline.com/2025/12/21/mobilicom-nasdaqmob-trading-4-3-higher-should-you-buy.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
