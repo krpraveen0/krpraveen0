@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Live: Macron addresses French troops on visit to the United Arab Emirates](https://ca.news.yahoo.com/live-macron-addresses-french-troops-134247214.html)
-- [India-origin entrepreneur in UK earns $200 an hour training AI models part-time: 'Intellectual curiosity drew me in’](https://www.hindustantimes.com/trending/indiaorigin-entrepreneur-in-uk-earns-200-an-hour-training-ai-models-part-time-intellectual-curiosity-drew-me-in-101766323313700.html)
-- [Sheikh Hamdan drives Elon Musk in Dubai, hosts high-level talks](https://gulfnews.com/uae/government/sheikh-hamdan-drives-elon-musk-in-dubai-hosts-high-level-talks-1.500386698)
-- [Fines from Canada’s financial crime watchdog set to dramatically increase](https://www.theglobeandmail.com/business/article-fintrac-fines-to-increase-bill-c-12/)
-- [Mobilicom (NASDAQ:MOB) Trading 4.3% Higher – Should You Buy?](https://www.thelincolnianonline.com/2025/12/21/mobilicom-nasdaqmob-trading-4-3-higher-should-you-buy.html)
+- [🚨 Shock for PSG: women's team hit with major points deduction](https://sports.yahoo.com/articles/shock-psg-womens-team-hit-133800622.html)
+- [Transcending darkness](https://www.elnuevodia.com/english/opinion/story/transcending-darkness/)
+- [Rumoured boyfriend Parv Singh breaks silence to support Payal Gaming amid viral deepfake video](https://www.bollywoodlife.com/photos/rumoured-boyfriend-parv-singh-breaks-silence-to-support-payal-gaming-amid-viral-deepfake-video-3299598/)
+- [Origin Agritech Holds Annual R&D and Operations Management Conference, Establishes 2026 Strategic Priorities](https://en.prnasia.com/story/516978-0.shtml)
+- [Origin Agritech Holds Annual R&D and Operations Management Conference, Establishes 2026 Strategic Priorities](https://www.prnewswire.com/news-releases/origin-agritech-holds-annual-rd-and-operations-management-conference-establishes-2026-strategic-priorities-302648004.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
