@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [🚨 Shock for PSG: women's team hit with major points deduction](https://sports.yahoo.com/articles/shock-psg-womens-team-hit-133800622.html)
-- [Transcending darkness](https://www.elnuevodia.com/english/opinion/story/transcending-darkness/)
-- [Rumoured boyfriend Parv Singh breaks silence to support Payal Gaming amid viral deepfake video](https://www.bollywoodlife.com/photos/rumoured-boyfriend-parv-singh-breaks-silence-to-support-payal-gaming-amid-viral-deepfake-video-3299598/)
-- [Origin Agritech Holds Annual R&D and Operations Management Conference, Establishes 2026 Strategic Priorities](https://en.prnasia.com/story/516978-0.shtml)
-- [Origin Agritech Holds Annual R&D and Operations Management Conference, Establishes 2026 Strategic Priorities](https://www.prnewswire.com/news-releases/origin-agritech-holds-annual-rd-and-operations-management-conference-establishes-2026-strategic-priorities-302648004.html)
+- [Father Christmas is turned into immigration agent by Trump’s administration](https://metro.co.uk/2025/12/23/father-christmas-turned-immigration-agent-trumps-administration-25731328/)
+- [Beyond 1 crore WhatsApp bans; Oyo's third attempt at IPO](http://economictimes.indiatimes.com/tech/newsletters/tech-top-5/beyond-1-crore-whatsapp-bans-oyo-reattempts-path-to-ipo/articleshow/126142523.cms)
+- [AI Control System for Fusion Wins 2025 Kaul Prize](https://www.miragenews.com/ai-control-system-for-fusion-wins-2025-kaul-1595334/)
+- [AI Funding to Drive Record Year for Top-Rated Company Bond Sales](https://www.bloomberg.com/news/articles/2025-12-23/ai-funding-to-drive-record-year-for-top-rated-company-bond-sales)
+- [Maavi Bot: The Web3 AI Matchmaker Built on Blockchain & Psychology](https://www.analyticsinsight.net/web3/maavi-bot-the-web3-ai-matchmaker-built-on-blockchain-psychology)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
