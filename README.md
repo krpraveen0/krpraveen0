@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Father Christmas is turned into immigration agent by Trump’s administration](https://metro.co.uk/2025/12/23/father-christmas-turned-immigration-agent-trumps-administration-25731328/)
-- [Beyond 1 crore WhatsApp bans; Oyo's third attempt at IPO](http://economictimes.indiatimes.com/tech/newsletters/tech-top-5/beyond-1-crore-whatsapp-bans-oyo-reattempts-path-to-ipo/articleshow/126142523.cms)
-- [AI Control System for Fusion Wins 2025 Kaul Prize](https://www.miragenews.com/ai-control-system-for-fusion-wins-2025-kaul-1595334/)
-- [AI Funding to Drive Record Year for Top-Rated Company Bond Sales](https://www.bloomberg.com/news/articles/2025-12-23/ai-funding-to-drive-record-year-for-top-rated-company-bond-sales)
-- [Maavi Bot: The Web3 AI Matchmaker Built on Blockchain & Psychology](https://www.analyticsinsight.net/web3/maavi-bot-the-web3-ai-matchmaker-built-on-blockchain-psychology)
+- [Why metal prices are soaring to record highs](https://www.emporiagazette.com/news/national/article_17252263-7a37-5291-988e-a2e98a7e5cb4.html)
+- [Why metal prices are soaring to record highs](https://www.hendersondispatch.com/news/national/why-metal-prices-are-soaring-to-record-highs/article_85c0271f-bcbd-5487-b1a5-9734e20afe4b.html)
+- [Why metal prices are soaring to record highs](https://www.communitynewspapergroup.com/news/nation/why-metal-prices-are-soaring-to-record-highs/article_00a1442b-2b8c-533e-8c5a-e137b857665e.html)
+- [Why metal prices are soaring to record highs](https://www.columbiagorgenews.com/news/national/why-metal-prices-are-soaring-to-record-highs/article_2e314cc8-eab5-5825-9534-81fa45a7f4a3.html)
+- [Why metal prices are soaring to record highs](https://www.wyomingnews.com/news/national/why-metal-prices-are-soaring-to-record-highs/article_35dd950a-8471-5673-9489-543437a2088e.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
