@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Why metal prices are soaring to record highs](https://www.emporiagazette.com/news/national/article_17252263-7a37-5291-988e-a2e98a7e5cb4.html)
-- [Why metal prices are soaring to record highs](https://www.hendersondispatch.com/news/national/why-metal-prices-are-soaring-to-record-highs/article_85c0271f-bcbd-5487-b1a5-9734e20afe4b.html)
-- [Why metal prices are soaring to record highs](https://www.communitynewspapergroup.com/news/nation/why-metal-prices-are-soaring-to-record-highs/article_00a1442b-2b8c-533e-8c5a-e137b857665e.html)
-- [Why metal prices are soaring to record highs](https://www.columbiagorgenews.com/news/national/why-metal-prices-are-soaring-to-record-highs/article_2e314cc8-eab5-5825-9534-81fa45a7f4a3.html)
-- [Why metal prices are soaring to record highs](https://www.wyomingnews.com/news/national/why-metal-prices-are-soaring-to-record-highs/article_35dd950a-8471-5673-9489-543437a2088e.html)
+- [Dubai cuts travel times by up to 20% with smart road message signs](https://www.khaleejtimes.com/uae/dubai-travel-times-20-per-cent-cut-smart-road-message-signs)
+- [Understanding Smart Contracts in Cryptocurrency](https://techbullion.com/understanding-smart-contracts-in-cryptocurrency/)
+- [AI breakthrough, personnel training, low unemployment: Putin’s statements](https://tass.com/politics/2064739)
+- [Popular analyst sets bold 2026 price target on Nvidia stock](https://www.thestreet.com/investing/stocks/popular-analyst-sets-bold-2026-price-target-on-nvidia-stock)
+- [Popular analyst sets bold 2026 price target on Nvidia stock](https://www.capjournal.com/arena/finance/popular-analyst-sets-bold-2026-price-target-on-nvidia-stock/article_ef22d2ec-617a-5c66-bc6d-884e16b0aa4a.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
