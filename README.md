@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Dubai cuts travel times by up to 20% with smart road message signs](https://www.khaleejtimes.com/uae/dubai-travel-times-20-per-cent-cut-smart-road-message-signs)
-- [Understanding Smart Contracts in Cryptocurrency](https://techbullion.com/understanding-smart-contracts-in-cryptocurrency/)
-- [AI breakthrough, personnel training, low unemployment: Putin’s statements](https://tass.com/politics/2064739)
-- [Popular analyst sets bold 2026 price target on Nvidia stock](https://www.thestreet.com/investing/stocks/popular-analyst-sets-bold-2026-price-target-on-nvidia-stock)
-- [Popular analyst sets bold 2026 price target on Nvidia stock](https://www.capjournal.com/arena/finance/popular-analyst-sets-bold-2026-price-target-on-nvidia-stock/article_ef22d2ec-617a-5c66-bc6d-884e16b0aa4a.html)
+- [Theranostic Workflow Platforms Market Valuation, ROI Potential & Long-Term Growth Prospects 2026-2036](https://www.openpr.com/news/4329728/theranostic-workflow-platforms-market-valuation-roi)
+- [El rally de Santa Claus comienza con la sesión más fuerte del año para el S&P 500](https://www.bloomberglinea.com/mercados/el-rally-de-santa-claus-comienza-con-la-sesion-mas-fuerte-del-ano-para-el-sp-500/)
+- [Breakout Watch: AI Leader Twilio Set To Extend Its 30% YTD Gain](https://biztoc.com/x/303004651e7462af)
+- [AI Growth Restricted by Adequate Power Availability, Data Privacy Despite Big Promises: JP Morgan](https://www.republicworld.com/tech/ai-growth-restricted-by-adequate-power-availability-data-privacy-despite-big-promises-jp-morgan)
+- [Japan’s Long Return to Artificial Intelligence](https://thediplomat.com/2025/12/japans-long-return-to-artificial-intelligence/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
