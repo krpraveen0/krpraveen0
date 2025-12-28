@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Theranostic Workflow Platforms Market Valuation, ROI Potential & Long-Term Growth Prospects 2026-2036](https://www.openpr.com/news/4329728/theranostic-workflow-platforms-market-valuation-roi)
-- [El rally de Santa Claus comienza con la sesión más fuerte del año para el S&P 500](https://www.bloomberglinea.com/mercados/el-rally-de-santa-claus-comienza-con-la-sesion-mas-fuerte-del-ano-para-el-sp-500/)
-- [Breakout Watch: AI Leader Twilio Set To Extend Its 30% YTD Gain](https://biztoc.com/x/303004651e7462af)
-- [AI Growth Restricted by Adequate Power Availability, Data Privacy Despite Big Promises: JP Morgan](https://www.republicworld.com/tech/ai-growth-restricted-by-adequate-power-availability-data-privacy-despite-big-promises-jp-morgan)
-- [Japan’s Long Return to Artificial Intelligence](https://thediplomat.com/2025/12/japans-long-return-to-artificial-intelligence/)
+- [🚨 Tragedy at Valencia: Women's B team coach and three children die](https://sports.yahoo.com/articles/tragedy-valencia-womens-b-team-134600589.html)
+- [Is Nebius Stock Set to Double in 2026?](https://www.fool.com/investing/2025/12/27/is-nebius-stock-set-to-double-in-2026/)
+- [Mark Cuban: Grads Should Join Small Firms to Drive AI Innovation in 2025](https://www.webpronews.com/mark-cuban-grads-should-join-small-firms-to-drive-ai-innovation-in-2025/)
+- [Copper Prices Set to Surge: Analysts Forecast USD 13,500/Ton by H1 2026 Amid Severe Supply Crunch](https://kalingatv.com/business/copper-prices-set-to-surge-analysts-forecast-usd-13500-ton-by-h1-2026-amid-severe-supply-crunch/)
+- [How Putin’s India visit signals a new era in India–Russia ties](https://timesofindia.indiatimes.com/blogs/vedic-wisdom/how-putins-india-visit-signals-a-new-era-in-india-russia-ties/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
