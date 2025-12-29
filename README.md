@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [🚨 Tragedy at Valencia: Women's B team coach and three children die](https://sports.yahoo.com/articles/tragedy-valencia-womens-b-team-134600589.html)
-- [Is Nebius Stock Set to Double in 2026?](https://www.fool.com/investing/2025/12/27/is-nebius-stock-set-to-double-in-2026/)
-- [Mark Cuban: Grads Should Join Small Firms to Drive AI Innovation in 2025](https://www.webpronews.com/mark-cuban-grads-should-join-small-firms-to-drive-ai-innovation-in-2025/)
-- [Copper Prices Set to Surge: Analysts Forecast USD 13,500/Ton by H1 2026 Amid Severe Supply Crunch](https://kalingatv.com/business/copper-prices-set-to-surge-analysts-forecast-usd-13500-ton-by-h1-2026-amid-severe-supply-crunch/)
-- [How Putin’s India visit signals a new era in India–Russia ties](https://timesofindia.indiatimes.com/blogs/vedic-wisdom/how-putins-india-visit-signals-a-new-era-in-india-russia-ties/)
+- [Iran puts three satellites into orbit from Russian launch site](https://tribune.com.pk/story/2584388/iran-puts-three-satellites-into-orbit-from-russian-launch-site)
+- [人間が「人間そっくり」を愛するとき|「A.I.」「惑星ソラリス」 | Forbes JAPAN 公式サイト(フォーブス ジャパン)](https://forbesjapan.com/articles/detail/88224)
+- [Data centre surge reaches India as US tech giants invest billions](https://www.khaleejtimes.com/business/tech/data-centre-surge-reaches-india-as-us-tech-giants-invest-billions)
+- [CRISPR in 2025: Revolutionizing Genetic Medicine with AI and Breakthrough Therapies](https://www.webpronews.com/crispr-in-2025-revolutionizing-genetic-medicine-with-ai-and-breakthrough-therapies/)
+- [Rewins 2025: Ten Hindi gems that shone bright on the marquee](https://www.thehindu.com/entertainment/movies/top-10-hindi-movies-of-2025-hindi-cinema-rewind-saiyaara-dhurandhar-homebound/article70445849.ece)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
