@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Iran puts three satellites into orbit from Russian launch site](https://tribune.com.pk/story/2584388/iran-puts-three-satellites-into-orbit-from-russian-launch-site)
-- [人間が「人間そっくり」を愛するとき|「A.I.」「惑星ソラリス」 | Forbes JAPAN 公式サイト(フォーブス ジャパン)](https://forbesjapan.com/articles/detail/88224)
-- [Data centre surge reaches India as US tech giants invest billions](https://www.khaleejtimes.com/business/tech/data-centre-surge-reaches-india-as-us-tech-giants-invest-billions)
-- [CRISPR in 2025: Revolutionizing Genetic Medicine with AI and Breakthrough Therapies](https://www.webpronews.com/crispr-in-2025-revolutionizing-genetic-medicine-with-ai-and-breakthrough-therapies/)
-- [Rewins 2025: Ten Hindi gems that shone bright on the marquee](https://www.thehindu.com/entertainment/movies/top-10-hindi-movies-of-2025-hindi-cinema-rewind-saiyaara-dhurandhar-homebound/article70445849.ece)
+- [U.S. economy to ride tax cut tailwind but faces risks](https://www.cp24.com/news/money/2025/12/29/us-economy-to-ride-tax-cut-tailwind-but-faces-risks/)
+- [U.S. economy to ride tax cut tailwind but faces risks](https://www.bnnbloomberg.ca/business/2025/12/29/us-economy-to-ride-tax-cut-tailwind-but-faces-risks/)
+- [U.S. economy to ride tax cut tailwind but faces risks](https://www.ctvnews.ca/business/article/us-economy-to-ride-tax-cut-tailwind-but-faces-risks/)
+- [Tra fish exports forecast to near 2.2 billion USD](https://en.vietnamplus.vn/tra-fish-exports-forecast-to-near-22-billion-usd-post335119.vnp)
+- [ソフトバンクG、米デジタルブリッジ買収へ-1株現金16ドル](https://www.bloomberg.com/jp/news/articles/2025-12-29/T819NJT9NJLS00)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
