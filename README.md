@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [U.S. economy to ride tax cut tailwind but faces risks](https://www.cp24.com/news/money/2025/12/29/us-economy-to-ride-tax-cut-tailwind-but-faces-risks/)
-- [U.S. economy to ride tax cut tailwind but faces risks](https://www.bnnbloomberg.ca/business/2025/12/29/us-economy-to-ride-tax-cut-tailwind-but-faces-risks/)
-- [U.S. economy to ride tax cut tailwind but faces risks](https://www.ctvnews.ca/business/article/us-economy-to-ride-tax-cut-tailwind-but-faces-risks/)
-- [Tra fish exports forecast to near 2.2 billion USD](https://en.vietnamplus.vn/tra-fish-exports-forecast-to-near-22-billion-usd-post335119.vnp)
-- [ソフトバンクG、米デジタルブリッジ買収へ-1株現金16ドル](https://www.bloomberg.com/jp/news/articles/2025-12-29/T819NJT9NJLS00)
+- [Aye AI: Smarter jobs the next big thing](https://timesofindia.indiatimes.com/city/hyderabad/aye-ai-smarter-jobs-the-next-big-thing/articleshow/126253896.cms)
+- [From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms](https://www.cp24.com/news/money/2025/12/30/from-openai-to-nvidia-firms-channel-billions-into-ai-infrastructure-as-demand-booms/)
+- [From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms](https://www.ctvnews.ca/business/article/from-openai-to-nvidia-firms-channel-billions-into-ai-infrastructure-as-demand-booms/)
+- [From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms](https://www.bnnbloomberg.ca/business/2025/12/30/from-openai-to-nvidia-firms-channel-billions-into-ai-infrastructure-as-demand-booms/)
+- [Robots and AI could transform future of farming, says expert](https://www.irishexaminer.com/news/arid-41767580.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
