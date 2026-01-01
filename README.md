@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Aye AI: Smarter jobs the next big thing](https://timesofindia.indiatimes.com/city/hyderabad/aye-ai-smarter-jobs-the-next-big-thing/articleshow/126253896.cms)
-- [From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms](https://www.cp24.com/news/money/2025/12/30/from-openai-to-nvidia-firms-channel-billions-into-ai-infrastructure-as-demand-booms/)
-- [From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms](https://www.ctvnews.ca/business/article/from-openai-to-nvidia-firms-channel-billions-into-ai-infrastructure-as-demand-booms/)
-- [From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms](https://www.bnnbloomberg.ca/business/2025/12/30/from-openai-to-nvidia-firms-channel-billions-into-ai-infrastructure-as-demand-booms/)
-- [Robots and AI could transform future of farming, says expert](https://www.irishexaminer.com/news/arid-41767580.html)
+- [Death of Education?](https://www.hastingstribune.com/opinion/death-of-education/article_48cb386b-44f1-42f0-873e-090938247e97.html)
+- [Veterans Voices: Military facing challenges coming into the new year](https://www.chronicleonline.com/lifestyle/veterans/veterans-voices-military-facing-challenges-coming-into-the-new-year/article_023b126e-75c7-5802-b299-fa1358f5d046.html)
+- [AP Business SummaryBrief at 8:48 a.m. EST](https://www.eagletribune.com/region/ap-business-summarybrief-at-8-48-a-m-est/article_aeed8967-2e76-5540-ad1c-aadbccd458d6.html)
+- [AP Business SummaryBrief at 8:48 a.m. EST](https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-8-48-a-m-est/article_0ad07b45-6a7f-5821-ade0-394313ce5efd.html)
+- [Tecnotree figura como Proveedor representativo en Gartner® Innovation Insight: Los agentes SOC con IA aceleran la transformación de las operaciones de seguridad de los CSP](https://www.postregister.com/businessreport/technology/tecnotree-figura-como-proveedor-representativo-en-gartner-innovation-insight-los-agentes-soc-con-ia-aceleran/article_e25f3d9b-333e-5452-aacd-e59282969b2d.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
