@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Death of Education?](https://www.hastingstribune.com/opinion/death-of-education/article_48cb386b-44f1-42f0-873e-090938247e97.html)
-- [Veterans Voices: Military facing challenges coming into the new year](https://www.chronicleonline.com/lifestyle/veterans/veterans-voices-military-facing-challenges-coming-into-the-new-year/article_023b126e-75c7-5802-b299-fa1358f5d046.html)
-- [AP Business SummaryBrief at 8:48 a.m. EST](https://www.eagletribune.com/region/ap-business-summarybrief-at-8-48-a-m-est/article_aeed8967-2e76-5540-ad1c-aadbccd458d6.html)
-- [AP Business SummaryBrief at 8:48 a.m. EST](https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-8-48-a-m-est/article_0ad07b45-6a7f-5821-ade0-394313ce5efd.html)
-- [Tecnotree figura como Proveedor representativo en Gartner® Innovation Insight: Los agentes SOC con IA aceleran la transformación de las operaciones de seguridad de los CSP](https://www.postregister.com/businessreport/technology/tecnotree-figura-como-proveedor-representativo-en-gartner-innovation-insight-los-agentes-soc-con-ia-aceleran/article_e25f3d9b-333e-5452-aacd-e59282969b2d.html)
+- [Spy watchdog reviewing Canadian security agencies’ use of artificial intelligence](https://torontosun.com/news/national/spy-watchdog-reviewing-canadian-security-agencies-use-of-ai)
+- [Taiwan Semiconductor Manufacturing Company Ltd. $TSM is Ninety One North America Inc.’s 6th Largest Position](https://baseballnewssource.com/2026/01/01/taiwan-semiconductor-manufacturing-company-ltd-tsm-is-ninety-one-north-america-inc-s-6th-largest-position/10988113.html)
+- [2026 is AI's "show me the money" year - Axios](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNTZyMlhxaHI2X0VDWk9YX3d2d3d1NzBQRWhRT1RWLUw0YVltbzJQaHdSbXNwVDQ2ZDh5U1RQTGN3ODZkV1U1c0l0QVlPblNHSjBCU19xM1J5MFdFRXk1Y1hHNDFyNmFvSnJtNzM2VTF5UV9Da3ZsS1dBaGdYemo1SXpSZw?oc=5)
+- [Dimensional Australian Value Trust – Active ETF (ASX:DAVA) Plans $0.23 Interim Dividend](https://www.watchlistnews.com/dimensional-australian-value-trust-active-etf-asxdava-plans-0-23-interim-dividend/10947917.html)
+- [Are data centres proposed in Vizag a boon or bane?](https://www.thehindu.com/news/cities/Visakhapatnam/are-data-centres-proposed-in-vizag-a-boon-or-bane/article70460159.ece)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
