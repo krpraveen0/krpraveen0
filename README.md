@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Spy watchdog reviewing Canadian security agencies’ use of artificial intelligence](https://torontosun.com/news/national/spy-watchdog-reviewing-canadian-security-agencies-use-of-ai)
-- [Taiwan Semiconductor Manufacturing Company Ltd. $TSM is Ninety One North America Inc.’s 6th Largest Position](https://baseballnewssource.com/2026/01/01/taiwan-semiconductor-manufacturing-company-ltd-tsm-is-ninety-one-north-america-inc-s-6th-largest-position/10988113.html)
-- [2026 is AI's "show me the money" year - Axios](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNTZyMlhxaHI2X0VDWk9YX3d2d3d1NzBQRWhRT1RWLUw0YVltbzJQaHdSbXNwVDQ2ZDh5U1RQTGN3ODZkV1U1c0l0QVlPblNHSjBCU19xM1J5MFdFRXk1Y1hHNDFyNmFvSnJtNzM2VTF5UV9Da3ZsS1dBaGdYemo1SXpSZw?oc=5)
-- [Dimensional Australian Value Trust – Active ETF (ASX:DAVA) Plans $0.23 Interim Dividend](https://www.watchlistnews.com/dimensional-australian-value-trust-active-etf-asxdava-plans-0-23-interim-dividend/10947917.html)
-- [Are data centres proposed in Vizag a boon or bane?](https://www.thehindu.com/news/cities/Visakhapatnam/are-data-centres-proposed-in-vizag-a-boon-or-bane/article70460159.ece)
+- [Instagram must change quickly as AI content blurs reality, warns Adam Mosseri](https://www.india.com/technology/instagram-must-change-quickly-as-ai-content-blurs-reality-warns-adam-mosseri-8253771/)
+- [Ambulatory Blood Pressure Monitors Market Set for Strong Growth to USD 3.42 Billion by 2033, Driven by Hypertension Burden and Diagnostic Accuracy Demand | DataM Intelligence](https://www.openpr.com/news/4334305/ambulatory-blood-pressure-monitors-market-set-for-strong-growth)
+- [Bridging the Gap: How the Power Industry Is Tackling Its Workforce Crisis](https://ca.news.yahoo.com/bridging-gap-power-industry-tackling-131936320.html)
+- [AI insurer Nirvana raises $100m to see value surge to $1.5bn](https://fintech.global/2026/01/02/ai-insurer-nirvana-raises-100m-to-see-value-surge-to-1-5bn/)
+- [Global Impact Through Robotics & AI Bootcamp in Riyadh](http://www.roboticstomorrow.com/news/2026/01/02/global-impact-through-robotics-ai-bootcamp-in-riyadh/25948)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
