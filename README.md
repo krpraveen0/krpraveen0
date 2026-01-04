@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Instagram must change quickly as AI content blurs reality, warns Adam Mosseri](https://www.india.com/technology/instagram-must-change-quickly-as-ai-content-blurs-reality-warns-adam-mosseri-8253771/)
-- [Ambulatory Blood Pressure Monitors Market Set for Strong Growth to USD 3.42 Billion by 2033, Driven by Hypertension Burden and Diagnostic Accuracy Demand | DataM Intelligence](https://www.openpr.com/news/4334305/ambulatory-blood-pressure-monitors-market-set-for-strong-growth)
-- [Bridging the Gap: How the Power Industry Is Tackling Its Workforce Crisis](https://ca.news.yahoo.com/bridging-gap-power-industry-tackling-131936320.html)
-- [AI insurer Nirvana raises $100m to see value surge to $1.5bn](https://fintech.global/2026/01/02/ai-insurer-nirvana-raises-100m-to-see-value-surge-to-1-5bn/)
-- [Global Impact Through Robotics & AI Bootcamp in Riyadh](http://www.roboticstomorrow.com/news/2026/01/02/global-impact-through-robotics-ai-bootcamp-in-riyadh/25948)
+- [Drug Delivery Devices Market to Reach USD 151.41 Billion by 2033 | CAGR 5.9% | North America Leads with 40% Share | Key Players: Becton Dickinson, Pfizer, Johnson & Johnson, Novartis, Roche](https://www.openpr.com/news/4334846/drug-delivery-devices-market-to-reach-usd-151-41-billion-by-2033)
+- [Justice ministry introduces specialized legal training plan for 2026](https://www.qatar-tribune.com/article/212278/latest-news/justice-ministry-introduces-specialized-legal-training-plan-for-2026)
+- [AP News Summary at 8:41 a.m. EST](https://www.reflector.com/news/national/ap-news-summary-at-8-41-a-m-est/article_069263ef-19d7-5e4f-86aa-1a2a470f5ab7.html)
+- [Down 45%, Should You Buy the Dip on IonQ?](https://www.fool.com/investing/2026/01/03/down-45-should-you-buy-the-dip-on-ionq/)
+- [AP News Summary at 8:36 a.m. EST](https://www.goskagit.com/news/nation/ap-news-summary-at-8-36-a-m-est/article_55fa4737-5d27-5f19-893a-1a43b86a185c.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
