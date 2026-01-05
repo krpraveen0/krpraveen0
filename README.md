@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Drug Delivery Devices Market to Reach USD 151.41 Billion by 2033 | CAGR 5.9% | North America Leads with 40% Share | Key Players: Becton Dickinson, Pfizer, Johnson & Johnson, Novartis, Roche](https://www.openpr.com/news/4334846/drug-delivery-devices-market-to-reach-usd-151-41-billion-by-2033)
-- [Justice ministry introduces specialized legal training plan for 2026](https://www.qatar-tribune.com/article/212278/latest-news/justice-ministry-introduces-specialized-legal-training-plan-for-2026)
-- [AP News Summary at 8:41 a.m. EST](https://www.reflector.com/news/national/ap-news-summary-at-8-41-a-m-est/article_069263ef-19d7-5e4f-86aa-1a2a470f5ab7.html)
-- [Down 45%, Should You Buy the Dip on IonQ?](https://www.fool.com/investing/2026/01/03/down-45-should-you-buy-the-dip-on-ionq/)
-- [AP News Summary at 8:36 a.m. EST](https://www.goskagit.com/news/nation/ap-news-summary-at-8-36-a-m-est/article_55fa4737-5d27-5f19-893a-1a43b86a185c.html)
+- [🚨 Fulham v Liverpool XIs: Liverpool to play without a number 9](https://ca.sports.yahoo.com/news/fulham-v-liverpool-xis-liverpool-134800084.html)
+- [The cost of AI slop could cause a rethink that shakes the global economy in 2026 - The Guardian](https://news.google.com/rss/articles/CBMijwFBVV95cUxNai1ZOTVLODBoR0ExM2tzY1llYjlyS2VXbEExUWF5WGQwclVfN1pfRXEtSXFyLVNDZVZPLWtYWXdpcXFXQUJoUVhHMDNncHlja0xxQkd4UGROelNVb19sTHBvWFM5WEIzNV9qbnJQYzFaWXBVT19mSUVSQ0wtazB5UjVtM3kxWFdabzg2WjhObw?oc=5)
+- [Amy Goodman and Denis Moynihan | Breaking the sound barrier](https://www.times-standard.com/2026/01/04/amy-goodman-and-denis-moynihan-breaking-the-sound-barrier/)
+- [Should You Really Invest in AI Stocks in 2026? Here's What Other Investors Are Saying](https://www.fool.com/investing/2026/01/04/should-you-really-invest-in-ai-stocks-in-2026-here/)
+- [Peak Bengaluru innovation: Fed up with traffic chaos, techie turns helmet into tool to catch violators](https://odishatv.in/trending/peak-bengaluru-innovation-fed-up-with-traffic-chaos-techie-turns-helmet-into-tool-to-catch-violators-10971280)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
