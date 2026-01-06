@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [🚨 Fulham v Liverpool XIs: Liverpool to play without a number 9](https://ca.sports.yahoo.com/news/fulham-v-liverpool-xis-liverpool-134800084.html)
-- [The cost of AI slop could cause a rethink that shakes the global economy in 2026 - The Guardian](https://news.google.com/rss/articles/CBMijwFBVV95cUxNai1ZOTVLODBoR0ExM2tzY1llYjlyS2VXbEExUWF5WGQwclVfN1pfRXEtSXFyLVNDZVZPLWtYWXdpcXFXQUJoUVhHMDNncHlja0xxQkd4UGROelNVb19sTHBvWFM5WEIzNV9qbnJQYzFaWXBVT19mSUVSQ0wtazB5UjVtM3kxWFdabzg2WjhObw?oc=5)
-- [Amy Goodman and Denis Moynihan | Breaking the sound barrier](https://www.times-standard.com/2026/01/04/amy-goodman-and-denis-moynihan-breaking-the-sound-barrier/)
-- [Should You Really Invest in AI Stocks in 2026? Here's What Other Investors Are Saying](https://www.fool.com/investing/2026/01/04/should-you-really-invest-in-ai-stocks-in-2026-here/)
-- [Peak Bengaluru innovation: Fed up with traffic chaos, techie turns helmet into tool to catch violators](https://odishatv.in/trending/peak-bengaluru-innovation-fed-up-with-traffic-chaos-techie-turns-helmet-into-tool-to-catch-violators-10971280)
+- [Wondershare accelerates its AI innovation layout, with its EdrawMax topping the G2 rankings](https://www.prnewswire.com/news-releases/wondershare-accelerates-its-ai-innovation-layout-with-its-edrawmax-topping-the-g2-rankings-302652680.html)
+- [Matrack Unveils Viewmaster: North America's Most Affordable AI Dashcam at CES 2026](https://www.manilatimes.net/2026/01/05/tmt-newswire/globenewswire/matrack-unveils-viewmaster-north-americas-most-affordable-ai-dashcam-at-ces-2026/2252872)
+- [Abu Dhabi Judicial Department adopts AI-driven projects for correctional centres](https://gulfnews.com/uae/government/abu-dhabi-judicial-department-adopts-ai-driven-projects-for-correctional-centres-1.500399170)
+- [Presidency denies AI claims over Tinubu–Kagame paris photograph](https://blueprint.ng/presidency-denies-ai-claims-over-tinubu-kagame-paris-photograph/)
+- [Firms should drive innovation: Li Qiang](https://news.rthk.hk/rthk/en/component/k2/1838703-20260105.htm)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
