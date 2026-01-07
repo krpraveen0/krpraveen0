@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Wondershare accelerates its AI innovation layout, with its EdrawMax topping the G2 rankings](https://www.prnewswire.com/news-releases/wondershare-accelerates-its-ai-innovation-layout-with-its-edrawmax-topping-the-g2-rankings-302652680.html)
-- [Matrack Unveils Viewmaster: North America's Most Affordable AI Dashcam at CES 2026](https://www.manilatimes.net/2026/01/05/tmt-newswire/globenewswire/matrack-unveils-viewmaster-north-americas-most-affordable-ai-dashcam-at-ces-2026/2252872)
-- [Abu Dhabi Judicial Department adopts AI-driven projects for correctional centres](https://gulfnews.com/uae/government/abu-dhabi-judicial-department-adopts-ai-driven-projects-for-correctional-centres-1.500399170)
-- [Presidency denies AI claims over Tinubu–Kagame paris photograph](https://blueprint.ng/presidency-denies-ai-claims-over-tinubu-kagame-paris-photograph/)
-- [Firms should drive innovation: Li Qiang](https://news.rthk.hk/rthk/en/component/k2/1838703-20260105.htm)
+- [Nvidia’s AI Chip Revenue Soars to $148B Amid Omniverse Adoption Woes](https://www.webpronews.com/nvidias-ai-chip-revenue-soars-to-148b-amid-omniverse-adoption-woes/)
+- [DepEd allocates P100M to operate MIT-reviewed AI center](https://abs-cbn.com/news/technology/2026/1/6/deped-allocates-p100m-to-operate-mit-reviewed-ai-center-2139)
+- [FortifyData Revolutionizes Third-Party Risk Management with AI Auditor and AI Workflow Automation](https://www.prnewswire.com/news-releases/fortifydata-revolutionizes-third-party-risk-management-with-ai-auditor-and-ai-workflow-automation-302652786.html)
+- [LucidQuest Launches LucidWargames to De-Risk High-Stakes Decisions With AI-Powered Competitive Simulations](https://www.prnewswire.com/news-releases/lucidquest-launches-lucidwargames-to-de-risk-high-stakes-decisions-with-ai-powered-competitive-simulations-302652805.html)
+- [VIRGINIA RETIREMENT SYSTEMS ET Al Sells 15,000 Shares of Upstart Holdings, Inc. $UPST](https://www.thelincolnianonline.com/2026/01/06/virginia-retirement-systems-et-al-sells-15000-shares-of-upstart-holdings-inc-upst.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
