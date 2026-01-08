@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Nvidia’s AI Chip Revenue Soars to $148B Amid Omniverse Adoption Woes](https://www.webpronews.com/nvidias-ai-chip-revenue-soars-to-148b-amid-omniverse-adoption-woes/)
-- [DepEd allocates P100M to operate MIT-reviewed AI center](https://abs-cbn.com/news/technology/2026/1/6/deped-allocates-p100m-to-operate-mit-reviewed-ai-center-2139)
-- [FortifyData Revolutionizes Third-Party Risk Management with AI Auditor and AI Workflow Automation](https://www.prnewswire.com/news-releases/fortifydata-revolutionizes-third-party-risk-management-with-ai-auditor-and-ai-workflow-automation-302652786.html)
-- [LucidQuest Launches LucidWargames to De-Risk High-Stakes Decisions With AI-Powered Competitive Simulations](https://www.prnewswire.com/news-releases/lucidquest-launches-lucidwargames-to-de-risk-high-stakes-decisions-with-ai-powered-competitive-simulations-302652805.html)
-- [VIRGINIA RETIREMENT SYSTEMS ET Al Sells 15,000 Shares of Upstart Holdings, Inc. $UPST](https://www.thelincolnianonline.com/2026/01/06/virginia-retirement-systems-et-al-sells-15000-shares-of-upstart-holdings-inc-upst.html)
+- [HawkSoft and Sonant Announce Voice AI Integration for Independent Insurance Agencies](https://www.prnewswire.com/news-releases/hawksoft-and-sonant-announce-voice-ai-integration-for-independent-insurance-agencies-302654708.html)
+- [Ultra I&C to Deliver Knox-5 Processors for Marine Corps MQ-9B Fleet](https://www.executivebiz.com/articles/ultra-ic-knox-5-processors-mq-9b-fleet)
+- [Elon Musk’s xAI Builds 1.5 GW Colossus 2 AI Supercomputer in Memphis](https://www.webpronews.com/elon-musks-xai-builds-1-5-gw-colossus-2-ai-supercomputer-in-memphis/)
+- [Rosenblatt Securities Reiterates Buy Rating for Penguin Solutions (NASDAQ:PENG)](https://baseballnewssource.com/2026/01/07/rosenblatt-securities-reiterates-buy-rating-for-penguin-solutions-nasdaqpeng/10991638.html)
+- [How facial recognition for bears can help ecologists manage wildlife](https://theconversation.com/how-facial-recognition-for-bears-can-help-ecologists-manage-wildlife-271371)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
