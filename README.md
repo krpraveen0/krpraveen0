@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [HawkSoft and Sonant Announce Voice AI Integration for Independent Insurance Agencies](https://www.prnewswire.com/news-releases/hawksoft-and-sonant-announce-voice-ai-integration-for-independent-insurance-agencies-302654708.html)
-- [Ultra I&C to Deliver Knox-5 Processors for Marine Corps MQ-9B Fleet](https://www.executivebiz.com/articles/ultra-ic-knox-5-processors-mq-9b-fleet)
-- [Elon Musk’s xAI Builds 1.5 GW Colossus 2 AI Supercomputer in Memphis](https://www.webpronews.com/elon-musks-xai-builds-1-5-gw-colossus-2-ai-supercomputer-in-memphis/)
-- [Rosenblatt Securities Reiterates Buy Rating for Penguin Solutions (NASDAQ:PENG)](https://baseballnewssource.com/2026/01/07/rosenblatt-securities-reiterates-buy-rating-for-penguin-solutions-nasdaqpeng/10991638.html)
-- [How facial recognition for bears can help ecologists manage wildlife](https://theconversation.com/how-facial-recognition-for-bears-can-help-ecologists-manage-wildlife-271371)
+- [60% shoppers express high trust in GenAI while shopping: Report](https://www.socialsamosa.com/report/shoppers-high-trust-genai-while-shopping-10982535)
+- [Intel (INTC) Stock Doubled Last Year. Can It Repeat the Feat in 2026?](https://247wallst.com/investing/2026/01/08/intel-intc-stock-doubled-last-year-can-it-repeat-the-feat-in-2026/)
+- [AI reshapes real estate business](https://tdn.com/article_3ddb2ce6-c8ee-5ddb-a0e3-14c6acfc324b.html)
+- [Musk’s Suit Over OpenAI’s for-Profit Switch Headed to Trial](https://www.pymnts.com/legal/2026/musks-suit-over-openais-for-profit-switch-headed-to-trial/)
+- [Paper and packaging firms turn to disciplined approach powered by AI to manage overcapacity, transform maintenance and unlock commercial excellence - Bain & Co report](https://www.prnewswire.com/news-releases/paper-and-packaging-firms-turn-to-disciplined-approach-powered-by-ai-to-manage-overcapacity-transform-maintenance-and-unlock-commercial-excellence---bain--co-report-302656497.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
