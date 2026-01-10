@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [60% shoppers express high trust in GenAI while shopping: Report](https://www.socialsamosa.com/report/shoppers-high-trust-genai-while-shopping-10982535)
-- [Intel (INTC) Stock Doubled Last Year. Can It Repeat the Feat in 2026?](https://247wallst.com/investing/2026/01/08/intel-intc-stock-doubled-last-year-can-it-repeat-the-feat-in-2026/)
-- [AI reshapes real estate business](https://tdn.com/article_3ddb2ce6-c8ee-5ddb-a0e3-14c6acfc324b.html)
-- [Musk’s Suit Over OpenAI’s for-Profit Switch Headed to Trial](https://www.pymnts.com/legal/2026/musks-suit-over-openais-for-profit-switch-headed-to-trial/)
-- [Paper and packaging firms turn to disciplined approach powered by AI to manage overcapacity, transform maintenance and unlock commercial excellence - Bain & Co report](https://www.prnewswire.com/news-releases/paper-and-packaging-firms-turn-to-disciplined-approach-powered-by-ai-to-manage-overcapacity-transform-maintenance-and-unlock-commercial-excellence---bain--co-report-302656497.html)
+- [Musk’s xAI reports wider quarterly loss, plans to power Optimus](https://tucson.com/article_a561eaee-ec8d-460f-94b6-858e247c3d75.html)
+- [How AI-generated content is imitating farmer protests to drive up clicks](http://www.euronews.com/my-europe/2026/01/09/how-ai-generated-content-is-imitating-farmer-protests-to-drive-up-clicks)
+- [Tapasya Fund’s Q4 2025 Investor Letter](https://www.insidermonkey.com/blog/tapasya-funds-q4-2025-investor-letter-1672177/)
+- [Sluggish jobs growth and unemployment hovering around four-year high, latest government jobs report reveals](https://www.independent.co.uk/us/money/jobs-report-unemployment-economy-recession-indicator-b2897568.html)
+- [Beyond the Hype: 5 Reasons Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum Can Crash in 2026](https://www.fool.com/investing/2026/01/09/5-reasons-quantum-computing-stocks-crash-in-2026/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
