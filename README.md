@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Musk’s xAI reports wider quarterly loss, plans to power Optimus](https://tucson.com/article_a561eaee-ec8d-460f-94b6-858e247c3d75.html)
-- [How AI-generated content is imitating farmer protests to drive up clicks](http://www.euronews.com/my-europe/2026/01/09/how-ai-generated-content-is-imitating-farmer-protests-to-drive-up-clicks)
-- [Tapasya Fund’s Q4 2025 Investor Letter](https://www.insidermonkey.com/blog/tapasya-funds-q4-2025-investor-letter-1672177/)
-- [Sluggish jobs growth and unemployment hovering around four-year high, latest government jobs report reveals](https://www.independent.co.uk/us/money/jobs-report-unemployment-economy-recession-indicator-b2897568.html)
-- [Beyond the Hype: 5 Reasons Quantum Computing Stocks IonQ, Rigetti Computing, and D-Wave Quantum Can Crash in 2026](https://www.fool.com/investing/2026/01/09/5-reasons-quantum-computing-stocks-crash-in-2026/)
+- [EU AI Rules Push Robotics Toward Certifiable AIC Systems](https://newslinker.co/eu-ai-rules-push-robotics-toward-certifiable-aic-systems/)
+- [Tesla (TSLA) Gains Wall Street Attention as GLJ Maintains Sell Rating](https://www.insidermonkey.com/blog/tesla-tsla-gains-wall-street-attention-as-glj-maintains-sell-rating-1672669/)
+- [Musk hits out at ‘fascist’ UK as row over X and its Grok AI escalates](https://www.independent.co.uk/news/uk/politics/elon-musk-ofcom-liz-kendall-government-bill-b2898059.html)
+- [Musk hits out at ‘fascist’ UK as row over X and its Grok AI escalates](https://ca.news.yahoo.com/musk-hits-fascist-uk-row-134500739.html)
+- [Musk hits out at ‘fascist’ UK as row over X and its Grok AI escalates](https://www.standard.co.uk/news/tech/elon-musk-ofcom-liz-kendall-government-crime-b1265883.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
