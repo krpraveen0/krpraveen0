@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [EU AI Rules Push Robotics Toward Certifiable AIC Systems](https://newslinker.co/eu-ai-rules-push-robotics-toward-certifiable-aic-systems/)
-- [Tesla (TSLA) Gains Wall Street Attention as GLJ Maintains Sell Rating](https://www.insidermonkey.com/blog/tesla-tsla-gains-wall-street-attention-as-glj-maintains-sell-rating-1672669/)
-- [Musk hits out at ‘fascist’ UK as row over X and its Grok AI escalates](https://www.independent.co.uk/news/uk/politics/elon-musk-ofcom-liz-kendall-government-bill-b2898059.html)
-- [Musk hits out at ‘fascist’ UK as row over X and its Grok AI escalates](https://ca.news.yahoo.com/musk-hits-fascist-uk-row-134500739.html)
-- [Musk hits out at ‘fascist’ UK as row over X and its Grok AI escalates](https://www.standard.co.uk/news/tech/elon-musk-ofcom-liz-kendall-government-crime-b1265883.html)
+- [Local opinion: Southeastern Arizona’s growing role in a national security moment](https://tucson.com/opinion/column/article_9becad34-dbec-4682-b0dc-d733b786ed6c.html)
+- [Reliance chief Mukesh Ambani announces 5 BIG plans for Gujarat, hails PM Modi as 'India's...'](https://www.dnaindia.com/business/report-reliance-chief-mukesh-ambani-announces-5-big-plans-for-gujarat-hails-pm-modi-as-india-s-3196717)
+- [China's 'Nantianmen Project' moves from science fiction toward reality](https://www.thestandard.com.hk/china-news/article/321291/Chinas-Nantianmen-Project-moves-from-science-fiction-toward-reality)
+- [7 Genius AI Stocks Billionaire Chase Coleman Owns That Investors Should Buy for 2026](https://www.fool.com/investing/2026/01/11/7-genius-ai-stocks-billionaire-chase-coleman-owns/)
+- [Global Billionaires Add Record US$2.2 Trillion as Africa Trails All Regions](https://www.newsghana.com.gh/global-billionaires-add-record-us2-2-trillion-as-africa-trails-all-regions/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
