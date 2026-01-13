@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Local opinion: Southeastern Arizona’s growing role in a national security moment](https://tucson.com/opinion/column/article_9becad34-dbec-4682-b0dc-d733b786ed6c.html)
-- [Reliance chief Mukesh Ambani announces 5 BIG plans for Gujarat, hails PM Modi as 'India's...'](https://www.dnaindia.com/business/report-reliance-chief-mukesh-ambani-announces-5-big-plans-for-gujarat-hails-pm-modi-as-india-s-3196717)
-- [China's 'Nantianmen Project' moves from science fiction toward reality](https://www.thestandard.com.hk/china-news/article/321291/Chinas-Nantianmen-Project-moves-from-science-fiction-toward-reality)
-- [7 Genius AI Stocks Billionaire Chase Coleman Owns That Investors Should Buy for 2026](https://www.fool.com/investing/2026/01/11/7-genius-ai-stocks-billionaire-chase-coleman-owns/)
-- [Global Billionaires Add Record US$2.2 Trillion as Africa Trails All Regions](https://www.newsghana.com.gh/global-billionaires-add-record-us2-2-trillion-as-africa-trails-all-regions/)
+- [Trust & Will Launches an Attorney Platform to Support the Next Generation of Estate Planning Attorneys](https://www.prnewswire.com/news-releases/trust--will-launches-an-attorney-platform-to-support-the-next-generation-of-estate-planning-attorneys-302658297.html)
+- [Crave Retail Exhibits Smart Fitting Room & Store Engagement Platform at NRF 2026](https://www.prnewswire.com/news-releases/crave-retail-exhibits-smart-fitting-room--store-engagement-platform-at-nrf-2026-302657415.html)
+- [ScanTech AI Systems Announces Regained Nasdaq Reporting Compliance and Continued Progress on Re-Compliance and Restructuring Initiatives](https://www.manilatimes.net/2026/01/12/tmt-newswire/globenewswire/scantech-ai-systems-announces-regained-nasdaq-reporting-compliance-and-continued-progress-on-re-compliance-and-restructuring-initiatives/2257198)
+- [[EXCLUSIVE] Grok’s AI Image Fiasco Through the Lens of Law, AI and Cybersecurity Experts](https://in.mashable.com/tech/104581/exclusive-groks-ai-image-fiasco-through-the-lens-of-law-ai-and-cybersecurity-experts)
+- [Top IEB students: Matric is more than just studying – it’s about fighting for survival and giving back](https://www.citizen.co.za/news/south-africa/education/matric/top-ieb-students-matric-is-more-than-just-studying-its-fighting-for-survival-and-giving-back/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
