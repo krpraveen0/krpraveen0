@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Trust & Will Launches an Attorney Platform to Support the Next Generation of Estate Planning Attorneys](https://www.prnewswire.com/news-releases/trust--will-launches-an-attorney-platform-to-support-the-next-generation-of-estate-planning-attorneys-302658297.html)
-- [Crave Retail Exhibits Smart Fitting Room & Store Engagement Platform at NRF 2026](https://www.prnewswire.com/news-releases/crave-retail-exhibits-smart-fitting-room--store-engagement-platform-at-nrf-2026-302657415.html)
-- [ScanTech AI Systems Announces Regained Nasdaq Reporting Compliance and Continued Progress on Re-Compliance and Restructuring Initiatives](https://www.manilatimes.net/2026/01/12/tmt-newswire/globenewswire/scantech-ai-systems-announces-regained-nasdaq-reporting-compliance-and-continued-progress-on-re-compliance-and-restructuring-initiatives/2257198)
-- [[EXCLUSIVE] Grok’s AI Image Fiasco Through the Lens of Law, AI and Cybersecurity Experts](https://in.mashable.com/tech/104581/exclusive-groks-ai-image-fiasco-through-the-lens-of-law-ai-and-cybersecurity-experts)
-- [Top IEB students: Matric is more than just studying – it’s about fighting for survival and giving back](https://www.citizen.co.za/news/south-africa/education/matric/top-ieb-students-matric-is-more-than-just-studying-its-fighting-for-survival-and-giving-back/)
+- [MySize Explores Unlocking the "DNA of Fashion" Through Privacy-First Data Intelligence](https://www.prnewswire.com/news-releases/mysize-explores-unlocking-the-dna-of-fashion-through-privacy-first-data-intelligence-302659552.html)
+- [Conduent Launches AI Experience Center to Showcase AI & GenAI-Powered Solutions for Commercial, Transportation and Government Clients](https://www.businesswire.com/news/home/20260113847623/en/Conduent-Launches-AI-Experience-Center-to-Showcase-AI-GenAI-Powered-Solutions-for-Commercial-Transportation-and-Government-Clients)
+- [अबब! फक्त ४ जणांच्या टीमला Open AI नं ९०० कोटींना खरेदी केले; आता ChatGPT देणार हेल्थ रिपोर्ट](https://www.lokmat.com/business/news/open-ai-bought-a-team-of-just-4-people-for-900-crores-now-chatgpt-will-provide-health-reports-a-a629/)
+- [Marcos: PH committed to advance clean energy, nuclear safety, global sustainability](https://www.gmanetwork.com/news/topstories/nation/972720/marcos-ph-committed-to-advance-clean-energy-nuclear-safety-global-sustainability/story/)
+- [The 2025/26 Cloud Awards Winners Announced](https://www.prnewswire.com/news-releases/the-202526-cloud-awards-winners-announced-302659414.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
