@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [MySize Explores Unlocking the "DNA of Fashion" Through Privacy-First Data Intelligence](https://www.prnewswire.com/news-releases/mysize-explores-unlocking-the-dna-of-fashion-through-privacy-first-data-intelligence-302659552.html)
-- [Conduent Launches AI Experience Center to Showcase AI & GenAI-Powered Solutions for Commercial, Transportation and Government Clients](https://www.businesswire.com/news/home/20260113847623/en/Conduent-Launches-AI-Experience-Center-to-Showcase-AI-GenAI-Powered-Solutions-for-Commercial-Transportation-and-Government-Clients)
-- [अबब! फक्त ४ जणांच्या टीमला Open AI नं ९०० कोटींना खरेदी केले; आता ChatGPT देणार हेल्थ रिपोर्ट](https://www.lokmat.com/business/news/open-ai-bought-a-team-of-just-4-people-for-900-crores-now-chatgpt-will-provide-health-reports-a-a629/)
-- [Marcos: PH committed to advance clean energy, nuclear safety, global sustainability](https://www.gmanetwork.com/news/topstories/nation/972720/marcos-ph-committed-to-advance-clean-energy-nuclear-safety-global-sustainability/story/)
-- [The 2025/26 Cloud Awards Winners Announced](https://www.prnewswire.com/news-releases/the-202526-cloud-awards-winners-announced-302659414.html)
+- [$2.42 Bn Maritime Simulators Market Trends, Strategies, and Opportunities, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/fr/news-release/2026/01/14/3218665/28124/en/2-42-Bn-Maritime-Simulators-Market-Trends-Strategies-and-Opportunities-2020-2025-2025-2030F-2035F.html)
+- [Foremost Clean Energy Continues Exploration Success Reporting Positive Lithium Drill Results at its Jean Lake Gold-Lithium Property](https://www.manilatimes.net/2026/01/14/tmt-newswire/globenewswire/foremost-clean-energy-continues-exploration-success-reporting-positive-lithium-drill-results-at-its-jean-lake-gold-lithium-property/2258874)
+- [Garuda Indonesia Bantah Rekrut Wanita yang Nyamar Jadi Pramugari Batik Air](https://news.detik.com/berita/d-8307844/garuda-indonesia-bantah-rekrut-wanita-yang-nyamar-jadi-pramugari-batik-air)
+- [Safe Pro Group Inc. (NASDAQ:SPAI) Given Consensus Rating of “Buy” by Brokerages](https://baseballnewssource.com/2026/01/14/safe-pro-group-inc-nasdaqspai-given-consensus-rating-of-buy-by-brokerages/10997438.html)
+- [TakeUp's "The Rise of AI-Planned Travel in 2026" Report Reveals AI Is Reshaping Consumer Travel, But With Room for Growth](https://www.prnewswire.com/news-releases/takeups-the-rise-of-ai-planned-travel-in-2026-report-reveals-ai-is-reshaping-consumer-travel-but-with-room-for-growth-302660388.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
