@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [$2.42 Bn Maritime Simulators Market Trends, Strategies, and Opportunities, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/fr/news-release/2026/01/14/3218665/28124/en/2-42-Bn-Maritime-Simulators-Market-Trends-Strategies-and-Opportunities-2020-2025-2025-2030F-2035F.html)
-- [Foremost Clean Energy Continues Exploration Success Reporting Positive Lithium Drill Results at its Jean Lake Gold-Lithium Property](https://www.manilatimes.net/2026/01/14/tmt-newswire/globenewswire/foremost-clean-energy-continues-exploration-success-reporting-positive-lithium-drill-results-at-its-jean-lake-gold-lithium-property/2258874)
-- [Garuda Indonesia Bantah Rekrut Wanita yang Nyamar Jadi Pramugari Batik Air](https://news.detik.com/berita/d-8307844/garuda-indonesia-bantah-rekrut-wanita-yang-nyamar-jadi-pramugari-batik-air)
-- [Safe Pro Group Inc. (NASDAQ:SPAI) Given Consensus Rating of “Buy” by Brokerages](https://baseballnewssource.com/2026/01/14/safe-pro-group-inc-nasdaqspai-given-consensus-rating-of-buy-by-brokerages/10997438.html)
-- [TakeUp's "The Rise of AI-Planned Travel in 2026" Report Reveals AI Is Reshaping Consumer Travel, But With Room for Growth](https://www.prnewswire.com/news-releases/takeups-the-rise-of-ai-planned-travel-in-2026-report-reveals-ai-is-reshaping-consumer-travel-but-with-room-for-growth-302660388.html)
+- [4XROBOTS is gearing up in the U.S.: Brings a Familiar Industry Face to Lead the Expansion](http://www.roboticstomorrow.com/news/2026/01/15/4xrobots-is-gearing-up-in-the-us-brings-a-familiar-industry-face-to-lead-the-expansion/26015)
+- [India at an AI inflection point, $15 bn investment to build data centres, cables, clean energy: Google’s Preeti Lobana](https://www.cnbctv18.com/technology/google-india-15-billion-dollars-ai-push-data-centres-undersea-cables-19821791.htm)
+- [Oversonic Robotics Announces Strategic Partnership with NantWorks and Opens New Los Angeles Office](http://www.roboticstomorrow.com/news/2026/01/15/oversonic-robotics-announces-strategic-partnership-with-nantworks-and-opens-new-los-angeles-office/26014)
+- [Al Habtoor Research Centre marks 3rd anniversary, honors Arabic language initiative winners](https://www.arabnews.pk/node/2629427/lifestyle)
+- [Microsoft Copilot-powered platform boosts efficiency in Kenyan pharmacies](https://www.capitalfm.co.ke/business/2026/01/microsoft-copilot-powered-platform-boosts-efficiency-in-kenyan-pharmacies/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
