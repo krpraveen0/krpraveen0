@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [4XROBOTS is gearing up in the U.S.: Brings a Familiar Industry Face to Lead the Expansion](http://www.roboticstomorrow.com/news/2026/01/15/4xrobots-is-gearing-up-in-the-us-brings-a-familiar-industry-face-to-lead-the-expansion/26015)
-- [India at an AI inflection point, $15 bn investment to build data centres, cables, clean energy: Google’s Preeti Lobana](https://www.cnbctv18.com/technology/google-india-15-billion-dollars-ai-push-data-centres-undersea-cables-19821791.htm)
-- [Oversonic Robotics Announces Strategic Partnership with NantWorks and Opens New Los Angeles Office](http://www.roboticstomorrow.com/news/2026/01/15/oversonic-robotics-announces-strategic-partnership-with-nantworks-and-opens-new-los-angeles-office/26014)
-- [Al Habtoor Research Centre marks 3rd anniversary, honors Arabic language initiative winners](https://www.arabnews.pk/node/2629427/lifestyle)
-- [Microsoft Copilot-powered platform boosts efficiency in Kenyan pharmacies](https://www.capitalfm.co.ke/business/2026/01/microsoft-copilot-powered-platform-boosts-efficiency-in-kenyan-pharmacies/)
+- [MACC and MBOT team up to certify officers as tech professionals](https://thesun.my/news/malaysia-news/macc-and-mbot-team-up-to-certify-officers-as-tech-professionals/)
+- [Shettima heads to Guinea for Doumbouya’s inauguration, WEF in Davos](https://guardian.ng/news/shettima-heads-to-guinea-for-doumbouyas-inauguration-wef-in-davos/)
+- [Pulse of the Street: Markets on mute amid mixed Q3 earnings](https://www.livemint.com/market/stock-market-news/indian-stock-market-news-nifty-50-sensex-q3-earnings-india-infosys-earnings-sbi-11768566212405.html)
+- [AI Helps Madhya Pradesh Identify 5 Lakh Malnourished Children Across 55 Districts](https://www.etvbharat.com/en/state/mohan-yadav-govt-ai-program-monitored-anganwadi-malnourished-children-health-analytics-agriculture-ai-startup-enn26011604068)
+- [Stocks Rise As Tech Meltup Accelerates](https://www.zerohedge.com/markets/stocks-rise-tech-meltup-accelerates)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
