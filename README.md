@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 6.4 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 6.5 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [MACC and MBOT team up to certify officers as tech professionals](https://thesun.my/news/malaysia-news/macc-and-mbot-team-up-to-certify-officers-as-tech-professionals/)
-- [Shettima heads to Guinea for Doumbouya’s inauguration, WEF in Davos](https://guardian.ng/news/shettima-heads-to-guinea-for-doumbouyas-inauguration-wef-in-davos/)
-- [Pulse of the Street: Markets on mute amid mixed Q3 earnings](https://www.livemint.com/market/stock-market-news/indian-stock-market-news-nifty-50-sensex-q3-earnings-india-infosys-earnings-sbi-11768566212405.html)
-- [AI Helps Madhya Pradesh Identify 5 Lakh Malnourished Children Across 55 Districts](https://www.etvbharat.com/en/state/mohan-yadav-govt-ai-program-monitored-anganwadi-malnourished-children-health-analytics-agriculture-ai-startup-enn26011604068)
-- [Stocks Rise As Tech Meltup Accelerates](https://www.zerohedge.com/markets/stocks-rise-tech-meltup-accelerates)
+- [India, Japan agree to boost cooperation in trade, defence, critical minerals and AI](https://www.news9live.com/business/india-japan-agree-to-boost-cooperation-in-trade-defence-critical-minerals-and-ai-2920387)
+- [When AI decides how shareholders vote, boards need to rethink governance](https://fortune.com/2026/01/17/when-ai-decides-how-shareholders-vote-boards-need-to-rethink-governance/)
+- [My Favorite Artificial Intelligence Stock to Buy Right Now](https://www.fool.com/investing/2026/01/17/favorite-artificial-intelligence-stock-buy-goog/)
+- [India has second-most users of Claude.ai](https://www.edexlive.com/news/india-has-second-most-users-of-claudeai)
+- [🚨 Dortmund host St Pauli with this confirmed line-up](https://ca.sports.yahoo.com/news/dortmund-host-st-pauli-confirmed-134000184.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
