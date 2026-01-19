@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [India, Japan agree to boost cooperation in trade, defence, critical minerals and AI](https://www.news9live.com/business/india-japan-agree-to-boost-cooperation-in-trade-defence-critical-minerals-and-ai-2920387)
-- [When AI decides how shareholders vote, boards need to rethink governance](https://fortune.com/2026/01/17/when-ai-decides-how-shareholders-vote-boards-need-to-rethink-governance/)
-- [My Favorite Artificial Intelligence Stock to Buy Right Now](https://www.fool.com/investing/2026/01/17/favorite-artificial-intelligence-stock-buy-goog/)
-- [India has second-most users of Claude.ai](https://www.edexlive.com/news/india-has-second-most-users-of-claudeai)
-- [🚨 Dortmund host St Pauli with this confirmed line-up](https://ca.sports.yahoo.com/news/dortmund-host-st-pauli-confirmed-134000184.html)
+- [Schooling and free thinking](https://tribune.com.pk/story/2587821/schooling-and-free-thinking)
+- [IT boom boosts real estate momentum in Visakhapatnam](https://www.thehindu.com/news/cities/Visakhapatnam/it-boom-boosts-real-estate-momentum-in-visakhapatnam/article70518736.ece)
+- [Degree or decline? New report reveals 55% of Ghanaian jobs now demand a bachelor’s degree](https://www.ghanamma.com/2026/01/18/degree-or-decline-new-report-reveals-55-of-ghanaian-jobs-now-demand-a-bachelors-degree/)
+- [Carney says Qatar will make ‘significant’ investments in Canada’s major projects](https://lethbridgeherald.com/news/national-news/2026/01/18/carney-says-qatar-will-make-significant-investments-in-canadas-major-projects/)
+- [Carney says Qatar will make ‘significant’ investments in Canada’s major projects](https://medicinehatnews.com/news/national-news/2026/01/18/carney-says-qatar-will-make-significant-investments-in-canadas-major-projects/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
