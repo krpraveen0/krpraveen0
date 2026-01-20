@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Schooling and free thinking](https://tribune.com.pk/story/2587821/schooling-and-free-thinking)
-- [IT boom boosts real estate momentum in Visakhapatnam](https://www.thehindu.com/news/cities/Visakhapatnam/it-boom-boosts-real-estate-momentum-in-visakhapatnam/article70518736.ece)
-- [Degree or decline? New report reveals 55% of Ghanaian jobs now demand a bachelor’s degree](https://www.ghanamma.com/2026/01/18/degree-or-decline-new-report-reveals-55-of-ghanaian-jobs-now-demand-a-bachelors-degree/)
-- [Carney says Qatar will make ‘significant’ investments in Canada’s major projects](https://lethbridgeherald.com/news/national-news/2026/01/18/carney-says-qatar-will-make-significant-investments-in-canadas-major-projects/)
-- [Carney says Qatar will make ‘significant’ investments in Canada’s major projects](https://medicinehatnews.com/news/national-news/2026/01/18/carney-says-qatar-will-make-significant-investments-in-canadas-major-projects/)
+- [Adversa AI Wins 2026 BIG Innovation Award for Agentic AI Security Platform, Advancing Continuous AI Red Teaming for Autonomous AI Agents](https://www.prnewswire.com/news-releases/adversa-ai-wins-2026-big-innovation-award-for-agentic-ai-security-platform-advancing-continuous-ai-red-teaming-for-autonomous-ai-agents-302663424.html)
+- [DOJ vows to press charges after activists disrupt church where Minnesota ICE official is a pastor](https://www.courant.com/2026/01/19/doj-minnesota-activists-church-ice/)
+- [How Martin Luther King Jr. was a trailblazer in pushing for universal basic income](https://www.fastcompany.com/91474138/how-martin-luther-king-jr-was-trailblazer-pushing-universal-basic-income?partner=rss)
+- [Orchestro.ai and The Supply Chain Project Launch Humanitarian Giving Powered by Angelic Intelligence](https://www.prnewswire.com/news-releases/orchestroai-and-the-supply-chain-project-launch-humanitarian-giving-powered-by-angelic-intelligence-302664431.html)
+- [DGP Denies Viral Video Allegations, Claims Clip Is AI-Generated](https://www.deccanchronicle.com/southern-states/karnataka/dgp-denies-viral-video-allegations-claims-clip-is-ai-generated-1931302)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
