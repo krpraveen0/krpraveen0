@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Adversa AI Wins 2026 BIG Innovation Award for Agentic AI Security Platform, Advancing Continuous AI Red Teaming for Autonomous AI Agents](https://www.prnewswire.com/news-releases/adversa-ai-wins-2026-big-innovation-award-for-agentic-ai-security-platform-advancing-continuous-ai-red-teaming-for-autonomous-ai-agents-302663424.html)
-- [DOJ vows to press charges after activists disrupt church where Minnesota ICE official is a pastor](https://www.courant.com/2026/01/19/doj-minnesota-activists-church-ice/)
-- [How Martin Luther King Jr. was a trailblazer in pushing for universal basic income](https://www.fastcompany.com/91474138/how-martin-luther-king-jr-was-trailblazer-pushing-universal-basic-income?partner=rss)
-- [Orchestro.ai and The Supply Chain Project Launch Humanitarian Giving Powered by Angelic Intelligence](https://www.prnewswire.com/news-releases/orchestroai-and-the-supply-chain-project-launch-humanitarian-giving-powered-by-angelic-intelligence-302664431.html)
-- [DGP Denies Viral Video Allegations, Claims Clip Is AI-Generated](https://www.deccanchronicle.com/southern-states/karnataka/dgp-denies-viral-video-allegations-claims-clip-is-ai-generated-1931302)
+- [Vannevar Names Eric Ransom Chief Legal Officer](https://www.prnewswire.com/news-releases/vannevar-names-eric-ransom-chief-legal-officer-302662973.html)
+- [97% of Wall Street Analysts Say This "Magnificent Seven" Stock Is a Buy: Double Down in 2026?](https://www.fool.com/investing/2026/01/20/wall-street-analysts-magnificent-7-stock-buy/)
+- [Merck et ChemLex signent un protocole d'accord pour faire progresser la chimie automatisée et l'innovation technologique](https://www.prnewswire.com/news-releases/merck-et-chemlex-signent-un-protocole-daccord-pour-faire-progresser-la-chimie-automatisee-et-linnovation-technologique-302665426.html)
+- [Americans from these groups are least likely to be drafted in WW3](https://www.themirror.com/news/us-news/conscription-world-war-three-usa-1629241)
+- [Wolters Kluwer: A High-Quality Company Discounted By AI](https://seekingalpha.com/article/4861119-wolters-kluwer-a-high-quality-company-discounted-by-ai)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
