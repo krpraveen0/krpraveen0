@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Vannevar Names Eric Ransom Chief Legal Officer](https://www.prnewswire.com/news-releases/vannevar-names-eric-ransom-chief-legal-officer-302662973.html)
-- [97% of Wall Street Analysts Say This "Magnificent Seven" Stock Is a Buy: Double Down in 2026?](https://www.fool.com/investing/2026/01/20/wall-street-analysts-magnificent-7-stock-buy/)
-- [Merck et ChemLex signent un protocole d'accord pour faire progresser la chimie automatisée et l'innovation technologique](https://www.prnewswire.com/news-releases/merck-et-chemlex-signent-un-protocole-daccord-pour-faire-progresser-la-chimie-automatisee-et-linnovation-technologique-302665426.html)
-- [Americans from these groups are least likely to be drafted in WW3](https://www.themirror.com/news/us-news/conscription-world-war-three-usa-1629241)
-- [Wolters Kluwer: A High-Quality Company Discounted By AI](https://seekingalpha.com/article/4861119-wolters-kluwer-a-high-quality-company-discounted-by-ai)
+- [AI-Powered Humanoid Robots Billion Dollar Market Emerging as a High-Growth Automation Play for Global Investors](https://www.benzinga.com/pressreleases/26/01/n50033645/ai-powered-humanoid-robots-billion-dollar-market-emerging-as-a-high-growth-automation-play-for-glo)
+- [Is Sandisk the Smartest Investment You Can Make Today?](https://www.fool.com/investing/2026/01/21/is-sandisk-the-smartest-investment-you-can-make-to/)
+- [AI-Powered Humanoid Robots Billion Dollar Market Emerging as a High-Growth Automation Play for Global Investors](https://www.prnewswire.com/news-releases/ai-powered-humanoid-robots-billion-dollar-market-emerging-as-a-high-growth-automation-play-for-global-investors-302666011.html)
+- [Ambulatory EHR Market Dynamics and Contributions by Modernizing Medicine, Greenway Health, Allscripts Healthcare Solutions, Medical Transcription Billing Corporation, Amazing Charts](https://www.openpr.com/news/4358198/ambulatory-ehr-market-dynamics-and-contributions)
+- [AI Productivity Gap: Execs See Gains, Workers Face Frustrations](https://www.webpronews.com/ai-productivity-gap-execs-see-gains-workers-face-frustrations/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
