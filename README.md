@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI-Powered Humanoid Robots Billion Dollar Market Emerging as a High-Growth Automation Play for Global Investors](https://www.benzinga.com/pressreleases/26/01/n50033645/ai-powered-humanoid-robots-billion-dollar-market-emerging-as-a-high-growth-automation-play-for-glo)
-- [Is Sandisk the Smartest Investment You Can Make Today?](https://www.fool.com/investing/2026/01/21/is-sandisk-the-smartest-investment-you-can-make-to/)
-- [AI-Powered Humanoid Robots Billion Dollar Market Emerging as a High-Growth Automation Play for Global Investors](https://www.prnewswire.com/news-releases/ai-powered-humanoid-robots-billion-dollar-market-emerging-as-a-high-growth-automation-play-for-global-investors-302666011.html)
-- [Ambulatory EHR Market Dynamics and Contributions by Modernizing Medicine, Greenway Health, Allscripts Healthcare Solutions, Medical Transcription Billing Corporation, Amazing Charts](https://www.openpr.com/news/4358198/ambulatory-ehr-market-dynamics-and-contributions)
-- [AI Productivity Gap: Execs See Gains, Workers Face Frustrations](https://www.webpronews.com/ai-productivity-gap-execs-see-gains-workers-face-frustrations/)
+- [Ultrasound Devices Market 2025-2033: Growth Outlook by Technology, Display Type, Portability, Application, End User and Refion | Astute Analytica](https://www.globenewswire.com/news-release/2026/01/22/3223768/0/en/Ultrasound-Devices-Market-2025-2033-Growth-Outlook-by-Technology-Display-Type-Portability-Application-End-User-and-Refion-Astute-Analytica.html)
+- [Ultrasound Devices Market 2025-2033: Growth Outlook by Technology, Display Type, Portability, Application, End User and Refion | Astute Analytica](https://www.globenewswire.com/fr/news-release/2026/01/22/3223768/0/en/Ultrasound-Devices-Market-2025-2033-Growth-Outlook-by-Technology-Display-Type-Portability-Application-End-User-and-Refion-Astute-Analytica.html)
+- [In ‘Mercy,’ Chris Pratt is on trial with an AI judge](https://www.cleveland.com/news/2026/01/in-mercy-chris-pratt-is-on-trial-with-an-ai-judge.html)
+- [AI fuels gaming ads as creative output rises 25-30%, ad impressions up 20% in 2025: Report](https://www.socialsamosa.com/report/ai-fuels-gaming-ads-creative-output-rises-ad-impressions-up-2025-11022568)
+- [NetraMark Engages LodeRock Advisors for Strategic Investor Relations and Capital Markets Communications Services](https://www.manilatimes.net/2026/01/22/tmt-newswire/globenewswire/netramark-engages-loderock-advisors-for-strategic-investor-relations-and-capital-markets-communications-services/2263595)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
