@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Ultrasound Devices Market 2025-2033: Growth Outlook by Technology, Display Type, Portability, Application, End User and Refion | Astute Analytica](https://www.globenewswire.com/news-release/2026/01/22/3223768/0/en/Ultrasound-Devices-Market-2025-2033-Growth-Outlook-by-Technology-Display-Type-Portability-Application-End-User-and-Refion-Astute-Analytica.html)
-- [Ultrasound Devices Market 2025-2033: Growth Outlook by Technology, Display Type, Portability, Application, End User and Refion | Astute Analytica](https://www.globenewswire.com/fr/news-release/2026/01/22/3223768/0/en/Ultrasound-Devices-Market-2025-2033-Growth-Outlook-by-Technology-Display-Type-Portability-Application-End-User-and-Refion-Astute-Analytica.html)
-- [In ‘Mercy,’ Chris Pratt is on trial with an AI judge](https://www.cleveland.com/news/2026/01/in-mercy-chris-pratt-is-on-trial-with-an-ai-judge.html)
-- [AI fuels gaming ads as creative output rises 25-30%, ad impressions up 20% in 2025: Report](https://www.socialsamosa.com/report/ai-fuels-gaming-ads-creative-output-rises-ad-impressions-up-2025-11022568)
-- [NetraMark Engages LodeRock Advisors for Strategic Investor Relations and Capital Markets Communications Services](https://www.manilatimes.net/2026/01/22/tmt-newswire/globenewswire/netramark-engages-loderock-advisors-for-strategic-investor-relations-and-capital-markets-communications-services/2263595)
+- [US Anesthesia Partners Announces Innovation Initiative with Leading Healthcare Solutions Provider Aiming to Bring AI Into Anesthesia](https://www.prnewswire.com/news-releases/us-anesthesia-partners-announces-innovation-initiative-with-leading-healthcare-solutions-provider-aiming-to-bring-ai-into-anesthesia-302668966.html)
+- [Futures Drop As Intel Plunges, Silver Just Under $100](https://www.zerohedge.com/markets/futures-drop-intel-plunges-silver-just-under-100)
+- [Republic Day 2026 security gets a high-tech upgrade as Delhi Police use AI smart glasses to spot suspects instantly](https://www.india.com/technology/delhi-police-ai-smart-glasses-republic-day-security-real-time-suspect-detection-facial-recognition-thermal-imaging-crowd-surveillance-8279395/)
+- [US technology to slash complex nuclear fusion simulation time from months to real-time](https://interestingengineering.com/energy/us-to-slash-nuclear-fusion-simulation-time)
+- [CANEUS & Government of Maharashtra Announce Partnership at WEF Davos](https://www.prnewswire.com/news-releases/caneus--government-of-maharashtra-announce-partnership-at-wef-davos-302668965.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
