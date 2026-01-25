@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [US Anesthesia Partners Announces Innovation Initiative with Leading Healthcare Solutions Provider Aiming to Bring AI Into Anesthesia](https://www.prnewswire.com/news-releases/us-anesthesia-partners-announces-innovation-initiative-with-leading-healthcare-solutions-provider-aiming-to-bring-ai-into-anesthesia-302668966.html)
-- [Futures Drop As Intel Plunges, Silver Just Under $100](https://www.zerohedge.com/markets/futures-drop-intel-plunges-silver-just-under-100)
-- [Republic Day 2026 security gets a high-tech upgrade as Delhi Police use AI smart glasses to spot suspects instantly](https://www.india.com/technology/delhi-police-ai-smart-glasses-republic-day-security-real-time-suspect-detection-facial-recognition-thermal-imaging-crowd-surveillance-8279395/)
-- [US technology to slash complex nuclear fusion simulation time from months to real-time](https://interestingengineering.com/energy/us-to-slash-nuclear-fusion-simulation-time)
-- [CANEUS & Government of Maharashtra Announce Partnership at WEF Davos](https://www.prnewswire.com/news-releases/caneus--government-of-maharashtra-announce-partnership-at-wef-davos-302668965.html)
+- [STPI additional director urges young entrepreneurs to launch new start-ups](https://www.thehindu.com/news/national/andhra-pradesh/stpi-additional-director-urges-young-entrepreneurs-to-launch-new-start-ups/article70546186.ece)
+- [Tesla Adds Camera Washers to Robotaxi Fleet, Shifting Approach](https://newslinker.co/tesla-adds-camera-washers-to-robotaxi-fleet-shifting-approach/)
+- [🚨 With Bernardo and Semenyo, Manchester City's XI to face Wolves](https://ca.sports.yahoo.com/news/bernardo-semenyo-manchester-citys-xi-134800291.html)
+- [CrowdStrike (NASDAQ: CRWD) Stock Price Prediction and Forecast 2025-2030 (Feb 2025)](https://247wallst.com/forecasts/2026/01/24/crowdstrike-holdings-inc-crwd-price-prediction-and-forecast-2025-2030/)
+- [AI therapy chatbots draw new oversight as suicides raise alarm](https://azdailysun.com/news/national/ai-therapy-chatbots-draw-new-oversight-as-suicides-raise-alarm/article_4509bcd3-779f-4a64-8bcf-fb37c6aefe82.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
