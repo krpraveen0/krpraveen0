@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [STPI additional director urges young entrepreneurs to launch new start-ups](https://www.thehindu.com/news/national/andhra-pradesh/stpi-additional-director-urges-young-entrepreneurs-to-launch-new-start-ups/article70546186.ece)
-- [Tesla Adds Camera Washers to Robotaxi Fleet, Shifting Approach](https://newslinker.co/tesla-adds-camera-washers-to-robotaxi-fleet-shifting-approach/)
-- [🚨 With Bernardo and Semenyo, Manchester City's XI to face Wolves](https://ca.sports.yahoo.com/news/bernardo-semenyo-manchester-citys-xi-134800291.html)
-- [CrowdStrike (NASDAQ: CRWD) Stock Price Prediction and Forecast 2025-2030 (Feb 2025)](https://247wallst.com/forecasts/2026/01/24/crowdstrike-holdings-inc-crwd-price-prediction-and-forecast-2025-2030/)
-- [AI therapy chatbots draw new oversight as suicides raise alarm](https://azdailysun.com/news/national/ai-therapy-chatbots-draw-new-oversight-as-suicides-raise-alarm/article_4509bcd3-779f-4a64-8bcf-fb37c6aefe82.html)
+- [How to Profit From the Government-Backed AI Moonshot](https://investorplace.com/hypergrowthinvesting/2026/01/how-to-profit-from-the-government-backed-ai-moonshot/)
+- [Meta's most-famous former employee Yann LeCun on Google, Microsoft, Meta, OpenAI: ‘They are stealing each other's engineers so that they can't afford...’](https://timesofindia.indiatimes.com/technology/tech-news/metas-most-famous-former-employee-yann-lecun-on-google-microsoft-meta-openai-they-are-stealing-each-others-engineers-so-that-they-cant-afford/articleshow/127479374.cms)
+- [#GoodVibesOnly: The shared emotions we don’t quite name](https://theconversation.com/goodvibesonly-the-shared-emotions-we-dont-quite-name-269996)
+- [Gió vẫn thổi qua lòng người đọc](https://cafef.vn/gio-van-thoi-qua-long-nguoi-doc-188260125204634453.chn)
+- [Upper Darby vows to advance measures to protect residents against ICE](https://www.delcotimes.com/2026/01/25/upper-darby-vows-to-advance-measures-to-protect-residents-against-ice/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
