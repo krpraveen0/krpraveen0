@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [How to Profit From the Government-Backed AI Moonshot](https://investorplace.com/hypergrowthinvesting/2026/01/how-to-profit-from-the-government-backed-ai-moonshot/)
-- [Meta's most-famous former employee Yann LeCun on Google, Microsoft, Meta, OpenAI: ‘They are stealing each other's engineers so that they can't afford...’](https://timesofindia.indiatimes.com/technology/tech-news/metas-most-famous-former-employee-yann-lecun-on-google-microsoft-meta-openai-they-are-stealing-each-others-engineers-so-that-they-cant-afford/articleshow/127479374.cms)
-- [#GoodVibesOnly: The shared emotions we don’t quite name](https://theconversation.com/goodvibesonly-the-shared-emotions-we-dont-quite-name-269996)
-- [Gió vẫn thổi qua lòng người đọc](https://cafef.vn/gio-van-thoi-qua-long-nguoi-doc-188260125204634453.chn)
-- [Upper Darby vows to advance measures to protect residents against ICE](https://www.delcotimes.com/2026/01/25/upper-darby-vows-to-advance-measures-to-protect-residents-against-ice/)
+- [The 2026 economy, brought to you by the letter ‘K’](https://www.dailygazette.com/tribune/the-2026-economy-brought-to-you-by-the-letter-k/article_9f7df216-810d-5c3a-979d-c97466a045e4.html)
+- [Nvidia invests US$2 billion in CoreWeave, expands partnership](https://www.thestandard.com.hk/tech-and-startup/article/322690/Nvidia-invests-US2-billion-in-CoreWeave-expands-partnership)
+- [When Environment Leads the Way for Urban Development Thinking at Vinhomes Green Paradise Can Gio](https://www.ibtimes.com/when-environment-leads-way-urban-development-thinking-vinhomes-green-paradise-can-gio-3796240)
+- [Home loans to drive business in coming quarters IIFL Finance MD](https://www.theweek.in/wire-updates/business/2026/01/26/home-loans-to-drive-business-in-coming-quarters-iifl-finance-md.html)
+- [Fenomena Takut Salah Bicara: Hambatan Terbesar Belajar Bahasa Orang Indonesia](https://mediaindonesia.com/humaniora/853940/fenomena-takut-salah-bicara-hambatan-terbesar-belajar-bahasa-orang-indonesia)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
