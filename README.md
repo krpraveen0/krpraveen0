@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [The 2026 economy, brought to you by the letter ‘K’](https://www.dailygazette.com/tribune/the-2026-economy-brought-to-you-by-the-letter-k/article_9f7df216-810d-5c3a-979d-c97466a045e4.html)
-- [Nvidia invests US$2 billion in CoreWeave, expands partnership](https://www.thestandard.com.hk/tech-and-startup/article/322690/Nvidia-invests-US2-billion-in-CoreWeave-expands-partnership)
-- [When Environment Leads the Way for Urban Development Thinking at Vinhomes Green Paradise Can Gio](https://www.ibtimes.com/when-environment-leads-way-urban-development-thinking-vinhomes-green-paradise-can-gio-3796240)
-- [Home loans to drive business in coming quarters IIFL Finance MD](https://www.theweek.in/wire-updates/business/2026/01/26/home-loans-to-drive-business-in-coming-quarters-iifl-finance-md.html)
-- [Fenomena Takut Salah Bicara: Hambatan Terbesar Belajar Bahasa Orang Indonesia](https://mediaindonesia.com/humaniora/853940/fenomena-takut-salah-bicara-hambatan-terbesar-belajar-bahasa-orang-indonesia)
+- [Vention recauda 110 millones de dólares para acelerar la implementación de IA física en la fabricación global](https://www.prnewswire.com/news-releases/vention-recauda-110-millones-de-dolares-para-acelerar-la-implementacion-de-ia-fisica-en-la-fabricacion-global-302671286.html)
+- [Untersuchung gegen Grok: EU-Kommissarin Virkkunen warnt X vor "klaren Verpflichtungen"](http://de.euronews.com/my-europe/2026/01/27/grok-eu-kommissarin-virkkunen-x-musk)
+- [BoodleBox to Accelerate AI Innovation in Education with NVIDIA Nemotron](https://www.prnewswire.com/news-releases/boodlebox-to-accelerate-ai-innovation-in-education-with-nvidia-nemotron-302670762.html)
+- [EU-India trade deal: Opportunities for Germany – Commerzbank](https://www.fxstreet.com/news/eu-india-trade-deal-opportunities-for-germany-commerzbank-202601271342)
+- [Not ready for robots at home? Friendly new humanoid maker thinks it may change minds](https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
