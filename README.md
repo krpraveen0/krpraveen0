@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Vention recauda 110 millones de dólares para acelerar la implementación de IA física en la fabricación global](https://www.prnewswire.com/news-releases/vention-recauda-110-millones-de-dolares-para-acelerar-la-implementacion-de-ia-fisica-en-la-fabricacion-global-302671286.html)
-- [Untersuchung gegen Grok: EU-Kommissarin Virkkunen warnt X vor "klaren Verpflichtungen"](http://de.euronews.com/my-europe/2026/01/27/grok-eu-kommissarin-virkkunen-x-musk)
-- [BoodleBox to Accelerate AI Innovation in Education with NVIDIA Nemotron](https://www.prnewswire.com/news-releases/boodlebox-to-accelerate-ai-innovation-in-education-with-nvidia-nemotron-302670762.html)
-- [EU-India trade deal: Opportunities for Germany – Commerzbank](https://www.fxstreet.com/news/eu-india-trade-deal-opportunities-for-germany-commerzbank-202601271342)
-- [Not ready for robots at home? Friendly new humanoid maker thinks it may change minds](https://abcnews.go.com/Technology/wireStory/ready-robots-homes-maker-friendly-new-humanoid-thinks-129594260)
+- [Amazon cuts about 16,000 corporate jobs in the latest round of layoffs](https://www.timescolonist.com/national-business/amazon-cuts-about-16000-corporate-jobs-in-the-latest-round-of-layoffs-11800504)
+- [Amazon cuts about 16,000 corporate jobs in the latest round of layoffs](https://winnipeg.citynews.ca/2026/01/28/amazon-cuts-about-16000-corporate-jobs-in-the-latest-round-of-layoffs/)
+- [Amazon cuts about 16,000 corporate jobs in the latest round of layoffs](https://www.richmond-news.com/national-business/amazon-cuts-about-16000-corporate-jobs-in-the-latest-round-of-layoffs-11800504)
+- [Amazon cuts about 16,000 corporate jobs in the latest round of layoffs](https://www.squamishchief.com/national-business/amazon-cuts-about-16000-corporate-jobs-in-the-latest-round-of-layoffs-11800504)
+- [Amazon cuts about 16,000 corporate jobs in the latest round of layoffs](https://calgary.citynews.ca/2026/01/28/amazon-cuts-about-16000-corporate-jobs-in-the-latest-round-of-layoffs/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
