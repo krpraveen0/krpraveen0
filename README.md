@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Amazon cuts about 16,000 corporate jobs in the latest round of layoffs](https://www.timescolonist.com/national-business/amazon-cuts-about-16000-corporate-jobs-in-the-latest-round-of-layoffs-11800504)
-- [Amazon cuts about 16,000 corporate jobs in the latest round of layoffs](https://winnipeg.citynews.ca/2026/01/28/amazon-cuts-about-16000-corporate-jobs-in-the-latest-round-of-layoffs/)
-- [Amazon cuts about 16,000 corporate jobs in the latest round of layoffs](https://www.richmond-news.com/national-business/amazon-cuts-about-16000-corporate-jobs-in-the-latest-round-of-layoffs-11800504)
-- [Amazon cuts about 16,000 corporate jobs in the latest round of layoffs](https://www.squamishchief.com/national-business/amazon-cuts-about-16000-corporate-jobs-in-the-latest-round-of-layoffs-11800504)
-- [Amazon cuts about 16,000 corporate jobs in the latest round of layoffs](https://calgary.citynews.ca/2026/01/28/amazon-cuts-about-16000-corporate-jobs-in-the-latest-round-of-layoffs/)
+- [I tried local AI on my M1 Mac, and the experience was brutal - here's why](https://www.zdnet.com/article/tried-local-ai-on-m1-mac-brutal-experience/)
+- [Synthetic Test Data for Artificial Intelligence (AI) Research Report 2025: $8.24 Bn Market Opportunities, Trends, Competitive Analysis, Strategies, and Forecasts, 2019-2024, 2024-2029F, 2034F](https://www.globenewswire.com/fr/news-release/2026/01/29/3228624/28124/en/Synthetic-Test-Data-for-Artificial-Intelligence-AI-Research-Report-2025-8-24-Bn-Market-Opportunities-Trends-Competitive-Analysis-Strategies-and-Forecasts-2019-2024-2024-2029F-2034F.html)
+- [Empower AI’s Intelligent Document Assistant Earns Awardable Status on DOW Tradewinds Marketplace](https://www.executivebiz.com/articles/empower-ai-ida-awardable-tradewinds)
+- [Sam Altman to companies: Don't hire aggressively, so that you don't have to do those uncomfortable...](https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-to-companies-dont-hire-aggressively-so-that-you-dont-have-to-do-those-uncomfortable/articleshow/127778472.cms)
+- [Test Coverage Analytics Artificial Intelligence (AI) Research Report 2025: $3.97 Bn Market Opportunities, Trends, Competitive Analysis, Strategies, and Forecasts, 2019-2024, 2024-2029F, 2034F](https://www.globenewswire.com/fr/news-release/2026/01/29/3228623/28124/en/Test-Coverage-Analytics-Artificial-Intelligence-AI-Research-Report-2025-3-97-Bn-Market-Opportunities-Trends-Competitive-Analysis-Strategies-and-Forecasts-2019-2024-2024-2029F-2034F.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
