@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [I tried local AI on my M1 Mac, and the experience was brutal - here's why](https://www.zdnet.com/article/tried-local-ai-on-m1-mac-brutal-experience/)
-- [Synthetic Test Data for Artificial Intelligence (AI) Research Report 2025: $8.24 Bn Market Opportunities, Trends, Competitive Analysis, Strategies, and Forecasts, 2019-2024, 2024-2029F, 2034F](https://www.globenewswire.com/fr/news-release/2026/01/29/3228624/28124/en/Synthetic-Test-Data-for-Artificial-Intelligence-AI-Research-Report-2025-8-24-Bn-Market-Opportunities-Trends-Competitive-Analysis-Strategies-and-Forecasts-2019-2024-2024-2029F-2034F.html)
-- [Empower AI’s Intelligent Document Assistant Earns Awardable Status on DOW Tradewinds Marketplace](https://www.executivebiz.com/articles/empower-ai-ida-awardable-tradewinds)
-- [Sam Altman to companies: Don't hire aggressively, so that you don't have to do those uncomfortable...](https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-to-companies-dont-hire-aggressively-so-that-you-dont-have-to-do-those-uncomfortable/articleshow/127778472.cms)
-- [Test Coverage Analytics Artificial Intelligence (AI) Research Report 2025: $3.97 Bn Market Opportunities, Trends, Competitive Analysis, Strategies, and Forecasts, 2019-2024, 2024-2029F, 2034F](https://www.globenewswire.com/fr/news-release/2026/01/29/3228623/28124/en/Test-Coverage-Analytics-Artificial-Intelligence-AI-Research-Report-2025-3-97-Bn-Market-Opportunities-Trends-Competitive-Analysis-Strategies-and-Forecasts-2019-2024-2024-2029F-2034F.html)
+- [Budget 2026: Why defence spending is back in sharp focus—and how experts want the money spent](https://timesofindia.indiatimes.com/business/india-business/budget-2026-why-defence-spending-is-back-in-sharp-focusand-how-experts-want-the-money-spent/articleshow/127801527.cms)
+- [Education ‘at core of European response to challenges of future’](https://cyprus-mail.com/2026/01/30/education-at-core-of-european-response-to-challenges-of-future)
+- [Why more and more companies are using voice agents](https://techbullion.com/why-more-and-more-companies-are-using-voice-agents/)
+- [Business News | Vedam School of Technology Sets a New Benchmark for Computer Science (AI) Program from the First Semester](https://www.latestly.com/agency-news/business-news-vedam-school-of-technology-sets-a-new-benchmark-for-computer-science-ai-program-from-the-first-semester-7294750.html)
+- [The Hidden Tax on British Business: How Digital Friction Costs UK Economy Billions While AI Promises Relief](https://www.webpronews.com/the-hidden-tax-on-british-business-how-digital-friction-costs-uk-economy-billions-while-ai-promises-relief/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
