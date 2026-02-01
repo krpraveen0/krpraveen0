@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Budget 2026: Why defence spending is back in sharp focus—and how experts want the money spent](https://timesofindia.indiatimes.com/business/india-business/budget-2026-why-defence-spending-is-back-in-sharp-focusand-how-experts-want-the-money-spent/articleshow/127801527.cms)
-- [Education ‘at core of European response to challenges of future’](https://cyprus-mail.com/2026/01/30/education-at-core-of-european-response-to-challenges-of-future)
-- [Why more and more companies are using voice agents](https://techbullion.com/why-more-and-more-companies-are-using-voice-agents/)
-- [Business News | Vedam School of Technology Sets a New Benchmark for Computer Science (AI) Program from the First Semester](https://www.latestly.com/agency-news/business-news-vedam-school-of-technology-sets-a-new-benchmark-for-computer-science-ai-program-from-the-first-semester-7294750.html)
-- [The Hidden Tax on British Business: How Digital Friction Costs UK Economy Billions While AI Promises Relief](https://www.webpronews.com/the-hidden-tax-on-british-business-how-digital-friction-costs-uk-economy-billions-while-ai-promises-relief/)
+- [Meta Platforms Q4 Earnings Call Highlights](https://zolmax.com/investing/meta-platforms-q4-earnings-call-highlights/11747175.html)
+- [Google opens access to Project Genie playable worlds](https://thearabianpost.com/google-opens-access-to-project-genie-playable-worlds/)
+- [Google Opens Access To Project Genie Playable Worlds](https://menafn.com/1110677219/Google-Opens-Access-To-Project-Genie-Playable-Worlds)
+- [My 5 Favorite Ultra-High-Yield Dividend Stocks to Buy for 2026](https://www.fool.com/investing/2026/01/31/my-5-favorite-ultra-high-yield-dividend-stocks-to/)
+- [AI dan Teknologi Digital, Fondasi Baru Daya Saing Industri Nasional](https://jabar.tribunnews.com/bisnis/1162991/ai-dan-teknologi-digital-fondasi-baru-daya-saing-industri-nasional)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
