@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Meta Platforms Q4 Earnings Call Highlights](https://zolmax.com/investing/meta-platforms-q4-earnings-call-highlights/11747175.html)
-- [Google opens access to Project Genie playable worlds](https://thearabianpost.com/google-opens-access-to-project-genie-playable-worlds/)
-- [Google Opens Access To Project Genie Playable Worlds](https://menafn.com/1110677219/Google-Opens-Access-To-Project-Genie-Playable-Worlds)
-- [My 5 Favorite Ultra-High-Yield Dividend Stocks to Buy for 2026](https://www.fool.com/investing/2026/01/31/my-5-favorite-ultra-high-yield-dividend-stocks-to/)
-- [AI dan Teknologi Digital, Fondasi Baru Daya Saing Industri Nasional](https://jabar.tribunnews.com/bisnis/1162991/ai-dan-teknologi-digital-fondasi-baru-daya-saing-industri-nasional)
+- [Worried About an AI Bubble? This Stock Gives You Exposure Without the Risk.](https://www.fool.com/investing/2026/02/01/worried-about-an-ai-bubble-this-stock-gives-you-ex/)
+- [Meet Sprout, a New Kind of 'Approachable' Robot](https://www.newser.com/story/382708/meet-sprout-a-new-kind-of-approachable-robot.html)
+- [Before Amazon Invests $50 Billion in OpenAI, How Should You Play AMZN Stock?](https://biztoc.com/x/d0621f4665aaeb8b)
+- [SG Americas Securities LLC Sells 140,530 Shares of Recursion Pharmaceuticals, Inc. $RXRX](https://www.themarketsdaily.com/2026/02/01/sg-americas-securities-llc-sells-140530-shares-of-recursion-pharmaceuticals-inc-rxrx.html)
+- [Microsoft, Apple, Meta And More Make Headlines: This Week In Tech](https://www.benzinga.com/markets/tech/26/02/50288682/microsoft-apple-meta-and-more-make-headlines-this-week-in-tech)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
