@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Worried About an AI Bubble? This Stock Gives You Exposure Without the Risk.](https://www.fool.com/investing/2026/02/01/worried-about-an-ai-bubble-this-stock-gives-you-ex/)
-- [Meet Sprout, a New Kind of 'Approachable' Robot](https://www.newser.com/story/382708/meet-sprout-a-new-kind-of-approachable-robot.html)
-- [Before Amazon Invests $50 Billion in OpenAI, How Should You Play AMZN Stock?](https://biztoc.com/x/d0621f4665aaeb8b)
-- [SG Americas Securities LLC Sells 140,530 Shares of Recursion Pharmaceuticals, Inc. $RXRX](https://www.themarketsdaily.com/2026/02/01/sg-americas-securities-llc-sells-140530-shares-of-recursion-pharmaceuticals-inc-rxrx.html)
-- [Microsoft, Apple, Meta And More Make Headlines: This Week In Tech](https://www.benzinga.com/markets/tech/26/02/50288682/microsoft-apple-meta-and-more-make-headlines-this-week-in-tech)
+- [Operation "Safer Internet" set to begin](https://www.theportugalnews.com/news/2026-02-02/operation-safer-internet-set-to-begin/953408)
+- [Why Computing is the New Capital: Insights from Narendra Sen, Founder & CEO of RackBank](https://www.analyticsinsight.net/podcast/why-computing-is-the-new-capital-insights-from-narendra-sen-founder-ceo-of-rackbank)
+- [Loop AI Raises $14M Series A](https://www.prnewswire.com/news-releases/loop-ai-raises-14m-series-a-302675180.html)
+- [What is the 'social media network for AI' Moltbook?](https://ca.news.yahoo.com/social-media-network-ai-moltbook-140049673.html)
+- [Snowflake bypasses Microsoft to strike multiyear deal with OpenAI](https://siliconangle.com/2026/02/02/snowflake-bypasses-microsoft-strike-multi-year-deal-openai/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
