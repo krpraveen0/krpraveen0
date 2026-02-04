@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Operation "Safer Internet" set to begin](https://www.theportugalnews.com/news/2026-02-02/operation-safer-internet-set-to-begin/953408)
-- [Why Computing is the New Capital: Insights from Narendra Sen, Founder & CEO of RackBank](https://www.analyticsinsight.net/podcast/why-computing-is-the-new-capital-insights-from-narendra-sen-founder-ceo-of-rackbank)
-- [Loop AI Raises $14M Series A](https://www.prnewswire.com/news-releases/loop-ai-raises-14m-series-a-302675180.html)
-- [What is the 'social media network for AI' Moltbook?](https://ca.news.yahoo.com/social-media-network-ai-moltbook-140049673.html)
-- [Snowflake bypasses Microsoft to strike multiyear deal with OpenAI](https://siliconangle.com/2026/02/02/snowflake-bypasses-microsoft-strike-multi-year-deal-openai/)
+- [CTA Foundation Spotlights Accessibility Leadership and Innovation at CES® 2026, Marked by Inaugural Accessibility Stage](https://www.prnewswire.com/news-releases/cta-foundation-spotlights-accessibility-leadership-and-innovation-at-ces-2026-marked-by-inaugural-accessibility-stage-302677343.html)
+- [Escape.ai and Play.Works Bring "Escape: Neo Cinema and Beyond" to Roku and The Roku Channel, Amazon Fire TV, LG and Samsung Smart TVs](https://www.prnewswire.com/news-releases/escapeai-and-playworks-bring-escape-neo-cinema-and-beyond-to-roku-and-the-roku-channel-amazon-fire-tv-lg-and-samsung-smart-tvs-302677365.html)
+- [Protecting your privacy](https://norfolkdailynews.com/commentary/protecting-your-privacy/article_f4e863d9-a68c-4659-959d-00d5717339ee.html)
+- [Why Is Kaixin Stock Trading Lower In Tuesday's Premarket?](https://www.benzinga.com/markets/equities/26/02/50331688/why-is-kaixin-stock-trading-lower-in-tuesdays-premarket)
+- [Technosylva and Pano AI Announce Partnership to Deliver Unified Predictive + Real-Time Wildfire Intelligence for Utilities and Fire Agencies](https://www.prnewswire.com/news-releases/technosylva-and-pano-ai-announce-partnership-to-deliver-unified-predictive--real-time-wildfire-intelligence-for-utilities-and-fire-agencies-302677372.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
