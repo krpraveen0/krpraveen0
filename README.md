@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [CTA Foundation Spotlights Accessibility Leadership and Innovation at CES® 2026, Marked by Inaugural Accessibility Stage](https://www.prnewswire.com/news-releases/cta-foundation-spotlights-accessibility-leadership-and-innovation-at-ces-2026-marked-by-inaugural-accessibility-stage-302677343.html)
-- [Escape.ai and Play.Works Bring "Escape: Neo Cinema and Beyond" to Roku and The Roku Channel, Amazon Fire TV, LG and Samsung Smart TVs](https://www.prnewswire.com/news-releases/escapeai-and-playworks-bring-escape-neo-cinema-and-beyond-to-roku-and-the-roku-channel-amazon-fire-tv-lg-and-samsung-smart-tvs-302677365.html)
-- [Protecting your privacy](https://norfolkdailynews.com/commentary/protecting-your-privacy/article_f4e863d9-a68c-4659-959d-00d5717339ee.html)
-- [Why Is Kaixin Stock Trading Lower In Tuesday's Premarket?](https://www.benzinga.com/markets/equities/26/02/50331688/why-is-kaixin-stock-trading-lower-in-tuesdays-premarket)
-- [Technosylva and Pano AI Announce Partnership to Deliver Unified Predictive + Real-Time Wildfire Intelligence for Utilities and Fire Agencies](https://www.prnewswire.com/news-releases/technosylva-and-pano-ai-announce-partnership-to-deliver-unified-predictive--real-time-wildfire-intelligence-for-utilities-and-fire-agencies-302677372.html)
+- [From guardrails to governance: A CEO’s guide for securing agentic systems](https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/)
+- [SaaS AI threat rattles US, India IT stocks; Infosys dips over 8 pc](https://www.edexlive.com/news/saas-ai-threat-rattles-us-india-it-stocksinfosys-dips-over-8-pc)
+- [62% of HR Leaders Are Facing a Self-Inflicted Talent Crisis, Balancing an Employer’s Market with Talent Shortages](https://www.globenewswire.com/news-release/2026/02/04/3232112/0/en/62-of-HR-Leaders-Are-Facing-a-Self-Inflicted-Talent-Crisis-Balancing-an-Employer-s-Market-with-Talent-Shortages.html)
+- [General Atomics Selects Ivalua to Power Cross-Functional Supplier Collaboration and Strengthen Supply Chain](https://www.prnewswire.com/news-releases/general-atomics-selects-ivalua-to-power-cross-functional-supplier-collaboration-and-strengthen-supply-chain-302678026.html)
+- [Artlist Debuts Its Big Game Ad Made In-House in Five Days Using AI](https://www.prnewswire.com/news-releases/artlist-debuts-its-big-game-ad-made-in-house-in-five-days-using-ai-302678971.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
