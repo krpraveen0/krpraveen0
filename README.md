@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [From guardrails to governance: A CEO’s guide for securing agentic systems](https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/)
-- [SaaS AI threat rattles US, India IT stocks; Infosys dips over 8 pc](https://www.edexlive.com/news/saas-ai-threat-rattles-us-india-it-stocksinfosys-dips-over-8-pc)
-- [62% of HR Leaders Are Facing a Self-Inflicted Talent Crisis, Balancing an Employer’s Market with Talent Shortages](https://www.globenewswire.com/news-release/2026/02/04/3232112/0/en/62-of-HR-Leaders-Are-Facing-a-Self-Inflicted-Talent-Crisis-Balancing-an-Employer-s-Market-with-Talent-Shortages.html)
-- [General Atomics Selects Ivalua to Power Cross-Functional Supplier Collaboration and Strengthen Supply Chain](https://www.prnewswire.com/news-releases/general-atomics-selects-ivalua-to-power-cross-functional-supplier-collaboration-and-strengthen-supply-chain-302678026.html)
-- [Artlist Debuts Its Big Game Ad Made In-House in Five Days Using AI](https://www.prnewswire.com/news-releases/artlist-debuts-its-big-game-ad-made-in-house-in-five-days-using-ai-302678971.html)
+- [LED Lane Control Signs Market Forecast 2025-2033: Revenue to Touch USD 4.07 Billion - Strategic Revenue Insights (SRI)](https://www.openpr.com/news/4378935/led-lane-control-signs-market-forecast-2025-2033-revenue)
+- [Think You're Too Smart to Be Scammed? How AI Is Draining Bank Accounts in Minutes](https://www.ibtimes.co.uk/think-youre-too-smart-scammed-how-ai-draining-bank-accounts-minutes-1776662)
+- [AISTRYX launches AI-powered stock analysis software, delivering the best and most private way to use artificial intelligence to analyse stocks](https://www.openpr.com/news/4378934/aistryx-launches-ai-powered-stock-analysis-software)
+- [Costco’s Comeback: Why Betting Against This Retail Giant Is a Losing Game](https://247wallst.com/investing/2026/02/05/costcos-comeback-why-betting-against-this-retail-giant-is-a-losing-game/)
+- [Performance marketing is being rewritten by AI](https://martech.org/performance-marketing-is-being-rewritten-by-ai/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
