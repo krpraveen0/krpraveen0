@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [LED Lane Control Signs Market Forecast 2025-2033: Revenue to Touch USD 4.07 Billion - Strategic Revenue Insights (SRI)](https://www.openpr.com/news/4378935/led-lane-control-signs-market-forecast-2025-2033-revenue)
-- [Think You're Too Smart to Be Scammed? How AI Is Draining Bank Accounts in Minutes](https://www.ibtimes.co.uk/think-youre-too-smart-scammed-how-ai-draining-bank-accounts-minutes-1776662)
-- [AISTRYX launches AI-powered stock analysis software, delivering the best and most private way to use artificial intelligence to analyse stocks](https://www.openpr.com/news/4378934/aistryx-launches-ai-powered-stock-analysis-software)
-- [Costco’s Comeback: Why Betting Against This Retail Giant Is a Losing Game](https://247wallst.com/investing/2026/02/05/costcos-comeback-why-betting-against-this-retail-giant-is-a-losing-game/)
-- [Performance marketing is being rewritten by AI](https://martech.org/performance-marketing-is-being-rewritten-by-ai/)
+- [Techjättarna rekordinvesterar i AI: satsar 650 miljarder dollar under 2026](https://computersweden.se/article/4128777/techjattarna-rekordinvesterar-i-ai-satsar-650-miljarder-dollar-under-2026.html)
+- [Labor market’s struggles continue in 2026 with private-sector hiring slowdown](https://www.baltimoresun.com/2026/02/06/labor-markets-struggles-continue-in-2026-with-private-sector-hiring-slowdown/)
+- [TravelX Achieves High-Growth 2025, Driving Airline Adoption of AI-Powered Post-Booking Revenue Technology](https://www.rutlandherald.com/news/business/travelx-achieves-high-growth-2025-driving-airline-adoption-of-ai-powered-post-booking-revenue-technology/article_020d500f-6bfe-5db8-bdec-b6060d3e22e7.html)
+- [China fines firms for fake ChatGPT and DeepSeek services in IP theft crackdown](https://biztoc.com/x/b63470daf3b17054)
+- [GBP: Pound pressured by BoE and politics – MUFG](https://www.fxstreet.com/news/gbp-pound-pressured-by-boe-and-politics-mufg-202602061352)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
