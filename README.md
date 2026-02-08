@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Techjättarna rekordinvesterar i AI: satsar 650 miljarder dollar under 2026](https://computersweden.se/article/4128777/techjattarna-rekordinvesterar-i-ai-satsar-650-miljarder-dollar-under-2026.html)
-- [Labor market’s struggles continue in 2026 with private-sector hiring slowdown](https://www.baltimoresun.com/2026/02/06/labor-markets-struggles-continue-in-2026-with-private-sector-hiring-slowdown/)
-- [TravelX Achieves High-Growth 2025, Driving Airline Adoption of AI-Powered Post-Booking Revenue Technology](https://www.rutlandherald.com/news/business/travelx-achieves-high-growth-2025-driving-airline-adoption-of-ai-powered-post-booking-revenue-technology/article_020d500f-6bfe-5db8-bdec-b6060d3e22e7.html)
-- [China fines firms for fake ChatGPT and DeepSeek services in IP theft crackdown](https://biztoc.com/x/b63470daf3b17054)
-- [GBP: Pound pressured by BoE and politics – MUFG](https://www.fxstreet.com/news/gbp-pound-pressured-by-boe-and-politics-mufg-202602061352)
+- [Khatron Ke Khiladi 15 teases new season with AI promo, Rohit Shetty back as host](https://kalingatv.com/entertainment/khatron-ke-khiladi-15-teases-new-season-with-ai-promo-rohit-shetty-back-as-host/)
+- [Premier League: Man United see off Tottenham!](https://ca.sports.yahoo.com/news/premier-league-man-united-see-142700690.html)
+- [Fractal Analytics IPO review: Valuation looks demanding amid AI disruption](https://www.thehindubusinessline.com/portfolio/fractal-analytics-ipo-review-analysis-valuation-ai-disruption/article70600413.ece)
+- [Jones Financial Companies Lllp Boosts Position in CoreWeave Inc. $CRWV](https://www.watchlistnews.com/jones-financial-companies-lllp-boosts-position-in-coreweave-inc-crwv/10981149.html)
+- [China rolls out Beidou Satellite Messaging Service for off-grid communication](https://www.capitalfm.co.ke/news/2026/02/china-beidou-satellite-messaging-service/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
