@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Khatron Ke Khiladi 15 teases new season with AI promo, Rohit Shetty back as host](https://kalingatv.com/entertainment/khatron-ke-khiladi-15-teases-new-season-with-ai-promo-rohit-shetty-back-as-host/)
-- [Premier League: Man United see off Tottenham!](https://ca.sports.yahoo.com/news/premier-league-man-united-see-142700690.html)
-- [Fractal Analytics IPO review: Valuation looks demanding amid AI disruption](https://www.thehindubusinessline.com/portfolio/fractal-analytics-ipo-review-analysis-valuation-ai-disruption/article70600413.ece)
-- [Jones Financial Companies Lllp Boosts Position in CoreWeave Inc. $CRWV](https://www.watchlistnews.com/jones-financial-companies-lllp-boosts-position-in-coreweave-inc-crwv/10981149.html)
-- [China rolls out Beidou Satellite Messaging Service for off-grid communication](https://www.capitalfm.co.ke/news/2026/02/china-beidou-satellite-messaging-service/)
+- [Government accused of ‘soft pedalling’ on reforms to regulate big tech](https://www.kilkennypeople.ie/news/national-news/2010128/government-accused-of-soft-pedalling-on-reforms-to-regulate-big-tech.html)
+- [The Most Undervalued AI Stock on Wall Street Right Now (It Will Shock You)](https://www.fool.com/investing/2026/02/08/the-most-undervalued-ai-stock-on-wall-street-right/)
+- [🚨 XIs for Huachipato v Universidad de Chile: the Vargas brothers start](https://sports.yahoo.com/articles/xis-huachipato-v-universidad-chile-140500593.html)
+- [Papworth Brewery to release an album featuring nine beer-inspired songs](https://www.huntspost.co.uk/news/25813173.papworth-brewery-release-beer-inspired-album-bandcamp/)
+- [Archaeology against the clock: the race to salvage fragments of early Brisbane](https://www.theguardian.com/australia-news/2026/feb/09/archaeology-salvage-fragments-of-early-brisbane)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
