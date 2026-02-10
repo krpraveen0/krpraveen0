@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Government accused of ‘soft pedalling’ on reforms to regulate big tech](https://www.kilkennypeople.ie/news/national-news/2010128/government-accused-of-soft-pedalling-on-reforms-to-regulate-big-tech.html)
-- [The Most Undervalued AI Stock on Wall Street Right Now (It Will Shock You)](https://www.fool.com/investing/2026/02/08/the-most-undervalued-ai-stock-on-wall-street-right/)
-- [🚨 XIs for Huachipato v Universidad de Chile: the Vargas brothers start](https://sports.yahoo.com/articles/xis-huachipato-v-universidad-chile-140500593.html)
-- [Papworth Brewery to release an album featuring nine beer-inspired songs](https://www.huntspost.co.uk/news/25813173.papworth-brewery-release-beer-inspired-album-bandcamp/)
-- [Archaeology against the clock: the race to salvage fragments of early Brisbane](https://www.theguardian.com/australia-news/2026/feb/09/archaeology-salvage-fragments-of-early-brisbane)
+- [Supreme Court calls digital fraud Rs 54,000 crore robbery](https://telanganatoday.com/supreme-court-calls-digital-fraud-rs-54000-crore-robbery)
+- [Alphabet busca recaudar unos 15.000 millones de dólares para financiar su gran apuesta por la IA](https://www.businessinsider.es/big-tech/alphabet-busca-recaudar-unos-15-000-millones-dolares-para-financiar-su-gran-apuesta-por-ia_6931837_0.html)
+- [EU Commission warns Meta over WhatsApp AI policy](https://www.aa.com.tr/en/world/eu-commission-warns-meta-over-whatsapp-ai-policy/3824977)
+- [ON Semiconductor In Focus As Q4 Earnings Approach](https://www.benzinga.com/trading-ideas/movers/26/02/50479511/on-semiconductor-in-focus-as-q4-earnings-approach)
+- [Navigating an Increasingly Complicated Business Environment: What It Really Means for Modern Organizations](https://www.openpr.com/news/4382832/navigating-an-increasingly-complicated-business-environment)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
