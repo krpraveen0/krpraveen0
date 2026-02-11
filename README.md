@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Supreme Court calls digital fraud Rs 54,000 crore robbery](https://telanganatoday.com/supreme-court-calls-digital-fraud-rs-54000-crore-robbery)
-- [Alphabet busca recaudar unos 15.000 millones de dólares para financiar su gran apuesta por la IA](https://www.businessinsider.es/big-tech/alphabet-busca-recaudar-unos-15-000-millones-dolares-para-financiar-su-gran-apuesta-por-ia_6931837_0.html)
-- [EU Commission warns Meta over WhatsApp AI policy](https://www.aa.com.tr/en/world/eu-commission-warns-meta-over-whatsapp-ai-policy/3824977)
-- [ON Semiconductor In Focus As Q4 Earnings Approach](https://www.benzinga.com/trading-ideas/movers/26/02/50479511/on-semiconductor-in-focus-as-q4-earnings-approach)
-- [Navigating an Increasingly Complicated Business Environment: What It Really Means for Modern Organizations](https://www.openpr.com/news/4382832/navigating-an-increasingly-complicated-business-environment)
+- [S&P 500 halts rally as bonds climb on retail sales](https://www.theedgesingapore.com/news/us-stocks/sp-500-halts-rally-bonds-climb-retail-sales)
+- [New York State Common Retirement Fund Has $1.55 Million Stock Position in Penguin Solutions, Inc. $PENG](https://www.watchlistnews.com/new-york-state-common-retirement-fund-has-1-55-million-stock-position-in-penguin-solutions-inc-peng/10983320.html)
+- [डीपफेक पर सरकार का कड़ा प्रहार: Meta और YouTube को आदेश, 3 घंटे के भीतर हटाना होगा AI कंटेंट](https://hindi.latestly.com/technology/government-cracks-down-on-deepfakes-meta-and-youtube-are-ordered-to-remove-ai-content-within-3-hours-2839926.html)
+- [Tool developed by Singapore surgeon’s team makes knee replacement safer, more precise](https://www.straitstimes.com/singapore/health/safer-more-precise-knee-replacement-with-new-tool-by-singapore-orthopaedic-surgeon)
+- [Global Clean Energy, Inc. Appoints Greg Godbout as Chief Innovation Officer and Thomas Roderick, as Chief AI Officer to Lead New AI Division](https://www.benzinga.com/pressreleases/26/02/n50509551/global-clean-energy-inc-appoints-greg-godbout-as-chief-innovation-officer-and-thomas-roderick-as-c)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
