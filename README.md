@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [S&P 500 halts rally as bonds climb on retail sales](https://www.theedgesingapore.com/news/us-stocks/sp-500-halts-rally-bonds-climb-retail-sales)
-- [New York State Common Retirement Fund Has $1.55 Million Stock Position in Penguin Solutions, Inc. $PENG](https://www.watchlistnews.com/new-york-state-common-retirement-fund-has-1-55-million-stock-position-in-penguin-solutions-inc-peng/10983320.html)
-- [डीपफेक पर सरकार का कड़ा प्रहार: Meta और YouTube को आदेश, 3 घंटे के भीतर हटाना होगा AI कंटेंट](https://hindi.latestly.com/technology/government-cracks-down-on-deepfakes-meta-and-youtube-are-ordered-to-remove-ai-content-within-3-hours-2839926.html)
-- [Tool developed by Singapore surgeon’s team makes knee replacement safer, more precise](https://www.straitstimes.com/singapore/health/safer-more-precise-knee-replacement-with-new-tool-by-singapore-orthopaedic-surgeon)
-- [Global Clean Energy, Inc. Appoints Greg Godbout as Chief Innovation Officer and Thomas Roderick, as Chief AI Officer to Lead New AI Division](https://www.benzinga.com/pressreleases/26/02/n50509551/global-clean-energy-inc-appoints-greg-godbout-as-chief-innovation-officer-and-thomas-roderick-as-c)
+- [Ainewsbreaks Rail Vision Ltd. (NASDAQ: RVSN) Highlights 2025 Milestones, Strategic Partnerships And Quantum Expansion In CEO Update](https://menafn.com/1110728530/Ainewsbreaks-Rail-Vision-Ltd-NASDAQ-RVSN-Highlights-2025-Milestones-Strategic-Partnerships-And-Quantum-Expansion-In-CEO-Update)
+- [‘Governance is a moral contract’: Shashi Tharoor](https://www.greaterkashmir.com/latest-news/governance-is-a-moral-contract-shashi-tharoor/)
+- [Dutch brewer Heineken to cut up to 6000 jobs](https://www.armidaleexpress.com.au/story/9173350/dutch-brewer-heineken-to-cut-up-to-6000-jobs/)
+- [Dutch brewer Heineken to cut up to 6000 jobs](https://www.braidwoodtimes.com.au/story/9173350/dutch-brewer-heineken-to-cut-up-to-6000-jobs/)
+- [Dutch brewer Heineken to cut up to 6000 jobs](https://michaelwest.com.au/dutch-brewer-heineken-to-cut-up-to-6000-jobs/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
