@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [🎥 Florentino is a wise man: Al-Khelaïfi ends the feud with Madrid](https://sports.yahoo.com/articles/florentino-wise-man-al-khela-140900914.html)
-- [5 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade](https://biztoc.com/x/23696021344d2738)
-- [AI cloud firm Nebius posts surge in capex on GPU, data center expenses](https://biztoc.com/x/8be6297eafd72727)
-- [FlipHTML5's AI Flashcard Generator from Text Creates Interactive Learning Materials](https://www.openpr.com/news/4387563/fliphtml5-s-ai-flashcard-generator-from-text-creates)
-- [AI-Driven Hyper-Personalization Market: The End of Segmentation and the Rise of Individualization](https://www.openpr.com/news/4387397/ai-driven-hyper-personalization-market-the-end)
+- [Groundbreaking Innovations from TCL Transform How Fans Enjoy the Olympic Winter Games in Milano Cortina and Around the World](https://www.prnewswire.com/news-releases/groundbreaking-innovations-from-tcl-transform-how-fans-enjoy-the-olympic-winter-games-in-milano-cortina-and-around-the-world-302687689.html)
+- ['Concentrate on keeping it simple': Bill Gates wanted PCs to be straightforward, and Windows 11’s AI push is a betrayal](https://www.tomsguide.com/computing/concentrate-on-keeping-it-simple-bill-gates-wanted-pcs-to-be-straightforward-and-windows-11s-ai-push-is-a-betrayal)
+- [Almaguin AI data centre proposal could see $50M investment and high-tech jobs for Armour Township](https://www.stcatharinesstandard.ca/news/canada/almaguin-ai-data-centre-proposal-could-see-50m-investment-and-high-tech-jobs-for-armour/article_b9ca4943-3914-55ab-8095-b9fc763c79dd.html)
+- [Amazon cuts hundreds off Galaxy S25 phones ahead of S26 Unpacked event](https://www.express.co.uk/life-style/science-technology/2170572/amazon-samsung-galaxy-s25-26-unpacked)
+- [Anthropic’s $380 billion valuation vaults it next to OpenAI, SpaceX among largest IPO candidates](https://biztoc.com/x/a820faaabd3d8d55)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
