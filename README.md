@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Groundbreaking Innovations from TCL Transform How Fans Enjoy the Olympic Winter Games in Milano Cortina and Around the World](https://www.prnewswire.com/news-releases/groundbreaking-innovations-from-tcl-transform-how-fans-enjoy-the-olympic-winter-games-in-milano-cortina-and-around-the-world-302687689.html)
-- ['Concentrate on keeping it simple': Bill Gates wanted PCs to be straightforward, and Windows 11’s AI push is a betrayal](https://www.tomsguide.com/computing/concentrate-on-keeping-it-simple-bill-gates-wanted-pcs-to-be-straightforward-and-windows-11s-ai-push-is-a-betrayal)
-- [Almaguin AI data centre proposal could see $50M investment and high-tech jobs for Armour Township](https://www.stcatharinesstandard.ca/news/canada/almaguin-ai-data-centre-proposal-could-see-50m-investment-and-high-tech-jobs-for-armour/article_b9ca4943-3914-55ab-8095-b9fc763c79dd.html)
-- [Amazon cuts hundreds off Galaxy S25 phones ahead of S26 Unpacked event](https://www.express.co.uk/life-style/science-technology/2170572/amazon-samsung-galaxy-s25-26-unpacked)
-- [Anthropic’s $380 billion valuation vaults it next to OpenAI, SpaceX among largest IPO candidates](https://biztoc.com/x/a820faaabd3d8d55)
+- [AppLovin Q4 Earnings Call Highlights](https://www.dailypolitical.com/2026/02/14/applovin-q4-earnings-call-highlights.html)
+- [🚨 Guardiola wants no slip-ups: City's XI to face Salford in the FA Cup](https://onefootball.com/en/news/guardiola-wants-no-slip-ups-citys-xi-to-face-salford-in-the-fa-cup-42409400)
+- [🚨 Guardiola wants no slip-ups: City's XI to face Salford in the FA Cup](https://sports.yahoo.com/articles/guardiola-wants-no-slip-ups-140600159.html)
+- [From Alina Amir To Angel Nuzhat Leaked Video: Obscene Viral MMS Controversy Sparks Deepfake Clickbait Fears-How To Stay Safe From Online Fraud And Scammers](https://www.newsx.com/offbeat/from-alina-amir-to-angel-nuzhat-leaked-video-obscene-viral-mms-controversy-sparks-deepfake-clickbait-fears-how-to-stay-safe-from-online-fraud-and-scammers-watch-download-link-166914/)
+- [Soaring coffee prices rewrite some Americans' daily routines](https://www.rmoutlook.com/lifestyle/soaring-coffee-prices-rewrite-some-americans-daily-routines-11881630)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
