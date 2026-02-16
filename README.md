@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AppLovin Q4 Earnings Call Highlights](https://www.dailypolitical.com/2026/02/14/applovin-q4-earnings-call-highlights.html)
-- [🚨 Guardiola wants no slip-ups: City's XI to face Salford in the FA Cup](https://onefootball.com/en/news/guardiola-wants-no-slip-ups-citys-xi-to-face-salford-in-the-fa-cup-42409400)
-- [🚨 Guardiola wants no slip-ups: City's XI to face Salford in the FA Cup](https://sports.yahoo.com/articles/guardiola-wants-no-slip-ups-140600159.html)
-- [From Alina Amir To Angel Nuzhat Leaked Video: Obscene Viral MMS Controversy Sparks Deepfake Clickbait Fears-How To Stay Safe From Online Fraud And Scammers](https://www.newsx.com/offbeat/from-alina-amir-to-angel-nuzhat-leaked-video-obscene-viral-mms-controversy-sparks-deepfake-clickbait-fears-how-to-stay-safe-from-online-fraud-and-scammers-watch-download-link-166914/)
-- [Soaring coffee prices rewrite some Americans' daily routines](https://www.rmoutlook.com/lifestyle/soaring-coffee-prices-rewrite-some-americans-daily-routines-11881630)
+- [The AI Productivity Payoff Has Arrived — And the Economic Data Finally Proves It](https://www.webpronews.com/the-ai-productivity-payoff-has-arrived-and-the-economic-data-finally-proves-it/)
+- [DANIEL HOFFMAN: What my family learned from a 12-year-old about inner strength](https://www.foxnews.com/opinion/daniel-hoffman-what-my-family-learned-from-12-year-old-about-inner-strength)
+- [A Blade in Metal Hands: China’s Sword-Wielding Robot Signals a New Era in Humanoid Dexterity](https://www.webpronews.com/a-blade-in-metal-hands-chinas-sword-wielding-robot-signals-a-new-era-in-humanoid-dexterity/)
+- [Dear Salesforce Stock Fans, Mark Your Calendars for February 25](https://www.barchart.com/story/news/231644/dear-salesforce-stock-fans-mark-your-calendars-for-february-25)
+- [Listen: Will County’s 5 most-read stories this week, Feb. 8-14](https://www.shawlocal.com/news/2026/02/15/listen-will-countys-5-most-read-stories-this-week-feb-8-14/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
