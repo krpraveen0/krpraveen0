@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [The AI Productivity Payoff Has Arrived — And the Economic Data Finally Proves It](https://www.webpronews.com/the-ai-productivity-payoff-has-arrived-and-the-economic-data-finally-proves-it/)
-- [DANIEL HOFFMAN: What my family learned from a 12-year-old about inner strength](https://www.foxnews.com/opinion/daniel-hoffman-what-my-family-learned-from-12-year-old-about-inner-strength)
-- [A Blade in Metal Hands: China’s Sword-Wielding Robot Signals a New Era in Humanoid Dexterity](https://www.webpronews.com/a-blade-in-metal-hands-chinas-sword-wielding-robot-signals-a-new-era-in-humanoid-dexterity/)
-- [Dear Salesforce Stock Fans, Mark Your Calendars for February 25](https://www.barchart.com/story/news/231644/dear-salesforce-stock-fans-mark-your-calendars-for-february-25)
-- [Listen: Will County’s 5 most-read stories this week, Feb. 8-14](https://www.shawlocal.com/news/2026/02/15/listen-will-countys-5-most-read-stories-this-week-feb-8-14/)
+- [Parents who blame Snapchat for their children's deaths protest outside company's headquarters](https://tucson.com/article_14418419-cc73-47f2-9690-9f66fe679ba4.html)
+- [PM Modi visits Reliance Jio AI Pavilion during India AI Impact Summit](https://sambadenglish.com/national-international-news/india/pm-modi-visits-reliance-jio-ai-pavilion-during-india-ai-impact-summit-11112332)
+- [PM Modi launches India AI Impact Expo, first AI summit in Global South](https://newsable.asianetnews.com/world/pm-modi-launches-india-ai-impact-expo-first-ai-summit-in-global-south-articleshow-kidhp4g)
+- [Sandie Peggie to pursue appeal against Dr Beth Upton despite exit from NHS Fife](https://www.heraldscotland.com/news/25858859.dr-upton-leaving-nhs-fife-wont-impact-sandie-peggie-appeal/)
+- [Abhyudaya Conclave| MP MSME Minister outlines vision for industrial push and opportunities for AI data centres](https://organiser.org/2026/02/16/340381/bharat/abhyudaya-conclave-mp-msme-minister-outlines-vision-for-industrial-push-and-opportunities-for-ai-data-centres/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
