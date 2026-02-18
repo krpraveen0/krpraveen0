@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Parents who blame Snapchat for their children's deaths protest outside company's headquarters](https://tucson.com/article_14418419-cc73-47f2-9690-9f66fe679ba4.html)
-- [PM Modi visits Reliance Jio AI Pavilion during India AI Impact Summit](https://sambadenglish.com/national-international-news/india/pm-modi-visits-reliance-jio-ai-pavilion-during-india-ai-impact-summit-11112332)
-- [PM Modi launches India AI Impact Expo, first AI summit in Global South](https://newsable.asianetnews.com/world/pm-modi-launches-india-ai-impact-expo-first-ai-summit-in-global-south-articleshow-kidhp4g)
-- [Sandie Peggie to pursue appeal against Dr Beth Upton despite exit from NHS Fife](https://www.heraldscotland.com/news/25858859.dr-upton-leaving-nhs-fife-wont-impact-sandie-peggie-appeal/)
-- [Abhyudaya Conclave| MP MSME Minister outlines vision for industrial push and opportunities for AI data centres](https://organiser.org/2026/02/16/340381/bharat/abhyudaya-conclave-mp-msme-minister-outlines-vision-for-industrial-push-and-opportunities-for-ai-data-centres/)
+- [Hexaware and Replit Announce Joint Offerings to Drive Successful Rapid Prototyping to Productionizing for Enterprise Applications](https://www.prnewswire.com/news-releases/hexaware-and-replit-announce-joint-offerings-to-drive-successful-rapid-prototyping-to-productionizing-for-enterprise-applications-302689554.html)
+- [France's Macron Eyes Fighter Jet Deal In India](https://menafn.com/1110753264/Frances-Macron-Eyes-Fighter-Jet-Deal-In-India)
+- [94% of IT Leaders Fear Vendor Lock-In as AI Reality Check Forces EUC Strategy Reset, Parallels ...](https://www.messenger-inquirer.com/ap/ap_national_news/94-of-it-leaders-fear-vendor-lock-in-as-ai-reality-check-forces-euc-strategy/article_24203590-6597-5c9c-b8cf-36fa0ae01f7c.html)
+- [TCS Spotlights The Thrill Of Motorsports To Inspire Girls To Pursue STEM Careers](https://menafn.com/1110753239/TCS-Spotlights-The-Thrill-Of-Motorsports-To-Inspire-Girls-To-Pursue-STEM-Careers)
+- [CAI Advances Business Outcomes with AI Strategies into 2026](https://www.globenewswire.com/fr/news-release/2026/02/17/3239386/0/en/CAI-Advances-Business-Outcomes-with-AI-Strategies-into-2026.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
