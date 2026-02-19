@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Hexaware and Replit Announce Joint Offerings to Drive Successful Rapid Prototyping to Productionizing for Enterprise Applications](https://www.prnewswire.com/news-releases/hexaware-and-replit-announce-joint-offerings-to-drive-successful-rapid-prototyping-to-productionizing-for-enterprise-applications-302689554.html)
-- [France's Macron Eyes Fighter Jet Deal In India](https://menafn.com/1110753264/Frances-Macron-Eyes-Fighter-Jet-Deal-In-India)
-- [94% of IT Leaders Fear Vendor Lock-In as AI Reality Check Forces EUC Strategy Reset, Parallels ...](https://www.messenger-inquirer.com/ap/ap_national_news/94-of-it-leaders-fear-vendor-lock-in-as-ai-reality-check-forces-euc-strategy/article_24203590-6597-5c9c-b8cf-36fa0ae01f7c.html)
-- [TCS Spotlights The Thrill Of Motorsports To Inspire Girls To Pursue STEM Careers](https://menafn.com/1110753239/TCS-Spotlights-The-Thrill-Of-Motorsports-To-Inspire-Girls-To-Pursue-STEM-Careers)
-- [CAI Advances Business Outcomes with AI Strategies into 2026](https://www.globenewswire.com/fr/news-release/2026/02/17/3239386/0/en/CAI-Advances-Business-Outcomes-with-AI-Strategies-into-2026.html)
+- [„Wenn es jemand baut, sterben alle“: Führt eine Super-KI zum Ende der Menschheit?](https://www.stuttgarter-nachrichten.de/inhalt.wenn-es-jemand-baut-sterben-alle-fuehrt-eine-super-ki-zum-ende-der-menschheit.e29a99b7-8b84-4b98-9b7e-f83a05165c7e.html)
+- [„Wenn es jemand baut, sterben alle“: Führt eine Super-KI zum Ende der Menschheit?](https://www.stuttgarter-zeitung.de/inhalt.wenn-es-jemand-baut-sterben-alle-fuehrt-eine-super-ki-zum-ende-der-menschheit.e29a99b7-8b84-4b98-9b7e-f83a05165c7e.html)
+- [„Wenn es jemand baut, sterben alle“: Führt eine Super-KI zum Ende der Menschheit?](https://www.np-coburg.de/inhalt.wenn-es-jemand-baut-sterben-alle-fuehrt-eine-super-ki-zum-ende-der-menschheit.e29a99b7-8b84-4b98-9b7e-f83a05165c7e.html)
+- [„Wenn es jemand baut, sterben alle“: Führt eine Super-KI zum Ende der Menschheit?](https://www.frankenpost.de/inhalt.wenn-es-jemand-baut-sterben-alle-fuehrt-eine-super-ki-zum-ende-der-menschheit.e29a99b7-8b84-4b98-9b7e-f83a05165c7e.html)
+- [Clario Leads the Way in Responsible Artificial Intelligence with ISO 42001 certification, audited by Schellman](https://www.citizentribune.com/news/business/clario-leads-the-way-in-responsible-artificial-intelligence-with-iso-42001-certification-audited-by-schellman/article_dcf8ef1e-7396-58ed-9808-67e1891a6692.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
