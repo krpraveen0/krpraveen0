@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI-Controlled Intelligent Radar Market Accelerates Toward $50+ Billion Opportunity](https://www.prnewswire.com/news-releases/ai-controlled-intelligent-radar-market-accelerates-toward-50-billion-opportunity-302692350.html)
-- [eHealth Unveils New Growth Strategy Centered on Trusted, Lifelong Customer Relationships](https://www.prnewswire.com/news-releases/ehealth-unveils-new-growth-strategy-centered-on-trusted-lifelong-customer-relationships-302692421.html)
-- [Creative Concepts Launches AI BRAND DEFENSE With 24-Hour Crisis Intelligence for Viral Misinformation](https://www.benzinga.com/pressreleases/26/02/g50718445/creative-concepts-launches-ai-brand-defense-with-24-hour-crisis-intelligence-for-viral-misinformat)
-- [SS&C ALPS Advisors Launches Actively Managed ETF Targeting SMR, Nuclear and Technology Opportunities](https://www.businesswire.com/news/home/20260219545347/en/SSC-ALPS-Advisors-Launches-Actively-Managed-ETF-Targeting-SMR-Nuclear-and-Technology-Opportunities)
-- [Nearly 100 per cent of sport organisations plan to increase AI use](https://www.cityam.com/nearly-100-per-cent-of-sport-organisations-plan-to-increase-ai-use/)
+- [Safe Pro Awarded Contract to Provide U.S. Government with AI Powered Edge Processing Systems](https://www.globenewswire.com/news-release/2026/02/20/3241940/0/en/Safe-Pro-Awarded-Contract-to-Provide-U-S-Government-with-AI-Powered-Edge-Processing-Systems.html)
+- [Safe Pro Awarded Contract to Provide U.S. Government with AI Powered Edge Processing Systems](https://www.globenewswire.com/fr/news-release/2026/02/20/3241940/0/en/Safe-Pro-Awarded-Contract-to-Provide-U-S-Government-with-AI-Powered-Edge-Processing-Systems.html)
+- [Safe Pro Awarded Contract to Provide U.S. Government with AI Powered Edge Processing Systems](https://www.benzinga.com/pressreleases/26/02/g50747588/safe-pro-awarded-contract-to-provide-u-s-government-with-ai-powered-edge-processing-systems)
+- [Unicity Labs haalt drie miljoen dollar op om autonome agentgestuurde marktplaatsen op te schalen](https://www.prnewswire.com/news-releases/unicity-labs-haalt-drie-miljoen-dollar-op-om-autonome-agentgestuurde-marktplaatsen-op-te-schalen-302693582.html)
+- [Unicity Labs lève 3 millions de dollars pour développer des places de marché autonomes et agentiques](https://www.prnewswire.com/news-releases/unicity-labs-leve-3-millions-de-dollars-pour-developper-des-places-de-marche-autonomes-et-agentiques-302693583.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
