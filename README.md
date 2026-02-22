@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Safe Pro Awarded Contract to Provide U.S. Government with AI Powered Edge Processing Systems](https://www.globenewswire.com/news-release/2026/02/20/3241940/0/en/Safe-Pro-Awarded-Contract-to-Provide-U-S-Government-with-AI-Powered-Edge-Processing-Systems.html)
-- [Safe Pro Awarded Contract to Provide U.S. Government with AI Powered Edge Processing Systems](https://www.globenewswire.com/fr/news-release/2026/02/20/3241940/0/en/Safe-Pro-Awarded-Contract-to-Provide-U-S-Government-with-AI-Powered-Edge-Processing-Systems.html)
-- [Safe Pro Awarded Contract to Provide U.S. Government with AI Powered Edge Processing Systems](https://www.benzinga.com/pressreleases/26/02/g50747588/safe-pro-awarded-contract-to-provide-u-s-government-with-ai-powered-edge-processing-systems)
-- [Unicity Labs haalt drie miljoen dollar op om autonome agentgestuurde marktplaatsen op te schalen](https://www.prnewswire.com/news-releases/unicity-labs-haalt-drie-miljoen-dollar-op-om-autonome-agentgestuurde-marktplaatsen-op-te-schalen-302693582.html)
-- [Unicity Labs lève 3 millions de dollars pour développer des places de marché autonomes et agentiques](https://www.prnewswire.com/news-releases/unicity-labs-leve-3-millions-de-dollars-pour-developper-des-places-de-marche-autonomes-et-agentiques-302693583.html)
+- [Environmental Assessment Service Implements AI to Speed Up Project Processing Without Staff Training](https://www.elciudadano.com/en/environmental-assessment-service-implements-ai-to-speed-up-project-processing-without-staff-training/02/21/)
+- [Unitree CEO says robot capability comparable to 10-year-old, large-scale use 3–5 years away](https://technode.com/2026/02/21/unitree-ceo-says-robot-capability-comparable-to-10-year-old-large-scale-use-3-5-years-away/)
+- [Veteran analyst reveals 2 ‘must-own’ AI stocks](https://www.thestreet.com/investing/veteran-analyst-reveals-2-must-own-ai-stocks)
+- [Veteran analyst reveals 2 ‘must-own’ AI stocks](https://www.capjournal.com/arena/finance/veteran-analyst-reveals-2-must-own-ai-stocks/article_1b505759-70c3-5e12-ae87-bcd89f56dd03.html)
+- [OpenAI didn't contact police despite employees flagging mass shooter's concerning chatbot interactions: REPORT](https://www.foxnews.com/politics/openai-didnt-contact-police-despite-employees-flagging-mass-shooters-concerning-chatbot-interactions-report)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
