@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Environmental Assessment Service Implements AI to Speed Up Project Processing Without Staff Training](https://www.elciudadano.com/en/environmental-assessment-service-implements-ai-to-speed-up-project-processing-without-staff-training/02/21/)
-- [Unitree CEO says robot capability comparable to 10-year-old, large-scale use 3–5 years away](https://technode.com/2026/02/21/unitree-ceo-says-robot-capability-comparable-to-10-year-old-large-scale-use-3-5-years-away/)
-- [Veteran analyst reveals 2 ‘must-own’ AI stocks](https://www.thestreet.com/investing/veteran-analyst-reveals-2-must-own-ai-stocks)
-- [Veteran analyst reveals 2 ‘must-own’ AI stocks](https://www.capjournal.com/arena/finance/veteran-analyst-reveals-2-must-own-ai-stocks/article_1b505759-70c3-5e12-ae87-bcd89f56dd03.html)
-- [OpenAI didn't contact police despite employees flagging mass shooter's concerning chatbot interactions: REPORT](https://www.foxnews.com/politics/openai-didnt-contact-police-despite-employees-flagging-mass-shooters-concerning-chatbot-interactions-report)
+- [Al-Sisi Pushes AI Integration, Expansion Of Technical Schools](https://menafn.com/1110773779/Al-Sisi-Pushes-AI-Integration-Expansion-Of-Technical-Schools)
+- [Froma Harrop: Trump stops race to save creation](https://www.grandforksherald.com/opinion/columns/froma-harrop-trump-stops-race-to-save-creation)
+- [In some schools, chatbots interrogate students about their work. But the AI revolution has teachers worried](https://www.theguardian.com/australia-news/2026/feb/23/ai-chatbots-schools-education-australian-students-paper)
+- [Margaret Alva Criticises Protest During AI Summit, Calls For Dignity At International Events](https://menafn.com/1110773739/Margaret-Alva-Criticises-Protest-During-AI-Summit-Calls-For-Dignity-At-International-Events)
+- [Cuban Father Retracts Hospital Medication Shortage Claim, Calls Video "Artificial Intelligence" Fabrication](https://www.cubaheadlines.com/articles/321425)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
