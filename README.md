@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 6.5 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 6.6 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Al-Sisi Pushes AI Integration, Expansion Of Technical Schools](https://menafn.com/1110773779/Al-Sisi-Pushes-AI-Integration-Expansion-Of-Technical-Schools)
-- [Froma Harrop: Trump stops race to save creation](https://www.grandforksherald.com/opinion/columns/froma-harrop-trump-stops-race-to-save-creation)
-- [In some schools, chatbots interrogate students about their work. But the AI revolution has teachers worried](https://www.theguardian.com/australia-news/2026/feb/23/ai-chatbots-schools-education-australian-students-paper)
-- [Margaret Alva Criticises Protest During AI Summit, Calls For Dignity At International Events](https://menafn.com/1110773739/Margaret-Alva-Criticises-Protest-During-AI-Summit-Calls-For-Dignity-At-International-Events)
-- [Cuban Father Retracts Hospital Medication Shortage Claim, Calls Video "Artificial Intelligence" Fabrication](https://www.cubaheadlines.com/articles/321425)
+- [Humand secures $66M to scale AI-powered operating system for frontline workers](https://siliconangle.com/2026/02/23/humand-secures-66m-scale-ai-powered-operating-system-frontline-workers/)
+- [Bragg Gaming Announces Select Preliminary Unaudited Fourth Quarter and Full Year 2025 Financial Results, and Issues Full Year 2026 Guidance](https://financialpost.com/pmn/business-wire-news-releases-pmn/bragg-gaming-announces-select-preliminary-unaudited-fourth-quarter-and-full-year-2025-financial-results-and-issues-full-year-2026-guidance)
+- [DHI Group Names Elizabeth Andora as Chief People Officer](https://www.hastingstribune.com/ap/business/dhi-group-names-elizabeth-andora-as-chief-people-officer/article_ed8e4c7a-ecb1-5f9a-baad-40f5c5f48eba.html)
+- [TigerConnect Launches AI-Powered Operator Console to Modernize Hospital Communications](https://www.rutlandherald.com/news/business/tigerconnect-launches-ai-powered-operator-console-to-modernize-hospital-communications/article_23e7fa84-3889-5826-84db-498a49f9882a.html)
+- [TigerConnect Launches AI-Powered Operator Console to Modernize Hospital Communications](https://www.hastingstribune.com/ap/business/tigerconnect-launches-ai-powered-operator-console-to-modernize-hospital-communications/article_312e663c-7566-5473-89ca-b2913f0d55f6.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
