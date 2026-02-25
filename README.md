@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Humand secures $66M to scale AI-powered operating system for frontline workers](https://siliconangle.com/2026/02/23/humand-secures-66m-scale-ai-powered-operating-system-frontline-workers/)
-- [Bragg Gaming Announces Select Preliminary Unaudited Fourth Quarter and Full Year 2025 Financial Results, and Issues Full Year 2026 Guidance](https://financialpost.com/pmn/business-wire-news-releases-pmn/bragg-gaming-announces-select-preliminary-unaudited-fourth-quarter-and-full-year-2025-financial-results-and-issues-full-year-2026-guidance)
-- [DHI Group Names Elizabeth Andora as Chief People Officer](https://www.hastingstribune.com/ap/business/dhi-group-names-elizabeth-andora-as-chief-people-officer/article_ed8e4c7a-ecb1-5f9a-baad-40f5c5f48eba.html)
-- [TigerConnect Launches AI-Powered Operator Console to Modernize Hospital Communications](https://www.rutlandherald.com/news/business/tigerconnect-launches-ai-powered-operator-console-to-modernize-hospital-communications/article_23e7fa84-3889-5826-84db-498a49f9882a.html)
-- [TigerConnect Launches AI-Powered Operator Console to Modernize Hospital Communications](https://www.hastingstribune.com/ap/business/tigerconnect-launches-ai-powered-operator-console-to-modernize-hospital-communications/article_312e663c-7566-5473-89ca-b2913f0d55f6.html)
+- [Trigo Named ‘Top Supplier Retail’ at RETA Awards 2026](https://www.eagletribune.com/region/trigo-named-top-supplier-retail-at-reta-awards-2026/article_7d3d78c7-27bd-5122-884c-f39e1c5241fd.html)
+- [Trigo Named ‘Top Supplier Retail’ at RETA Awards 2026](https://www.caledonianrecord.com/trigo-named-top-supplier-retail-at-reta-awards-2026/article_2de8b40a-f8b5-5841-8ecb-63ac3d11cfb6.html)
+- [The looming Taiwan chip disaster that Silicon Valley has long ignored](https://economictimes.indiatimes.com/tech/artificial-intelligence/thelooming-taiwan-chip-disaster-that-silicon-valley-has-long-ignored/articleshow/128753618.cms)
+- [India, Israel launch first round of FTA talks](http://economictimes.indiatimes.com/news/economy/foreign-trade/india-israel-launch-first-round-of-fta-talks/articleshow/128753941.cms)
+- [‘Probably’ doesn’t mean the same thing to your AI as it does to you](https://www.hastingstribune.com/ap/agriculture/probably-doesn-t-mean-the-same-thing-to-your-ai-as-it-does-to-you/article_7b1cdd3c-533c-593b-b064-69f232afae8c.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
