@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Trigo Named ‘Top Supplier Retail’ at RETA Awards 2026](https://www.eagletribune.com/region/trigo-named-top-supplier-retail-at-reta-awards-2026/article_7d3d78c7-27bd-5122-884c-f39e1c5241fd.html)
-- [Trigo Named ‘Top Supplier Retail’ at RETA Awards 2026](https://www.caledonianrecord.com/trigo-named-top-supplier-retail-at-reta-awards-2026/article_2de8b40a-f8b5-5841-8ecb-63ac3d11cfb6.html)
-- [The looming Taiwan chip disaster that Silicon Valley has long ignored](https://economictimes.indiatimes.com/tech/artificial-intelligence/thelooming-taiwan-chip-disaster-that-silicon-valley-has-long-ignored/articleshow/128753618.cms)
-- [India, Israel launch first round of FTA talks](http://economictimes.indiatimes.com/news/economy/foreign-trade/india-israel-launch-first-round-of-fta-talks/articleshow/128753941.cms)
-- [‘Probably’ doesn’t mean the same thing to your AI as it does to you](https://www.hastingstribune.com/ap/agriculture/probably-doesn-t-mean-the-same-thing-to-your-ai-as-it-does-to-you/article_7b1cdd3c-533c-593b-b064-69f232afae8c.html)
+- [🔥Messi and Inter Miami on Champions Tour, live on OneFootball](https://onefootball.com/en/news/messi-and-inter-miami-on-champions-tour-live-on-onefootball-42465547)
+- [IIT(ISM) Dhanbad To Launch MTech Course On Critical Minerals](https://www.etvbharat.com/en/state/iit-ism-dhanbad-to-launch-mtech-course-on-critical-minerals-enn26022505885)
+- [AI is Reshaping India's IT Delivery Model: NIIT Introduces Talent Redistribution Framework](https://www.thetimesofbengal.com/national/ai-is-reshaping-indias-it-delivery-model-niit-introduces-talent-redistribution-framework/)
+- [Migratory cranes spotted above Brest. Are birds coming back to Belarus?](https://eng.belta.by/society/view/migratory-cranes-spotted-above-brest-are-birds-coming-back-to-belarus-177299-2026/)
+- [Response to the Budget 2026/2027 by Cushman & Wakefield](https://thesun.my/business/corporate-news/response-to-the-budget-2026-2027-by-cushman-wakefield/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
