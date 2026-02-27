@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [🔥Messi and Inter Miami on Champions Tour, live on OneFootball](https://onefootball.com/en/news/messi-and-inter-miami-on-champions-tour-live-on-onefootball-42465547)
-- [IIT(ISM) Dhanbad To Launch MTech Course On Critical Minerals](https://www.etvbharat.com/en/state/iit-ism-dhanbad-to-launch-mtech-course-on-critical-minerals-enn26022505885)
-- [AI is Reshaping India's IT Delivery Model: NIIT Introduces Talent Redistribution Framework](https://www.thetimesofbengal.com/national/ai-is-reshaping-indias-it-delivery-model-niit-introduces-talent-redistribution-framework/)
-- [Migratory cranes spotted above Brest. Are birds coming back to Belarus?](https://eng.belta.by/society/view/migratory-cranes-spotted-above-brest-are-birds-coming-back-to-belarus-177299-2026/)
-- [Response to the Budget 2026/2027 by Cushman & Wakefield](https://thesun.my/business/corporate-news/response-to-the-budget-2026-2027-by-cushman-wakefield/)
+- [AI song generator startups Suno and Udio angered the music industry. Now they're hoping to join it](https://www.cp24.com/news/entertainment/2026/02/26/ai-song-generator-startups-suno-and-udio-angered-the-music-industry-now-theyre-hoping-to-join-it/)
+- [AI song generator startups Suno and Udio angered the music industry. Now they're hoping to join it](https://www.ctvnews.ca/entertainment/article/ai-song-generator-startups-suno-and-udio-angered-the-music-industry-now-theyre-hoping-to-join-it/)
+- [AI song generator startups Suno and Udio angered the music industry. Now they're hoping to join it](https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/02/26/ai-song-generator-startups-suno-and-udio-angered-the-music-industry-now-theyre-hoping-to-join-it/)
+- [Aramco begins production at Jafurah, advances gas expansion strategy](https://saudigazette.com.sa/article/659230/saudi-arabia/aramco-launches-jafurah-gas-production-targets-80-capacity-growth-by-2030)
+- [ANELLO Photonics and Mythos AI Announce Strategic Collaboration to Advance Resilient Navigation for Maritime Autonomy](https://www.prnewswire.com/news-releases/anello-photonics-and-mythos-ai-announce-strategic-collaboration-to-advance-resilient-navigation-for-maritime-autonomy-302697989.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
