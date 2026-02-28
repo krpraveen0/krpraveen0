@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI song generator startups Suno and Udio angered the music industry. Now they're hoping to join it](https://www.cp24.com/news/entertainment/2026/02/26/ai-song-generator-startups-suno-and-udio-angered-the-music-industry-now-theyre-hoping-to-join-it/)
-- [AI song generator startups Suno and Udio angered the music industry. Now they're hoping to join it](https://www.ctvnews.ca/entertainment/article/ai-song-generator-startups-suno-and-udio-angered-the-music-industry-now-theyre-hoping-to-join-it/)
-- [AI song generator startups Suno and Udio angered the music industry. Now they're hoping to join it](https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/02/26/ai-song-generator-startups-suno-and-udio-angered-the-music-industry-now-theyre-hoping-to-join-it/)
-- [Aramco begins production at Jafurah, advances gas expansion strategy](https://saudigazette.com.sa/article/659230/saudi-arabia/aramco-launches-jafurah-gas-production-targets-80-capacity-growth-by-2030)
-- [ANELLO Photonics and Mythos AI Announce Strategic Collaboration to Advance Resilient Navigation for Maritime Autonomy](https://www.prnewswire.com/news-releases/anello-photonics-and-mythos-ai-announce-strategic-collaboration-to-advance-resilient-navigation-for-maritime-autonomy-302697989.html)
+- [Robot Talk Episode 146 – Embodied AI on the ISS, with Jamie Palmer](https://robohub.org/robot-talk-episode-146-embodied-ai-on-the-iss-with-jamie-palmer/)
+- [‘All AI Tools Are Blocked’: Techie Shares Ordeal Of Facing Data Security Rules In Corporate Life](https://www.news18.com/viral/all-ai-tools-are-blocked-techie-shares-ordeal-of-facing-data-security-rules-in-corporate-life-aa-ws-l-9934128.html)
+- [Definitive Healthcare (DH) Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/02/27/definitive-healthcare-dh-earnings-transcript/)
+- [Bain Capital (BCSF) Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/02/27/bain-capital-bcsf-earnings-call-transcript/)
+- [Is there VAR in the FA Cup fifth round?](https://ca.sports.yahoo.com/news/var-fa-cup-fifth-round-134803488.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
