@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Groww unveils AI enabled platform to expand investment basket](https://yourstory.com/2026/02/groww-unveils-ai-enabled-platform-to-expand-investment-basket)
-- [GHSS Pottassery and GUPS Vithura bag top prizes in Haritha Vidyalayam reality show](https://www.thehindu.com/news/national/kerala/ghss-pottassery-and-gups-vithura-bag-top-prizes-in-haritha-vidyalayam-reality-show/article70688347.ece)
-- [Katy Perry Shows Support for Anthropic as It Faces US Government Ban Over Refusal to Lift Security Policy](https://www.ibtimes.co.uk/katy-perry-supports-anthropic-us-government-standoff-1782180)
-- [Shaktikanta Das: India is not just reacting to the world, we are influencing its future direction and shape](https://www.businesstoday.in/latest/economy/story/shaktikanta-das-india-is-not-just-reacting-to-the-world-we-are-influencing-its-future-direction-and-shape-518545-2026-02-28)
-- [Syngenta Group's Journey Since 2017 Acquisition](https://menafn.com/1110803091/Syngenta-Groups-Journey-Since-2017-Acquisition)
+- [Trump expects his Fed pick and AI to deliver a replay of the ’90s boom. Economists have doubts](https://halifax.citynews.ca/2026/03/01/trump-expects-his-fed-pick-and-ai-to-deliver-a-replay-of-the-90s-boom-economists-have-doubts/)
+- [Trump expects his Fed pick and AI to deliver a replay of the '90s boom. Economists have doubts](https://www.airdriecityview.com/science-news/trump-expects-his-fed-pick-and-ai-to-deliver-a-replay-of-the-90s-boom-economists-have-doubts-11941763)
+- [Trump expects his Fed pick and AI to deliver a replay of the '90s boom. Economists have doubts](https://www.rmoutlook.com/science-news/trump-expects-his-fed-pick-and-ai-to-deliver-a-replay-of-the-90s-boom-economists-have-doubts-11941763)
+- [Trump expects his Fed pick and AI to deliver a replay of the '90s boom. Economists have doubts](https://www.townandcountrytoday.com/science-news/trump-expects-his-fed-pick-and-ai-to-deliver-a-replay-of-the-90s-boom-economists-have-doubts-11941763)
+- [Trump expects his Fed pick and AI to deliver a replay of the '90s boom. Economists have doubts](https://ca.finance.yahoo.com/news/trump-expects-fed-pick-ai-140124294.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
