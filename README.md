@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Trump expects his Fed pick and AI to deliver a replay of the ’90s boom. Economists have doubts](https://halifax.citynews.ca/2026/03/01/trump-expects-his-fed-pick-and-ai-to-deliver-a-replay-of-the-90s-boom-economists-have-doubts/)
-- [Trump expects his Fed pick and AI to deliver a replay of the '90s boom. Economists have doubts](https://www.airdriecityview.com/science-news/trump-expects-his-fed-pick-and-ai-to-deliver-a-replay-of-the-90s-boom-economists-have-doubts-11941763)
-- [Trump expects his Fed pick and AI to deliver a replay of the '90s boom. Economists have doubts](https://www.rmoutlook.com/science-news/trump-expects-his-fed-pick-and-ai-to-deliver-a-replay-of-the-90s-boom-economists-have-doubts-11941763)
-- [Trump expects his Fed pick and AI to deliver a replay of the '90s boom. Economists have doubts](https://www.townandcountrytoday.com/science-news/trump-expects-his-fed-pick-and-ai-to-deliver-a-replay-of-the-90s-boom-economists-have-doubts-11941763)
-- [Trump expects his Fed pick and AI to deliver a replay of the '90s boom. Economists have doubts](https://ca.finance.yahoo.com/news/trump-expects-fed-pick-ai-140124294.html)
+- [Apple atualiza modelos básicos do iPad; confira preços e recursos](https://oglobo.globo.com/economia/tecnologia/noticia/2026/03/02/apple-atualiza-modelos-basicos-do-ipad-confira-precos-e-recursos.ghtml)
+- [Nvidia to invest $2 billion each in Lumentum, Coherent to bolster AI processors](https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-to-invest-2-billion-each-in-lumentum-coherent-to-bolster-ai-processors/articleshow/128948808.cms)
+- [Quest Diagnostics Introduces AI Companion to Help Patients Understand and Act on Lab Test Results](https://www.prnewswire.com/news-releases/quest-diagnostics-introduces-ai-companion-to-help-patients-understand-and-act-on-lab-test-results-302700483.html)
+- [‘Direct bearing on integrity...’: SC flags trial court’s use of AI-generated ‘non-existent’ judgments](https://yespunjab.com/direct-bearing-on-integrity-sc-flags-trial-courts-use-of-ai-generated-non-existent-judgments/)
+- [AP Business SummaryBrief at 9:01 a.m. EST](https://www.citizentribune.com/news/business/ap-business-summarybrief-at-9-01-a-m-est/article_9a298c8f-8992-5d71-8d4b-79a4b686193e.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
