@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Apple atualiza modelos básicos do iPad; confira preços e recursos](https://oglobo.globo.com/economia/tecnologia/noticia/2026/03/02/apple-atualiza-modelos-basicos-do-ipad-confira-precos-e-recursos.ghtml)
-- [Nvidia to invest $2 billion each in Lumentum, Coherent to bolster AI processors](https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-to-invest-2-billion-each-in-lumentum-coherent-to-bolster-ai-processors/articleshow/128948808.cms)
-- [Quest Diagnostics Introduces AI Companion to Help Patients Understand and Act on Lab Test Results](https://www.prnewswire.com/news-releases/quest-diagnostics-introduces-ai-companion-to-help-patients-understand-and-act-on-lab-test-results-302700483.html)
-- [‘Direct bearing on integrity...’: SC flags trial court’s use of AI-generated ‘non-existent’ judgments](https://yespunjab.com/direct-bearing-on-integrity-sc-flags-trial-courts-use-of-ai-generated-non-existent-judgments/)
-- [AP Business SummaryBrief at 9:01 a.m. EST](https://www.citizentribune.com/news/business/ap-business-summarybrief-at-9-01-a-m-est/article_9a298c8f-8992-5d71-8d4b-79a4b686193e.html)
+- [AI, machine learning to speed antibody therapy development](https://www.unc.edu/posts/2026/03/03/ai-machine-learning-to-speed-antibody-therapy-development/)
+- [U.S. Strike on Iran: What Operation Epic Fury Means for Markets](https://investorplace.com/hypergrowthinvesting/2026/03/u-s-strike-on-iran-what-operation-epic-fury-means-for-markets/)
+- [EUN Sets 150 UTME Cut-Off, Unveils Reform Plan](https://independent.ng/eun-sets-150-utme-cut-off-unveils-reform-plan/)
+- [DeZero Launches the World's First AI 'Second Brain' for Crypto Traders](https://www.manilatimes.net/2026/03/03/tmt-newswire/globenewswire/dezero-launches-the-worlds-first-ai-second-brain-for-crypto-traders/2292266)
+- [OpenAI revising Pentagon contract; CEO Altman admits 'sloppy' deal](https://www.fox10phoenix.com/news/openai-revising-pentagon-contract-ceo-altman-admits-sloppy-deal)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
