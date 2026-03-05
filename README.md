@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI, machine learning to speed antibody therapy development](https://www.unc.edu/posts/2026/03/03/ai-machine-learning-to-speed-antibody-therapy-development/)
-- [U.S. Strike on Iran: What Operation Epic Fury Means for Markets](https://investorplace.com/hypergrowthinvesting/2026/03/u-s-strike-on-iran-what-operation-epic-fury-means-for-markets/)
-- [EUN Sets 150 UTME Cut-Off, Unveils Reform Plan](https://independent.ng/eun-sets-150-utme-cut-off-unveils-reform-plan/)
-- [DeZero Launches the World's First AI 'Second Brain' for Crypto Traders](https://www.manilatimes.net/2026/03/03/tmt-newswire/globenewswire/dezero-launches-the-worlds-first-ai-second-brain-for-crypto-traders/2292266)
-- [OpenAI revising Pentagon contract; CEO Altman admits 'sloppy' deal](https://www.fox10phoenix.com/news/openai-revising-pentagon-contract-ceo-altman-admits-sloppy-deal)
+- [OUR RESCUE WELCOME INTERNATIONALLY RECOGNIZED CHILD PROTECTION EXPERT JIM COLE.](https://www.hjnews.com/news/state/our-rescue-welcome-internationally-recognized-child-protection-expert-jim-cole/article_61822e64-8be6-580a-a0f4-e0c493d52758.html)
+- [Riviera Partners promotes Chris Rice to Managing Partner and General Manager of Paragon by Riviera Partners](https://www.globenewswire.com/fr/news-release/2026/03/04/3249388/0/en/Riviera-Partners-promotes-Chris-Rice-to-Managing-Partner-and-General-Manager-of-Paragon-by-Riviera-Partners.html)
+- [CoVet's In-House Medical Team Shares AI Predictions for Veterinary Practices in 2026](https://www.prnewswire.com/news-releases/covets-in-house-medical-team-shares-ai-predictions-for-veterinary-practices-in-2026-302703491.html)
+- [OUR RESCUE WELCOME INTERNATIONALLY RECOGNIZED CHILD PROTECTION EXPERT JIM COLE.](https://www.prnewswire.com/news-releases/our-rescue-welcome-internationally-recognized-child-protection-expert-jim-cole-302703501.html)
+- [It’s time to move from AI pilots to progress](https://www.theglobeandmail.com/business/careers/leadership/article-its-time-to-move-from-ai-pilots-to-progress/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
