@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [OUR RESCUE WELCOME INTERNATIONALLY RECOGNIZED CHILD PROTECTION EXPERT JIM COLE.](https://www.hjnews.com/news/state/our-rescue-welcome-internationally-recognized-child-protection-expert-jim-cole/article_61822e64-8be6-580a-a0f4-e0c493d52758.html)
-- [Riviera Partners promotes Chris Rice to Managing Partner and General Manager of Paragon by Riviera Partners](https://www.globenewswire.com/fr/news-release/2026/03/04/3249388/0/en/Riviera-Partners-promotes-Chris-Rice-to-Managing-Partner-and-General-Manager-of-Paragon-by-Riviera-Partners.html)
-- [CoVet's In-House Medical Team Shares AI Predictions for Veterinary Practices in 2026](https://www.prnewswire.com/news-releases/covets-in-house-medical-team-shares-ai-predictions-for-veterinary-practices-in-2026-302703491.html)
-- [OUR RESCUE WELCOME INTERNATIONALLY RECOGNIZED CHILD PROTECTION EXPERT JIM COLE.](https://www.prnewswire.com/news-releases/our-rescue-welcome-internationally-recognized-child-protection-expert-jim-cole-302703501.html)
-- [It’s time to move from AI pilots to progress](https://www.theglobeandmail.com/business/careers/leadership/article-its-time-to-move-from-ai-pilots-to-progress/)
+- [Pentagon’s AI battle will help decide who controls our most powerful military tech](https://www.foxnews.com/opinion/pentagons-ai-battle-help-decide-who-controls-our-most-powerful-military-tech)
+- [India leading efforts to democratize AI for developing nations: IMF](https://newsable.asianetnews.com/business/india-leading-efforts-to-democratize-ai-for-developing-nations-imf-articleshow-hxsk0qd)
+- [Pollentia Unveils AI Co-Captain and Global Network at SXSW, Launching First Unified Vessel Intelligence Hub](https://www.postregister.com/businessreport/government/pollentia-unveils-ai-co-captain-and-global-network-at-sxsw-launching-first-unified-vessel-intelligence/article_7a65f23f-1a47-5da2-8791-cfe696bed353.html)
+- [Qventus Joins Oracle’s Partner Program](https://www.postregister.com/businessreport/healthcare/qventus-joins-oracle-s-partner-program/article_3190bd5f-6485-546a-9586-0c8d4ae80d8b.html)
+- [Intellistack Launches Healthcare Advisory Board with U.S. and U.K. Health Leaders](https://www.postregister.com/businessreport/healthcare/intellistack-launches-healthcare-advisory-board-with-u-s-and-u-k-health-leaders/article_25af0f83-25b8-56b7-b2e3-19fa6964091d.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
