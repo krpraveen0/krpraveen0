@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Pentagon’s AI battle will help decide who controls our most powerful military tech](https://www.foxnews.com/opinion/pentagons-ai-battle-help-decide-who-controls-our-most-powerful-military-tech)
-- [India leading efforts to democratize AI for developing nations: IMF](https://newsable.asianetnews.com/business/india-leading-efforts-to-democratize-ai-for-developing-nations-imf-articleshow-hxsk0qd)
-- [Pollentia Unveils AI Co-Captain and Global Network at SXSW, Launching First Unified Vessel Intelligence Hub](https://www.postregister.com/businessreport/government/pollentia-unveils-ai-co-captain-and-global-network-at-sxsw-launching-first-unified-vessel-intelligence/article_7a65f23f-1a47-5da2-8791-cfe696bed353.html)
-- [Qventus Joins Oracle’s Partner Program](https://www.postregister.com/businessreport/healthcare/qventus-joins-oracle-s-partner-program/article_3190bd5f-6485-546a-9586-0c8d4ae80d8b.html)
-- [Intellistack Launches Healthcare Advisory Board with U.S. and U.K. Health Leaders](https://www.postregister.com/businessreport/healthcare/intellistack-launches-healthcare-advisory-board-with-u-s-and-u-k-health-leaders/article_25af0f83-25b8-56b7-b2e3-19fa6964091d.html)
+- [🚨 Urgent: Griezmann will not be joining MLS (L'Équipe)](https://ca.sports.yahoo.com/news/urgent-griezmann-not-joining-mls-135300677.html)
+- [Griezmann won't leave Atlético mid-season, says L'Equipe](https://sports.yahoo.com/articles/griezmann-wont-leave-atl-tico-135300105.html)
+- [US employers cut a surprising 92,000 jobs last month as unemployment rate rises to 4.4%](https://www.hendersondispatch.com/archives/us-employers-cut-a-surprising-92-000-jobs-last-month-as-unemployment-rate-rises-to/article_5be428e5-833f-542d-aab7-7458a9ac7551.html)
+- [US employers unexpectedly cut 92,000 jobs as unemployment rate rose to 4.4%](https://ca.news.yahoo.com/us-employers-unexpectedly-cut-92-134633037.html)
+- [US employers unexpectedly cut 92,000 jobs as unemployment rate rose to 4.4%](https://www.independent.co.uk/news/world/americas/us-politics/jobs-report-unemployment-rate-labor-department-b2933400.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
