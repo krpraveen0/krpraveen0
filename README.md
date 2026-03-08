@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [🚨 Urgent: Griezmann will not be joining MLS (L'Équipe)](https://ca.sports.yahoo.com/news/urgent-griezmann-not-joining-mls-135300677.html)
-- [Griezmann won't leave Atlético mid-season, says L'Equipe](https://sports.yahoo.com/articles/griezmann-wont-leave-atl-tico-135300105.html)
-- [US employers cut a surprising 92,000 jobs last month as unemployment rate rises to 4.4%](https://www.hendersondispatch.com/archives/us-employers-cut-a-surprising-92-000-jobs-last-month-as-unemployment-rate-rises-to/article_5be428e5-833f-542d-aab7-7458a9ac7551.html)
-- [US employers unexpectedly cut 92,000 jobs as unemployment rate rose to 4.4%](https://ca.news.yahoo.com/us-employers-unexpectedly-cut-92-134633037.html)
-- [US employers unexpectedly cut 92,000 jobs as unemployment rate rose to 4.4%](https://www.independent.co.uk/news/world/americas/us-politics/jobs-report-unemployment-rate-labor-department-b2933400.html)
+- [Whitmire: War doesn’t come without warning. In Washington, D.C., it’s advertised.](https://dothaneagle.com/news/state-regional/alabama/article_c765b6b7-1618-5638-ad08-6da1c41519be.html)
+- [What does the US military’s feud with Anthropic mean for AI used in war?](https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military)
+- [When you should and shouldn't use AI chatbots as a therapist](https://www.cnbc.com/video/2026/03/07/when-you-should-and-shouldnt-use-ai-chatbots-as-a-therapist.html)
+- [Tool or terror: Publishers, educators talk AI in writing](https://www.record-eagle.com/news/lifestyles/tool-or-terror-publishers-educators-talk-ai-in-writing/article_c2e7e335-2b43-4f50-ad28-24ae7e5191b2.html)
+- [Shocking new evidence claims 'Jesus was never crucified'](https://www.the-express.com/news/uk-news/201255/british-filmmaker-claims-jesus-wasn-t-crucified)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
