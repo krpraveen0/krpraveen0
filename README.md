@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Whitmire: War doesn’t come without warning. In Washington, D.C., it’s advertised.](https://dothaneagle.com/news/state-regional/alabama/article_c765b6b7-1618-5638-ad08-6da1c41519be.html)
-- [What does the US military’s feud with Anthropic mean for AI used in war?](https://www.theguardian.com/technology/2026/mar/07/anthropic-claude-ai-pentagon-us-military)
-- [When you should and shouldn't use AI chatbots as a therapist](https://www.cnbc.com/video/2026/03/07/when-you-should-and-shouldnt-use-ai-chatbots-as-a-therapist.html)
-- [Tool or terror: Publishers, educators talk AI in writing](https://www.record-eagle.com/news/lifestyles/tool-or-terror-publishers-educators-talk-ai-in-writing/article_c2e7e335-2b43-4f50-ad28-24ae7e5191b2.html)
-- [Shocking new evidence claims 'Jesus was never crucified'](https://www.the-express.com/news/uk-news/201255/british-filmmaker-claims-jesus-wasn-t-crucified)
+- [Portugal promoting school success](https://www.theportugalnews.com/news/2026-03-08/portugal-promoting-school-success/985710)
+- [OpenClaw fever: why is China rushing to ‘raise a lobster’?](https://www.scmp.com/tech/tech-trends/article/3345865/openclaw-fever-why-china-rushing-raise-lobster)
+- [OpenAI Builds AI Search Engine to Rival Google with ChatGPT Tech](https://www.webpronews.com/openai-builds-ai-search-engine-to-rival-google-with-chatgpt-tech/)
+- [Starmer urged to launch WW2-style war bond plan to plug defence £28bn black hole](https://inews.co.uk/news/britons-offered-ww2-war-bonds-military-spending-4272056)
+- [Best AI Tools to Analyze Data in 2026: Top 10 Picks](https://www.analyticsinsight.net/artificial-intelligence/best-ai-tools-to-analyze-data-in-2026-top-10-picks)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
