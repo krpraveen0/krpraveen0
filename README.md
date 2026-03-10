@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Portugal promoting school success](https://www.theportugalnews.com/news/2026-03-08/portugal-promoting-school-success/985710)
-- [OpenClaw fever: why is China rushing to ‘raise a lobster’?](https://www.scmp.com/tech/tech-trends/article/3345865/openclaw-fever-why-china-rushing-raise-lobster)
-- [OpenAI Builds AI Search Engine to Rival Google with ChatGPT Tech](https://www.webpronews.com/openai-builds-ai-search-engine-to-rival-google-with-chatgpt-tech/)
-- [Starmer urged to launch WW2-style war bond plan to plug defence £28bn black hole](https://inews.co.uk/news/britons-offered-ww2-war-bonds-military-spending-4272056)
-- [Best AI Tools to Analyze Data in 2026: Top 10 Picks](https://www.analyticsinsight.net/artificial-intelligence/best-ai-tools-to-analyze-data-in-2026-top-10-picks)
+- [Marketeam.ai Redefines Chat Interface: Agents Now Architect and Compile Custom JavaScript UI in Real-Time](https://www.prnewswire.com/news-releases/marketeamai-redefines-chat-interface-agents-now-architect-and-compile-custom-javascript-ui-in-real-time-302708227.html)
+- [Samsung Galaxy S24 vs. S26: Should you upgrade to the latest model after two years?](https://www.zdnet.com/article/samsung-galaxy-s26-vs-s24/)
+- [From cricket pitch to Dalal Street: How a 22-year-old built around ₹36 crore quant fund](https://economictimes.indiatimes.com/news/india/from-cricket-pitch-to-dalal-street-how-a-22-year-old-built-around-36-crore-quant-fund/articleshow/129337584.cms)
+- [Fierce Healthcare Names SpotitEarly a “Fierce 15” Company of 2026](https://www.rutlandherald.com/news/business/fierce-healthcare-names-spotitearly-a-fierce-15-company-of-2026/article_074e9a79-f21a-56b5-9a2c-ceee08ab6cac.html)
+- [Fierce Healthcare Names SpotitEarly a “Fierce 15” Company of 2026](https://www.hastingstribune.com/ap/business/fierce-healthcare-names-spotitearly-a-fierce-15-company-of-2026/article_04a7f56b-a71c-5ea0-a031-91f5d798e862.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
