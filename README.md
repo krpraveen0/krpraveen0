@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Marketeam.ai Redefines Chat Interface: Agents Now Architect and Compile Custom JavaScript UI in Real-Time](https://www.prnewswire.com/news-releases/marketeamai-redefines-chat-interface-agents-now-architect-and-compile-custom-javascript-ui-in-real-time-302708227.html)
-- [Samsung Galaxy S24 vs. S26: Should you upgrade to the latest model after two years?](https://www.zdnet.com/article/samsung-galaxy-s26-vs-s24/)
-- [From cricket pitch to Dalal Street: How a 22-year-old built around ₹36 crore quant fund](https://economictimes.indiatimes.com/news/india/from-cricket-pitch-to-dalal-street-how-a-22-year-old-built-around-36-crore-quant-fund/articleshow/129337584.cms)
-- [Fierce Healthcare Names SpotitEarly a “Fierce 15” Company of 2026](https://www.rutlandherald.com/news/business/fierce-healthcare-names-spotitearly-a-fierce-15-company-of-2026/article_074e9a79-f21a-56b5-9a2c-ceee08ab6cac.html)
-- [Fierce Healthcare Names SpotitEarly a “Fierce 15” Company of 2026](https://www.hastingstribune.com/ap/business/fierce-healthcare-names-spotitearly-a-fierce-15-company-of-2026/article_04a7f56b-a71c-5ea0-a031-91f5d798e862.html)
+- [Brazilian and Haitian communities come together in Miami](https://ca.sports.yahoo.com/news/brazilian-haitian-communities-come-together-135400543.html)
+- [Former Democratic senator joins conservative Washington news outlet as columnist](https://www.foxnews.com/media/former-democratic-senator-joins-conservative-washington-news-outlet-columnist)
+- [Anthropic Launches AI Code Reviewer as ‘Vibe Coding’ Fuels Surge in Software Bugs](https://www.tekedia.com/anthropic-launches-ai-code-reviewer-as-vibe-coding-fuels-surge-in-software-bugs/)
+- [Navigating Change in Orange County’s High-End Real Estate Market](https://keycrew.co/journal/navigating-change-in-orange-countys-high-end-real-estate-market/)
+- [Artmarket.com publishes its 32nd Artprice Annual Report - The Art Market in 2025 - showing 12% growth, with the USA strengthening its dominant position. Plus... Gemini Deep Think's AI audit of Artprice's strategy for 2026/2030](https://www.manilatimes.net/2026/03/10/tmt-newswire/pr-newswire/artmarketcom-publishes-its-32nd-artprice-annual-report-the-art-market-in-2025-showing-12-growth-with-the-usa-strengthening-its-dominant-position-plus-gemini-deep-thinks-ai-audit-of-artprices-strategy-for-20262030/2297127)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
