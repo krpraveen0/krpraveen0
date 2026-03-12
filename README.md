@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Brazilian and Haitian communities come together in Miami](https://ca.sports.yahoo.com/news/brazilian-haitian-communities-come-together-135400543.html)
-- [Former Democratic senator joins conservative Washington news outlet as columnist](https://www.foxnews.com/media/former-democratic-senator-joins-conservative-washington-news-outlet-columnist)
-- [Anthropic Launches AI Code Reviewer as ‘Vibe Coding’ Fuels Surge in Software Bugs](https://www.tekedia.com/anthropic-launches-ai-code-reviewer-as-vibe-coding-fuels-surge-in-software-bugs/)
-- [Navigating Change in Orange County’s High-End Real Estate Market](https://keycrew.co/journal/navigating-change-in-orange-countys-high-end-real-estate-market/)
-- [Artmarket.com publishes its 32nd Artprice Annual Report - The Art Market in 2025 - showing 12% growth, with the USA strengthening its dominant position. Plus... Gemini Deep Think's AI audit of Artprice's strategy for 2026/2030](https://www.manilatimes.net/2026/03/10/tmt-newswire/pr-newswire/artmarketcom-publishes-its-32nd-artprice-annual-report-the-art-market-in-2025-showing-12-growth-with-the-usa-strengthening-its-dominant-position-plus-gemini-deep-thinks-ai-audit-of-artprices-strategy-for-20262030/2297127)
+- [Self-publish and be scammed: Jon’s tale of heartbreak highlights boom in fraudsters using AI to supercharge book swindles](https://www.theguardian.com/books/ng-interactive/2026/mar/12/ai-book-scams-publishing-fraud)
+- [From K-pop to Conan: How the academy is 'leaning into big cultural moments' for the Oscars](https://www.nbcnews.com/pop-culture/pop-culture-news/oscars-2026-academy-president-ceo-future-of-show-what-to-expect-rcna261823)
+- [President Tinubu Directs Ministries to Connect Nigerian Schools to Reliable Internet](https://thenews-chronicle.com/president-tinubu-directs-ministries-to-connect-nigerian-schools-to-reliable-internet/)
+- [Music Video For AI-Generated ‘Actress’ Tilly Norwood Gets Absolutely Wrecked](https://www.dailywire.com/news/music-video-for-ai-generated-actress-tilly-norwood-gets-absolutely-wrecked)
+- [Kion Gains Momentum with AI-Driven FinOps+ Platform](https://www.hastingstribune.com/ap/business/kion-gains-momentum-with-ai-driven-finops-platform/article_6405998a-549f-5f94-93c4-34eca2e27a65.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
