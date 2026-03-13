@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Self-publish and be scammed: Jon’s tale of heartbreak highlights boom in fraudsters using AI to supercharge book swindles](https://www.theguardian.com/books/ng-interactive/2026/mar/12/ai-book-scams-publishing-fraud)
-- [From K-pop to Conan: How the academy is 'leaning into big cultural moments' for the Oscars](https://www.nbcnews.com/pop-culture/pop-culture-news/oscars-2026-academy-president-ceo-future-of-show-what-to-expect-rcna261823)
-- [President Tinubu Directs Ministries to Connect Nigerian Schools to Reliable Internet](https://thenews-chronicle.com/president-tinubu-directs-ministries-to-connect-nigerian-schools-to-reliable-internet/)
-- [Music Video For AI-Generated ‘Actress’ Tilly Norwood Gets Absolutely Wrecked](https://www.dailywire.com/news/music-video-for-ai-generated-actress-tilly-norwood-gets-absolutely-wrecked)
-- [Kion Gains Momentum with AI-Driven FinOps+ Platform](https://www.hastingstribune.com/ap/business/kion-gains-momentum-with-ai-driven-finops-platform/article_6405998a-549f-5f94-93c4-34eca2e27a65.html)
+- [Telecel Ghana ready for 5G roll-out, backs open spectrum auction – CEO](https://www.myjoyonline.com/telecel-ghana-ready-for-5g-roll-out-backs-open-spectrum-auction-ceo/)
+- [Asprofin Bank Backs $10 Billion Multi-Region Data Center Program Across Emerging Markets across Qatar](https://techbullion.com/asprofin-bank-backs-10-billion-multi-region-data-center-program-across-emerging-markets-across-qatar/)
+- [China’s 2026 CAE Beijing Expo: How Robotics, AI, and Cultural Tourism Are Shaping the Future of Global Attractions!](https://www.travelandtourworld.com/news/article/chinas-2026-cae-beijing-expo-how-robotics-ai-and-cultural-tourism-are-shaping-the-future-of-global-attractions/)
+- [Pope Leo XIV’s balanced view of Artificial Intelligence](https://www.vaticannews.va/en/church/news/2026-03/javier-cercas-leo-xiv-balanced-view-artificial-intelligence.html)
+- [Core AI Holdings and Optimus Tech Launch OptiCore Datacenters to Power AI Research at R1 Universities](https://www.globenewswire.com/news-release/2026/03/12/3254820/0/en/Core-AI-Holdings-and-Optimus-Tech-Launch-OptiCore-Datacenters-to-Power-AI-Research-at-R1-Universities.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
