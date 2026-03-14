@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Telecel Ghana ready for 5G roll-out, backs open spectrum auction – CEO](https://www.myjoyonline.com/telecel-ghana-ready-for-5g-roll-out-backs-open-spectrum-auction-ceo/)
-- [Asprofin Bank Backs $10 Billion Multi-Region Data Center Program Across Emerging Markets across Qatar](https://techbullion.com/asprofin-bank-backs-10-billion-multi-region-data-center-program-across-emerging-markets-across-qatar/)
-- [China’s 2026 CAE Beijing Expo: How Robotics, AI, and Cultural Tourism Are Shaping the Future of Global Attractions!](https://www.travelandtourworld.com/news/article/chinas-2026-cae-beijing-expo-how-robotics-ai-and-cultural-tourism-are-shaping-the-future-of-global-attractions/)
-- [Pope Leo XIV’s balanced view of Artificial Intelligence](https://www.vaticannews.va/en/church/news/2026-03/javier-cercas-leo-xiv-balanced-view-artificial-intelligence.html)
-- [Core AI Holdings and Optimus Tech Launch OptiCore Datacenters to Power AI Research at R1 Universities](https://www.globenewswire.com/news-release/2026/03/12/3254820/0/en/Core-AI-Holdings-and-Optimus-Tech-Launch-OptiCore-Datacenters-to-Power-AI-Research-at-R1-Universities.html)
+- [Russia May Launch Fully Sovereign Internet by 2028, Experts Say](https://english.pravda.ru/russia/166171-russia-sovereign-internet-runet-2028/)
+- [US Stocks: Adobe shares drop further as CEO exit casts doubts over AI strategy](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-adobe-shares-drop-further-as-ceo-exit-casts-doubts-over-ai-strategy/articleshow/129556145.cms)
+- [Universities Vital to Achieving Viksit Bharat 2047: Governor](https://www.deccanchronicle.com/southern-states/andhra-pradesh/universities-vital-to-achieving-viksit-bharat-2047-governor-1943590)
+- [AI System Projects Makeup Onto User's Face](https://www.miragenews.com/ai-system-projects-makeup-onto-users-face-1636764/)
+- [Canada: Gradual labour recovery expected – RBC](https://www.fxstreet.com/news/canada-gradual-labour-recovery-expected-rbc-202603131356)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
