@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Russia May Launch Fully Sovereign Internet by 2028, Experts Say](https://english.pravda.ru/russia/166171-russia-sovereign-internet-runet-2028/)
-- [US Stocks: Adobe shares drop further as CEO exit casts doubts over AI strategy](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-adobe-shares-drop-further-as-ceo-exit-casts-doubts-over-ai-strategy/articleshow/129556145.cms)
-- [Universities Vital to Achieving Viksit Bharat 2047: Governor](https://www.deccanchronicle.com/southern-states/andhra-pradesh/universities-vital-to-achieving-viksit-bharat-2047-governor-1943590)
-- [AI System Projects Makeup Onto User's Face](https://www.miragenews.com/ai-system-projects-makeup-onto-users-face-1636764/)
-- [Canada: Gradual labour recovery expected – RBC](https://www.fxstreet.com/news/canada-gradual-labour-recovery-expected-rbc-202603131356)
+- [ByteDance reportedly finds workaround to access Nvidia’s latest AI chips](https://www.moneycontrol.com/technology/bytedance-reportedly-finds-workaround-to-access-nvidia-s-latest-ai-chips-article-13860184.html)
+- [🚨 Shortly after Wolfsburg exit, Popp’s new club already revealed](https://onefootball.com/en/news/shortly-after-wolfsburg-exit-popps-new-club-already-revealed-42556310)
+- [🚨 Shortly after Wolfsburg exit, Popp’s new club already confirmed](https://onefootball.com/en/news/shortly-after-wolfsburg-exit-popps-new-club-already-confirmed-42556310)
+- [🚨 Shortly after Wolfsburg exit, Popp’s new club already revealed](https://ca.sports.yahoo.com/news/shortly-wolfsburg-exit-popp-club-141900657.html)
+- [Value Legend Seth Klarman Just Made This His No. 2 Stock — Here’s Why It Was Irresistible](https://247wallst.com/investing/2026/03/14/value-legend-seth-klarman-just-made-this-his-no-2-stock-heres-why-it-was-irresistible/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
