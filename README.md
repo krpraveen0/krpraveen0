@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [ByteDance reportedly finds workaround to access Nvidia’s latest AI chips](https://www.moneycontrol.com/technology/bytedance-reportedly-finds-workaround-to-access-nvidia-s-latest-ai-chips-article-13860184.html)
-- [🚨 Shortly after Wolfsburg exit, Popp’s new club already revealed](https://onefootball.com/en/news/shortly-after-wolfsburg-exit-popps-new-club-already-revealed-42556310)
-- [🚨 Shortly after Wolfsburg exit, Popp’s new club already confirmed](https://onefootball.com/en/news/shortly-after-wolfsburg-exit-popps-new-club-already-confirmed-42556310)
-- [🚨 Shortly after Wolfsburg exit, Popp’s new club already revealed](https://ca.sports.yahoo.com/news/shortly-wolfsburg-exit-popp-club-141900657.html)
-- [Value Legend Seth Klarman Just Made This His No. 2 Stock — Here’s Why It Was Irresistible](https://247wallst.com/investing/2026/03/14/value-legend-seth-klarman-just-made-this-his-no-2-stock-heres-why-it-was-irresistible/)
+- [DTI chief Cristina Roque, mga ASEAN economic minister pinagtibay ang kooperasyon](https://tonite.abante.com.ph/dti-chief-cristina-roque-mga-asean-economic-minister-pinagtibay-ang-kooperasyon/news/)
+- [Efficiency at All Costs: Meta Eyes 20% Jobs Bloodbath to Fund AI Empire](https://247wallst.com/investing/2026/03/15/efficiency-at-all-costs-meta-eyes-20-jobs-bloodbath-to-fund-ai-empire/)
+- [Dubai Beaches Get Aquatic Rescue Robots, Drones To Support Lifeguards In Region First](https://menafn.com/1110863693/Dubai-Beaches-Get-Aquatic-Rescue-Robots-Drones-To-Support-Lifeguards-In-Region-First)
+- [UAE Fintech Sector Set To Reach $5.71 Billion By 2029 Amid Rapid Innovation Growth](https://menafn.com/1110863686/UAE-Fintech-Sector-Set-To-Reach-571-Billion-By-2029-Amid-Rapid-Innovation-Growth)
+- [How Women Can Shape The Future Of Intelligent Innovation](https://menafn.com/1110863689/How-Women-Can-Shape-The-Future-Of-Intelligent-Innovation)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
