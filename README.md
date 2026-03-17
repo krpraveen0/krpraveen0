@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [DTI chief Cristina Roque, mga ASEAN economic minister pinagtibay ang kooperasyon](https://tonite.abante.com.ph/dti-chief-cristina-roque-mga-asean-economic-minister-pinagtibay-ang-kooperasyon/news/)
-- [Efficiency at All Costs: Meta Eyes 20% Jobs Bloodbath to Fund AI Empire](https://247wallst.com/investing/2026/03/15/efficiency-at-all-costs-meta-eyes-20-jobs-bloodbath-to-fund-ai-empire/)
-- [Dubai Beaches Get Aquatic Rescue Robots, Drones To Support Lifeguards In Region First](https://menafn.com/1110863693/Dubai-Beaches-Get-Aquatic-Rescue-Robots-Drones-To-Support-Lifeguards-In-Region-First)
-- [UAE Fintech Sector Set To Reach $5.71 Billion By 2029 Amid Rapid Innovation Growth](https://menafn.com/1110863686/UAE-Fintech-Sector-Set-To-Reach-571-Billion-By-2029-Amid-Rapid-Innovation-Growth)
-- [How Women Can Shape The Future Of Intelligent Innovation](https://menafn.com/1110863689/How-Women-Can-Shape-The-Future-Of-Intelligent-Innovation)
+- [The Artificial Intelligence (AI) Inference Market Could Reach $255 Billion by 2030. This Stock Is Best Positioned to Win.](https://www.fool.com/investing/2026/03/16/artificial-intelligence-ai-inference-market-stock/)
+- [Why is Dow Jones up by 0.32%, S&P 500 by 0.64% and Nasdaq by 1.06%, and will US stock market indexes stay up or go down again? Wall Street rise, biggest gainers, losers, analysts insights and market outlook explained. Here's what should investors do now](https://economictimes.indiatimes.com/news/international/us/why-is-dow-jones-up-by-0-32-sp-500-by-0-64-and-nasdaq-by-1-06-and-will-us-stock-market-indexes-stay-up-or-go-down-again-wall-street-rise-biggest-gainers-losers-analysts-insights-and-market-outlook-explained-heres-what-should-investors-do-now/articleshow/129611625.cms)
+- [Over Netanyahu’s objections, Central Elections Committee chooses new legal adviser](https://www.timesofisrael.com/central-elections-committee-chooses-new-legal-adviser-over-netanyahus-objection/)
+- [Sensedia Launches The First Vendor-Agnostic Multi-Cloud AI Gateway Built For Enterprise-Scale Agent Governance](https://menafn.com/1110867896/Sensedia-Launches-The-First-Vendor-Agnostic-Multi-Cloud-AI-Gateway-Built-For-Enterprise-Scale-Agent-Governance)
+- [CHF: Intervention risk and safe-haven role – Rabobank](https://www.fxstreet.com/news/chf-intervention-risk-and-safe-haven-role-rabobank-202603161400)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
