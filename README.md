@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [The Artificial Intelligence (AI) Inference Market Could Reach $255 Billion by 2030. This Stock Is Best Positioned to Win.](https://www.fool.com/investing/2026/03/16/artificial-intelligence-ai-inference-market-stock/)
-- [Why is Dow Jones up by 0.32%, S&P 500 by 0.64% and Nasdaq by 1.06%, and will US stock market indexes stay up or go down again? Wall Street rise, biggest gainers, losers, analysts insights and market outlook explained. Here's what should investors do now](https://economictimes.indiatimes.com/news/international/us/why-is-dow-jones-up-by-0-32-sp-500-by-0-64-and-nasdaq-by-1-06-and-will-us-stock-market-indexes-stay-up-or-go-down-again-wall-street-rise-biggest-gainers-losers-analysts-insights-and-market-outlook-explained-heres-what-should-investors-do-now/articleshow/129611625.cms)
-- [Over Netanyahu’s objections, Central Elections Committee chooses new legal adviser](https://www.timesofisrael.com/central-elections-committee-chooses-new-legal-adviser-over-netanyahus-objection/)
-- [Sensedia Launches The First Vendor-Agnostic Multi-Cloud AI Gateway Built For Enterprise-Scale Agent Governance](https://menafn.com/1110867896/Sensedia-Launches-The-First-Vendor-Agnostic-Multi-Cloud-AI-Gateway-Built-For-Enterprise-Scale-Agent-Governance)
-- [CHF: Intervention risk and safe-haven role – Rabobank](https://www.fxstreet.com/news/chf-intervention-risk-and-safe-haven-role-rabobank-202603161400)
+- [Western Exploration Outlines 2026 Program to Advance Doby George Permitting and Expand Gravel Creek Resources](https://investingnews.com/western-exploration-outlines-2026-program-to-advance-doby-george-permitting-and-expand-gravel-creek-resources/)
+- [Web3mediabreaks ECGI Holdings Inc. (OTC: ECGI) Highlights Industry Attention For Rezyfi Mortgage Tokenization Pilot](https://menafn.com/1110873692/Web3mediabreaks-ECGI-Holdings-Inc-OTC-ECGI-Highlights-Industry-Attention-For-Rezyfi-Mortgage-Tokenization-Pilot)
+- [Bumble Incorporates AI Assistant To Boost User Experience](https://menafn.com/1110873694/Bumble-Incorporates-AI-Assistant-To-Boost-User-Experience)
+- [Defensenewsbreaks Safe Pro Group Inc. (NASDAQ: SPAI) Completes Participation In U.S. Army Tic 2.0 Autonomous Breach Event](https://menafn.com/1110873697/Defensenewsbreaks-Safe-Pro-Group-Inc-NASDAQ-SPAI-Completes-Participation-In-US-Army-Tic-20-Autonomous-Breach-Event)
+- [Distributed Acoustic Sensing Market to Reach US$ 6.5 Billion by 2033 Expands Amid Smart Infrastructure Monitoring and Fiber-Optic Innovation - Persistence Market Research](https://www.prnewswire.co.uk/news-releases/distributed-acoustic-sensing-market-to-reach-us-6-5-billion-by-2033-expands-amid-smart-infrastructure-monitoring-and-fiber-optic-innovation---persistence-market-research-302716100.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
