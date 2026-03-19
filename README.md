@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Western Exploration Outlines 2026 Program to Advance Doby George Permitting and Expand Gravel Creek Resources](https://investingnews.com/western-exploration-outlines-2026-program-to-advance-doby-george-permitting-and-expand-gravel-creek-resources/)
-- [Web3mediabreaks ECGI Holdings Inc. (OTC: ECGI) Highlights Industry Attention For Rezyfi Mortgage Tokenization Pilot](https://menafn.com/1110873692/Web3mediabreaks-ECGI-Holdings-Inc-OTC-ECGI-Highlights-Industry-Attention-For-Rezyfi-Mortgage-Tokenization-Pilot)
-- [Bumble Incorporates AI Assistant To Boost User Experience](https://menafn.com/1110873694/Bumble-Incorporates-AI-Assistant-To-Boost-User-Experience)
-- [Defensenewsbreaks Safe Pro Group Inc. (NASDAQ: SPAI) Completes Participation In U.S. Army Tic 2.0 Autonomous Breach Event](https://menafn.com/1110873697/Defensenewsbreaks-Safe-Pro-Group-Inc-NASDAQ-SPAI-Completes-Participation-In-US-Army-Tic-20-Autonomous-Breach-Event)
-- [Distributed Acoustic Sensing Market to Reach US$ 6.5 Billion by 2033 Expands Amid Smart Infrastructure Monitoring and Fiber-Optic Innovation - Persistence Market Research](https://www.prnewswire.co.uk/news-releases/distributed-acoustic-sensing-market-to-reach-us-6-5-billion-by-2033-expands-amid-smart-infrastructure-monitoring-and-fiber-optic-innovation---persistence-market-research-302716100.html)
+- [Open source-utvecklare ska få hjälp med alla AI-genererade felrapporter](https://computersweden.se/article/4147011/open-source-utvecklare-ska-fa-hjalp-med-alla-ai-genererade-felrapporter.html)
+- [How Broadcom (AVGO) Is Positioning for the Next Leg of AI Network Scaling](https://www.insidermonkey.com/blog/how-broadcom-avgo-is-positioning-for-the-next-leg-of-ai-network-scaling-1719669/)
+- [Elavon names Wally Mlynarski as new CEO](https://uk.investing.com/news/company-news/elavon-names-wally-mlynarski-as-new-ceo-93CH-4566004)
+- [Mystisk kraftfull AI-modell har dykt upp online – Hunter Alpha](https://computersweden.se/article/4147031/mystisk-kraftfull-ai-modell-har-dykt-upp-online-hunter-alpha.html)
+- [BOARDWALKTECH SIGNS NEW CONTRACT WITH SEMICONDUCTOR COMPANY](https://investingnews.com/boardwalktech-signs-new-contract-with-semiconductor-company/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
