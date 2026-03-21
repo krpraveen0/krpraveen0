@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [MarketsandMarkets Awarded on the Forbes America's Best Management Consulting Firms 2026 List](https://www.prnewswire.com/news-releases/marketsandmarkets-awarded-on-the-forbes-americas-best-management-consulting-firms-2026-list-302718826.html)
-- [Preimplantation Genetic Testing Market to Reach US$ 1,081.9 Million by 2033 Amid Rising IVF Adoption and Technological Innovation - Persistence Market Research](https://www.prnewswire.com/news-releases/preimplantation-genetic-testing-market-to-reach-us-1-081-9-million-by-2033-amid-rising-ivf-adoption-and-technological-innovation---persistence-market-research-302718703.html)
-- [Preimplantation Genetic Testing Market to Reach US$ 1,081.9 Million by 2033 Amid Rising IVF Adoption and Technological Innovation - Persistence Market Research](https://www.prnewswire.co.uk/news-releases/preimplantation-genetic-testing-market-to-reach-us-1-081-9-million-by-2033-amid-rising-ivf-adoption-and-technological-innovation---persistence-market-research-302718707.html)
-- [Nimble Appgenie Strengthens Position As A Trusted Social Media App Development Company In The USA](https://menafn.com/1110884409/Nimble-Appgenie-Strengthens-Position-As-A-Trusted-Social-Media-App-Development-Company-In-The-USA)
-- [Nvidia’s Networking Empire: The Multibillion-Dollar Business Hiding in Plain Sight Behind Its GPU Dominance](https://www.webpronews.com/nvidias-networking-empire-the-multibillion-dollar-business-hiding-in-plain-sight-behind-its-gpu-dominance/)
+- [Publisher Yanks Horror Novel Over Suspected AI Use](https://www.dailywire.com/news/publisher-yanks-horror-novel-over-suspected-ai-use)
+- [Russia to give itself sweeping powers to ban or restrict foreign AI tools](https://economictimes.indiatimes.com/tech/artificial-intelligence/russia-to-give-itself-sweeping-powers-to-ban-or-restrict-foreign-ai-tools/articleshow/129702520.cms)
+- [Xpeng reports revenue of around €9.6 billion](https://www.electrive.com/2026/03/20/xpeng-reports-revenue-of-around-e9-6-billion/)
+- [NTU Singapore, UMC Utrecht Unite on Global Health Issues](https://www.miragenews.com/ntu-singapore-umc-utrecht-unite-on-global-1641160/)
+- [MAGA has been swooning over a beautiful Army soldier and her pro-Trump message. She is AI](https://www.independent.co.uk/news/world/americas/us-politics/maga-ai-us-soldier-instagram-account-trump-b2942600.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
