@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Publisher Yanks Horror Novel Over Suspected AI Use](https://www.dailywire.com/news/publisher-yanks-horror-novel-over-suspected-ai-use)
-- [Russia to give itself sweeping powers to ban or restrict foreign AI tools](https://economictimes.indiatimes.com/tech/artificial-intelligence/russia-to-give-itself-sweeping-powers-to-ban-or-restrict-foreign-ai-tools/articleshow/129702520.cms)
-- [Xpeng reports revenue of around €9.6 billion](https://www.electrive.com/2026/03/20/xpeng-reports-revenue-of-around-e9-6-billion/)
-- [NTU Singapore, UMC Utrecht Unite on Global Health Issues](https://www.miragenews.com/ntu-singapore-umc-utrecht-unite-on-global-1641160/)
-- [MAGA has been swooning over a beautiful Army soldier and her pro-Trump message. She is AI](https://www.independent.co.uk/news/world/americas/us-politics/maga-ai-us-soldier-instagram-account-trump-b2942600.html)
+- [‘9% hike looks high vs US, UK, but inflation eats gains’: Experts say middle class sees no real rise](https://www.businesstoday.in/latest/corporate/story/9-hike-looks-high-vs-us-uk-but-inflation-eats-gains-experts-say-middle-class-sees-no-real-rise-521720-2026-03-21)
+- [Lantern Pharma Showcases RADR AI: 70%-80% Faster Drug-to-Clinic Push, 12 FDA Designations](https://www.tickerreport.com/banking-finance/13388088/lantern-pharma-showcases-radr-ai-70-80-faster-drug-to-clinic-push-12-fda-designations.html)
+- [Taiwans Leader Says Two Nuclear Power Plants Meet Conditions To Restart](https://www.freemalaysiatoday.com/category/world/2026/03/21/taiwans-leader-says-two-nuclear-power-plants-meet-conditions-to-restart)
+- [OpenAI plans to almost double its headcount this year: Report](https://www.moneycontrol.com/artificial-intelligence/openai-plans-to-almost-double-its-headcount-this-year-report-article-13866843.html)
+- [Thousands of people are selling their identities to train AI – but at what cost?](https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
