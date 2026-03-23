@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [‘9% hike looks high vs US, UK, but inflation eats gains’: Experts say middle class sees no real rise](https://www.businesstoday.in/latest/corporate/story/9-hike-looks-high-vs-us-uk-but-inflation-eats-gains-experts-say-middle-class-sees-no-real-rise-521720-2026-03-21)
-- [Lantern Pharma Showcases RADR AI: 70%-80% Faster Drug-to-Clinic Push, 12 FDA Designations](https://www.tickerreport.com/banking-finance/13388088/lantern-pharma-showcases-radr-ai-70-80-faster-drug-to-clinic-push-12-fda-designations.html)
-- [Taiwans Leader Says Two Nuclear Power Plants Meet Conditions To Restart](https://www.freemalaysiatoday.com/category/world/2026/03/21/taiwans-leader-says-two-nuclear-power-plants-meet-conditions-to-restart)
-- [OpenAI plans to almost double its headcount this year: Report](https://www.moneycontrol.com/artificial-intelligence/openai-plans-to-almost-double-its-headcount-this-year-report-article-13866843.html)
-- [Thousands of people are selling their identities to train AI – but at what cost?](https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost)
+- [Micron CEO drops a bombshell after Micron’s huge earnings beat](https://www.thestreet.com/investing/micron-ceo-drops-a-bombshell-after-microns-huge-earnings-beat)
+- [Micron CEO drops a bombshell after Micron’s huge earnings beat](https://www.capjournal.com/arena/finance/micron-ceo-drops-a-bombshell-after-micron-s-huge-earnings-beat/article_ce18e03b-ea22-5393-ae46-174f4eeadf89.html)
+- [Musk says he’s building Terafab chip plant in Austin, Texas](https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant)
+- [[WT논평] Artificial intelligence doth murder art(I)](https://www.segye.com/newsView/20260322508902)
+- [Readers Respond to Health Insurance Chaos for Providence Customers](https://www.wweek.com/news/dialogue/2026/03/21/readers-respond-to-health-insurance-chaos-for-providence-customers/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
