@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Micron CEO drops a bombshell after Micron’s huge earnings beat](https://www.thestreet.com/investing/micron-ceo-drops-a-bombshell-after-microns-huge-earnings-beat)
-- [Micron CEO drops a bombshell after Micron’s huge earnings beat](https://www.capjournal.com/arena/finance/micron-ceo-drops-a-bombshell-after-micron-s-huge-earnings-beat/article_ce18e03b-ea22-5393-ae46-174f4eeadf89.html)
-- [Musk says he’s building Terafab chip plant in Austin, Texas](https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant)
-- [[WT논평] Artificial intelligence doth murder art(I)](https://www.segye.com/newsView/20260322508902)
-- [Readers Respond to Health Insurance Chaos for Providence Customers](https://www.wweek.com/news/dialogue/2026/03/21/readers-respond-to-health-insurance-chaos-for-providence-customers/)
+- [Dell adds quantum-ready cyber protection across products](https://itbrief.asia/story/dell-adds-quantum-ready-cyber-protection-across-products)
+- [Dell adds quantum-ready cyber protection across products](https://itbrief.com.au/story/dell-adds-quantum-ready-cyber-protection-across-products)
+- [The Louisiana Health Department is considering AI to save money, agency leader says](https://www.livingstonparishnews.com/stories/the-louisiana-health-department-is-considering-ai-to-save-money-agency-leader-says,210140)
+- [U.S. Army Places $52+ Million Order for Skydio X10D, the Largest Single-Vendor Tactical sUAS Order in Army History](https://www.benzinga.com/pressreleases/26/03/n51406505/u-s-army-places-52-million-order-for-skydio-x10d-the-largest-single-vendor-tactical-suas-order-in-)
+- [Post Malone's £2.3million luxury doomsday bunker with basketball court and wine cellar](https://www.dailystar.co.uk/showbiz/post-malones-23million-luxury-doomsday-36887995)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
