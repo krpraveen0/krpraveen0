@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Redington convenes enterprise and government leaders in Angola to advance next phase of digital transformation](https://www.zawya.com/en/press-release/events-and-conferences/redington-convenes-enterprise-and-government-leaders-in-angola-to-advance-next-phase-of-digital-transformation-ovrdbo7c)
-- [Chef Michael Ceraldi to headline Lower Cape food pantry fundraiser](https://www.wickedlocal.com/story/news/local/2026/03/24/chef-michael-ceraldi-to-headline-lower-cape-chefs-challenge/89138302007/)
-- [It’s official, Antoine Griezmann joins MLS after Atlético spell](https://onefootball.com/en/news/its-official-antoine-griezmann-joins-mls-after-atletico-spell-42609090)
-- [It’s official, Antoine Griezmann will play in MLS after Atlético spell](https://onefootball.com/en/news/its-official-antoine-griezmann-will-play-in-mls-after-atletico-spell-42609090)
-- [Wall Street Thinks These 5 Stocks Could Be the Next Big Winners](https://247wallst.com/investing/2026/03/24/wall-street-thinks-these-5-stocks-could-be-the-next-big-winners/)
+- [Trump taps Mark Zuckerberg, Larry Ellison and Jensen Huang to lead White House tech panel](https://www.firstpost.com/tech/trump-taps-mark-zuckerberg-larry-ellison-and-jensen-huang-to-lead-white-house-tech-panel-13993212.html)
+- [Nova Siri vai funcionar em todos os serviços da Apple com o iOS 27](https://tek.sapo.pt/mobile/ios/artigos/nova-siri-vai-funcionar-em-todos-os-servicos-da-apple-com-o-ios-27/)
+- [Meta to lay off hundreds of employees, The Information reports](https://www.reuters.com/business/world-at-work/meta-lay-off-hundreds-employees-information-reports-2026-03-25/)
+- [Why OpenAI Abruptly Killed Sora and Blindsided Disney](https://www.abacusnews.com/why-openai-abruptly-killed-sora-and-blindsided-disney/)
+- [Meta to lay off hundreds of employees, The Information reports](https://finance.yahoo.com/markets/stocks/articles/meta-lay-off-hundreds-employees-141106014.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
