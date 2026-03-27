@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Trump taps Mark Zuckerberg, Larry Ellison and Jensen Huang to lead White House tech panel](https://www.firstpost.com/tech/trump-taps-mark-zuckerberg-larry-ellison-and-jensen-huang-to-lead-white-house-tech-panel-13993212.html)
-- [Nova Siri vai funcionar em todos os serviços da Apple com o iOS 27](https://tek.sapo.pt/mobile/ios/artigos/nova-siri-vai-funcionar-em-todos-os-servicos-da-apple-com-o-ios-27/)
-- [Meta to lay off hundreds of employees, The Information reports](https://www.reuters.com/business/world-at-work/meta-lay-off-hundreds-employees-information-reports-2026-03-25/)
-- [Why OpenAI Abruptly Killed Sora and Blindsided Disney](https://www.abacusnews.com/why-openai-abruptly-killed-sora-and-blindsided-disney/)
-- [Meta to lay off hundreds of employees, The Information reports](https://finance.yahoo.com/markets/stocks/articles/meta-lay-off-hundreds-employees-141106014.html)
+- [Artificial intelligence is no substitute for human abilities](https://www.thehartwellsun.com/opinion-editorial/artificial-intelligence-no-substitute-human-abilities)
+- [Economics Is A Science, Like Pinball Or Craps](https://www.beaufortcountynow.com/post/95566/economics-is-a-science-like-pinball-or-craps.html)
+- [Claude AI Just Learned How to Use Your Mouse & Keyboard](https://www.geeky-gadgets.com/claude-computer-control-2/)
+- [US jobless claims hit 210,000 as labour market cools gradually](https://invezz.com/news/2026/03/26/us-jobless-claims-hit-210000-as-labour-market-cools-gradually/)
+- [Nvidia Just Reported a $1 Trillion Order Pipeline. Why Is the Stock Barely Moving? Here's What Investors Are Missing.](https://www.fool.com/investing/2026/03/26/nvidia-just-reported-a-1-trillion-order-pipeline-w/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
