@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Artificial intelligence is no substitute for human abilities](https://www.thehartwellsun.com/opinion-editorial/artificial-intelligence-no-substitute-human-abilities)
-- [Economics Is A Science, Like Pinball Or Craps](https://www.beaufortcountynow.com/post/95566/economics-is-a-science-like-pinball-or-craps.html)
-- [Claude AI Just Learned How to Use Your Mouse & Keyboard](https://www.geeky-gadgets.com/claude-computer-control-2/)
-- [US jobless claims hit 210,000 as labour market cools gradually](https://invezz.com/news/2026/03/26/us-jobless-claims-hit-210000-as-labour-market-cools-gradually/)
-- [Nvidia Just Reported a $1 Trillion Order Pipeline. Why Is the Stock Barely Moving? Here's What Investors Are Missing.](https://www.fool.com/investing/2026/03/26/nvidia-just-reported-a-1-trillion-order-pipeline-w/)
+- [Kyrgyzstan to host next Eurasian Intergovernmental Council meeting in August](https://eng.belta.by/politics/view/kyrgyzstan-to-host-next-eurasian-intergovernmental-council-meeting-in-august-178421-2026/)
+- [DLSU is country’s top private university in 2026 EduRank standings](https://journal.com.ph/dlsu-is-countrys-top-private-university-in-2026-edurank-standings/)
+- [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
+- [B.C. launches new marine, coastal testbed](https://vernonmorningstar.com/2026/03/27/b-c-launches-new-marine-coastal-testbed/)
+- [B.C. launches new marine, coastal testbed](https://terracestandard.com/2026/03/27/b-c-launches-new-marine-coastal-testbed/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
