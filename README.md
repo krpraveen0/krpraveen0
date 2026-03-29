@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Kyrgyzstan to host next Eurasian Intergovernmental Council meeting in August](https://eng.belta.by/politics/view/kyrgyzstan-to-host-next-eurasian-intergovernmental-council-meeting-in-august-178421-2026/)
-- [DLSU is country’s top private university in 2026 EduRank standings](https://journal.com.ph/dlsu-is-countrys-top-private-university-in-2026-edurank-standings/)
-- [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
-- [B.C. launches new marine, coastal testbed](https://vernonmorningstar.com/2026/03/27/b-c-launches-new-marine-coastal-testbed/)
-- [B.C. launches new marine, coastal testbed](https://terracestandard.com/2026/03/27/b-c-launches-new-marine-coastal-testbed/)
+- [डिजिटल कुम्भ 2027 में AI और IoT का इस्तेमाल](https://bhadas4india.com/use-of-ai-and-iot-in-digital-kumbh-2027/)
+- [Makin Dilirik, Siap Tampil di Binance Square AMA dan Perluas Ekspansi Global](https://jawapos.com/ekonomi/2603280209/makin-dilirik-siap-tampil-di-binance-square-ama-dan-perluas-ekspansi-global)
+- [Unlock Your Potential: Top Business Ideas for Home-Based Entrepreneurs in 2026](https://techannouncer.com/unlock-your-potential-top-business-ideas-for-home-based-entrepreneurs-in-2026/)
+- [Clash of Allegations: TMC Issues Counter Chargesheet Against BJP](https://thecsrjournal.in/clash-of-allegations-tmc-issues-counter-chargesheet-against-bjp/)
+- [Cyber fraud cases surge in Himachal, 585 cases in 3 years: CM Sukhu](https://theprint.in/india/cyber-fraud-cases-surge-in-himachal-585-cases-in-3-years-cm-sukhu/2891201/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
