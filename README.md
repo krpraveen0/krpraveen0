@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [डिजिटल कुम्भ 2027 में AI और IoT का इस्तेमाल](https://bhadas4india.com/use-of-ai-and-iot-in-digital-kumbh-2027/)
-- [Makin Dilirik, Siap Tampil di Binance Square AMA dan Perluas Ekspansi Global](https://jawapos.com/ekonomi/2603280209/makin-dilirik-siap-tampil-di-binance-square-ama-dan-perluas-ekspansi-global)
-- [Unlock Your Potential: Top Business Ideas for Home-Based Entrepreneurs in 2026](https://techannouncer.com/unlock-your-potential-top-business-ideas-for-home-based-entrepreneurs-in-2026/)
-- [Clash of Allegations: TMC Issues Counter Chargesheet Against BJP](https://thecsrjournal.in/clash-of-allegations-tmc-issues-counter-chargesheet-against-bjp/)
-- [Cyber fraud cases surge in Himachal, 585 cases in 3 years: CM Sukhu](https://theprint.in/india/cyber-fraud-cases-surge-in-himachal-585-cases-in-3-years-cm-sukhu/2891201/)
+- [UK's 10 most popular jobs includes one with an average salary of £61,000](https://www.bristolpost.co.uk/whats-on/uks-10-most-popular-jobs-10891971)
+- [Los neoyorquinos pueden prepararse para “El día de la revelación” con una maratón de sci-fi de Spielberg](https://es.gizmodo.com/los-neoyorquinos-pueden-prepararse-para-el-dia-de-la-revelacion-con-una-maraton-de-sci-fi-de-spielberg-2000229224)
+- [Apple Poaches Google’s AI Marketing Chief in a Signal That Siri’s Reinvention Is Now a Boardroom Priority](https://www.webpronews.com/apple-poaches-googles-ai-marketing-chief-in-a-signal-that-siris-reinvention-is-now-a-boardroom-priority/)
+- [Bittensor ecosystem tokens' value hits $1.5 billion as TAO rockets 90% in March](https://us.headtopics.com/news/bittensor-ecosystem-tokens-value-hits-1-5-billion-as-tao-81586593)
+- [Sony to Increase PlayStation 5 Prices Amidst Global Economic Pressures](https://us.headtopics.com/news/sony-to-increase-playstation-5-prices-amidst-global-81587050)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
