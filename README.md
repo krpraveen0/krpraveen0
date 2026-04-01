@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 6.6 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 6.7 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Business News | Industrial Investments Must Flow Through MSMEs to Benefit Common Citizens: Industrialist Suresh Samantham](https://www.latestly.com/agency-news/business-news-industrial-investments-must-flow-through-msmes-to-benefit-common-citizens-industrialist-suresh-samantham-7373323.html)
-- [The Gilded Age of Silicon Valley: How a Handful of Tech Titans Became America’s New Power Brokers](https://www.webpronews.com/the-gilded-age-of-silicon-valley-how-a-handful-of-tech-titans-became-americas-new-power-brokers/)
-- [Deep learning reveals how auditory cortex neurons split up natural sound coding](https://medicalxpress.com/news/2026-03-deep-reveals-auditory-cortex-neurons.html)
-- [SF Intra-city Reports Record-high Revenue of RMB 22.9 Billion in 2025](https://www.prnewswire.com/apac/news-releases/sf-intracity-reports-recordhigh-revenue-of-rmb-22-9-billion-in-2025--302728744.html)
-- [SF Intra-city Reports Record-high Revenue of RMB 22.9 Billion in 2025](https://en.prnasia.com/story/527391-0.shtml)
+- [AI helps to evaluate skin lesions in rare disease more accurately, suggests study](https://medicaldialogues.in/dermatology/news/ai-helps-to-evaluate-skin-lesions-in-rare-disease-more-accurately-suggests-study-167162)
+- [The Good, the Bad and the Ugly: The Human Cost of AI without Guardrails](https://news.clearancejobs.com/2026/03/31/the-good-the-bad-and-the-ugly-the-human-cost-of-ai-without-guardrails/)
+- [Runway AI’s Bold $10M Bet: Exclusive Look at the Fund Reshaping Early-Stage Startup Innovation](https://bitcoinworld.co.in/runway-ai-10m-fund-startups/)
+- [IBM and ETH Zurich join forces to shape the future of algorithms for the AI and quantum era | AAP](https://aap.com.au/aapreleases/cision20260331ae23597/)
+- [Digital Identity Solutions Market Surges to $132.14 billion by 2031 | CAGR 20.0%](https://www.globenewswire.com/fr/news-release/2026/03/31/3265727/0/en/Digital-Identity-Solutions-Market-Surges-to-132-14-billion-by-2031-CAGR-20-0.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
