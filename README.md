@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI helps to evaluate skin lesions in rare disease more accurately, suggests study](https://medicaldialogues.in/dermatology/news/ai-helps-to-evaluate-skin-lesions-in-rare-disease-more-accurately-suggests-study-167162)
-- [The Good, the Bad and the Ugly: The Human Cost of AI without Guardrails](https://news.clearancejobs.com/2026/03/31/the-good-the-bad-and-the-ugly-the-human-cost-of-ai-without-guardrails/)
-- [Runway AI’s Bold $10M Bet: Exclusive Look at the Fund Reshaping Early-Stage Startup Innovation](https://bitcoinworld.co.in/runway-ai-10m-fund-startups/)
-- [IBM and ETH Zurich join forces to shape the future of algorithms for the AI and quantum era | AAP](https://aap.com.au/aapreleases/cision20260331ae23597/)
-- [Digital Identity Solutions Market Surges to $132.14 billion by 2031 | CAGR 20.0%](https://www.globenewswire.com/fr/news-release/2026/03/31/3265727/0/en/Digital-Identity-Solutions-Market-Surges-to-132-14-billion-by-2031-CAGR-20-0.html)
+- [Judge Andrew P. Napolitano: War and morality](https://www.nvdaily.com/nvdaily/judge-andrew-p-napolitano-war-and-morality/article_2dd8dd14-ef7f-553d-8935-fa8555350d34.html)
+- [Solving the challenges facing NI’s public sector leaders begins with regaining trust](https://sluggerotoole.com/2026/04/01/solving-the-challenges-facing-nis-public-sector-leaders-begins-with-regaining-trust/)
+- [STAT+: Insilico Medicine CEO on how best to use AI in drug development](https://www.statnews.com/2026/04/01/insilico-medicine-ceo-biotech-drug-development-ai-prognosis/)
+- [LIVE4WELL to Showcase at 2026 Smart Retirement Expo Hong Kong’ s Most Comprehensive AI Health Management Experience Zone Combines Medical-Grade Technology to Redefine Health Capital](https://thearabianpost.com/live4well-to-showcase-at-2026-smart-retirement-expo-hong-kong-s-most-comprehensive-ai-health-management-experience-zone-combines-medical-grade-technology-to-redefine-health-capital/)
+- [Two Faces Speaking: When Language Barriers Disappear](https://pjmedia.com/jamie-wilson/2026/04/01/two-faces-speaking-when-language-barriers-disappear-n4951328)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
