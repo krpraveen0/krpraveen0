@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Judge Andrew P. Napolitano: War and morality](https://www.nvdaily.com/nvdaily/judge-andrew-p-napolitano-war-and-morality/article_2dd8dd14-ef7f-553d-8935-fa8555350d34.html)
-- [Solving the challenges facing NI’s public sector leaders begins with regaining trust](https://sluggerotoole.com/2026/04/01/solving-the-challenges-facing-nis-public-sector-leaders-begins-with-regaining-trust/)
-- [STAT+: Insilico Medicine CEO on how best to use AI in drug development](https://www.statnews.com/2026/04/01/insilico-medicine-ceo-biotech-drug-development-ai-prognosis/)
-- [LIVE4WELL to Showcase at 2026 Smart Retirement Expo Hong Kong’ s Most Comprehensive AI Health Management Experience Zone Combines Medical-Grade Technology to Redefine Health Capital](https://thearabianpost.com/live4well-to-showcase-at-2026-smart-retirement-expo-hong-kong-s-most-comprehensive-ai-health-management-experience-zone-combines-medical-grade-technology-to-redefine-health-capital/)
-- [Two Faces Speaking: When Language Barriers Disappear](https://pjmedia.com/jamie-wilson/2026/04/01/two-faces-speaking-when-language-barriers-disappear-n4951328)
+- [Planet Ventures Announces Strategic Investment in Antaris Following $28 Million Series A Financing](https://investingnews.com/planet-ventures-announces-strategic-investment-in-antaris-following-28-million-series-a-financing/)
+- [Palm Beach Zoo welcomes three new capybara pups, see photos, video](https://www.palmbeachpost.com/story/news/local/2026/04/02/west-palm-beach-zoo-welcomes-three-capybara-pups/89425967007/)
+- [Udupi: Students Of SMVITM get runner- up prize in “Sentia-2026”](https://daijiworld.com/news/newsDisplay?newsID=1310822)
+- [Prabowo Raih Komitmen Investasi Rp 574 Triliun dari Jepang dan Korsel](https://www.viva.co.id/bisnis/1889553-prabowo-raih-komitmen-investasi-rp-574-triliun-dari-jepang-dan-korsel)
+- ["A Defining Moment": Nano Nuclear Submits Construction Permit For Kronos Reactor In Illinois](https://www.zerohedge.com/markets/defining-moment-nano-nuclear-submits-construction-permit-kronos-reactor-illinois)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
