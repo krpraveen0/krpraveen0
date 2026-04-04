@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Planet Ventures Announces Strategic Investment in Antaris Following $28 Million Series A Financing](https://investingnews.com/planet-ventures-announces-strategic-investment-in-antaris-following-28-million-series-a-financing/)
-- [Palm Beach Zoo welcomes three new capybara pups, see photos, video](https://www.palmbeachpost.com/story/news/local/2026/04/02/west-palm-beach-zoo-welcomes-three-capybara-pups/89425967007/)
-- [Udupi: Students Of SMVITM get runner- up prize in “Sentia-2026”](https://daijiworld.com/news/newsDisplay?newsID=1310822)
-- [Prabowo Raih Komitmen Investasi Rp 574 Triliun dari Jepang dan Korsel](https://www.viva.co.id/bisnis/1889553-prabowo-raih-komitmen-investasi-rp-574-triliun-dari-jepang-dan-korsel)
-- ["A Defining Moment": Nano Nuclear Submits Construction Permit For Kronos Reactor In Illinois](https://www.zerohedge.com/markets/defining-moment-nano-nuclear-submits-construction-permit-kronos-reactor-illinois)
+- [Yilwatda: Shedding of Innocent Blood in Plateau Must no Longer Be Treated with Routine Outrage](https://www.thisdaylive.com/2026/04/03/yilwatda-shedding-of-innocent-blood-in-plateau-must-no-longer-be-treated-with-routine-outrage/)
+- [Decorated drinking glasses recalled over health risks](https://timesofmalta.com/article/decorated-drinking-glasses-recalled-health-risks.1126436)
+- [Pacifico demands revocation reversal](https://www.hcnews.com/stories/pacifico-demands-revocation-reversal,120041)
+- [AI Applied: Practical AI Strategies For Leaders Getting Started](https://menafn.com/1110940433/AI-Applied-Practical-AI-Strategies-For-Leaders-Getting-Started)
+- [SpaceX’s stratospheric IPO hopes, OpenAI’s ridiculous round and the agentic AI gap](https://siliconangle.com/2026/04/03/spacexs-stratospheric-ipo-hopes-openais-ridiculous-round-agentic-ai-gap/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
