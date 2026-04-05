@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Yilwatda: Shedding of Innocent Blood in Plateau Must no Longer Be Treated with Routine Outrage](https://www.thisdaylive.com/2026/04/03/yilwatda-shedding-of-innocent-blood-in-plateau-must-no-longer-be-treated-with-routine-outrage/)
-- [Decorated drinking glasses recalled over health risks](https://timesofmalta.com/article/decorated-drinking-glasses-recalled-health-risks.1126436)
-- [Pacifico demands revocation reversal](https://www.hcnews.com/stories/pacifico-demands-revocation-reversal,120041)
-- [AI Applied: Practical AI Strategies For Leaders Getting Started](https://menafn.com/1110940433/AI-Applied-Practical-AI-Strategies-For-Leaders-Getting-Started)
-- [SpaceX’s stratospheric IPO hopes, OpenAI’s ridiculous round and the agentic AI gap](https://siliconangle.com/2026/04/03/spacexs-stratospheric-ipo-hopes-openais-ridiculous-round-agentic-ai-gap/)
+- [VIDA Rilis Whitepaper 2026: Waspadai Evolusi Scam Berbasis Deepfake di Asia Tenggara](https://koran-jakarta.com/2026-04-04/vida-rilis-whitepaper-2026-waspadai-evolusi-scam-berbasis-deepfake-di-asia-tenggara)
+- [IRGC Gempur Pusat Raksasa AI Milik AS dan Pangkalan Rudal Patriot Amerika di Teluk](https://wartakota.tribunnews.com/news/886287/irgc-gempur-pusat-raksasa-ai-milik-as-dan-pangkalan-rudal-patriot-amerika-di-teluk)
+- [AP Technology SummaryBrief at 10:20 a.m. EDT](http://www.harrisondaily.com/stories/ap-technology-summarybrief-at-1020-am-edt,371499)
+- [AP Technology SummaryBrief at 10:20 a.m. EDT](https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-10-20-a-m-edt/article_efa4456f-e19d-562f-9c43-ce835d250693.html)
+- [AP Technology SummaryBrief at 10:20 a.m. EDT](https://www.westplainsdailyquill.net/stories/ap-technology-summarybrief-at-1020-am-edt,221116)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
