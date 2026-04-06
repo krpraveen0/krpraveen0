@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [VIDA Rilis Whitepaper 2026: Waspadai Evolusi Scam Berbasis Deepfake di Asia Tenggara](https://koran-jakarta.com/2026-04-04/vida-rilis-whitepaper-2026-waspadai-evolusi-scam-berbasis-deepfake-di-asia-tenggara)
-- [IRGC Gempur Pusat Raksasa AI Milik AS dan Pangkalan Rudal Patriot Amerika di Teluk](https://wartakota.tribunnews.com/news/886287/irgc-gempur-pusat-raksasa-ai-milik-as-dan-pangkalan-rudal-patriot-amerika-di-teluk)
-- [AP Technology SummaryBrief at 10:20 a.m. EDT](http://www.harrisondaily.com/stories/ap-technology-summarybrief-at-1020-am-edt,371499)
-- [AP Technology SummaryBrief at 10:20 a.m. EDT](https://www.dailyrecordnews.com/ap_news/hitech/ap-technology-summarybrief-at-10-20-a-m-edt/article_efa4456f-e19d-562f-9c43-ce835d250693.html)
-- [AP Technology SummaryBrief at 10:20 a.m. EDT](https://www.westplainsdailyquill.net/stories/ap-technology-summarybrief-at-1020-am-edt,221116)
+- [A $1.8 Billion Company With Two Employees? AI Made It Possible](https://gvwire.com/2026/04/05/a-1-8-billion-company-with-two-employees-ai-made-it-possible/)
+- [Screenwriters union, Hollywood studios reach four-year tentative agreement](https://abcnews.com/Business/wireStory/screenwriters-union-hollywood-studios-reach-year-tentative-agreement-131741257)
+- [AI is fuelling the 'digital colonisation' of Africa, warns UN scientist](https://www.rfi.fr/en/africa/20260405-ai-is-fuelling-the-digital-colonisation-of-africa-warns-un-scientist)
+- [AI is fuelling the 'digital colonisation' of Africa, warns UN scientist](https://ca.news.yahoo.com/ai-fuelling-digital-colonisation-africa-142008341.html)
+- [The AI–SOC paradox: Why India’s cybersecurity ambitions are outpacing execution](https://www.expresscomputer.in/news/the-ai-soc-paradox-why-indias-cybersecurity-ambitions-are-outpacing-execution/134102/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
