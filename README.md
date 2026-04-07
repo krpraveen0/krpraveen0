@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [A $1.8 Billion Company With Two Employees? AI Made It Possible](https://gvwire.com/2026/04/05/a-1-8-billion-company-with-two-employees-ai-made-it-possible/)
-- [Screenwriters union, Hollywood studios reach four-year tentative agreement](https://abcnews.com/Business/wireStory/screenwriters-union-hollywood-studios-reach-year-tentative-agreement-131741257)
-- [AI is fuelling the 'digital colonisation' of Africa, warns UN scientist](https://www.rfi.fr/en/africa/20260405-ai-is-fuelling-the-digital-colonisation-of-africa-warns-un-scientist)
-- [AI is fuelling the 'digital colonisation' of Africa, warns UN scientist](https://ca.news.yahoo.com/ai-fuelling-digital-colonisation-africa-142008341.html)
-- [The AI–SOC paradox: Why India’s cybersecurity ambitions are outpacing execution](https://www.expresscomputer.in/news/the-ai-soc-paradox-why-indias-cybersecurity-ambitions-are-outpacing-execution/134102/)
+- [Hormel modernizes supply chain with AI planning platform](https://www.supplychaindive.com/news/hormel-supply-chain-ai-planning-platform/816293/)
+- [Nearly Two-Thirds Of Retail Investors Now Use AI To Inform Investment Decisions, Investing Survey Finds](https://menafn.com/1110948281/Nearly-Two-Thirds-Of-Retail-Investors-Now-Use-AI-To-Inform-Investment-Decisions-Investing-Survey-Finds)
+- [Jharkhand: Two-day R&D fair ‘IInvenTiv 2026’ begins at Dhanbad’s IIT (ISM)](https://theprint.in/india/jharkhand-two-day-rd-fair-iinventiv-2026-begins-at-dhanbads-iit-ism/2897932/)
+- [Inquiry: Bringing AI To Health Care](https://www.miragenews.com/inquiry-bringing-ai-to-health-care-1650578/)
+- [AP says it will offer buyouts as part of pivot away from newspaper journalism](https://www.ctvnews.ca/business/article/ap-says-it-will-offer-buyouts-as-part-of-pivot-away-from-newspaper-journalism/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
