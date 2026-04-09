@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Hormel modernizes supply chain with AI planning platform](https://www.supplychaindive.com/news/hormel-supply-chain-ai-planning-platform/816293/)
-- [Nearly Two-Thirds Of Retail Investors Now Use AI To Inform Investment Decisions, Investing Survey Finds](https://menafn.com/1110948281/Nearly-Two-Thirds-Of-Retail-Investors-Now-Use-AI-To-Inform-Investment-Decisions-Investing-Survey-Finds)
-- [Jharkhand: Two-day R&D fair ‘IInvenTiv 2026’ begins at Dhanbad’s IIT (ISM)](https://theprint.in/india/jharkhand-two-day-rd-fair-iinventiv-2026-begins-at-dhanbads-iit-ism/2897932/)
-- [Inquiry: Bringing AI To Health Care](https://www.miragenews.com/inquiry-bringing-ai-to-health-care-1650578/)
-- [AP says it will offer buyouts as part of pivot away from newspaper journalism](https://www.ctvnews.ca/business/article/ap-says-it-will-offer-buyouts-as-part-of-pivot-away-from-newspaper-journalism/)
+- [Paloma Maciel on first call-up: “Being with Brazil is very different”](https://sports.yahoo.com/articles/paloma-maciel-first-call-being-140900510.html)
+- [Has Satoshi been unmasked? NYT report points to Adam Back as Bitcoin’s creator — he denies it](https://www.firstpost.com/tech/has-satoshi-been-unmasked-nyt-report-points-to-adam-back-as-bitcoins-creator-he-denies-it-13998102.html)
+- [Roche Diagnostics launches new glucose monitoring device for predicting overnight hypoglycemia in UK](https://med-techinsights.com/2026/04/08/roche-diagnostics-launches-new-glucose-monitoring-device-for-predicting-overnight-hypoglycemia/)
+- [Pluralsight Launches SecureReady to Help Organizations Build Job-Ready Cybersecurity Teams](https://www.darkreading.com/remote-workforce/pluralsight-launches-secureready-cybersecurity-teams)
+- [Agri Science Congress: CM Yogi calls for shift from production to profitability in agriculture](https://www.hindustantimes.com/cities/lucknow-news/agri-science-congress-cm-yogi-calls-for-shift-from-production-to-profitability-in-agriculture-101775657298862.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
