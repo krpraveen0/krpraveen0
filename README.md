@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Paloma Maciel on first call-up: “Being with Brazil is very different”](https://sports.yahoo.com/articles/paloma-maciel-first-call-being-140900510.html)
-- [Has Satoshi been unmasked? NYT report points to Adam Back as Bitcoin’s creator — he denies it](https://www.firstpost.com/tech/has-satoshi-been-unmasked-nyt-report-points-to-adam-back-as-bitcoins-creator-he-denies-it-13998102.html)
-- [Roche Diagnostics launches new glucose monitoring device for predicting overnight hypoglycemia in UK](https://med-techinsights.com/2026/04/08/roche-diagnostics-launches-new-glucose-monitoring-device-for-predicting-overnight-hypoglycemia/)
-- [Pluralsight Launches SecureReady to Help Organizations Build Job-Ready Cybersecurity Teams](https://www.darkreading.com/remote-workforce/pluralsight-launches-secureready-cybersecurity-teams)
-- [Agri Science Congress: CM Yogi calls for shift from production to profitability in agriculture](https://www.hindustantimes.com/cities/lucknow-news/agri-science-congress-cm-yogi-calls-for-shift-from-production-to-profitability-in-agriculture-101775657298862.html)
+- [SoFi Stadium workers urge FIFA to ban ICE from World Cup, threaten strike](https://www.usatoday.com/story/sports/soccer/worldcup/2026/04/09/sofi-stadium-world-cup-ice/89532778007/)
+- [Closing the implementation gap in America's cyber strategy](https://www.techradar.com/pro/closing-the-implementation-gap-in-americas-cyber-strategy)
+- [France names Ghana first beneficiary of newly established National Health Compact](https://www.myjoyonline.com/france-names-ghana-first-beneficiary-of-newly-established-national-health-compact/)
+- [US economy slows sharply to 0.5% in Q4 after government shutdown](https://www.cnbctv18.com/market/us-economy-slows-sharply-to-0-5-in-q4-after-government-shutdown-ws-l-19884169.htm)
+- [Republicans reckon with Democratic success ahead of the midterms](https://www.adn.com/nation-world/2026/04/09/republicans-reckon-with-democratic-success-ahead-of-the-midterms/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
