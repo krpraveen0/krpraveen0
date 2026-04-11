@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [SoFi Stadium workers urge FIFA to ban ICE from World Cup, threaten strike](https://www.usatoday.com/story/sports/soccer/worldcup/2026/04/09/sofi-stadium-world-cup-ice/89532778007/)
-- [Closing the implementation gap in America's cyber strategy](https://www.techradar.com/pro/closing-the-implementation-gap-in-americas-cyber-strategy)
-- [France names Ghana first beneficiary of newly established National Health Compact](https://www.myjoyonline.com/france-names-ghana-first-beneficiary-of-newly-established-national-health-compact/)
-- [US economy slows sharply to 0.5% in Q4 after government shutdown](https://www.cnbctv18.com/market/us-economy-slows-sharply-to-0-5-in-q4-after-government-shutdown-ws-l-19884169.htm)
-- [Republicans reckon with Democratic success ahead of the midterms](https://www.adn.com/nation-world/2026/04/09/republicans-reckon-with-democratic-success-ahead-of-the-midterms/)
+- [Night Recap - April 10, 2026](https://www.thestandard.com.hk/news/article/329014/Night-Recap-April-10-2026)
+- [Why Automation Systems Fail Without Real-Time Weather Intelligence](https://menafn.com/1110967913/Why-Automation-Systems-Fail-Without-Real-Time-Weather-Intelligence)
+- [Saffron research lab inaugurated in Telangana’s Wanaparthy district](https://www.siasat.com/saffron-research-lab-inaugurated-in-telanganas-wanaparthy-district-3450468/)
+- [Frontieras North America Inc. Unlocks Value In America's Energy Future](https://menafn.com/1110967887/Frontieras-North-America-Inc-Unlocks-Value-In-Americas-Energy-Future)
+- [SPARC AI Inc. (CSE: SPAI) (OTCQB: SPAIF) Advances Ukraine Defense Initiatives As Electronic Warfare Reshapes Battlefield](https://menafn.com/1110967888/SPARC-AI-Inc-CSE-SPAI-OTCQB-SPAIF-Advances-Ukraine-Defense-Initiatives-As-Electronic-Warfare-Reshapes-Battlefield)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
