@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Night Recap - April 10, 2026](https://www.thestandard.com.hk/news/article/329014/Night-Recap-April-10-2026)
-- [Why Automation Systems Fail Without Real-Time Weather Intelligence](https://menafn.com/1110967913/Why-Automation-Systems-Fail-Without-Real-Time-Weather-Intelligence)
-- [Saffron research lab inaugurated in Telangana’s Wanaparthy district](https://www.siasat.com/saffron-research-lab-inaugurated-in-telanganas-wanaparthy-district-3450468/)
-- [Frontieras North America Inc. Unlocks Value In America's Energy Future](https://menafn.com/1110967887/Frontieras-North-America-Inc-Unlocks-Value-In-Americas-Energy-Future)
-- [SPARC AI Inc. (CSE: SPAI) (OTCQB: SPAIF) Advances Ukraine Defense Initiatives As Electronic Warfare Reshapes Battlefield](https://menafn.com/1110967888/SPARC-AI-Inc-CSE-SPAI-OTCQB-SPAIF-Advances-Ukraine-Defense-Initiatives-As-Electronic-Warfare-Reshapes-Battlefield)
+- [Sam Altman Apologises After Molotov Attack, Acknowledges AI Fears](https://www.thehansindia.com/technology/tech-news/sam-altman-apologises-after-molotov-attack-acknowledges-ai-fears-1064717)
+- [Dynatrace (NYSE:DT) Stock Price Down 8.2% – Here’s What Happened](https://www.themarketsdaily.com/2026/04/11/dynatrace-nysedt-stock-price-down-8-2-heres-what-happened.html)
+- [From ‘BuddhaBot’ to $1.99 chats with AI Jesus, the faith-based tech boom is here](https://www.boston.com/news/technology/2026/04/11/from-buddhabot-to-1-99-chats-with-ai-jesus-the-faith-based-tech-boom-is-here/)
+- [Courts, local government being inundated with sometimes comedic AI-generated submissions](https://news.err.ee/1609993324/courts-local-government-being-inundated-with-sometimes-comedic-ai-generated-submissions)
+- [💣 Inter steal from Juve, Milan eye 2006 talent, Pinamonti-Roma: today 🔥](https://onefootball.com/en/news/inter-steal-from-juve-milan-eye-2006-talent-pinamonti-roma-today-42694640)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
