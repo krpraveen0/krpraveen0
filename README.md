@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Sam Altman Apologises After Molotov Attack, Acknowledges AI Fears](https://www.thehansindia.com/technology/tech-news/sam-altman-apologises-after-molotov-attack-acknowledges-ai-fears-1064717)
-- [Dynatrace (NYSE:DT) Stock Price Down 8.2% – Here’s What Happened](https://www.themarketsdaily.com/2026/04/11/dynatrace-nysedt-stock-price-down-8-2-heres-what-happened.html)
-- [From ‘BuddhaBot’ to $1.99 chats with AI Jesus, the faith-based tech boom is here](https://www.boston.com/news/technology/2026/04/11/from-buddhabot-to-1-99-chats-with-ai-jesus-the-faith-based-tech-boom-is-here/)
-- [Courts, local government being inundated with sometimes comedic AI-generated submissions](https://news.err.ee/1609993324/courts-local-government-being-inundated-with-sometimes-comedic-ai-generated-submissions)
-- [💣 Inter steal from Juve, Milan eye 2006 talent, Pinamonti-Roma: today 🔥](https://onefootball.com/en/news/inter-steal-from-juve-milan-eye-2006-talent-pinamonti-roma-today-42694640)
+- [💣 Juve want to keep Holm, Milan eye Zaniolo, Ranieri stays? 🔥](https://onefootball.com/en/news/juve-want-to-keep-holm-milan-eye-zaniolo-ranieri-stays-42700316)
+- [💣 Juve keen to keep Holm, Milan-Zaniolo, Ranieri staying? 🔥](https://onefootball.com/en/news/juve-keen-to-keep-holm-milan-zaniolo-ranieri-staying-42700316)
+- [Cloudflare, ServiceNow, And Guardant Health Are Among Top 10 Large-Cap Losers Last Week (April 6-April 10): Are the Others in Your Portfolio?](https://www.benzinga.com/markets/equities/26/04/51770668/cloudflare-servicenow-and-guardant-health-are-among-top-10-large-cap-losers-last-week-april-6-ap)
+- [Alphabet Sheds Its 'Black Hole' Label With $150 Billion In 'Hidden Assets' From SpaceX And Anthropic, Says Expert](https://finance.yahoo.com/markets/stocks/articles/alphabet-sheds-black-hole-label-143302280.html)
+- [India credit funds shrug off US blues](https://www.thehindubusinessline.com/specials/current-account/india-credit-funds-shrug-off-us-blues/article70854469.ece)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
