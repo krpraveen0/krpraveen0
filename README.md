@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [💣 Juve want to keep Holm, Milan eye Zaniolo, Ranieri stays? 🔥](https://onefootball.com/en/news/juve-want-to-keep-holm-milan-eye-zaniolo-ranieri-stays-42700316)
-- [💣 Juve keen to keep Holm, Milan-Zaniolo, Ranieri staying? 🔥](https://onefootball.com/en/news/juve-keen-to-keep-holm-milan-zaniolo-ranieri-staying-42700316)
-- [Cloudflare, ServiceNow, And Guardant Health Are Among Top 10 Large-Cap Losers Last Week (April 6-April 10): Are the Others in Your Portfolio?](https://www.benzinga.com/markets/equities/26/04/51770668/cloudflare-servicenow-and-guardant-health-are-among-top-10-large-cap-losers-last-week-april-6-ap)
-- [Alphabet Sheds Its 'Black Hole' Label With $150 Billion In 'Hidden Assets' From SpaceX And Anthropic, Says Expert](https://finance.yahoo.com/markets/stocks/articles/alphabet-sheds-black-hole-label-143302280.html)
-- [India credit funds shrug off US blues](https://www.thehindubusinessline.com/specials/current-account/india-credit-funds-shrug-off-us-blues/article70854469.ece)
+- [Why some workers are embracing AI while others won't use it, according to a new Gallup poll](https://www.dailycourier.com/news/why-some-workers-are-embracing-ai-while-others-wont-use-it-according-to-a-new/article_f716bdd4-8e67-4d65-a884-62646cc60eb4.html)
+- [These tech stocks have been on a tear with the Iran conflict raging](https://finance.yahoo.com/news/these-tech-stocks-have-been-on-a-tear-with-the-iran-conflict-raging-142840743.html)
+- [These tech stocks have been sizzling hot with the Iran conflict raging](https://ca.finance.yahoo.com/news/these-tech-stocks-have-been-sizzling-hot-with-the-iran-conflict-raging-142840915.html)
+- [Maharashtra cabinet clears tweaking of service entry rules for MPSC recruitment process](https://www.theweek.in/wire-updates/national/2026/04/13/maharashtra-cabinet-clears-tweaking-of-service-entry-rules-for-mpsc-recruitment-process.html)
+- [Tamil Nadu Assembly Elections 2026 | 'Mistook flowers for bomb?' TVK chief Vijay jumps off cycle as man throws flower ball at Kanyakumari rally](https://www.deccanherald.com/elections/tamil-nadu/tamil-nadu-assembly-elections-2026-mistook-flowers-for-bomb-tvk-chief-vijay-jumps-off-cycle-as-man-throws-flower-ball-at-kanyakumari-rally-3966160)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
