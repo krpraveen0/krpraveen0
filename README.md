@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Why some workers are embracing AI while others won't use it, according to a new Gallup poll](https://www.dailycourier.com/news/why-some-workers-are-embracing-ai-while-others-wont-use-it-according-to-a-new/article_f716bdd4-8e67-4d65-a884-62646cc60eb4.html)
-- [These tech stocks have been on a tear with the Iran conflict raging](https://finance.yahoo.com/news/these-tech-stocks-have-been-on-a-tear-with-the-iran-conflict-raging-142840743.html)
-- [These tech stocks have been sizzling hot with the Iran conflict raging](https://ca.finance.yahoo.com/news/these-tech-stocks-have-been-sizzling-hot-with-the-iran-conflict-raging-142840915.html)
-- [Maharashtra cabinet clears tweaking of service entry rules for MPSC recruitment process](https://www.theweek.in/wire-updates/national/2026/04/13/maharashtra-cabinet-clears-tweaking-of-service-entry-rules-for-mpsc-recruitment-process.html)
-- [Tamil Nadu Assembly Elections 2026 | 'Mistook flowers for bomb?' TVK chief Vijay jumps off cycle as man throws flower ball at Kanyakumari rally](https://www.deccanherald.com/elections/tamil-nadu/tamil-nadu-assembly-elections-2026-mistook-flowers-for-bomb-tvk-chief-vijay-jumps-off-cycle-as-man-throws-flower-ball-at-kanyakumari-rally-3966160)
+- [RobotShop Becomes AGIBOT’s Value Added Distribution Partner in North America | RoboticsTomorrow](http://www.roboticstomorrow.com/news/2026/04/14/robotshop-becomes-agibots-value-added-distribution-partner-in-north-america/26407)
+- [Orlando meeting boosts CBF's strategic, commercial and marketing plans](https://ca.sports.yahoo.com/news/orlando-meeting-boosts-cbfs-strategic-142600027.html)
+- [Delhi HC Directs Time-Bound Decision on AI Generated Artwork Copyright Plea](https://lawbeat.in/news-updates/delhi-hc-directs-time-bound-decision-on-ai-generated-artwork-copyright-plea-1581172)
+- [Becton Dickinson (BDX) Q2 2025 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/04/14/becton-dickinson-bdx-q2-2025-earnings-transcript/)
+- [Food stocks in Qatar are stable: Commerce minister](https://www.qatar-tribune.com/article/228937/latest-news/food-stocks-in-qatar-are-stable-commerce-minister)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
