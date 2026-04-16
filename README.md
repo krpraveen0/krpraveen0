@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [RobotShop Becomes AGIBOT’s Value Added Distribution Partner in North America | RoboticsTomorrow](http://www.roboticstomorrow.com/news/2026/04/14/robotshop-becomes-agibots-value-added-distribution-partner-in-north-america/26407)
-- [Orlando meeting boosts CBF's strategic, commercial and marketing plans](https://ca.sports.yahoo.com/news/orlando-meeting-boosts-cbfs-strategic-142600027.html)
-- [Delhi HC Directs Time-Bound Decision on AI Generated Artwork Copyright Plea](https://lawbeat.in/news-updates/delhi-hc-directs-time-bound-decision-on-ai-generated-artwork-copyright-plea-1581172)
-- [Becton Dickinson (BDX) Q2 2025 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/04/14/becton-dickinson-bdx-q2-2025-earnings-transcript/)
-- [Food stocks in Qatar are stable: Commerce minister](https://www.qatar-tribune.com/article/228937/latest-news/food-stocks-in-qatar-are-stable-commerce-minister)
+- [KPMG & INSEAD launch AI governance principles for boards](https://itbrief.asia/story/kpmg-insead-launch-ai-governance-principles-for-boards)
+- [KPMG & INSEAD launch AI governance principles for boards](https://itbrief.in/story/kpmg-insead-launch-ai-governance-principles-for-boards)
+- [Tech Wrap April 15: OPPO F33 series, Xiaomi TV S Mini LED, BenQ 5K monitor](https://www.business-standard.com/technology/tech-news/tech-wrap-april-15-oppo-f33-series-xiaomi-tv-s-mini-led-benq-5k-monitor-126041500968_1.html)
+- [Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026](https://www.prnewswire.com/apac/news-releases/bybit-ceo-ben-zhou-on-trust-ai-and-the-new-financial-platform-at-paris-blockchain-week-2026-302743358.html)
+- [Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026](https://laotiantimes.com/2026/04/15/bybit-ceo-ben-zhou-on-trust-ai-and-the-new-financial-platform-at-paris-blockchain-week-2026/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
