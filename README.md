@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [KPMG & INSEAD launch AI governance principles for boards](https://itbrief.asia/story/kpmg-insead-launch-ai-governance-principles-for-boards)
-- [KPMG & INSEAD launch AI governance principles for boards](https://itbrief.in/story/kpmg-insead-launch-ai-governance-principles-for-boards)
-- [Tech Wrap April 15: OPPO F33 series, Xiaomi TV S Mini LED, BenQ 5K monitor](https://www.business-standard.com/technology/tech-news/tech-wrap-april-15-oppo-f33-series-xiaomi-tv-s-mini-led-benq-5k-monitor-126041500968_1.html)
-- [Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026](https://www.prnewswire.com/apac/news-releases/bybit-ceo-ben-zhou-on-trust-ai-and-the-new-financial-platform-at-paris-blockchain-week-2026-302743358.html)
-- [Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026](https://laotiantimes.com/2026/04/15/bybit-ceo-ben-zhou-on-trust-ai-and-the-new-financial-platform-at-paris-blockchain-week-2026/)
+- [6 mindset shifts to improve your risk and failure tolerance](https://www.fastcompany.com/91525845/6-mindset-shifts-to-improve-your-risk-and-failure-tolerance?partner=rss)
+- [Where Will QQQ Be in 12 Months? Wall Street Analysts Have a Clear Answer.](https://www.fool.com/investing/2026/04/16/where-qqq-be-12-months-wall-street-analyst-answer/)
+- [Fermilab researchers develop AI tools to advance the future of particle accelerators](https://news.fnal.gov/2026/04/fermilab-researchers-develop-ai-tools-to-advance-the-future-of-particle-accelerators/)
+- [Republican ad uses an AI deepfake of Graham Platner](https://www.bangordailynews.com/2026/04/16/politics/elections/maine-senate-election-republican-ai-deepfake-ad-graham-platner/)
+- [BlackBerry and The IP Company Partner to Bring Certified Secure Communications to Naval and Military Environments](https://en.prnasia.com/story/529410-0.shtml)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
