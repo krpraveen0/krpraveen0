@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [6 mindset shifts to improve your risk and failure tolerance](https://www.fastcompany.com/91525845/6-mindset-shifts-to-improve-your-risk-and-failure-tolerance?partner=rss)
-- [Where Will QQQ Be in 12 Months? Wall Street Analysts Have a Clear Answer.](https://www.fool.com/investing/2026/04/16/where-qqq-be-12-months-wall-street-analyst-answer/)
-- [Fermilab researchers develop AI tools to advance the future of particle accelerators](https://news.fnal.gov/2026/04/fermilab-researchers-develop-ai-tools-to-advance-the-future-of-particle-accelerators/)
-- [Republican ad uses an AI deepfake of Graham Platner](https://www.bangordailynews.com/2026/04/16/politics/elections/maine-senate-election-republican-ai-deepfake-ad-graham-platner/)
-- [BlackBerry and The IP Company Partner to Bring Certified Secure Communications to Naval and Military Environments](https://en.prnasia.com/story/529410-0.shtml)
+- [‘I found out I’d been impersonated months later’: identity theft targeting journalists and Russia’s strategy to lend credibility to its disinformation campaigns](https://maldita.es/investigaciones/20260417/impersonation-journalists-russia/)
+- [AI & Digital Innovation in focus – Major Summit to be held in Doon today](https://garhwalpost.in/ai-digital-innovation-in-focus-major-summit-to-be-held-in-doon-today/)
+- [BofA: MakeMyTrip leads India OTA AI push as global peers race to embed technology](https://uk.investing.com/news/stock-market-news/bofa-makemytrip-leads-india-ota-ai-push-as-global-peers-race-to-embed-technology-93CH-4614678)
+- [BofA: MakeMyTrip leads India OTA AI push as global peers race to embed technology](https://au.investing.com/news/stock-market-news/bofa-makemytrip-leads-india-ota-ai-push-as-global-peers-race-to-embed-technology-93CH-4369226)
+- [BofA: MakeMyTrip leads India OTA AI push as global peers race to embed technology](https://ph.investing.com/news/stock-market-news/bofa-makemytrip-leads-india-ota-ai-push-as-global-peers-race-to-embed-technology-93CH-2339247)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
