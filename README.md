@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [‘I found out I’d been impersonated months later’: identity theft targeting journalists and Russia’s strategy to lend credibility to its disinformation campaigns](https://maldita.es/investigaciones/20260417/impersonation-journalists-russia/)
-- [AI & Digital Innovation in focus – Major Summit to be held in Doon today](https://garhwalpost.in/ai-digital-innovation-in-focus-major-summit-to-be-held-in-doon-today/)
-- [BofA: MakeMyTrip leads India OTA AI push as global peers race to embed technology](https://uk.investing.com/news/stock-market-news/bofa-makemytrip-leads-india-ota-ai-push-as-global-peers-race-to-embed-technology-93CH-4614678)
-- [BofA: MakeMyTrip leads India OTA AI push as global peers race to embed technology](https://au.investing.com/news/stock-market-news/bofa-makemytrip-leads-india-ota-ai-push-as-global-peers-race-to-embed-technology-93CH-4369226)
-- [BofA: MakeMyTrip leads India OTA AI push as global peers race to embed technology](https://ph.investing.com/news/stock-market-news/bofa-makemytrip-leads-india-ota-ai-push-as-global-peers-race-to-embed-technology-93CH-2339247)
+- [WOMEN in the Spotlight! The 2026 Yiwugo Top Boss Ladies Awards Gala Held](https://www.prnewswire.com/news-releases/women-in-the-spotlight-the-2026-yiwugo-top-boss-ladies-awards-gala-held-302745799.html)
+- [WOMEN in the Spotlight! The 2026 Yiwugo Top Boss Ladies Awards Gala Held](https://norfolkdailynews.com/online_features/press_releases/women-in-the-spotlight-the-2026-yiwugo-top-boss-ladies-awards-gala-held/article_223f5562-96bc-535f-b0ee-d2787159ff4d.html)
+- [WOMEN in the Spotlight! The 2026 Yiwugo Top Boss Ladies Awards Gala Held](https://en.prnasia.com/story/529634-0.shtml)
+- [Super Micro Computer (NASDAQ:SMCI) Trading Up 4.1% – Time to Buy?](https://www.watchlistnews.com/super-micro-computer-nasdaqsmci-trading-up-4-1-time-to-buy/11053048.html)
+- [Mobilicom Limited Sponsored ADR (NASDAQ:MOB) Sees Significant Increase in Short Interest](https://www.tickerreport.com/banking-finance/13411613/mobilicom-limited-sponsored-adr-nasdaqmob-sees-significant-increase-in-short-interest.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
