@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [WOMEN in the Spotlight! The 2026 Yiwugo Top Boss Ladies Awards Gala Held](https://www.prnewswire.com/news-releases/women-in-the-spotlight-the-2026-yiwugo-top-boss-ladies-awards-gala-held-302745799.html)
-- [WOMEN in the Spotlight! The 2026 Yiwugo Top Boss Ladies Awards Gala Held](https://norfolkdailynews.com/online_features/press_releases/women-in-the-spotlight-the-2026-yiwugo-top-boss-ladies-awards-gala-held/article_223f5562-96bc-535f-b0ee-d2787159ff4d.html)
-- [WOMEN in the Spotlight! The 2026 Yiwugo Top Boss Ladies Awards Gala Held](https://en.prnasia.com/story/529634-0.shtml)
-- [Super Micro Computer (NASDAQ:SMCI) Trading Up 4.1% – Time to Buy?](https://www.watchlistnews.com/super-micro-computer-nasdaqsmci-trading-up-4-1-time-to-buy/11053048.html)
-- [Mobilicom Limited Sponsored ADR (NASDAQ:MOB) Sees Significant Increase in Short Interest](https://www.tickerreport.com/banking-finance/13411613/mobilicom-limited-sponsored-adr-nasdaqmob-sees-significant-increase-in-short-interest.html)
+- [AI replacing developers: Is the industry ready?](https://en.ittefaq.com.bd/16207/ai-replacing-developers-is-the-industry-ready)
+- [Will AI Take Your Job? Only 15% of Routine Roles at Risk](https://www.invenglobal.com/articles/21045/will-ai-take-your-job-only-15-of-routine-roles-at-risk)
+- [CM Yogi flags off special train for devotees to Somnath Dham in Gujarat](https://newsable.asianetnews.com/india/cm-yogi-flags-off-special-train-for-devotees-to-somnath-dham-in-gujarat-articleshow-cokhz24)
+- [Andhra schoolgirl’s innovation goes global](https://www.edexlive.com/news/andhra-schoolgirls-innovation-goes-global)
+- [This Under-the-Radar AI Infrastructure Stock Looks Primed to Skyrocket](https://www.fool.com/investing/2026/04/19/this-under-the-radar-ai-infrastructure-stock-looks/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
