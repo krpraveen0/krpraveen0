@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI replacing developers: Is the industry ready?](https://en.ittefaq.com.bd/16207/ai-replacing-developers-is-the-industry-ready)
-- [Will AI Take Your Job? Only 15% of Routine Roles at Risk](https://www.invenglobal.com/articles/21045/will-ai-take-your-job-only-15-of-routine-roles-at-risk)
-- [CM Yogi flags off special train for devotees to Somnath Dham in Gujarat](https://newsable.asianetnews.com/india/cm-yogi-flags-off-special-train-for-devotees-to-somnath-dham-in-gujarat-articleshow-cokhz24)
-- [Andhra schoolgirl’s innovation goes global](https://www.edexlive.com/news/andhra-schoolgirls-innovation-goes-global)
-- [This Under-the-Radar AI Infrastructure Stock Looks Primed to Skyrocket](https://www.fool.com/investing/2026/04/19/this-under-the-radar-ai-infrastructure-stock-looks/)
+- [SilverBow Strategies Launches RFPArchonTM, the First Product in Its Artemis AI SolutionsTM Suite](https://www.prnewswire.com/news-releases/silverbow-strategies-launches-rfparchon-the-first-product-in-its-artemis-ai-solutions-suite-302746856.html)
+- [Defense Budget Expansion: 3 Mid-Cap Names in a Sweet Spot](https://www.investing.com/analysis/defense-budget-expansion-3-midcap-names-in-a-sweet-spot-200678794)
+- [Here’s What Positioned Repligen Corporation (RGEN) for a Durable Long-Term Growth](https://www.insidermonkey.com/blog/heres-what-positioned-repligen-corporation-rgen-for-a-durable-long-term-growth-1741853/)
+- [Here’s What Positioned Repligen Corporation (RGEN) for a Durable Long-Term Growth](https://finance.yahoo.com/markets/stocks/articles/positioned-repligen-corporation-rgen-durable-143035281.html)
+- [NTI-NTU Lab Pioneers Next-Gen Nanotech Solutions](https://www.miragenews.com/nti-ntu-lab-pioneers-next-gen-nanotech-solutions-1658378/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
