@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [SilverBow Strategies Launches RFPArchonTM, the First Product in Its Artemis AI SolutionsTM Suite](https://www.prnewswire.com/news-releases/silverbow-strategies-launches-rfparchon-the-first-product-in-its-artemis-ai-solutions-suite-302746856.html)
-- [Defense Budget Expansion: 3 Mid-Cap Names in a Sweet Spot](https://www.investing.com/analysis/defense-budget-expansion-3-midcap-names-in-a-sweet-spot-200678794)
-- [Here’s What Positioned Repligen Corporation (RGEN) for a Durable Long-Term Growth](https://www.insidermonkey.com/blog/heres-what-positioned-repligen-corporation-rgen-for-a-durable-long-term-growth-1741853/)
-- [Here’s What Positioned Repligen Corporation (RGEN) for a Durable Long-Term Growth](https://finance.yahoo.com/markets/stocks/articles/positioned-repligen-corporation-rgen-durable-143035281.html)
-- [NTI-NTU Lab Pioneers Next-Gen Nanotech Solutions](https://www.miragenews.com/nti-ntu-lab-pioneers-next-gen-nanotech-solutions-1658378/)
+- [Alphabet Stock Rises Modestly as Investors Await Q1 Earnings on AI Momentum](https://www.ibtimes.com.au/alphabet-stock-rises-modestly-investors-await-q1-earnings-ai-momentum-1867192)
+- [Heavy AI Use Could Be Making You Stupider: MIT Research](https://www.ndtv.com/feature/heavy-ai-use-could-be-making-you-stupider-mit-research-11389115)
+- [How should we approach chatbots’ mental health and privacy concerns? | The TechTank Podcast](https://www.brookings.edu/articles/how-should-we-approach-chatbots-mental-health-and-privacy-concerns-the-techtank-podcast/)
+- [MeitY proposes continuous label visibility on full duration of AI-generated content](https://www.deccanherald.com/india/meity-proposes-continuous-label-visibility-on-full-duration-of-ai-generated-content-3975764)
+- [Wall St gains as AI, earnings momentum outweigh Middle East angst](https://www.brecorder.com/news/40417563/wall-st-gains-as-ai-earnings-momentum-outweigh-middle-east-angst)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
