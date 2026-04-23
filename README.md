@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Alphabet Stock Rises Modestly as Investors Await Q1 Earnings on AI Momentum](https://www.ibtimes.com.au/alphabet-stock-rises-modestly-investors-await-q1-earnings-ai-momentum-1867192)
-- [Heavy AI Use Could Be Making You Stupider: MIT Research](https://www.ndtv.com/feature/heavy-ai-use-could-be-making-you-stupider-mit-research-11389115)
-- [How should we approach chatbots’ mental health and privacy concerns? | The TechTank Podcast](https://www.brookings.edu/articles/how-should-we-approach-chatbots-mental-health-and-privacy-concerns-the-techtank-podcast/)
-- [MeitY proposes continuous label visibility on full duration of AI-generated content](https://www.deccanherald.com/india/meity-proposes-continuous-label-visibility-on-full-duration-of-ai-generated-content-3975764)
-- [Wall St gains as AI, earnings momentum outweigh Middle East angst](https://www.brecorder.com/news/40417563/wall-st-gains-as-ai-earnings-momentum-outweigh-middle-east-angst)
+- [Biosimulation Market Research and Global Forecast Report 2026-2036: Expansion Driven by Precision Medicine, AI-Powered In-Silico Drug Development and Rising Demand for Cost-Efficient Clinical Trials](https://www.globenewswire.com/fr/news-release/2026/04/22/3279145/28124/en/Biosimulation-Market-Research-and-Global-Forecast-Report-2026-2036-Expansion-Driven-by-Precision-Medicine-AI-Powered-In-Silico-Drug-Development-and-Rising-Demand-for-Cost-Efficient.html)
+- [Powering AI: Top Engineering, Procurement, and Construction Stocks to Buy](https://www.investing.com/news/stock-market-news/powering-ai-top-engineering-procurement-and-construction-stocks-to-buy-93CH-4629823)
+- [China Targets 100tn Yuan Services Economy by 2030 in Shift From Investment-Led Growth](https://www.tekedia.com/china-targets-100tn-yuan-services-economy-by-2030-in-shift-from-investment-led-growth/)
+- [Freedom House Experts on What Trump Should Discuss with Xi in Beijing](https://freedomhouse.org/article/freedom-house-experts-what-trump-should-discuss-xi-beijing)
+- [Survival the aim, Imanol Idiakez is new Cádiz manager](https://onefootball.com/en/news/survival-the-aim-imanol-idiakez-is-new-cadiz-manager-42750371)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
