@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Biosimulation Market Research and Global Forecast Report 2026-2036: Expansion Driven by Precision Medicine, AI-Powered In-Silico Drug Development and Rising Demand for Cost-Efficient Clinical Trials](https://www.globenewswire.com/fr/news-release/2026/04/22/3279145/28124/en/Biosimulation-Market-Research-and-Global-Forecast-Report-2026-2036-Expansion-Driven-by-Precision-Medicine-AI-Powered-In-Silico-Drug-Development-and-Rising-Demand-for-Cost-Efficient.html)
-- [Powering AI: Top Engineering, Procurement, and Construction Stocks to Buy](https://www.investing.com/news/stock-market-news/powering-ai-top-engineering-procurement-and-construction-stocks-to-buy-93CH-4629823)
-- [China Targets 100tn Yuan Services Economy by 2030 in Shift From Investment-Led Growth](https://www.tekedia.com/china-targets-100tn-yuan-services-economy-by-2030-in-shift-from-investment-led-growth/)
-- [Freedom House Experts on What Trump Should Discuss with Xi in Beijing](https://freedomhouse.org/article/freedom-house-experts-what-trump-should-discuss-xi-beijing)
-- [Survival the aim, Imanol Idiakez is new Cádiz manager](https://onefootball.com/en/news/survival-the-aim-imanol-idiakez-is-new-cadiz-manager-42750371)
+- [Applied Digital Announces New U.S. Based High Investment-Grade Hyperscaler Tenant at Delta Forge 1, a 430 MW AI Factory Campus](https://investingnews.com/applied-digital-announces-new-u-s-based-high-investment-grade-hyperscaler-tenant-at-delta-forge-1-a-430-mw-ai-factory-campus/)
+- [Azerbaijan’s wind energy potential reviewed in Spain](https://azertag.az/en/xeber/azerbaijans_wind_energy_potential_reviewed_in_spain-4145423)
+- [Retail, MSME credit growth to be robust; corporate lending normal: IBA](https://newsable.asianetnews.com/business/retail-msme-credit-growth-to-be-robust-corporate-lending-normal-iba-articleshow-0lotodb)
+- [San Diego County Honors Quick Custom Intelligence For Innovation](https://menafn.com/1111024357/San-Diego-County-Honors-Quick-Custom-Intelligence-For-Innovation)
+- [White House accuses China of ‘industrial scale’ theft of AI technology, FT reports](https://ca.news.yahoo.com/white-house-accuses-china-industrial-142717771.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
