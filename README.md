@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Applied Digital Announces New U.S. Based High Investment-Grade Hyperscaler Tenant at Delta Forge 1, a 430 MW AI Factory Campus](https://investingnews.com/applied-digital-announces-new-u-s-based-high-investment-grade-hyperscaler-tenant-at-delta-forge-1-a-430-mw-ai-factory-campus/)
-- [Azerbaijan’s wind energy potential reviewed in Spain](https://azertag.az/en/xeber/azerbaijans_wind_energy_potential_reviewed_in_spain-4145423)
-- [Retail, MSME credit growth to be robust; corporate lending normal: IBA](https://newsable.asianetnews.com/business/retail-msme-credit-growth-to-be-robust-corporate-lending-normal-iba-articleshow-0lotodb)
-- [San Diego County Honors Quick Custom Intelligence For Innovation](https://menafn.com/1111024357/San-Diego-County-Honors-Quick-Custom-Intelligence-For-Innovation)
-- [White House accuses China of ‘industrial scale’ theft of AI technology, FT reports](https://ca.news.yahoo.com/white-house-accuses-china-industrial-142717771.html)
+- [Consumption push in China drives Walmart expansion](http://pekingpress.com/news/279009597/consumption-push-in-china-drives-walmart-expansion)
+- [Mahama unveils plan to train 300,000 in Coding and AI this year](https://www.myjoyonline.com/mahama-unveils-plan-to-train-300000-in-coding-and-ai-this-year/)
+- [Intel stock jumps after earnings and outlook top expectations on AI boom](https://ca.finance.yahoo.com/news/intel-stock-jumps-earnings-outlook-142235652.html)
+- [(SP)CHINA-HAINAN-SANYA-ASIAN BEACH GAMES-JIU JITSU-WOMEN'S -57KG-GOLD MEDAL CONTEST(CN)](http://philippinetimes.com/news/279009592/spchina-hainan-sanya-asian-beach-games-jiu-jitsu-womens-57kg-gold-medal-contestcn)
+- [Oil prices fall on hopes of fresh Iran peace talks](https://www.newindianexpress.com/business/2026/Apr/24/oil-prices-fall-on-hopes-of-fresh-iran-peace-talks)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
