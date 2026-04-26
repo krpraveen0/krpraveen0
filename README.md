@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Consumption push in China drives Walmart expansion](http://pekingpress.com/news/279009597/consumption-push-in-china-drives-walmart-expansion)
-- [Mahama unveils plan to train 300,000 in Coding and AI this year](https://www.myjoyonline.com/mahama-unveils-plan-to-train-300000-in-coding-and-ai-this-year/)
-- [Intel stock jumps after earnings and outlook top expectations on AI boom](https://ca.finance.yahoo.com/news/intel-stock-jumps-earnings-outlook-142235652.html)
-- [(SP)CHINA-HAINAN-SANYA-ASIAN BEACH GAMES-JIU JITSU-WOMEN'S -57KG-GOLD MEDAL CONTEST(CN)](http://philippinetimes.com/news/279009592/spchina-hainan-sanya-asian-beach-games-jiu-jitsu-womens-57kg-gold-medal-contestcn)
-- [Oil prices fall on hopes of fresh Iran peace talks](https://www.newindianexpress.com/business/2026/Apr/24/oil-prices-fall-on-hopes-of-fresh-iran-peace-talks)
+- [Semiconductor Micro Components Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2033](https://www.openpr.com/news/4488717/semiconductor-micro-components-market-analysis)
+- [Semtech, Entegris, and Impinj Shares Skyrocket, What You Need To Know](https://ca.finance.yahoo.com/news/semtech-entegris-impinj-shares-skyrocket-143723572.html)
+- [Pickup Truck Wheel Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2033](https://www.openpr.com/news/4488716/pickup-truck-wheel-market-analysis-by-application-type)
+- [Binus Jadikan AI Fondasi Wajib Pembelajaran](https://inet.detik.com/cyberlife/d-8461322/binus-jadikan-ai-fondasi-wajib-pembelajaran)
+- [Tren Rumah Compact Meningkat, Perangkat AI Jadi Andalan Hunian Modern](https://koran-jakarta.com/2026-04-25/tren-rumah-compact-meningkat-perangkat-ai-jadi-andalan-hunian-modern)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
