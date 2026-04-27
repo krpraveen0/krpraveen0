@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Semiconductor Micro Components Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2033](https://www.openpr.com/news/4488717/semiconductor-micro-components-market-analysis)
-- [Semtech, Entegris, and Impinj Shares Skyrocket, What You Need To Know](https://ca.finance.yahoo.com/news/semtech-entegris-impinj-shares-skyrocket-143723572.html)
-- [Pickup Truck Wheel Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2033](https://www.openpr.com/news/4488716/pickup-truck-wheel-market-analysis-by-application-type)
-- [Binus Jadikan AI Fondasi Wajib Pembelajaran](https://inet.detik.com/cyberlife/d-8461322/binus-jadikan-ai-fondasi-wajib-pembelajaran)
-- [Tren Rumah Compact Meningkat, Perangkat AI Jadi Andalan Hunian Modern](https://koran-jakarta.com/2026-04-25/tren-rumah-compact-meningkat-perangkat-ai-jadi-andalan-hunian-modern)
+- [South Korean President Lee to host luncheon with minor parties, independent lawmakers](https://www.thehawk.in/news/world/south-korean-president-lee-to-host-luncheon-with-minor-parties-independent-lawmakers)
+- [AI-powered scams impersonating authors and publishers target aspiring writers](https://completeaitraining.com/news/ai-powered-scams-impersonating-authors-and-publishers/)
+- [Unlock Innovation: Your Guide to Securing Top Technology Grants in 2026](https://techannouncer.com/unlock-innovation-your-guide-to-securing-top-technology-grants-in-2026/)
+- [Backing India’s next phase of industrial growth](https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/backing-indias-next-phase-of-industrial-growth/article70909085.ece)
+- [South Korean President Lee to host luncheon with minor parties, independent lawmakers](https://bhaskarlive.in/south-korean-president-lee-to-host-luncheon-with-minor-parties-independent-lawmakers/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
