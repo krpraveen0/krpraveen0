@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [South Korean President Lee to host luncheon with minor parties, independent lawmakers](https://www.thehawk.in/news/world/south-korean-president-lee-to-host-luncheon-with-minor-parties-independent-lawmakers)
-- [AI-powered scams impersonating authors and publishers target aspiring writers](https://completeaitraining.com/news/ai-powered-scams-impersonating-authors-and-publishers/)
-- [Unlock Innovation: Your Guide to Securing Top Technology Grants in 2026](https://techannouncer.com/unlock-innovation-your-guide-to-securing-top-technology-grants-in-2026/)
-- [Backing India’s next phase of industrial growth](https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/backing-indias-next-phase-of-industrial-growth/article70909085.ece)
-- [South Korean President Lee to host luncheon with minor parties, independent lawmakers](https://bhaskarlive.in/south-korean-president-lee-to-host-luncheon-with-minor-parties-independent-lawmakers/)
+- [Fenugreek Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2033](https://www.openpr.com/news/4491014/fenugreek-market-analysis-by-application-type-technology)
+- [Thiago Mendes gives Vasco a headache; here's why](https://ca.sports.yahoo.com/news/thiago-mendes-gives-vasco-headache-144800300.html)
+- [Advanced Bioreactor Systems Market to Expand with Biopharma Innovation](https://www.openpr.com/news/4491013/advanced-bioreactor-systems-market-to-expand-with-biopharma)
+- [As Intel Triggers a Major Rally in Semiconductor Companies, DA Davidson Hikes Its AMD Stock Price Target by More Than 70%](https://www.barchart.com/story/news/1538146/as-intel-triggers-a-major-rally-in-semiconductor-companies-da-davidson-hikes-its-amd-stock-price-target-by-more-than-70)
+- [Mobile Hydraulic Rock Breaker Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2033](https://www.openpr.com/news/4491012/mobile-hydraulic-rock-breaker-market-analysis-by-application)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
