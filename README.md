@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Operation Theatre Management Market Analysis Report 2026 with Analyst Recommendations and Global Forecast to 2931](https://www.globenewswire.com/fr/news-release/2026/04/28/3282915/28124/en/Operation-Theatre-Management-Market-Analysis-Report-2026-with-Analyst-Recommendations-and-Global-Forecast-to-2931.html)
-- [Phancy Group Launches PhanthyModel](https://sloveniatimes.com/47424/phancy-group-launches-phanthymodel)
-- [Croatia, Bosnia sign pipeline deal to reduce dependency on Russia](https://abcnews.com/Business/wireStory/croatia-bosnia-sign-pipeline-deal-reduce-dependency-russia-132451263)
-- [Guide Wires Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2033](https://www.openpr.com/news/4493408/guide-wires-market-analysis-by-application-type-technology)
-- [“Pedal history is in danger. ChatGPT is rewriting fact”: Josh Scott of JHS Pedals interrogated AI on the pedal industry – and what he found should alarm us all](https://www.guitarworld.com/gear/guitar-pedals/jhs-pedals-josh-scott-chat-gpt-warning)
+- [Medical Alarm Panels Market Outlook 2026-2032 Featuring Profiles of 23 Competitors - Industry Set to Reach USD 168.90 Million by 2032, Driven by Connectivity and Care Decentralization Trends](https://www.globenewswire.com/fr/news-release/2026/04/29/3283967/28124/en/Medical-Alarm-Panels-Market-Outlook-2026-2032-Featuring-Profiles-of-23-Competitors-Industry-Set-to-Reach-USD-168-90-Million-by-2032-Driven-by-Connectivity-and-Care-Decentralization.html)
+- [Gujarat targets future workforce with student science camps next month](https://www.edexlive.com/news/gujarat-targets-future-workforce-with-student-science-camps-next-month-2)
+- [Quantum Rise Partners with Evertreen to Integrate Sustainability into AI-Driven Business Transformation](https://www.financialcontent.com/article/marketersmedia-2026-4-29-quantum-rise-partners-with-evertreen-to-integrate-sustainability-into-ai-driven-business-transformation)
+- [KaiTu Technology: Reshaping Global Industrial Mobile Equipment with Embodied AI, North American Debut Launches New Global Journey](https://www.itbiznews.com/news/articleView.html?idxno=211411)
+- [OpenAI and Sam Altman sued after ChatGPT linked to deadly mass shooting](https://www.independent.co.uk/tech/openai-chatgpt-sam-altman-tumbler-ridge-b2967352.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
