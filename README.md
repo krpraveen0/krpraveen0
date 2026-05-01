@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Medical Alarm Panels Market Outlook 2026-2032 Featuring Profiles of 23 Competitors - Industry Set to Reach USD 168.90 Million by 2032, Driven by Connectivity and Care Decentralization Trends](https://www.globenewswire.com/fr/news-release/2026/04/29/3283967/28124/en/Medical-Alarm-Panels-Market-Outlook-2026-2032-Featuring-Profiles-of-23-Competitors-Industry-Set-to-Reach-USD-168-90-Million-by-2032-Driven-by-Connectivity-and-Care-Decentralization.html)
-- [Gujarat targets future workforce with student science camps next month](https://www.edexlive.com/news/gujarat-targets-future-workforce-with-student-science-camps-next-month-2)
-- [Quantum Rise Partners with Evertreen to Integrate Sustainability into AI-Driven Business Transformation](https://www.financialcontent.com/article/marketersmedia-2026-4-29-quantum-rise-partners-with-evertreen-to-integrate-sustainability-into-ai-driven-business-transformation)
-- [KaiTu Technology: Reshaping Global Industrial Mobile Equipment with Embodied AI, North American Debut Launches New Global Journey](https://www.itbiznews.com/news/articleView.html?idxno=211411)
-- [OpenAI and Sam Altman sued after ChatGPT linked to deadly mass shooting](https://www.independent.co.uk/tech/openai-chatgpt-sam-altman-tumbler-ridge-b2967352.html)
+- [For years, the risk Jamie Dimon was most concerned about was geopolitics. His answer has shifted](https://fortune.com/2026/04/30/jamie-dimon-geopolitics-cyber-economic-risks-threats/)
+- [For Autonomous Robots, Not All Rules Are Equal](https://www.miragenews.com/for-autonomous-robots-not-all-rules-are-equal-1665345/)
+- [How to Reengineer Global Supply Chains for a New Era of Disruption with Kaushik Krishnan](https://alltechmagazine.com/supply-chain-resilience-ai-manufacturing-kaushik-krishnan/)
+- [Watch CNBC's full interview with Bausch + Lomb CEO Brent Saunders](https://www.cnbc.com/video/2026/04/30/watch-cnbcs-full-interview-with-bausch-lomb-ceo-brent-saunders.html)
+- [Delhi CM, Union minister Shekhawat see off train with 1,400 devotees set for Somnath Yatra](https://www.ptinews.com/story/national/delhi-cm-union-minister-shekhawat-see-off-train-with-1-400-devotees-set-for-somnath-yatra/3619743)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
