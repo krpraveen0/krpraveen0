@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [For years, the risk Jamie Dimon was most concerned about was geopolitics. His answer has shifted](https://fortune.com/2026/04/30/jamie-dimon-geopolitics-cyber-economic-risks-threats/)
-- [For Autonomous Robots, Not All Rules Are Equal](https://www.miragenews.com/for-autonomous-robots-not-all-rules-are-equal-1665345/)
-- [How to Reengineer Global Supply Chains for a New Era of Disruption with Kaushik Krishnan](https://alltechmagazine.com/supply-chain-resilience-ai-manufacturing-kaushik-krishnan/)
-- [Watch CNBC's full interview with Bausch + Lomb CEO Brent Saunders](https://www.cnbc.com/video/2026/04/30/watch-cnbcs-full-interview-with-bausch-lomb-ceo-brent-saunders.html)
-- [Delhi CM, Union minister Shekhawat see off train with 1,400 devotees set for Somnath Yatra](https://www.ptinews.com/story/national/delhi-cm-union-minister-shekhawat-see-off-train-with-1-400-devotees-set-for-somnath-yatra/3619743)
+- [Morgan Stanley resets KLA Corp stock forecast](https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-kla-corp-143700142.html)
+- [Why is Oracle stock rallying today?](https://www.investing.com/news/company-news/why-is-oracle-stock-rallying-today-93CH-4653662)
+- [OneMain (OMF) Q1 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/01/onemain-omf-q1-2026-earnings-call-transcript/)
+- [Women Driving Climate Action Take Centre Stage at Sustainability LIVE @ London Climate Action Week](https://www.manilatimes.net/2026/05/01/tmt-newswire/globenewswire/women-driving-climate-action-take-centre-stage-at-sustainability-live-london-climate-action-week/2333922)
+- [Baidu Inc. (BIDU) Launches Upgraded General AI Agent](https://www.insidermonkey.com/blog/baidu-inc-bidu-launches-upgraded-general-ai-agent-1751747/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
