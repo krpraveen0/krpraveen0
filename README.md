@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Morgan Stanley resets KLA Corp stock forecast](https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-kla-corp-143700142.html)
-- [Why is Oracle stock rallying today?](https://www.investing.com/news/company-news/why-is-oracle-stock-rallying-today-93CH-4653662)
-- [OneMain (OMF) Q1 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/01/onemain-omf-q1-2026-earnings-call-transcript/)
-- [Women Driving Climate Action Take Centre Stage at Sustainability LIVE @ London Climate Action Week](https://www.manilatimes.net/2026/05/01/tmt-newswire/globenewswire/women-driving-climate-action-take-centre-stage-at-sustainability-live-london-climate-action-week/2333922)
-- [Baidu Inc. (BIDU) Launches Upgraded General AI Agent](https://www.insidermonkey.com/blog/baidu-inc-bidu-launches-upgraded-general-ai-agent-1751747/)
+- [BridgeBio Pharma Inc. (BBIO): Billionaire Tom Steyer Admires Upside Potential of This Stock](https://www.insidermonkey.com/blog/bridgebio-pharma-inc-bbio-billionaire-tom-steyer-admires-upside-potential-of-this-stock-1751874/)
+- [President Nicusor Dan will participate in eighth meeting of European Political Community, in Yerevan](https://www.stiripesurse.ro/president-nicusor-dan-will-participate-in-eighth-meeting-of-european-political-community-in-yerevan_3882821)
+- [Market Logic Network Develops AI-Driven Lead Distribution Systems To Enhance CRM Efficiency And Business Operations](https://menafn.com/1111062216/Market-Logic-Network-Develops-AI-Driven-Lead-Distribution-Systems-To-Enhance-CRM-Efficiency-And-Business-Operations)
+- [Momen Hardiknas 2026, Saadiah Soroti Ketimpangan Pendidikan di Daerah Kepulauan](https://www.harianterbit.com/nasional/27417077751/momen-hardiknas-2026-saadiah-soroti-ketimpangan-pendidikan-di-daerah-kepulauan)
+- [Uber Plans to Turn Driver Cars into Data Engines for Self-Driving AI Future](https://www.thehansindia.com/technology/tech-news/uber-plans-to-turn-driver-cars-into-data-engines-for-self-driving-ai-future-1071410)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
