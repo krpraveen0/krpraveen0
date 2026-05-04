@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [BridgeBio Pharma Inc. (BBIO): Billionaire Tom Steyer Admires Upside Potential of This Stock](https://www.insidermonkey.com/blog/bridgebio-pharma-inc-bbio-billionaire-tom-steyer-admires-upside-potential-of-this-stock-1751874/)
-- [President Nicusor Dan will participate in eighth meeting of European Political Community, in Yerevan](https://www.stiripesurse.ro/president-nicusor-dan-will-participate-in-eighth-meeting-of-european-political-community-in-yerevan_3882821)
-- [Market Logic Network Develops AI-Driven Lead Distribution Systems To Enhance CRM Efficiency And Business Operations](https://menafn.com/1111062216/Market-Logic-Network-Develops-AI-Driven-Lead-Distribution-Systems-To-Enhance-CRM-Efficiency-And-Business-Operations)
-- [Momen Hardiknas 2026, Saadiah Soroti Ketimpangan Pendidikan di Daerah Kepulauan](https://www.harianterbit.com/nasional/27417077751/momen-hardiknas-2026-saadiah-soroti-ketimpangan-pendidikan-di-daerah-kepulauan)
-- [Uber Plans to Turn Driver Cars into Data Engines for Self-Driving AI Future](https://www.thehansindia.com/technology/tech-news/uber-plans-to-turn-driver-cars-into-data-engines-for-self-driving-ai-future-1071410)
+- [Oscar 2026 rule changes: AI ban and new double nomination format](https://baltimorechronicle.com/society/oscar-2026-rule-changes-ai-ban-and-new-double-nomination-format/)
+- [🚨 Mönchengladbach-Dortmund XIs: Two academy products start for BVB!](https://onefootball.com/en/news/moenchengladbach-dortmund-xis-two-academy-products-start-for-bvb-42807608)
+- [🚨 Mönchengladbach-Dortmund XIs: Two academy products start for BVB!](https://ca.sports.yahoo.com/news/m-nchengladbach-dortmund-xis-two-144400531.html)
+- [Oscars have new rules for AI-generated actors and scripts: What is changing](https://timesofindia.indiatimes.com/technology/tech-news/oscars-have-new-rules-for-ai-generated-actors-and-scripts-what-is-changing/articleshow/130734690.cms)
+- [Chindata Group (NASDAQ:CD) Shares Down 5.3% – Time to Sell?](https://www.thelincolnianonline.com/2026/05/03/chindata-group-nasdaqcd-shares-down-5-3-time-to-sell.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
