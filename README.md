@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Oscar 2026 rule changes: AI ban and new double nomination format](https://baltimorechronicle.com/society/oscar-2026-rule-changes-ai-ban-and-new-double-nomination-format/)
-- [🚨 Mönchengladbach-Dortmund XIs: Two academy products start for BVB!](https://onefootball.com/en/news/moenchengladbach-dortmund-xis-two-academy-products-start-for-bvb-42807608)
-- [🚨 Mönchengladbach-Dortmund XIs: Two academy products start for BVB!](https://ca.sports.yahoo.com/news/m-nchengladbach-dortmund-xis-two-144400531.html)
-- [Oscars have new rules for AI-generated actors and scripts: What is changing](https://timesofindia.indiatimes.com/technology/tech-news/oscars-have-new-rules-for-ai-generated-actors-and-scripts-what-is-changing/articleshow/130734690.cms)
-- [Chindata Group (NASDAQ:CD) Shares Down 5.3% – Time to Sell?](https://www.thelincolnianonline.com/2026/05/03/chindata-group-nasdaqcd-shares-down-5-3-time-to-sell.html)
+- [Track Inspection Vehicles Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2033](https://www.openpr.com/news/4500133/track-inspection-vehicles-market-analysis-by-application)
+- [Dutch tech group Techleap splits into public-private entities to boost deeptech and AI](https://nltimes.nl/2026/05/04/dutch-tech-group-techleap-splits-public-private-entities-boost-deeptech-ai)
+- [Elections 2026: Deepfakes, Microtargeting and Regulation - How AI reshaped India’s 2026 elections? Check ECI’s AI regulations](https://www.etnownews.com/technology/elections-2026-deepfakes-microtargeting-and-regulation-how-ai-reshaped-indias-2026-elections-check-ecis-ai-regulations-article-154243595)
+- [Edinburgh data and cloud consultancy acquired by Waracle](https://www.deadlinenews.co.uk/2026/05/04/edinburgh-data-and-cloud-consultancy-acquired-by-waracle/)
+- [Service Robotics Growth Accelerates as Global Demand Fuels Strategic Expansion](https://investingnews.com/service-robotics-growth-accelerates-as-global-demand-fuels-strategic-expansion/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
