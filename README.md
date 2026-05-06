@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Track Inspection Vehicles Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2033](https://www.openpr.com/news/4500133/track-inspection-vehicles-market-analysis-by-application)
-- [Dutch tech group Techleap splits into public-private entities to boost deeptech and AI](https://nltimes.nl/2026/05/04/dutch-tech-group-techleap-splits-public-private-entities-boost-deeptech-ai)
-- [Elections 2026: Deepfakes, Microtargeting and Regulation - How AI reshaped India’s 2026 elections? Check ECI’s AI regulations](https://www.etnownews.com/technology/elections-2026-deepfakes-microtargeting-and-regulation-how-ai-reshaped-indias-2026-elections-check-ecis-ai-regulations-article-154243595)
-- [Edinburgh data and cloud consultancy acquired by Waracle](https://www.deadlinenews.co.uk/2026/05/04/edinburgh-data-and-cloud-consultancy-acquired-by-waracle/)
-- [Service Robotics Growth Accelerates as Global Demand Fuels Strategic Expansion](https://investingnews.com/service-robotics-growth-accelerates-as-global-demand-fuels-strategic-expansion/)
+- [Coinbase shares rise after exchange cuts 700 jobs due to AI](https://www.geo.tv/latest/663014-coinbase-shares-rise-after-exchange-cuts-700-jobs-due-to-ai)
+- [Riverwater Partners Small Cap Strategy’s Q1 2026 Investor Letter](https://www.insidermonkey.com/blog/riverwater-partners-small-cap-strategys-q1-2026-investor-letter-1753901/)
+- [Freshworks set to report earnings as AI strategy faces profitability test](https://za.investing.com/news/earnings/freshworks-set-to-report-earnings-as-ai-strategy-faces-profitability-test-93CH-4253266)
+- [Freshworks set to report earnings as AI strategy faces profitability test](https://uk.investing.com/news/earnings/freshworks-set-to-report-earnings-as-ai-strategy-faces-profitability-test-93CH-4650696)
+- [Raymond James upgrades Devon Energy to ‘Strong Buy’ on valuation upside](https://www.investing.com/news/stock-market-news/raymond-james-upgrades-devon-energy-to-strong-buy-on-valuation-upside-4659650)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
