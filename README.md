@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Coinbase shares rise after exchange cuts 700 jobs due to AI](https://www.geo.tv/latest/663014-coinbase-shares-rise-after-exchange-cuts-700-jobs-due-to-ai)
-- [Riverwater Partners Small Cap Strategy’s Q1 2026 Investor Letter](https://www.insidermonkey.com/blog/riverwater-partners-small-cap-strategys-q1-2026-investor-letter-1753901/)
-- [Freshworks set to report earnings as AI strategy faces profitability test](https://za.investing.com/news/earnings/freshworks-set-to-report-earnings-as-ai-strategy-faces-profitability-test-93CH-4253266)
-- [Freshworks set to report earnings as AI strategy faces profitability test](https://uk.investing.com/news/earnings/freshworks-set-to-report-earnings-as-ai-strategy-faces-profitability-test-93CH-4650696)
-- [Raymond James upgrades Devon Energy to ‘Strong Buy’ on valuation upside](https://www.investing.com/news/stock-market-news/raymond-james-upgrades-devon-energy-to-strong-buy-on-valuation-upside-4659650)
+- [Siris Completes Acquisition of TAKKION](https://www.globenewswire.com/fr/news-release/2026/05/06/3289058/0/en/Siris-Completes-Acquisition-of-TAKKION.html)
+- [This Is the Part of the AI Boom Nobody Is Talking About -- and the Stock Sitting at the Center of It](https://www.fool.com/investing/2026/05/06/this-is-the-part-of-the-ai-boom-nobody-is-talking/)
+- [Siris Completes Acquisition of TAKKION](https://nynewscast.com/siris-completes-acquisition-of-takkion-216906/)
+- [🇲🇽 Mexico erupts: FMF ultimatum to Liga MX players](https://onefootball.com/en/news/mexico-erupts-fmf-ultimatum-to-liga-mx-players-42823425)
+- [🇲🇽 All-out war in Mexican football, FMF ultimatum to Liga MX players](https://onefootball.com/en/news/all-out-war-in-mexican-football-fmf-ultimatum-to-liga-mx-players-42823425)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
