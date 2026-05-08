@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 6.7 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 6.8 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Siris Completes Acquisition of TAKKION](https://www.globenewswire.com/fr/news-release/2026/05/06/3289058/0/en/Siris-Completes-Acquisition-of-TAKKION.html)
-- [This Is the Part of the AI Boom Nobody Is Talking About -- and the Stock Sitting at the Center of It](https://www.fool.com/investing/2026/05/06/this-is-the-part-of-the-ai-boom-nobody-is-talking/)
-- [Siris Completes Acquisition of TAKKION](https://nynewscast.com/siris-completes-acquisition-of-takkion-216906/)
-- [🇲🇽 Mexico erupts: FMF ultimatum to Liga MX players](https://onefootball.com/en/news/mexico-erupts-fmf-ultimatum-to-liga-mx-players-42823425)
-- [🇲🇽 All-out war in Mexican football, FMF ultimatum to Liga MX players](https://onefootball.com/en/news/all-out-war-in-mexican-football-fmf-ultimatum-to-liga-mx-players-42823425)
+- [Market Outlook: Crude prices cool as traders eye Iran negotiations](https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/07/market-outlook-crude-prices-cool-as-traders-eye-iran-negotiations/)
+- [Cruise Planners Pushes AI further with Industry-first Cruise Confirmation Import integration](https://nynewsly.com/cruise-planners-pushes-ai-further-with-industry-first-cruise-confirmation-import-integration/31722/)
+- [CORRECTION -- Alaris Releases 2026 First Quarter Financial Results](https://www.globenewswire.com/fr/news-release/2026/05/07/3290260/0/en/CORRECTION-Alaris-Releases-2026-First-Quarter-Financial-Results.html)
+- [CORRECTION -- Alaris Releases 2026 First Quarter Financial Results](https://www.globenewswire.com/news-release/2026/05/07/3290260/0/en/CORRECTION-Alaris-Releases-2026-First-Quarter-Financial-Results.html)
+- [Cruise Planners Pushes AI further with Industry-first Cruise Confirmation Import integration](https://www.prnewswire.com/news-releases/cruise-planners-pushes-ai-further-with-industry-first-cruise-confirmation-import-integration-302765819.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
