@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Market Outlook: Crude prices cool as traders eye Iran negotiations](https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/07/market-outlook-crude-prices-cool-as-traders-eye-iran-negotiations/)
-- [Cruise Planners Pushes AI further with Industry-first Cruise Confirmation Import integration](https://nynewsly.com/cruise-planners-pushes-ai-further-with-industry-first-cruise-confirmation-import-integration/31722/)
-- [CORRECTION -- Alaris Releases 2026 First Quarter Financial Results](https://www.globenewswire.com/fr/news-release/2026/05/07/3290260/0/en/CORRECTION-Alaris-Releases-2026-First-Quarter-Financial-Results.html)
-- [CORRECTION -- Alaris Releases 2026 First Quarter Financial Results](https://www.globenewswire.com/news-release/2026/05/07/3290260/0/en/CORRECTION-Alaris-Releases-2026-First-Quarter-Financial-Results.html)
-- [Cruise Planners Pushes AI further with Industry-first Cruise Confirmation Import integration](https://www.prnewswire.com/news-releases/cruise-planners-pushes-ai-further-with-industry-first-cruise-confirmation-import-integration-302765819.html)
+- [गजब है ये कंपनी, अकेले पूरे भारतीय शेयर बाजार पर हावी, मार्केट कैप में छोड़ दिया पीछे](https://www.money9live.com/share-market/nvidia-market-cap-ai-boom-gpu-chips-indian-stock-market-tech-rally-article-102732.html)
+- [AI poses a downside risk to employment in the near-term, says Goldman Sachs' Jan Hatzius](https://www.cnbc.com/video/2026/05/08/ai-poses-a-downside-risk-to-employment-in-the-near-term-says-goldman-sachs-jan-hatzius.html)
+- [Anthropic Valuation Could Eclipse OpenAI in $50 Billion Funding Round](https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-valuation-could-eclipse-openai-50-billion-dollar-funding-round/)
+- [Malaysia and Vietnam deepen ties in digital economy and AI](https://thesun.my/news/malaysia-news/malaysia-and-vietnam-deepen-ties-in-digital-economy-and-ai/)
+- [Can Intel's new CEO turn Silicon Valley charm into chip success?](https://www.latimes.com/business/story/2026-05-08/can-intels-new-ceo-turn-silicon-valley-charm-into-chip-success)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
