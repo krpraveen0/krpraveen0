@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [गजब है ये कंपनी, अकेले पूरे भारतीय शेयर बाजार पर हावी, मार्केट कैप में छोड़ दिया पीछे](https://www.money9live.com/share-market/nvidia-market-cap-ai-boom-gpu-chips-indian-stock-market-tech-rally-article-102732.html)
-- [AI poses a downside risk to employment in the near-term, says Goldman Sachs' Jan Hatzius](https://www.cnbc.com/video/2026/05/08/ai-poses-a-downside-risk-to-employment-in-the-near-term-says-goldman-sachs-jan-hatzius.html)
-- [Anthropic Valuation Could Eclipse OpenAI in $50 Billion Funding Round](https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-valuation-could-eclipse-openai-50-billion-dollar-funding-round/)
-- [Malaysia and Vietnam deepen ties in digital economy and AI](https://thesun.my/news/malaysia-news/malaysia-and-vietnam-deepen-ties-in-digital-economy-and-ai/)
-- [Can Intel's new CEO turn Silicon Valley charm into chip success?](https://www.latimes.com/business/story/2026-05-08/can-intels-new-ceo-turn-silicon-valley-charm-into-chip-success)
+- [Increase NAO resources, drop OPM recruitment procedures, Momentum proposes](https://timesofmalta.com/article/increase-nao-resources-drop-opm-recruitment-procedures.1128197)
+- [Palantir Technologies (PLTR) Price Target Raised to $225 by Citi](https://www.insidermonkey.com/blog/palantir-technologies-pltr-price-target-raised-to-225-by-citi-1757404/)
+- [Piper Sandler Raises Arista Networks (ANET) Price Target to $181 on AI Exposure](https://www.insidermonkey.com/blog/piper-sandler-raises-arista-networks-anet-price-target-to-181-on-ai-exposure-1757420/)
+- [Alphabet Inc. (GOOGL) Raises Over $17 billion Through Euro-denominated Bonds](https://www.insidermonkey.com/blog/alphabet-inc-googl-raises-over-17-billion-through-euro-denominated-bonds-1757452/)
+- [Amazon.com (AMZN) Business Platform Offers Same-Day Delivery of Fresh Groceries](https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-business-platform-144929592.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
