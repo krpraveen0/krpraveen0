@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Increase NAO resources, drop OPM recruitment procedures, Momentum proposes](https://timesofmalta.com/article/increase-nao-resources-drop-opm-recruitment-procedures.1128197)
-- [Palantir Technologies (PLTR) Price Target Raised to $225 by Citi](https://www.insidermonkey.com/blog/palantir-technologies-pltr-price-target-raised-to-225-by-citi-1757404/)
-- [Piper Sandler Raises Arista Networks (ANET) Price Target to $181 on AI Exposure](https://www.insidermonkey.com/blog/piper-sandler-raises-arista-networks-anet-price-target-to-181-on-ai-exposure-1757420/)
-- [Alphabet Inc. (GOOGL) Raises Over $17 billion Through Euro-denominated Bonds](https://www.insidermonkey.com/blog/alphabet-inc-googl-raises-over-17-billion-through-euro-denominated-bonds-1757452/)
-- [Amazon.com (AMZN) Business Platform Offers Same-Day Delivery of Fresh Groceries](https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-business-platform-144929592.html)
+- [Cannes Film Festival opens Tuesday with some of year’s most anticipated movies](https://www.fox8live.com/2026/05/10/cannes-film-festival-opens-tuesday-with-some-years-most-anticipated-movies/)
+- [Palantir stock is cheaper than Alphabet on this valuation metric](https://www.thestreet.com/investing/stocks/palantir-stock-is-cheaper-than-alphabet-on-this-valuation-metric)
+- [African lobby groups’ wish list ahead of Africa Forward Summit](https://nation.africa/kenya/news/africa/african-lobby-groups-wish-list-africa-forward-summit-5454114)
+- [Maury Povich comes out of retirement to host AI-themed campaign for cloud storage company Air](https://completeaitraining.com/news/maury-povich-comes-out-of-retirement-to-host-ai-themed/)
+- [Ecommerce Stocks To Follow Now – May 7th](https://www.watchlistnews.com/ecommerce-stocks-to-follow-now-may-7th/11076948.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
