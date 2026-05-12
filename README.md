@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Cannes Film Festival opens Tuesday with some of year’s most anticipated movies](https://www.fox8live.com/2026/05/10/cannes-film-festival-opens-tuesday-with-some-years-most-anticipated-movies/)
-- [Palantir stock is cheaper than Alphabet on this valuation metric](https://www.thestreet.com/investing/stocks/palantir-stock-is-cheaper-than-alphabet-on-this-valuation-metric)
-- [African lobby groups’ wish list ahead of Africa Forward Summit](https://nation.africa/kenya/news/africa/african-lobby-groups-wish-list-africa-forward-summit-5454114)
-- [Maury Povich comes out of retirement to host AI-themed campaign for cloud storage company Air](https://completeaitraining.com/news/maury-povich-comes-out-of-retirement-to-host-ai-themed/)
-- [Ecommerce Stocks To Follow Now – May 7th](https://www.watchlistnews.com/ecommerce-stocks-to-follow-now-may-7th/11076948.html)
+- [Building Smarter Smelters: How Vedanta Aluminiumis Driving Responsible Innovation at Jharsuguda](https://www.swadhinataraswara.com/building-smarter-smelters-how-vedanta-aluminiumis-driving-responsible-innovation-at-jharsuguda/)
+- [‘It’s here’: Google issues dire warning after catching hackers using AI to break into computers](https://fortune.com/2026/05/11/google-catches-hackers-cybersecurity-warning-ai-anthropic-mythos/)
+- [Sigortaladim.com Launches Sigortaladim MCP Server for Insurance Quotes in Türkiye](https://www.openpr.com/news/4509481/sigortaladim-com-launches-sigortaladim-mcp-server)
+- [A third billionaire testifies in OpenAI trial: Microsoft CEO Satya Nadella](https://www.nbcsandiego.com/news/national-international/microsoft-ceo-satya-nadella-testifies-musk-openai-trial/4022249/)
+- [A third billionaire testifies in OpenAI trial: Microsoft CEO Satya Nadella](https://www.nbcbayarea.com/news/national-international/microsoft-ceo-satya-nadella-testifies-musk-openai-trial/4083053/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
