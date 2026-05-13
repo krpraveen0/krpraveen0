@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Building Smarter Smelters: How Vedanta Aluminiumis Driving Responsible Innovation at Jharsuguda](https://www.swadhinataraswara.com/building-smarter-smelters-how-vedanta-aluminiumis-driving-responsible-innovation-at-jharsuguda/)
-- [‘It’s here’: Google issues dire warning after catching hackers using AI to break into computers](https://fortune.com/2026/05/11/google-catches-hackers-cybersecurity-warning-ai-anthropic-mythos/)
-- [Sigortaladim.com Launches Sigortaladim MCP Server for Insurance Quotes in Türkiye](https://www.openpr.com/news/4509481/sigortaladim-com-launches-sigortaladim-mcp-server)
-- [A third billionaire testifies in OpenAI trial: Microsoft CEO Satya Nadella](https://www.nbcsandiego.com/news/national-international/microsoft-ceo-satya-nadella-testifies-musk-openai-trial/4022249/)
-- [A third billionaire testifies in OpenAI trial: Microsoft CEO Satya Nadella](https://www.nbcbayarea.com/news/national-international/microsoft-ceo-satya-nadella-testifies-musk-openai-trial/4083053/)
+- [Halo340B Launches Innovative AI-Powered Platform to Strengthen 340B Compliance and Optimize Revenue for Healthcare Providers](https://www.financialcontent.com/article/bizwire-2026-5-12-halo340b-launches-innovative-ai-powered-platform-to-strengthen-340b-compliance-and-optimize-revenue-for-healthcare-providers)
+- [Halo340B Launches Innovative AI-Powered Platform to Strengthen 340B Compliance and Optimize Revenue for Healthcare Providers](http://www.businesswire.com/news/home/20260511741951/en/Halo340B-Launches-Innovative-AI-Powered-Platform-to-Strengthen-340B-Compliance-and-Optimize-Revenue-for-Healthcare-Providers/?feedref=JjAwJuNHiystnCoBq_hl-RLXHJgazfQJNuOVHefdHP-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ieT3WxPE8m_kWI77F87CseT)
+- [Janus (JBI) Q1 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/12/janus-jbi-q1-2026-earnings-call-transcript/)
+- [China debuts global AI education hub to bridge digital divide](https://www.chinesereporter.net/education/2604-china-debuts-global-ai-education-hub-to-bridge-digital-divide)
+- [Why did the US stock market crash today after the CPI inflation report? Dow Jones, S&P 500 and Nasdaq sink deep into red as Iran tensions and soaring oil prices fuel fresh inflation fears across Wall Street](https://economictimes.indiatimes.com/news/international/us/why-did-the-us-stock-market-crash-today-after-the-cpi-inflation-report-dow-jones-sp-500-and-nasdaq-sink-deep-into-red-as-iran-tensions-and-soaring-oil-prices-fuel-fresh-inflation-fears-across-wall-street/articleshow/131042627.cms)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
