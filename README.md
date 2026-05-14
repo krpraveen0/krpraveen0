@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Halo340B Launches Innovative AI-Powered Platform to Strengthen 340B Compliance and Optimize Revenue for Healthcare Providers](https://www.financialcontent.com/article/bizwire-2026-5-12-halo340b-launches-innovative-ai-powered-platform-to-strengthen-340b-compliance-and-optimize-revenue-for-healthcare-providers)
-- [Halo340B Launches Innovative AI-Powered Platform to Strengthen 340B Compliance and Optimize Revenue for Healthcare Providers](http://www.businesswire.com/news/home/20260511741951/en/Halo340B-Launches-Innovative-AI-Powered-Platform-to-Strengthen-340B-Compliance-and-Optimize-Revenue-for-Healthcare-Providers/?feedref=JjAwJuNHiystnCoBq_hl-RLXHJgazfQJNuOVHefdHP-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ieT3WxPE8m_kWI77F87CseT)
-- [Janus (JBI) Q1 2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/05/12/janus-jbi-q1-2026-earnings-call-transcript/)
-- [China debuts global AI education hub to bridge digital divide](https://www.chinesereporter.net/education/2604-china-debuts-global-ai-education-hub-to-bridge-digital-divide)
-- [Why did the US stock market crash today after the CPI inflation report? Dow Jones, S&P 500 and Nasdaq sink deep into red as Iran tensions and soaring oil prices fuel fresh inflation fears across Wall Street](https://economictimes.indiatimes.com/news/international/us/why-did-the-us-stock-market-crash-today-after-the-cpi-inflation-report-dow-jones-sp-500-and-nasdaq-sink-deep-into-red-as-iran-tensions-and-soaring-oil-prices-fuel-fresh-inflation-fears-across-wall-street/articleshow/131042627.cms)
+- [Microsoft Israel head ousted reportedly over IDF’s controversial use of cloud tech](https://www.timesofisrael.com/microsoft-israel-head-ousted-reportedly-over-idfs-controversial-use-of-cloud-tech/)
+- [CBSE class 12 results 2026: UAE schools celebrate strong pass rates and top scores despite regional conflict](https://gulfnews.com/uae/education/cbse-class-12-results-2026-uae-schools-celebrate-strong-pass-rates-and-top-scores-despite-regional-conflict-1.500539468)
+- [Trump arrives in Beijing for talks with China’s Xi on Iran war, trade and U.S. arms sales to Taiwan](https://www.columbian.com/news/2026/may/13/trump-arrives-in-beijing-for-talks-with-chinas-xi-on-iran-war-trade-and-u-s-arms-sales-to-taiwan/)
+- [Evercore ISI Raises Its Seagate Stock Price Target to $1,000. HAMR Technology Growth Is the Major Trigger.](https://www.barchart.com/story/news/1908020/evercore-isi-raises-its-seagate-stock-price-target-to-1-000-hamr-technology-growth-is-the-major-trigger)
+- [Googlebook, el portátil premium diseñado por Google específicamente para la inteligencia artificial](https://elcomercio.pe/tecnologia/actualidad/googlebook-el-portatil-premium-disenado-por-google-especificamente-para-la-inteligencia-artificial-gemini-intelligence-chrome-noticia/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
