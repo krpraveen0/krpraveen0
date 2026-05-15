@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Microsoft Israel head ousted reportedly over IDF’s controversial use of cloud tech](https://www.timesofisrael.com/microsoft-israel-head-ousted-reportedly-over-idfs-controversial-use-of-cloud-tech/)
-- [CBSE class 12 results 2026: UAE schools celebrate strong pass rates and top scores despite regional conflict](https://gulfnews.com/uae/education/cbse-class-12-results-2026-uae-schools-celebrate-strong-pass-rates-and-top-scores-despite-regional-conflict-1.500539468)
-- [Trump arrives in Beijing for talks with China’s Xi on Iran war, trade and U.S. arms sales to Taiwan](https://www.columbian.com/news/2026/may/13/trump-arrives-in-beijing-for-talks-with-chinas-xi-on-iran-war-trade-and-u-s-arms-sales-to-taiwan/)
-- [Evercore ISI Raises Its Seagate Stock Price Target to $1,000. HAMR Technology Growth Is the Major Trigger.](https://www.barchart.com/story/news/1908020/evercore-isi-raises-its-seagate-stock-price-target-to-1-000-hamr-technology-growth-is-the-major-trigger)
-- [Googlebook, el portátil premium diseñado por Google específicamente para la inteligencia artificial](https://elcomercio.pe/tecnologia/actualidad/googlebook-el-portatil-premium-disenado-por-google-especificamente-para-la-inteligencia-artificial-gemini-intelligence-chrome-noticia/)
+- [When Artificial Intelligence enters the diagnostic exam room](https://mileniostadium.com/uncategorized/when-artificial-intelligence-enters-the-diagnostic-exam-room/)
+- [Whistleblower: Fauci steered CIA away from lab-leak experts, analysts punished for findings](https://www.washingtontimes.com/news/2026/may/14/cia-suppress-covid-lab-leak-findings-whistleblower-says-yes/)
+- [CORRECTION: Creatd Announces Vocal Equity Realignment and Updates Annual Shareholder Meeting Dates](https://www.manilatimes.net/2026/05/14/tmt-newswire/globenewswire/correction-creatd-announces-vocal-equity-realignment-and-updates-annual-shareholder-meeting-dates/2344266)
+- [Competitive Landscape: Leading Companies and Rising Contenders in the Cloud Server Hosting Services Market](https://www.openpr.com/news/4514045/competitive-landscape-leading-companies-and-rising)
+- [Glovo’s Dima Rasnovsky says Nigeria’s young, digital-first population is reshaping commerce in Africa](https://businessday.ng/bd-weekender/article/glovos-dima-rasnovsky-says-nigerias-young-digital-first-population-is-reshaping-commerce-in-africa/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
