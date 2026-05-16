@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [When Artificial Intelligence enters the diagnostic exam room](https://mileniostadium.com/uncategorized/when-artificial-intelligence-enters-the-diagnostic-exam-room/)
-- [Whistleblower: Fauci steered CIA away from lab-leak experts, analysts punished for findings](https://www.washingtontimes.com/news/2026/may/14/cia-suppress-covid-lab-leak-findings-whistleblower-says-yes/)
-- [CORRECTION: Creatd Announces Vocal Equity Realignment and Updates Annual Shareholder Meeting Dates](https://www.manilatimes.net/2026/05/14/tmt-newswire/globenewswire/correction-creatd-announces-vocal-equity-realignment-and-updates-annual-shareholder-meeting-dates/2344266)
-- [Competitive Landscape: Leading Companies and Rising Contenders in the Cloud Server Hosting Services Market](https://www.openpr.com/news/4514045/competitive-landscape-leading-companies-and-rising)
-- [Glovo’s Dima Rasnovsky says Nigeria’s young, digital-first population is reshaping commerce in Africa](https://businessday.ng/bd-weekender/article/glovos-dima-rasnovsky-says-nigerias-young-digital-first-population-is-reshaping-commerce-in-africa/)
+- [AriseAlpha launched Free AI Crypto Trading Bot Platform Integrating Automated Strategies for Digital Asset Investors (2026)](https://www.globenewswire.com/fr/news-release/2026/05/15/3295996/0/en/AriseAlpha-launched-Free-AI-Crypto-Trading-Bot-Platform-Integrating-Automated-Strategies-for-Digital-Asset-Investors-2026.html)
+- [Build new wealth for nation by mastering innovative health care delivery, says director of Tata Memorial Centre](https://www.thehindu.com/news/cities/Mangalore/build-new-wealth-for-nation-by-mastering-innovative-health-care-delivery-says-director-of-tata-memorial-centre/article70983580.ece)
+- [RIP, liberal arts colleges. Long live the liberal arts](https://themercury.com/opinion/rip-liberal-arts-colleges-long-live-the-liberal-arts/article_d62d5da0-6d3a-4e73-a9db-1414ee2b9158.html)
+- [Global chip stocks dragged lower by KOSPI selloff, stalled US-Iran talks](https://www.investing.com/news/stock-market-news/global-chip-stocks-dragged-lower-by-kospi-selloff-stalled-usiran-talks-4691268)
+- [Global Times: Keeping Giant Ship Of China-US Relations On A Steady Course](https://menafn.com/1111122818/Global-Times-Keeping-Giant-Ship-Of-China-US-Relations-On-A-Steady-Course)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
