@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AriseAlpha launched Free AI Crypto Trading Bot Platform Integrating Automated Strategies for Digital Asset Investors (2026)](https://www.globenewswire.com/fr/news-release/2026/05/15/3295996/0/en/AriseAlpha-launched-Free-AI-Crypto-Trading-Bot-Platform-Integrating-Automated-Strategies-for-Digital-Asset-Investors-2026.html)
-- [Build new wealth for nation by mastering innovative health care delivery, says director of Tata Memorial Centre](https://www.thehindu.com/news/cities/Mangalore/build-new-wealth-for-nation-by-mastering-innovative-health-care-delivery-says-director-of-tata-memorial-centre/article70983580.ece)
-- [RIP, liberal arts colleges. Long live the liberal arts](https://themercury.com/opinion/rip-liberal-arts-colleges-long-live-the-liberal-arts/article_d62d5da0-6d3a-4e73-a9db-1414ee2b9158.html)
-- [Global chip stocks dragged lower by KOSPI selloff, stalled US-Iran talks](https://www.investing.com/news/stock-market-news/global-chip-stocks-dragged-lower-by-kospi-selloff-stalled-usiran-talks-4691268)
-- [Global Times: Keeping Giant Ship Of China-US Relations On A Steady Course](https://menafn.com/1111122818/Global-Times-Keeping-Giant-Ship-Of-China-US-Relations-On-A-Steady-Course)
+- [“Strongest Embodied Brain” Crowned with Double Championships! X-Humanoid’s Pelican-Unify 1.0 Ranked World No. 1, Entering the Top Tier of Embodied Intelligence](https://www.financialcontent.com/article/marketersmedia-2026-5-16-strongest-embodied-brain-crowned-with-double-championships-x-humanoids-pelican-unify-10-ranked-world-no-1-entering-the-top-tier-of-embodied-intelligence)
+- [এআই কোর্স করলেই কি চাকরি মিলবে? বাস্তব চিত্রটা কী?](https://www.aajkaal.in/lifestyle/is-ai-course-helping-students-to-get-jobs-or-its-just-a-craze-496380)
+- [Army Chief Gen Dwivedi dreams up 'Ahista Zindagi' cafe for people to relax read books and unwind](https://www.theweek.in/wire-updates/national/2026/05/16/army-chief-gen-dwivedi-dreams-up-ahista-zindagi-cafe-for-people-to-relax-read-books-and-unwind.html)
+- [Trump's description of Taiwan as a ‘good negotiating chip’ with China raises anxieties](https://abcnews.com/Business/wireStory/trumps-description-taiwan-good-negotiating-chip-china-raises-133031178)
+- [Tata Electronics partners ASML to set up advanced chip fab in Gujarat](https://www.thehindubusinessline.com/info-tech/tata-electronics-partners-asml-to-set-up-advanced-chip-fab-in-gujarat/article70987736.ece)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
