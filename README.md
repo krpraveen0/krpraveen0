@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [“Strongest Embodied Brain” Crowned with Double Championships! X-Humanoid’s Pelican-Unify 1.0 Ranked World No. 1, Entering the Top Tier of Embodied Intelligence](https://www.financialcontent.com/article/marketersmedia-2026-5-16-strongest-embodied-brain-crowned-with-double-championships-x-humanoids-pelican-unify-10-ranked-world-no-1-entering-the-top-tier-of-embodied-intelligence)
-- [এআই কোর্স করলেই কি চাকরি মিলবে? বাস্তব চিত্রটা কী?](https://www.aajkaal.in/lifestyle/is-ai-course-helping-students-to-get-jobs-or-its-just-a-craze-496380)
-- [Army Chief Gen Dwivedi dreams up 'Ahista Zindagi' cafe for people to relax read books and unwind](https://www.theweek.in/wire-updates/national/2026/05/16/army-chief-gen-dwivedi-dreams-up-ahista-zindagi-cafe-for-people-to-relax-read-books-and-unwind.html)
-- [Trump's description of Taiwan as a ‘good negotiating chip’ with China raises anxieties](https://abcnews.com/Business/wireStory/trumps-description-taiwan-good-negotiating-chip-china-raises-133031178)
-- [Tata Electronics partners ASML to set up advanced chip fab in Gujarat](https://www.thehindubusinessline.com/info-tech/tata-electronics-partners-asml-to-set-up-advanced-chip-fab-in-gujarat/article70987736.ece)
+- [Microsoft's Suleyman says AI could match humans on most office tasks within 18 months](https://completeaitraining.com/news/microsofts-suleyman-says-ai-could-match-humans-on-most/)
+- [Soros Exits, Analysts Push Higher: Take-Two’s GTA VI Rally Enters a Make-or-Break Stretch](https://www.newscase.com/soros-exits-analysts-push-higher-take-twos-gta-vi-rally-enters-a-make-or-break-stretch/)
+- [Pro-Chancellors urge govts to set up AI, digital committees for sustainable funding](https://punchng.com/pro-chancellors-urge-govts-to-set-up-ai-digital-committees-for-sustainable-funding/)
+- [UCF graduates boo commencement speaker for calling AI "the next industrial revolution"](https://www.techspot.com/community/topics/ucf-graduates-boo-commencement-speaker-for-calling-ai-the-next-industrial-revolution.297459/)
+- [How IBM Agentic AI is Changing the 1,000-Qubit Era](https://insidetelecom.com/ibm-agentic-ai-scales-enterprise-trust/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
