@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Microsoft's Suleyman says AI could match humans on most office tasks within 18 months](https://completeaitraining.com/news/microsofts-suleyman-says-ai-could-match-humans-on-most/)
-- [Soros Exits, Analysts Push Higher: Take-Two’s GTA VI Rally Enters a Make-or-Break Stretch](https://www.newscase.com/soros-exits-analysts-push-higher-take-twos-gta-vi-rally-enters-a-make-or-break-stretch/)
-- [Pro-Chancellors urge govts to set up AI, digital committees for sustainable funding](https://punchng.com/pro-chancellors-urge-govts-to-set-up-ai-digital-committees-for-sustainable-funding/)
-- [UCF graduates boo commencement speaker for calling AI "the next industrial revolution"](https://www.techspot.com/community/topics/ucf-graduates-boo-commencement-speaker-for-calling-ai-the-next-industrial-revolution.297459/)
-- [How IBM Agentic AI is Changing the 1,000-Qubit Era](https://insidetelecom.com/ibm-agentic-ai-scales-enterprise-trust/)
+- [Pophie Hits Kickstarter: Introducing a New AI Lifeform That Sees, Hears, and Grows Alongside You](https://www.manilatimes.net/2026/05/18/tmt-newswire/pr-newswire/pophie-hits-kickstarter-introducing-a-new-ai-lifeform-that-sees-hears-and-grows-alongside-you/2346488)
+- [HR leaders face governance gap as employee-built AI agents multiply unchecked across organisations](https://completeaitraining.com/news/hr-leaders-face-governance-gap-as-employee-built-ai-agents/)
+- [Why Tesla stock is down around 2% on Monday](https://invezz.com/news/2026/05/18/why-tesla-stock-is-down-around-2-on-monday/)
+- [Ogun 2027: ADC Aspirant Challenges APC, PDP Counterparts to Debate](https://www.thisdaylive.com/2026/05/18/ogun-2027-adc-aspirant-challenges-apc-pdp-counterparts-to-debate/)
+- [CFOs Pull Forecasting Insights From Payments Data, Not Economic Headlines](https://www.pymnts.com/data/2026/chief-financial-officers-pull-forecasting-insights-from-payments-data-not-economic-headlines/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
