@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Pophie Hits Kickstarter: Introducing a New AI Lifeform That Sees, Hears, and Grows Alongside You](https://www.manilatimes.net/2026/05/18/tmt-newswire/pr-newswire/pophie-hits-kickstarter-introducing-a-new-ai-lifeform-that-sees-hears-and-grows-alongside-you/2346488)
-- [HR leaders face governance gap as employee-built AI agents multiply unchecked across organisations](https://completeaitraining.com/news/hr-leaders-face-governance-gap-as-employee-built-ai-agents/)
-- [Why Tesla stock is down around 2% on Monday](https://invezz.com/news/2026/05/18/why-tesla-stock-is-down-around-2-on-monday/)
-- [Ogun 2027: ADC Aspirant Challenges APC, PDP Counterparts to Debate](https://www.thisdaylive.com/2026/05/18/ogun-2027-adc-aspirant-challenges-apc-pdp-counterparts-to-debate/)
-- [CFOs Pull Forecasting Insights From Payments Data, Not Economic Headlines](https://www.pymnts.com/data/2026/chief-financial-officers-pull-forecasting-insights-from-payments-data-not-economic-headlines/)
+- [Medium Earth Orbit (MEO) Satellite IoT Strategic Business Research Report 2026 with Coverage of Major Players Such as Airbus, Astrocast, EchoStar Mobile, Fleet Space Technologies, Globalstar](https://www.globenewswire.com/fr/news-release/2026/05/19/3297768/28124/en/Medium-Earth-Orbit-MEO-Satellite-IoT-Strategic-Business-Research-Report-2026-with-Coverage-of-Major-Players-Such-as-Airbus-Astrocast-EchoStar-Mobile-Fleet-Space-Technologies-Global.html)
+- [Linear Actuators Market Size, Share & Trends Industry Report, 2033](https://menafn.com/1111140287/Linear-Actuators-Market-Size-Share-Trends-Industry-Report-2033)
+- [Conversational Systems Market Trends, Insights, And Future Forecast 2033](https://menafn.com/1111140286/Conversational-Systems-Market-Trends-Insights-And-Future-Forecast-2033)
+- [French AI giant acquires startup co-founded by Latvian entrepreneur](https://www.intellinews.com/french-ai-giant-acquires-startup-co-founded-by-latvian-entrepreneur-443705/)
+- [PM Modi Reaches Rome After Nordic Summit, Bilateral Talks With Italy PM Giorgia Meloni High On Agenda](https://menafn.com/1111140277/PM-Modi-Reaches-Rome-After-Nordic-Summit-Bilateral-Talks-With-Italy-PM-Giorgia-Meloni-High-On-Agenda)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
