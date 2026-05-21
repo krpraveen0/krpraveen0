@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Medium Earth Orbit (MEO) Satellite IoT Strategic Business Research Report 2026 with Coverage of Major Players Such as Airbus, Astrocast, EchoStar Mobile, Fleet Space Technologies, Globalstar](https://www.globenewswire.com/fr/news-release/2026/05/19/3297768/28124/en/Medium-Earth-Orbit-MEO-Satellite-IoT-Strategic-Business-Research-Report-2026-with-Coverage-of-Major-Players-Such-as-Airbus-Astrocast-EchoStar-Mobile-Fleet-Space-Technologies-Global.html)
-- [Linear Actuators Market Size, Share & Trends Industry Report, 2033](https://menafn.com/1111140287/Linear-Actuators-Market-Size-Share-Trends-Industry-Report-2033)
-- [Conversational Systems Market Trends, Insights, And Future Forecast 2033](https://menafn.com/1111140286/Conversational-Systems-Market-Trends-Insights-And-Future-Forecast-2033)
-- [French AI giant acquires startup co-founded by Latvian entrepreneur](https://www.intellinews.com/french-ai-giant-acquires-startup-co-founded-by-latvian-entrepreneur-443705/)
-- [PM Modi Reaches Rome After Nordic Summit, Bilateral Talks With Italy PM Giorgia Meloni High On Agenda](https://menafn.com/1111140277/PM-Modi-Reaches-Rome-After-Nordic-Summit-Bilateral-Talks-With-Italy-PM-Giorgia-Meloni-High-On-Agenda)
+- [My Top 3 Biotech Stocks for May 2026](https://finance.yahoo.com/sectors/healthcare/articles/top-3-biotech-stocks-may-153500100.html)
+- [Substance for Putin, ‘face’ for Trump: China, Russia deepen alliance to counter US](https://www.scmp.com/news/china/diplomacy/article/3354282/substance-putin-face-trump-china-russia-deepen-alliance-counter-us)
+- [European Union Agrees to Ban AI Generated Non Consensual Sexualized Deepfakes](https://www.itsecuritynews.info/european-union-agrees-to-ban-ai-generated-non-consensual-sexualized-deepfakes/)
+- [3 key figures from Kroger’s annual report](https://www.grocerydive.com/news/3-big-numbers-kroger-annual-report-ecommerce-sales/820649/)
+- [The Latest: Trump scores another win against Republican rival with Rep. Thomas Massie’s primary loss](https://www.mankatofreepress.com/news/state_national_news/the-latest-trump-scores-another-win-against-republican-rival-with-rep-thomas-massie-s-primary/article_14785f36-1806-50ea-a48a-9f5b59ba0d66.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
