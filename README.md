@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [My Top 3 Biotech Stocks for May 2026](https://finance.yahoo.com/sectors/healthcare/articles/top-3-biotech-stocks-may-153500100.html)
-- [Substance for Putin, ‘face’ for Trump: China, Russia deepen alliance to counter US](https://www.scmp.com/news/china/diplomacy/article/3354282/substance-putin-face-trump-china-russia-deepen-alliance-counter-us)
-- [European Union Agrees to Ban AI Generated Non Consensual Sexualized Deepfakes](https://www.itsecuritynews.info/european-union-agrees-to-ban-ai-generated-non-consensual-sexualized-deepfakes/)
-- [3 key figures from Kroger’s annual report](https://www.grocerydive.com/news/3-big-numbers-kroger-annual-report-ecommerce-sales/820649/)
-- [The Latest: Trump scores another win against Republican rival with Rep. Thomas Massie’s primary loss](https://www.mankatofreepress.com/news/state_national_news/the-latest-trump-scores-another-win-against-republican-rival-with-rep-thomas-massie-s-primary/article_14785f36-1806-50ea-a48a-9f5b59ba0d66.html)
+- [How 'Navalny' filmmaker Daniel Roher’s post-Oscar creative depression inspired ‘Tuner’](https://www.wivb.com/entertainment-news/ap-how-navalny-filmmaker-daniel-rohers-post-oscar-creative-depression-inspired-tuner/)
+- [How 'Navalny' filmmaker Daniel Roher’s post-Oscar creative depression inspired ‘Tuner’](https://www.independent.co.uk/news/navalny-leo-woodall-peacock-rome-dustin-hoffman-b2981324.html)
+- [How 'Navalny' filmmaker Daniel Roher’s post-Oscar creative depression inspired ‘Tuner’](https://www.timesargus.com/ap/entertainment/how-navalny-filmmaker-daniel-roher-s-post-oscar-creative-depression-inspired-tuner/article_f88f90dd-334b-5577-8080-eb88b4b86dd1.html)
+- [How 'Navalny' filmmaker Daniel Roher’s post-Oscar creative depression inspired ‘Tuner’](https://kdhnews.com/living/ae/how-navalny-filmmaker-daniel-roher-s-post-oscar-creative-depression-inspired-tuner/article_e1e210c2-5341-5e87-8aea-4e6baaf54dcd.html)
+- [How 'Navalny' filmmaker Daniel Roher’s post-Oscar creative depression inspired ‘Tuner’](https://www.citizentribune.com/entertainment/national/how-navalny-filmmaker-daniel-roher-s-post-oscar-creative-depression-inspired-tuner/article_3194a8e9-19c4-5b8c-8cc2-ed365f00521c.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
