@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [🥇Dimarco, Serie A player of the season](https://ca.sports.yahoo.com/news/dimarco-serie-player-season-145100337.html)
-- [Who is Jonathan Butler and how AI helped Brooklyn entrepreneur create construction app for dream home?](https://www.financialexpress.com/trending/who-is-jonathan-butler-and-how-ai-helped-brooklyn-entrepreneur-create-construction-app-for-dream-home/4248480/)
-- [UnitedHealth Group (UNH) – Among the 10 High Quality Stocks to Buy According to Hedge Funds](https://www.insidermonkey.com/blog/unitedhealth-group-unh-among-the-10-high-quality-stocks-to-buy-according-to-hedge-funds-1767392/)
-- [AIFinance Market Latest Study Reveals New Growth Dynamics | IBM Corporation, Microsoft Corporation](https://www.openpr.com/news/4523655/aifinance-market-latest-study-reveals-new-growth-dynamics-ibm)
-- [Endava (NYSE:DAVA) Given New $4.00 Price Target at TD Cowen](https://baseballnewssource.com/2026/05/22/endava-nysedava-given-new-4-00-price-target-at-td-cowen/11131917.html)
+- [How Comfort Systems USA Is Playing a Crucial Role in the AI Revolution](https://www.fool.com/investing/2026/05/23/how-comfort-systems-usa-is-playing-a-crucial-role/)
+- ['Filter of fantasy': Japan trials anime therapy to treat depression](https://www.gmanetwork.com/news/scitech/science/988724/filter-of-fantasy-japan-trials-anime-therapy-to-treat-depression/story/)
+- [AI stock concentration undermines active fund managers' ability to beat the market](https://completeaitraining.com/news/ai-stock-concentration-undermines-active-fund-managers/)
+- [‘From Oman to the World’- An extraordinary launch of the Oman-Russia International Exhibition redefines investment and global partnerships](https://timesofoman.com//article/172174-from-oman-to-the-world-an-extraordinary-launch-of-the-oman-russia-international-exhibition-redefines-investment-and-global-partnerships)
+- [Kitchen manufacturer’s premises in Donegal, Ireland, damaged in fire](http://dublinnews.com/news/279069627/kitchen-manufacturer-s-premises-in-donegal-ireland-damaged-in-fire)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
