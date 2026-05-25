@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [How Comfort Systems USA Is Playing a Crucial Role in the AI Revolution](https://www.fool.com/investing/2026/05/23/how-comfort-systems-usa-is-playing-a-crucial-role/)
-- ['Filter of fantasy': Japan trials anime therapy to treat depression](https://www.gmanetwork.com/news/scitech/science/988724/filter-of-fantasy-japan-trials-anime-therapy-to-treat-depression/story/)
-- [AI stock concentration undermines active fund managers' ability to beat the market](https://completeaitraining.com/news/ai-stock-concentration-undermines-active-fund-managers/)
-- [‘From Oman to the World’- An extraordinary launch of the Oman-Russia International Exhibition redefines investment and global partnerships](https://timesofoman.com//article/172174-from-oman-to-the-world-an-extraordinary-launch-of-the-oman-russia-international-exhibition-redefines-investment-and-global-partnerships)
-- [Kitchen manufacturer’s premises in Donegal, Ireland, damaged in fire](http://dublinnews.com/news/279069627/kitchen-manufacturer-s-premises-in-donegal-ireland-damaged-in-fire)
+- [Acionistas pressionam big techs sobre uso de energia por IA e metas climáticas](https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/acionistas-pressionam-big-techs-sobre-uso-de-energia-por-ia-e-metas-climaticas.shtml)
+- [Read AI oversight order that President Donald Trump said ‘didn't like certain aspects of it’](https://timesofindia.indiatimes.com/technology/tech-news/read-ai-oversight-order-that-president-donald-trump-said-didnt-like-certain-aspects-of-it/articleshow/131294197.cms)
+- [Bruno Fernandes enters Premier League legend 👑](https://onefootball.com/en/news/bruno-fernandes-enters-premier-league-legend-42916578)
+- [Bruno Fernandes enters Premier League history 👑](https://onefootball.com/en/news/bruno-fernandes-enters-premier-league-history-42916578)
+- [Romania’s Mungiu wins top prize at glitzy Cannes finale](https://kuwaittimes.com/article/44110/lifestyle/movies-music/romanias-mungiu-wins-top-prize-at-glitzy-cannes-finale/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
