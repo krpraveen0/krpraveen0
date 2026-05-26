@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Acionistas pressionam big techs sobre uso de energia por IA e metas climáticas](https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/05/acionistas-pressionam-big-techs-sobre-uso-de-energia-por-ia-e-metas-climaticas.shtml)
-- [Read AI oversight order that President Donald Trump said ‘didn't like certain aspects of it’](https://timesofindia.indiatimes.com/technology/tech-news/read-ai-oversight-order-that-president-donald-trump-said-didnt-like-certain-aspects-of-it/articleshow/131294197.cms)
-- [Bruno Fernandes enters Premier League legend 👑](https://onefootball.com/en/news/bruno-fernandes-enters-premier-league-legend-42916578)
-- [Bruno Fernandes enters Premier League history 👑](https://onefootball.com/en/news/bruno-fernandes-enters-premier-league-history-42916578)
-- [Romania’s Mungiu wins top prize at glitzy Cannes finale](https://kuwaittimes.com/article/44110/lifestyle/movies-music/romanias-mungiu-wins-top-prize-at-glitzy-cannes-finale/)
+- [Artificial Intelligence for brands](https://www.business2business.co.in/article/1026/artificial-intelligence-for-brands)
+- [Pope Leo calls for "disarming" of AI in technology-focused encyclical](https://www.aol.com/articles/pope-leo-calls-disarming-ai-152358459.html)
+- [Pope Leo calls for "disarming" of AI in technology-focused encyclical](https://www.cbsnews.com/sanfrancisco/news/pope-leo-ai-encyclical-artificial-intelligence/)
+- [Pope Leo calls for "disarming" of AI in technology-focused encyclical](https://www.cbsnews.com/news/pope-leo-ai-encyclical-artificial-intelligence/)
+- [STARTRADER Bets on AI, Space, and Crypto with 39 New US Stocks and ETFs](https://www.financemagnates.com/forex/startrader-bets-on-ai-space-and-crypto-with-39-new-us-stocks-and-etfs/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
