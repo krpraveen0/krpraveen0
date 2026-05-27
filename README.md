@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Artificial Intelligence for brands](https://www.business2business.co.in/article/1026/artificial-intelligence-for-brands)
-- [Pope Leo calls for "disarming" of AI in technology-focused encyclical](https://www.aol.com/articles/pope-leo-calls-disarming-ai-152358459.html)
-- [Pope Leo calls for "disarming" of AI in technology-focused encyclical](https://www.cbsnews.com/sanfrancisco/news/pope-leo-ai-encyclical-artificial-intelligence/)
-- [Pope Leo calls for "disarming" of AI in technology-focused encyclical](https://www.cbsnews.com/news/pope-leo-ai-encyclical-artificial-intelligence/)
-- [STARTRADER Bets on AI, Space, and Crypto with 39 New US Stocks and ETFs](https://www.financemagnates.com/forex/startrader-bets-on-ai-space-and-crypto-with-39-new-us-stocks-and-etfs/)
+- [AI Frontier Daily: GitHub Beats Meta, Tax Tab Troubles, and the $5K Skill Nobody Talks About](https://thecherrycreeknews.com/ai-frontier-daily-github-beats-meta-tax-tab-troubles-and-the-5k-skill-nobody-talks-about/)
+- [Top leader calls for stronger reforms in legislative work](https://vietnamnews.vn/politics-laws/1782143/top-leader-calls-for-stronger-reforms-in-legislative-work.html)
+- [Micron Stock Explodes 14% as Wall Street Goes All-In on AI Memory Boom](https://www.investingcube.com/shares/micron-stock-explodes-14-as-wall-street-goes-all-in-on-ai-memory-boom/)
+- [Georgians really struggle to spell this one word](https://www.fox5atlanta.com/news/georgians-really-struggle-spell-one-word)
+- [Dudley warns Fed risks losing credibility as inflation fighter](https://ph.investing.com/news/economy-news/dudley-warns-fed-risks-losing-credibility-as-inflation-fighter-93CH-2421948)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
