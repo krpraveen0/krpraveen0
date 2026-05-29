@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [5 Most Profitable Stocks to Invest In](https://www.insidermonkey.com/blog/5-most-profitable-stocks-to-invest-in-1769096/)
-- [CHAT vs. XLK: CHAT Outperforms XLK on Returns, But XLK Offers on Fees](https://www.fool.com/coverage/etfs/2026/05/27/chat-vs-xlk-chat-outperforms-xlk-on-returns-but-xlk-offers-on-fees/)
-- [AAPL Surges 15% In May: What's Driving The Rally And Will It Continue?](https://www.benzinga.com/markets/prediction-markets/26/05/52813261/aapl-surges-15-in-may-whats-driving-the-rally-and-will-it-continue)
-- [B2B Procurement’s Future Belongs to Companies That See Risk First](https://www.pymnts.com/news/b2b-payments/2026/b2b-procurement-future-companies-see-risk-first/)
-- [Why Dycom Industries Stock Exploded Today](https://www.fool.com/investing/2026/05/27/why-dycom-industries-stock-exploded-today/)
+- [Global Drug Discovery Market Projected to Surpass USD 174.92 Billion by 2035 – SNS Insider](https://www.globenewswire.com/news-release/2026/05/28/3303074/0/en/Global-Drug-Discovery-Market-Projected-to-Surpass-USD-174-92-Billion-by-2035-SNS-Insider.html)
+- [TNS Business Budget for Thursday, May 28, 2026](https://www.thederrick.com/news/entertainment/tns-business-budget-for-thursday-may-28-2026/article_7fdb9bbd-edff-5355-86c5-f1f8304de46a.html)
+- [Global Drug Discovery Market Projected to Surpass USD 174.92 Billion by 2035 – SNS Insider](https://www.globenewswire.com/fr/news-release/2026/05/28/3303074/0/en/Global-Drug-Discovery-Market-Projected-to-Surpass-USD-174-92-Billion-by-2035-SNS-Insider.html)
+- [Costco CEO says AI is not stealing workers’ jobs—it’s ‘elevating’ them](https://fortune.com/2026/05/28/costco-ceo-ron-vachris-artifical-intelligence-not-stealing-jobs-tech-improving-work-retail-giant-success/)
+- [How Big Tech learned to speak FERC](https://www.eenews.net/articles/how-big-tech-learned-to-speak-ferc/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
