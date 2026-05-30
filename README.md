@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Global Drug Discovery Market Projected to Surpass USD 174.92 Billion by 2035 – SNS Insider](https://www.globenewswire.com/news-release/2026/05/28/3303074/0/en/Global-Drug-Discovery-Market-Projected-to-Surpass-USD-174-92-Billion-by-2035-SNS-Insider.html)
-- [TNS Business Budget for Thursday, May 28, 2026](https://www.thederrick.com/news/entertainment/tns-business-budget-for-thursday-may-28-2026/article_7fdb9bbd-edff-5355-86c5-f1f8304de46a.html)
-- [Global Drug Discovery Market Projected to Surpass USD 174.92 Billion by 2035 – SNS Insider](https://www.globenewswire.com/fr/news-release/2026/05/28/3303074/0/en/Global-Drug-Discovery-Market-Projected-to-Surpass-USD-174-92-Billion-by-2035-SNS-Insider.html)
-- [Costco CEO says AI is not stealing workers’ jobs—it’s ‘elevating’ them](https://fortune.com/2026/05/28/costco-ceo-ron-vachris-artifical-intelligence-not-stealing-jobs-tech-improving-work-retail-giant-success/)
-- [How Big Tech learned to speak FERC](https://www.eenews.net/articles/how-big-tech-learned-to-speak-ferc/)
+- [Peter Thiel moves family to Argentina to flee high taxes — and potential nuclear war, AI meltdown: report](https://nypost.com/2026/05/29/business/peter-thiel-moves-family-to-argentina-to-flee-taxes-ai-meltdown-potential-nuclear-war-report/)
+- [AD Ports, NYU Abu Dhabi to develop AI system for smarter port operations](https://gulfnews.com/business/ad-ports-nyu-abu-dhabi-to-develop-ai-system-for-smarter-port-operations-1.500557231)
+- [India, US near interim trade deal, agreement likely in coming weeks: Ambassador Gor](https://www.thestatesman.com/world/india-us-near-interim-trade-deal-agreement-likely-in-coming-weeks-ambassador-gor-1503599719.html)
+- [Asus Integrasikan Arsitektur AI Hybrid di Seluruh Lini Perangkat Komersial](https://koran-jakarta.com/2026-05-29/asus-integrasikan-arsitektur-ai-hybrid-di-seluruh-lini-perangkat-komersial)
+- [Finance Minister Wagle Unveils Historic Rs 2.12 Trillion Budget Targeting Deep Economic Reform, Tax Relief, and Tech Expansion](https://www.himalayanherald.com/finance-minister-wagle-unveils-historic-rs-2-12-trillion-budget-targeting-deep-economic-reform-tax-relief-and-tech-expansion/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
