@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Peter Thiel moves family to Argentina to flee high taxes — and potential nuclear war, AI meltdown: report](https://nypost.com/2026/05/29/business/peter-thiel-moves-family-to-argentina-to-flee-taxes-ai-meltdown-potential-nuclear-war-report/)
-- [AD Ports, NYU Abu Dhabi to develop AI system for smarter port operations](https://gulfnews.com/business/ad-ports-nyu-abu-dhabi-to-develop-ai-system-for-smarter-port-operations-1.500557231)
-- [India, US near interim trade deal, agreement likely in coming weeks: Ambassador Gor](https://www.thestatesman.com/world/india-us-near-interim-trade-deal-agreement-likely-in-coming-weeks-ambassador-gor-1503599719.html)
-- [Asus Integrasikan Arsitektur AI Hybrid di Seluruh Lini Perangkat Komersial](https://koran-jakarta.com/2026-05-29/asus-integrasikan-arsitektur-ai-hybrid-di-seluruh-lini-perangkat-komersial)
-- [Finance Minister Wagle Unveils Historic Rs 2.12 Trillion Budget Targeting Deep Economic Reform, Tax Relief, and Tech Expansion](https://www.himalayanherald.com/finance-minister-wagle-unveils-historic-rs-2-12-trillion-budget-targeting-deep-economic-reform-tax-relief-and-tech-expansion/)
+- [🚨 Will he stay at Wolfsburg? Decision on Hecking made](https://onefootball.com/en/news/will-he-stay-at-wolfsburg-decision-on-hecking-made-42944109)
+- [🚨 Will he stay at Wolfsburg? Decision on Hecking made](https://sports.yahoo.com/articles/stay-wolfsburg-decision-hecking-made-154100918.html)
+- [US, Britain and Australia Announce Partnership to Develop Advanced Underwater Drone Technology](https://newsonair.gov.in/us-britain-and-australia-announce-partnership-to-develop-advanced-underwater-drone-technology/)
+- [CoreWeave (NASDAQ:CRWV) Trading 2.5% Higher – Should You Buy?](https://zolmax.com/investing/coreweave-nasdaqcrwv-trading-2-5-higher-should-you-buy/11868257.html)
+- [Cassie Sobelton Explores the Human Side of Employee Retention in Uncertain Times](https://www.financialcontent.com/article/marketersmedia-2026-5-30-cassie-sobelton-explores-the-human-side-of-employee-retention-in-uncertain-times)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
