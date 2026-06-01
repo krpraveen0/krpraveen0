@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [🚨 Will he stay at Wolfsburg? Decision on Hecking made](https://onefootball.com/en/news/will-he-stay-at-wolfsburg-decision-on-hecking-made-42944109)
-- [🚨 Will he stay at Wolfsburg? Decision on Hecking made](https://sports.yahoo.com/articles/stay-wolfsburg-decision-hecking-made-154100918.html)
-- [US, Britain and Australia Announce Partnership to Develop Advanced Underwater Drone Technology](https://newsonair.gov.in/us-britain-and-australia-announce-partnership-to-develop-advanced-underwater-drone-technology/)
-- [CoreWeave (NASDAQ:CRWV) Trading 2.5% Higher – Should You Buy?](https://zolmax.com/investing/coreweave-nasdaqcrwv-trading-2-5-higher-should-you-buy/11868257.html)
-- [Cassie Sobelton Explores the Human Side of Employee Retention in Uncertain Times](https://www.financialcontent.com/article/marketersmedia-2026-5-30-cassie-sobelton-explores-the-human-side-of-employee-retention-in-uncertain-times)
+- [From reactive operations to autonomous infrastructure: What IT leaders must do next](https://siliconangle.com/2026/05/31/reactive-operations-autonomous-infrastructure-leaders-must-next/)
+- [Science ministry ready to resume teaching Persian Literature course in UPM](https://www.tehrantimes.com/news/526903/Science-ministry-ready-to-resume-teaching-Persian-Literature)
+- [Better AI Inference Stock to Own: Nvidia or Cerebras?](https://www.fool.com/investing/2026/05/31/better-ai-inference-stock-to-own-nvidia-or-cerebra/)
+- [AP Business SummaryBrief at 11:48 a.m. EDT](https://www.messenger-inquirer.com/ap/elections/ap-business-summarybrief-at-11-48-a-m-edt/article_48269c05-b935-571c-8810-c20ffea31c4d.html)
+- [AP Business SummaryBrief at 11:48 a.m. EDT](https://www.cadillacnews.com/ap/business/ap-business-summarybrief-at-11-48-a-m-edt/article_f43138e8-95a6-5b9f-b1ff-453577f22e40.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
