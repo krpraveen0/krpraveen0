@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [From reactive operations to autonomous infrastructure: What IT leaders must do next](https://siliconangle.com/2026/05/31/reactive-operations-autonomous-infrastructure-leaders-must-next/)
-- [Science ministry ready to resume teaching Persian Literature course in UPM](https://www.tehrantimes.com/news/526903/Science-ministry-ready-to-resume-teaching-Persian-Literature)
-- [Better AI Inference Stock to Own: Nvidia or Cerebras?](https://www.fool.com/investing/2026/05/31/better-ai-inference-stock-to-own-nvidia-or-cerebra/)
-- [AP Business SummaryBrief at 11:48 a.m. EDT](https://www.messenger-inquirer.com/ap/elections/ap-business-summarybrief-at-11-48-a-m-edt/article_48269c05-b935-571c-8810-c20ffea31c4d.html)
-- [AP Business SummaryBrief at 11:48 a.m. EDT](https://www.cadillacnews.com/ap/business/ap-business-summarybrief-at-11-48-a-m-edt/article_f43138e8-95a6-5b9f-b1ff-453577f22e40.html)
+- [Nvidia Turns Spotlight On AI PCs: What They Are And The Risks You May Face](https://www.ndtv.com/world-news/nvidia-turns-spotlight-on-ai-pcs-what-they-are-and-the-risks-you-may-face-11577121)
+- [Indiana Police Misplace More Than $30,000 Seized in Massage Parlor Raids](https://reason.com/2026/06/01/indiana-police-misplace-more-than-30000-seized-in-massage-parlor-raids/)
+- [🤯 Milan, what’s happened to you? The club’s deepest crisis has no end 😰](https://onefootball.com/en/news/milan-whats-happened-to-you-the-clubs-deepest-crisis-has-no-end-42952082)
+- [Short Interest in Singularity Future Technology Ltd. (NASDAQ:SGLY) Declines By 49.1%](https://www.watchlistnews.com/short-interest-in-singularity-future-technology-ltd-nasdaqsgly-declines-by-49-1/11101160.html)
+- [Short Interest in Singularity Future Technology Ltd. (NASDAQ:SGLY) Declines By 49.1%](https://www.dailypolitical.com/2026/06/01/short-interest-in-singularity-future-technology-ltd-nasdaqsgly-declines-by-49-1.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
