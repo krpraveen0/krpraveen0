@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Nvidia Turns Spotlight On AI PCs: What They Are And The Risks You May Face](https://www.ndtv.com/world-news/nvidia-turns-spotlight-on-ai-pcs-what-they-are-and-the-risks-you-may-face-11577121)
-- [Indiana Police Misplace More Than $30,000 Seized in Massage Parlor Raids](https://reason.com/2026/06/01/indiana-police-misplace-more-than-30000-seized-in-massage-parlor-raids/)
-- [🤯 Milan, what’s happened to you? The club’s deepest crisis has no end 😰](https://onefootball.com/en/news/milan-whats-happened-to-you-the-clubs-deepest-crisis-has-no-end-42952082)
-- [Short Interest in Singularity Future Technology Ltd. (NASDAQ:SGLY) Declines By 49.1%](https://www.watchlistnews.com/short-interest-in-singularity-future-technology-ltd-nasdaqsgly-declines-by-49-1/11101160.html)
-- [Short Interest in Singularity Future Technology Ltd. (NASDAQ:SGLY) Declines By 49.1%](https://www.dailypolitical.com/2026/06/01/short-interest-in-singularity-future-technology-ltd-nasdaqsgly-declines-by-49-1.html)
+- [JMM seeks removal of education min Pradhan over CBSE row, NEET-UG leak](https://timesofindia.indiatimes.com/city/ranchi/jmm-seeks-removal-of-education-min-pradhan-over-cbse-row-neet-ug-leak/articleshow/131467302.cms)
+- [‘Starting with the basics’: Intel data centre head Kevork Kechichian shares new plan to compete with rivals Nvidia and AMD](https://timesofindia.indiatimes.com/technology/tech-news/starting-with-the-basics-intel-data-centre-head-kevork-kechichian-shares-new-plan-to-compete-with-rivals-nvidia-and-amd/articleshow/131467311.cms)
+- [Trump signs AI executive order asking companies to give government early access to models](https://www.nytimesnewstoday.com/trump-signs-ai-executive-order-asking-companies-to-give-government-early-access-to-models/)
+- [Eurozone: Services inflation surge supports ECB hikes – ABN AMRO](https://www.fxstreet.com/news/eurozone-services-inflation-surge-supports-ecb-hikes-abn-amro-202606021558)
+- [LA Mayor Karen Bass, acknowledging mistakes, angles for second term in struggling city](https://ca.news.yahoo.com/la-mayor-karen-bass-acknowledging-040315998.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
