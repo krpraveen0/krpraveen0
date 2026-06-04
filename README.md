@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [JMM seeks removal of education min Pradhan over CBSE row, NEET-UG leak](https://timesofindia.indiatimes.com/city/ranchi/jmm-seeks-removal-of-education-min-pradhan-over-cbse-row-neet-ug-leak/articleshow/131467302.cms)
-- [‘Starting with the basics’: Intel data centre head Kevork Kechichian shares new plan to compete with rivals Nvidia and AMD](https://timesofindia.indiatimes.com/technology/tech-news/starting-with-the-basics-intel-data-centre-head-kevork-kechichian-shares-new-plan-to-compete-with-rivals-nvidia-and-amd/articleshow/131467311.cms)
-- [Trump signs AI executive order asking companies to give government early access to models](https://www.nytimesnewstoday.com/trump-signs-ai-executive-order-asking-companies-to-give-government-early-access-to-models/)
-- [Eurozone: Services inflation surge supports ECB hikes – ABN AMRO](https://www.fxstreet.com/news/eurozone-services-inflation-surge-supports-ecb-hikes-abn-amro-202606021558)
-- [LA Mayor Karen Bass, acknowledging mistakes, angles for second term in struggling city](https://ca.news.yahoo.com/la-mayor-karen-bass-acknowledging-040315998.html)
+- [Phison abre el camino a la implementación a gran escala de la IA en todos los sectores](http://www.businesswire.com/news/home/20260601665154/es/?feedref=JjAwJuNHiystnCoBq_hl-eAh7yh3ccNzLJZaxyWkP0mljpP0CpzuEOW8PSMzp0v37dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSHGnYFEfW-VLubTIB9HxyrA%3D%3D)
+- [Nigeria’s Population Boom is Changing the Data Center Investment Story](https://www.socialnews.xyz/2026/06/03/nigerias-population-boom-is-changing-the-data-center-investment-story/)
+- [North Ridgeville residents weigh in on data center moratorium](https://www.cleveland.com/lorain-county/2026/06/north-ridgeville-residents-weigh-in-on-data-center-moratorium.html)
+- [Blue wins "Best on TikTok" at Hashtag Sports Awards](http://www.indianapolispost.com/news/279100011/blue-wins-best-on-tiktok-at-hashtag-sports-awards)
+- [Meta Enters Enterprise AI Race with New Business Agent](https://english.aawsat.com/node/5280170)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
