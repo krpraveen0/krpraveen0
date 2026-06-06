@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Best Meal Kit Delivery Deals and Promo Codes for June 2026](https://www.cnet.com/deals/best-meal-kit-deals-and-promo-codes/)
-- [Jaishankar Welcomes UK Foreign Secretary Yvette Cooper, Reviews Expanding India-UK Strategic Partnership](https://kolkatatoday.com/jaishankar-welcomes-uk-foreign-secretary-yvette-cooper-reviews-expanding-india-uk-strategic-partnership)
-- [SEBI stresses tech-led surveillance as AI-driven frauds reshape cybercrime landscape](https://www.moneycontrol.com/news/business/markets/sebi-stresses-tech-led-surveillance-as-ai-driven-frauds-reshape-cybercrime-landscape-13941474.html)
-- [Miami Swim Week 2026: See the top stories from the runways and parties](https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article316005042.html)
-- [US Firms Try DeepSeek as Silicon Valley AI Costs Rise](https://www.techrepublic.com/article/news-us-firms-try-deepseek-ai-costs-rise/)
+- [ADR International Launches the World's First GenAI Virtual Tutor for Procurement Powered by CodeBaby](https://www.prnewswire.com/news-releases/adr-international-launches-the-worlds-first-genai-virtual-tutor-for-procurement-powered-by-codebaby-302792818.html)
+- [ఐటీ, ఏఐ రంగాల్లో భారత్ గ్లోబల్ లీడర్.. ‘నమో’ దేశంపై రష్యా అధ్యక్షుడు పుతిన్ ప్రశంసల జల్లు!](https://tv9telugu.com/world/india-is-a-key-partner-and-leader-in-the-it-and-ai-industry-says-putin-at-spief-plenary-session-1834902.html)
+- [Expert's horror warning for how AI will end the world and 'destroy humanity'](https://www.express.co.uk/news/world/2213963/experts-horror-warning-how-ai)
+- [Coinbase stock falls as Baird flags weak trading volumes and valuation risks](https://invezz.com/news/2026/06/05/coinbase-stock-falls-as-baird-flags-weak-trading-volumes-and-valuation-risks/)
+- [Insecurity: Private security operators seek stronger collaboration with government](https://guardian.ng/news/insecurity-private-security-operators-seek-stronger-collaboration-with-government/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
