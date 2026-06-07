@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [ADR International Launches the World's First GenAI Virtual Tutor for Procurement Powered by CodeBaby](https://www.prnewswire.com/news-releases/adr-international-launches-the-worlds-first-genai-virtual-tutor-for-procurement-powered-by-codebaby-302792818.html)
-- [ఐటీ, ఏఐ రంగాల్లో భారత్ గ్లోబల్ లీడర్.. ‘నమో’ దేశంపై రష్యా అధ్యక్షుడు పుతిన్ ప్రశంసల జల్లు!](https://tv9telugu.com/world/india-is-a-key-partner-and-leader-in-the-it-and-ai-industry-says-putin-at-spief-plenary-session-1834902.html)
-- [Expert's horror warning for how AI will end the world and 'destroy humanity'](https://www.express.co.uk/news/world/2213963/experts-horror-warning-how-ai)
-- [Coinbase stock falls as Baird flags weak trading volumes and valuation risks](https://invezz.com/news/2026/06/05/coinbase-stock-falls-as-baird-flags-weak-trading-volumes-and-valuation-risks/)
-- [Insecurity: Private security operators seek stronger collaboration with government](https://guardian.ng/news/insecurity-private-security-operators-seek-stronger-collaboration-with-government/)
+- [Elon Musk to attend ASML’s private tech event to discuss Terafab](https://www.moneycontrol.com/news/business/elon-musk-to-attend-asml-s-private-tech-event-to-discuss-terafab-13942825.html)
+- [T-Mobile Opens India Tech Hub After US Layoffs; Ramps Up Hiring](https://www.latestly.com/us/t-mobile-opens-india-tech-hub-after-us-layoffs-ramps-up-hiring-7462084.html)
+- [Amazon launches AI visual search tools with lens live and circle to search](https://www.dynamitenews.com/technology/amazon-launches-ai-visual-search-tools-with-lens-live-and-circle-to-search)
+- [Bhagwant Mann Govt is building future-ready universities, ensuring Punjab’s youth no longer have to leave state for quality technology & pharmaceutical education: Harjot Singh Bains](https://www.dnpindia.in/states/punjab/bhagwant-mann-govt-is-building-future-ready-universities-ensuring-punjabs-youth-no-longer-have-to-leave-state-for-quality-technology-pharmaceutical-education-harjot-singh-bains/604945/)
+- [Carbon tech in agriculture gaining momentum](https://www.observerbd.com/news/578468)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
