@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Elon Musk to attend ASML’s private tech event to discuss Terafab](https://www.moneycontrol.com/news/business/elon-musk-to-attend-asml-s-private-tech-event-to-discuss-terafab-13942825.html)
-- [T-Mobile Opens India Tech Hub After US Layoffs; Ramps Up Hiring](https://www.latestly.com/us/t-mobile-opens-india-tech-hub-after-us-layoffs-ramps-up-hiring-7462084.html)
-- [Amazon launches AI visual search tools with lens live and circle to search](https://www.dynamitenews.com/technology/amazon-launches-ai-visual-search-tools-with-lens-live-and-circle-to-search)
-- [Bhagwant Mann Govt is building future-ready universities, ensuring Punjab’s youth no longer have to leave state for quality technology & pharmaceutical education: Harjot Singh Bains](https://www.dnpindia.in/states/punjab/bhagwant-mann-govt-is-building-future-ready-universities-ensuring-punjabs-youth-no-longer-have-to-leave-state-for-quality-technology-pharmaceutical-education-harjot-singh-bains/604945/)
-- [Carbon tech in agriculture gaining momentum](https://www.observerbd.com/news/578468)
+- [Marseille: the moves set to heat up the transfer window 🥵](https://ca.sports.yahoo.com/news/marseille-moves-set-heat-transfer-155400988.html)
+- [Apple settles $250 million lawsuit over AI feature marketing claims](https://completeaitraining.com/news/apple-settles-250-million-lawsuit-over-ai-feature-marketing/)
+- [SewerAI Wins Backing to Tackle Trillion Dollar Infrastructure Gap](https://highways.today/2026/06/07/sewerai-backing/)
+- [Withdraw suspension, reinstate KATH CEO in three days - GMA gives ultimatum to Health Minister](https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Withdraw-suspension-reinstate-KATH-CEO-in-three-days-GMA-gives-ultimatum-to-Health-Minister-2038071)
+- [AI’s mega stock deals raise specter of more shares than buyers](https://fortune.com/2026/06/07/ai-mega-stock-deals-ipo-openai-anthropic-spacex-google-stock-supply-buyers/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
