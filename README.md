@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Marseille: the moves set to heat up the transfer window 🥵](https://ca.sports.yahoo.com/news/marseille-moves-set-heat-transfer-155400988.html)
-- [Apple settles $250 million lawsuit over AI feature marketing claims](https://completeaitraining.com/news/apple-settles-250-million-lawsuit-over-ai-feature-marketing/)
-- [SewerAI Wins Backing to Tackle Trillion Dollar Infrastructure Gap](https://highways.today/2026/06/07/sewerai-backing/)
-- [Withdraw suspension, reinstate KATH CEO in three days - GMA gives ultimatum to Health Minister](https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Withdraw-suspension-reinstate-KATH-CEO-in-three-days-GMA-gives-ultimatum-to-Health-Minister-2038071)
-- [AI’s mega stock deals raise specter of more shares than buyers](https://fortune.com/2026/06/07/ai-mega-stock-deals-ipo-openai-anthropic-spacex-google-stock-supply-buyers/)
+- [Why Intel Stock Bounced Back Today](https://www.fool.com/investing/2026/06/08/why-intel-stock-bounced-back-today/)
+- [Week ahead: SpaceX readies for liftoff as inflation clouds gather](https://finance.yahoo.com/economy/policy/articles/week-ahead-spacex-readies-liftoff-145700711.html)
+- [® Bakcell announces appointment of new Chief Executive Officer](https://azertag.az/en/xeber/__bakcell_announces_appointment_of_new_chief_executive_officer-4249275)
+- [Edgewater’s AI-Powered Records Digitization Offering Achieves ‘Awardable’ Status on Tradewinds Marketplace](https://www.executivebiz.com/articles/edgewater-edgescanai-tradewinds-marketplace-awardable)
+- [FDC Dental Clinic Kenalkan Transformasi Bisnis Digital di Forum Mabit Cuan Bandung](https://mediaindonesia.com/jabar/berita/898293/fdc-dental-clinic-kenalkan-transformasi-bisnis-digital-di-forum-mabit-cuan-bandung)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
