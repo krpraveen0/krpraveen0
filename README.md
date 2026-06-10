@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Why Intel Stock Bounced Back Today](https://www.fool.com/investing/2026/06/08/why-intel-stock-bounced-back-today/)
-- [Week ahead: SpaceX readies for liftoff as inflation clouds gather](https://finance.yahoo.com/economy/policy/articles/week-ahead-spacex-readies-liftoff-145700711.html)
-- [® Bakcell announces appointment of new Chief Executive Officer](https://azertag.az/en/xeber/__bakcell_announces_appointment_of_new_chief_executive_officer-4249275)
-- [Edgewater’s AI-Powered Records Digitization Offering Achieves ‘Awardable’ Status on Tradewinds Marketplace](https://www.executivebiz.com/articles/edgewater-edgescanai-tradewinds-marketplace-awardable)
-- [FDC Dental Clinic Kenalkan Transformasi Bisnis Digital di Forum Mabit Cuan Bandung](https://mediaindonesia.com/jabar/berita/898293/fdc-dental-clinic-kenalkan-transformasi-bisnis-digital-di-forum-mabit-cuan-bandung)
+- [Russia’s State Duma tightens rules for ‘foreign agents’ — adding more inspections and banning social advertising](https://meduza.io/en/news/2026/06/09/russia-s-state-duma-tightens-rules-for-foreign-agents-adding-more-inspections-and-banning-social-advertising)
+- [The Gulf states are betting big on AI: who’s investing where?](https://fortune.com/2026/06/09/gulf-states-betting-big-on-ai-investment/)
+- [Nintendo announces The Legend of Zelda: Ocarina of Time remake for 2026](https://www.shacknews.com/article/149563/the-legend-of-zelda-ocarina-of-time-remake-announced)
+- [DK Challenge adds limited-time trials across Donkey Kong Bananza & classic games](https://www.shacknews.com/article/149564/dk-challenge-reveal-nintendo-direct-june-2026)
+- [Deputy PM receives UN Under-Secretary-General, High Representative for Disarmament Affairs](https://vietnamnews.vn/politics-laws/1783101/deputy-pm-receives-un-under-secretary-general-high-representative-for-disarmament-affairs.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
