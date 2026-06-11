@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Russia’s State Duma tightens rules for ‘foreign agents’ — adding more inspections and banning social advertising](https://meduza.io/en/news/2026/06/09/russia-s-state-duma-tightens-rules-for-foreign-agents-adding-more-inspections-and-banning-social-advertising)
-- [The Gulf states are betting big on AI: who’s investing where?](https://fortune.com/2026/06/09/gulf-states-betting-big-on-ai-investment/)
-- [Nintendo announces The Legend of Zelda: Ocarina of Time remake for 2026](https://www.shacknews.com/article/149563/the-legend-of-zelda-ocarina-of-time-remake-announced)
-- [DK Challenge adds limited-time trials across Donkey Kong Bananza & classic games](https://www.shacknews.com/article/149564/dk-challenge-reveal-nintendo-direct-june-2026)
-- [Deputy PM receives UN Under-Secretary-General, High Representative for Disarmament Affairs](https://vietnamnews.vn/politics-laws/1783101/deputy-pm-receives-un-under-secretary-general-high-representative-for-disarmament-affairs.html)
+- [Gulf Strikes Revive Inflation Fears Across Global Markets](https://www.newsghana.com.gh/gulf-strikes-revive-inflation-fears-across-global-markets/)
+- [McDonald's quietly makes a major change to its drive thru... and customers are furious](https://www.dailymail.com/yourmoney/article-15889003/mcdonalds-drive-change-drive-customers-furious-ai.html)
+- [Salesforce layoffs: Company cuts more jobs across Agentforce, Mulesoft and Marketing Cloud teams](https://www.moneycontrol.com/technology/salesforce-layoffs-company-cuts-more-jobs-across-agentforce-mulesoft-and-marketing-cloud-teams-article-13946435.html)
+- [Rising Treasury Yields Emerge as Threat to Stock Market Rally](https://www.ibtimes.com/rising-treasury-yields-emerge-threat-stock-market-rally-3803920)
+- [Forget the SpaceX IPO. This Stock Is a Better Bet for Long-Term Investors.](https://finance.yahoo.com/markets/stocks/articles/forget-spacex-ipo-stock-better-155000940.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
