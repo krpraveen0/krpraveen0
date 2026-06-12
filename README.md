@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Gulf Strikes Revive Inflation Fears Across Global Markets](https://www.newsghana.com.gh/gulf-strikes-revive-inflation-fears-across-global-markets/)
-- [McDonald's quietly makes a major change to its drive thru... and customers are furious](https://www.dailymail.com/yourmoney/article-15889003/mcdonalds-drive-change-drive-customers-furious-ai.html)
-- [Salesforce layoffs: Company cuts more jobs across Agentforce, Mulesoft and Marketing Cloud teams](https://www.moneycontrol.com/technology/salesforce-layoffs-company-cuts-more-jobs-across-agentforce-mulesoft-and-marketing-cloud-teams-article-13946435.html)
-- [Rising Treasury Yields Emerge as Threat to Stock Market Rally](https://www.ibtimes.com/rising-treasury-yields-emerge-threat-stock-market-rally-3803920)
-- [Forget the SpaceX IPO. This Stock Is a Better Bet for Long-Term Investors.](https://finance.yahoo.com/markets/stocks/articles/forget-spacex-ipo-stock-better-155000940.html)
+- [Mizoram eyes 1 pc share in India's GDP by 2047: CM Lalduhoma Lalduhoma](https://www.newsdrum.in/national/mizoram-eyes-1-pc-share-in-indias-gdp-by-2047-cm-lalduhoma-lalduhoma-12028537)
+- [Schumer blasts Trump plan to seize Iran's Kharg Island as 'fiasco' after fresh U.S. strikes](https://www.washingtontimes.com/news/2026/jun/11/schumer-blasts-trump-plan-seize-irans-kharg-island-fiasco-fresh-us/)
+- [Tracking Missing Hydrogen Atoms](https://www.miragenews.com/tracking-missing-hydrogen-atoms-1690810/)
+- [The invisible prison keeping Belizeans poor](https://www.breakingbelizenews.com/2026/06/11/the-invisible-prison-keeping-belizeans-poor/)
+- [Surge Protection Devices (SPD) Market Trends in Low-Voltage Protection Systems](https://express-press-release.net/news/2026/06/11/1758115)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
