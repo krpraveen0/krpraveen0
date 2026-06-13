@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 6.8 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 6.9 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Mizoram eyes 1 pc share in India's GDP by 2047: CM Lalduhoma Lalduhoma](https://www.newsdrum.in/national/mizoram-eyes-1-pc-share-in-indias-gdp-by-2047-cm-lalduhoma-lalduhoma-12028537)
-- [Schumer blasts Trump plan to seize Iran's Kharg Island as 'fiasco' after fresh U.S. strikes](https://www.washingtontimes.com/news/2026/jun/11/schumer-blasts-trump-plan-seize-irans-kharg-island-fiasco-fresh-us/)
-- [Tracking Missing Hydrogen Atoms](https://www.miragenews.com/tracking-missing-hydrogen-atoms-1690810/)
-- [The invisible prison keeping Belizeans poor](https://www.breakingbelizenews.com/2026/06/11/the-invisible-prison-keeping-belizeans-poor/)
-- [Surge Protection Devices (SPD) Market Trends in Low-Voltage Protection Systems](https://express-press-release.net/news/2026/06/11/1758115)
+- [DXC 與 Anthropic 宣佈建立多年全球聯盟,將人工智能引入任務關鍵型企業系統](https://www.prnewswire.com/apac/zh/news-releases/dxc--anthropic--302799200.html)
+- [ERock IPO: A $1.3B Power Play Solution](https://www.investing.com/analysis/erock-ipo-a-13b-power-play-solution-200682075)
+- [Cybersecurity Market to Reach USD 663.2 Billion by 2033 Amid Escalating Threat Landscape and Accelerating Digital Transformation](https://www.prnewswire.co.uk/news-releases/cybersecurity-market-to-reach-usd-663-2-billion-by-2033-amid-escalating-threat-landscape-and-accelerating-digital-transformation-302799049.html)
+- [Cybersecurity Market to Reach USD 663.2 Billion by 2033 Amid Escalating Threat Landscape and Accelerating Digital Transformation](https://www.prnewswire.com/news-releases/cybersecurity-market-to-reach-usd-663-2-billion-by-2033-amid-escalating-threat-landscape-and-accelerating-digital-transformation-302799047.html)
+- [SpaceX to make public debut on Wall Street: What to know](https://us.headtopics.com/news/spacex-to-make-public-debut-on-wall-street-what-to-know-84437395)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
