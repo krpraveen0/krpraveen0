@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [DXC 與 Anthropic 宣佈建立多年全球聯盟,將人工智能引入任務關鍵型企業系統](https://www.prnewswire.com/apac/zh/news-releases/dxc--anthropic--302799200.html)
-- [ERock IPO: A $1.3B Power Play Solution](https://www.investing.com/analysis/erock-ipo-a-13b-power-play-solution-200682075)
-- [Cybersecurity Market to Reach USD 663.2 Billion by 2033 Amid Escalating Threat Landscape and Accelerating Digital Transformation](https://www.prnewswire.co.uk/news-releases/cybersecurity-market-to-reach-usd-663-2-billion-by-2033-amid-escalating-threat-landscape-and-accelerating-digital-transformation-302799049.html)
-- [Cybersecurity Market to Reach USD 663.2 Billion by 2033 Amid Escalating Threat Landscape and Accelerating Digital Transformation](https://www.prnewswire.com/news-releases/cybersecurity-market-to-reach-usd-663-2-billion-by-2033-amid-escalating-threat-landscape-and-accelerating-digital-transformation-302799047.html)
-- [SpaceX to make public debut on Wall Street: What to know](https://us.headtopics.com/news/spacex-to-make-public-debut-on-wall-street-what-to-know-84437395)
+- [White House: Trump-Modi bilateral to focus on global security](https://telanganatoday.com/white-house-trump-modi-bilateral-to-focus-on-global-security)
+- [Can the ocean cool AI? China’s underwater data centre puts it to the test](https://newseisamay.com/world/world-others/can-the-ocean-cool-ai-chinas-underwater-data-centre-puts-it-to-the-test-87580c7f-e98f-41d1-b799-aa960fe6b24b.cms)
+- [A group of state attorneys general are investigating OpenAI](https://sea.mashable.com/tech/50431/a-group-of-state-attorneys-general-are-investigating-openai)
+- [Innovating for India’s Rightful Place in the World](https://incbusiness.in/business/innovating-for-indias-rightful-place-in-the-world/)
+- [Donald Trump, PM Modi set to hold 1st bilateral discussion after India’s successful Operation Sindoor](https://www.india.com/news/world/donald-trump-pm-modi-set-to-hold-1st-bilateral-discussion-after-indias-successful-operation-sindoor-8445784/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
