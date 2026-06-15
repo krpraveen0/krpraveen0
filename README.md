@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [White House: Trump-Modi bilateral to focus on global security](https://telanganatoday.com/white-house-trump-modi-bilateral-to-focus-on-global-security)
-- [Can the ocean cool AI? China’s underwater data centre puts it to the test](https://newseisamay.com/world/world-others/can-the-ocean-cool-ai-chinas-underwater-data-centre-puts-it-to-the-test-87580c7f-e98f-41d1-b799-aa960fe6b24b.cms)
-- [A group of state attorneys general are investigating OpenAI](https://sea.mashable.com/tech/50431/a-group-of-state-attorneys-general-are-investigating-openai)
-- [Innovating for India’s Rightful Place in the World](https://incbusiness.in/business/innovating-for-indias-rightful-place-in-the-world/)
-- [Donald Trump, PM Modi set to hold 1st bilateral discussion after India’s successful Operation Sindoor](https://www.india.com/news/world/donald-trump-pm-modi-set-to-hold-1st-bilateral-discussion-after-indias-successful-operation-sindoor-8445784/)
+- [When the AI Trade Collapses, These 3 S&P 500 Sectors Are Your Best Bet](https://biztoc.com/x/87812a370f188d22)
+- [PM Modi holds 'exceptionally productive' talks with French President](https://www.thehawk.in/news/world/pm-modi-holds-exceptionally-productive-talks-with-french-president)
+- [Transcript: Sen. Mark Kelly on "Face the Nation with Margaret Brennan," June 14, 2026](https://www.aol.com/articles/transcript-sen-mark-kelly-face-160830835.html)
+- [Transcript: Sen. Mark Kelly on "Face the Nation with Margaret Brennan," June 14, 2026](https://www.cbsnews.com/news/mark-kelly-arizona-democrat-face-the-nation-transcript-06-14-2026/)
+- [50 colleges in the US that are most worth the cost, according to data](https://www.960theref.com/news/50-colleges-us-that/WBXROH7OUA3AJJZOQG7Q2XBEFQ/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
