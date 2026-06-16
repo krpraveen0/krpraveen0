@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [When the AI Trade Collapses, These 3 S&P 500 Sectors Are Your Best Bet](https://biztoc.com/x/87812a370f188d22)
-- [PM Modi holds 'exceptionally productive' talks with French President](https://www.thehawk.in/news/world/pm-modi-holds-exceptionally-productive-talks-with-french-president)
-- [Transcript: Sen. Mark Kelly on "Face the Nation with Margaret Brennan," June 14, 2026](https://www.aol.com/articles/transcript-sen-mark-kelly-face-160830835.html)
-- [Transcript: Sen. Mark Kelly on "Face the Nation with Margaret Brennan," June 14, 2026](https://www.cbsnews.com/news/mark-kelly-arizona-democrat-face-the-nation-transcript-06-14-2026/)
-- [50 colleges in the US that are most worth the cost, according to data](https://www.960theref.com/news/50-colleges-us-that/WBXROH7OUA3AJJZOQG7Q2XBEFQ/)
+- [Tech Investor Resurrects 7.8M SF Megaproject In Miami's Little Haiti](https://www.bisnow.com/south-florida/news/mixed-use/magic-city-innovation-district-zangrillo-little-haiti-miami-135021)
+- [4K Technology Market Study Highlights How Industry Demand Is Evolving](https://www.openpr.com/news/4550321/4k-technology-market-study-highlights-how-industry-demand)
+- [Binance Coin (BNB) Scales for RWA and AI While AlphaPepe Builds the DEX Presale With Retail Heat](https://www.openpr.com/news/4550320/binance-coin-bnb-scales-for-rwa-and-ai-while-alphapepe-builds)
+- [Artificial intelligence may change American health care forever, study suggests](https://www.wnd.com/2026/06/artificial-intelligence-may-change-american-health-care-forever/)
+- [Relations between France, Saudi Arabia have never been so close, says official](https://www.arabnews.pk/node/2647281/saudi-arabia)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
