@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Tech Investor Resurrects 7.8M SF Megaproject In Miami's Little Haiti](https://www.bisnow.com/south-florida/news/mixed-use/magic-city-innovation-district-zangrillo-little-haiti-miami-135021)
-- [4K Technology Market Study Highlights How Industry Demand Is Evolving](https://www.openpr.com/news/4550321/4k-technology-market-study-highlights-how-industry-demand)
-- [Binance Coin (BNB) Scales for RWA and AI While AlphaPepe Builds the DEX Presale With Retail Heat](https://www.openpr.com/news/4550320/binance-coin-bnb-scales-for-rwa-and-ai-while-alphapepe-builds)
-- [Artificial intelligence may change American health care forever, study suggests](https://www.wnd.com/2026/06/artificial-intelligence-may-change-american-health-care-forever/)
-- [Relations between France, Saudi Arabia have never been so close, says official](https://www.arabnews.pk/node/2647281/saudi-arabia)
+- [Xinhua think tank report highlights Chinese youth role in aerospace, deep-sea tech, AI innovation](https://www.manilatimes.net/2026/06/17/supplements/special-features/xinhua-think-tank-report-highlights-chinese-youth-role-in-aerospace-deep-sea-tech-ai-innovation/2366755)
+- [China retail sales fell in May for first time since 2022](https://www.manilatimes.net/2026/06/17/business/foreign-business/china-retail-sales-fell-in-may-for-first-time-since-2022/2366832)
+- [I've had dozens of robot mower brands and models - here's my advice for every yard type](https://www.zdnet.com/article/how-to-choose-robot-mower-for-yard-expert-advice/)
+- [SiMa.ai cuts physical AI deployment from months to days with agentic developer tooling](https://siliconangle.com/2026/06/16/sima-ai-cuts-physical-ai-deployment-months-days-agentic-developer-tooling/)
+- [Hong Kong’s financial revival: trading, tokenisation and governance in focus](https://www.scmp.com/presented/business/topics/broadridge/article/3356577/hong-kongs-financial-revival-trading-tokenisation-and-governance-focus)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
