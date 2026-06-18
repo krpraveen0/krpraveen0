@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Xinhua think tank report highlights Chinese youth role in aerospace, deep-sea tech, AI innovation](https://www.manilatimes.net/2026/06/17/supplements/special-features/xinhua-think-tank-report-highlights-chinese-youth-role-in-aerospace-deep-sea-tech-ai-innovation/2366755)
-- [China retail sales fell in May for first time since 2022](https://www.manilatimes.net/2026/06/17/business/foreign-business/china-retail-sales-fell-in-may-for-first-time-since-2022/2366832)
-- [I've had dozens of robot mower brands and models - here's my advice for every yard type](https://www.zdnet.com/article/how-to-choose-robot-mower-for-yard-expert-advice/)
-- [SiMa.ai cuts physical AI deployment from months to days with agentic developer tooling](https://siliconangle.com/2026/06/16/sima-ai-cuts-physical-ai-deployment-months-days-agentic-developer-tooling/)
-- [Hong Kong’s financial revival: trading, tokenisation and governance in focus](https://www.scmp.com/presented/business/topics/broadridge/article/3356577/hong-kongs-financial-revival-trading-tokenisation-and-governance-focus)
+- [1 Greensboro councilwoman calls for data center moratorium. Another defends AI](https://journalnow.com/news/local/government-politics/article_eef69589-a6c9-5986-9c8d-bebecd0cfa58.html)
+- [Salesforce CEO Marc Benioff shares selfie with PM Modi at G7 summit, says: ‘Inspired by my...’](https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-shares-selfie-with-pm-modi-at-g7-summit-says-inspired-by-my/articleshow/131805430.cms)
+- [Pattern Group (NASDAQ:PTRN) Sees Unusually-High Trading Volume – What’s Next?](https://www.tickerreport.com/banking-finance/13478916/pattern-group-nasdaqptrn-sees-unusually-high-trading-volume-whats-next.html)
+- [Pattern Group (NASDAQ:PTRN) Sees Unusually-High Trading Volume – What’s Next?](https://www.dailypolitical.com/2026/06/17/pattern-group-nasdaqptrn-sees-unusually-high-trading-volume-whats-next.html)
+- [Portugal named for Cup opener against DR Congo, see](https://ca.sports.yahoo.com/news/portugal-named-cup-opener-against-155100621.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
