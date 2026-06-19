@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [1 Greensboro councilwoman calls for data center moratorium. Another defends AI](https://journalnow.com/news/local/government-politics/article_eef69589-a6c9-5986-9c8d-bebecd0cfa58.html)
-- [Salesforce CEO Marc Benioff shares selfie with PM Modi at G7 summit, says: ‘Inspired by my...’](https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-shares-selfie-with-pm-modi-at-g7-summit-says-inspired-by-my/articleshow/131805430.cms)
-- [Pattern Group (NASDAQ:PTRN) Sees Unusually-High Trading Volume – What’s Next?](https://www.tickerreport.com/banking-finance/13478916/pattern-group-nasdaqptrn-sees-unusually-high-trading-volume-whats-next.html)
-- [Pattern Group (NASDAQ:PTRN) Sees Unusually-High Trading Volume – What’s Next?](https://www.dailypolitical.com/2026/06/17/pattern-group-nasdaqptrn-sees-unusually-high-trading-volume-whats-next.html)
-- [Portugal named for Cup opener against DR Congo, see](https://ca.sports.yahoo.com/news/portugal-named-cup-opener-against-155100621.html)
+- ["For India, AI Means All Inclusive": PM Modi At VivaTech 2026 In Paris](https://www.ndtv.com/india-news/for-india-ai-means-all-inclusive-pm-modi-at-vivatech-2026-in-paris-11656082)
+- [Barcos varados ya están cruzando estrecho de Ormuz, dice empresa naviera](https://www.houstonchronicle.com/news/article/barcos-varados-ya-est-n-cruzando-estrecho-de-22311185.php)
+- [Barcos varados ya están cruzando estrecho de Ormuz, dice empresa naviera](https://www.expressnews.com/news/article/barcos-varados-ya-est-n-cruzando-estrecho-de-22311185.php)
+- [Barcos varados ya están cruzando estrecho de Ormuz, dice empresa naviera](https://www.ctinsider.com/news/article/barcos-varados-ya-est-n-cruzando-estrecho-de-22311185.php)
+- [Mann denies link to video, cites forensic reports](https://daijiworld.com/news/newsDisplay?newsID=1317606)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
