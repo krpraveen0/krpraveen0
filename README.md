@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- ["For India, AI Means All Inclusive": PM Modi At VivaTech 2026 In Paris](https://www.ndtv.com/india-news/for-india-ai-means-all-inclusive-pm-modi-at-vivatech-2026-in-paris-11656082)
-- [Barcos varados ya están cruzando estrecho de Ormuz, dice empresa naviera](https://www.houstonchronicle.com/news/article/barcos-varados-ya-est-n-cruzando-estrecho-de-22311185.php)
-- [Barcos varados ya están cruzando estrecho de Ormuz, dice empresa naviera](https://www.expressnews.com/news/article/barcos-varados-ya-est-n-cruzando-estrecho-de-22311185.php)
-- [Barcos varados ya están cruzando estrecho de Ormuz, dice empresa naviera](https://www.ctinsider.com/news/article/barcos-varados-ya-est-n-cruzando-estrecho-de-22311185.php)
-- [Mann denies link to video, cites forensic reports](https://daijiworld.com/news/newsDisplay?newsID=1317606)
+- [Dell Technologies (DELL) is Among The Best Donad Trump Stock Picks in 2026](https://www.insidermonkey.com/blog/dell-technologies-dell-is-among-the-best-donad-trump-stock-picks-in-2026-1784750/)
+- [Forget AMD: Amazon Declares War on Nvidia by Selling Its Own AI Chips](https://247wallst.com/investing/2026/06/19/forget-amd-amazon-declares-war-on-nvidia-by-selling-its-own-ai-chips/)
+- [Anwar Ibrahim Serdar Berdimuhamedov bernama-190626-1](https://www.freemalaysiatoday.com/category/nation/2026/06/19/anwar-praises-petronas-for-securing-one-of-worlds-biggest-gas-fields)
+- [PM Modi disburses Rs 2,400 cr under Viksit Bharat Rozgar Yojana](https://newsable.asianetnews.com/india/pm-modi-disburses-rs-2400-cr-under-viksit-bharat-rozgar-yojana-articleshow-dgsv1r2)
+- [Remote People Launches Command Center, the First Action-Taking AI Assistant for Global Employer of Record (EOR) Operations](https://www.prnewswire.com/apac/news-releases/remote-people-launches-command-center-the-first-action-taking-ai-assistant-for-global-employer-of-record-eor-operations-302805499.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
