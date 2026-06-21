@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Dell Technologies (DELL) is Among The Best Donad Trump Stock Picks in 2026](https://www.insidermonkey.com/blog/dell-technologies-dell-is-among-the-best-donad-trump-stock-picks-in-2026-1784750/)
-- [Forget AMD: Amazon Declares War on Nvidia by Selling Its Own AI Chips](https://247wallst.com/investing/2026/06/19/forget-amd-amazon-declares-war-on-nvidia-by-selling-its-own-ai-chips/)
-- [Anwar Ibrahim Serdar Berdimuhamedov bernama-190626-1](https://www.freemalaysiatoday.com/category/nation/2026/06/19/anwar-praises-petronas-for-securing-one-of-worlds-biggest-gas-fields)
-- [PM Modi disburses Rs 2,400 cr under Viksit Bharat Rozgar Yojana](https://newsable.asianetnews.com/india/pm-modi-disburses-rs-2400-cr-under-viksit-bharat-rozgar-yojana-articleshow-dgsv1r2)
-- [Remote People Launches Command Center, the First Action-Taking AI Assistant for Global Employer of Record (EOR) Operations](https://www.prnewswire.com/apac/news-releases/remote-people-launches-command-center-the-first-action-taking-ai-assistant-for-global-employer-of-record-eor-operations-302805499.html)
+- [How Ukraine’s new drone strategy is choking Russia’s war machine](https://indianexpress.com/article/world/ukraine-russia-war-logistics-lockdown-behemoth-drones-crimea-chonhar-bridge-10749346/)
+- [anwar ibrahim plg bernama pic 210626](https://www.freemalaysiatoday.com/category/nation/2026/06/21/rise-above-hate-peddled-by-certain-leaders-anwar-says)
+- [End of traditional job security: Why adaptability is becoming the new career currency](https://www.manilatimes.net/2026/06/21/business/sunday-business-it/end-of-traditional-job-security-why-adaptability-is-becoming-the-new-career-currency/2369498)
+- [How Zoom evolved from video tool to AI work platform](https://www.manilatimes.net/2026/06/21/business/sunday-business-it/how-zoom-evolved-from-video-tool-to-ai-work-platform/2369496)
+- [Recto: PH to fast-track incentives for AI, semicon investors](https://www.manilatimes.net/2026/06/21/business/recto-ph-to-fast-track-incentives-for-ai-semicon-investors/2369505)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
