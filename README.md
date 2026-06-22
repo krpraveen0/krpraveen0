@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [How Ukraine’s new drone strategy is choking Russia’s war machine](https://indianexpress.com/article/world/ukraine-russia-war-logistics-lockdown-behemoth-drones-crimea-chonhar-bridge-10749346/)
-- [anwar ibrahim plg bernama pic 210626](https://www.freemalaysiatoday.com/category/nation/2026/06/21/rise-above-hate-peddled-by-certain-leaders-anwar-says)
-- [End of traditional job security: Why adaptability is becoming the new career currency](https://www.manilatimes.net/2026/06/21/business/sunday-business-it/end-of-traditional-job-security-why-adaptability-is-becoming-the-new-career-currency/2369498)
-- [How Zoom evolved from video tool to AI work platform](https://www.manilatimes.net/2026/06/21/business/sunday-business-it/how-zoom-evolved-from-video-tool-to-ai-work-platform/2369496)
-- [Recto: PH to fast-track incentives for AI, semicon investors](https://www.manilatimes.net/2026/06/21/business/recto-ph-to-fast-track-incentives-for-ai-semicon-investors/2369505)
+- [Column: Ukraine’s cheap drones, combat robots offer hope for the good guys](https://www.dailypress.com/2026/06/21/column-ukraines-cheap-drones-combat-robots-offer-hope-for-the-good-guys/)
+- [Fires, robberies and love: what AI agents do when humans are not watching them](https://www.news247plus.com/news/technology/fires-robberies-and-love-what-ai-agents-do-when-humans-are-not-watching-them-52627)
+- [How to break boulders and cracked, glowing walls in The Adventures of Elliot: The Millennium Tales](https://www.shacknews.com/article/149732/how-to-break-boulders-and-cracked-glowing-walls-in-the-adventures-of-elliot-the-millennium-tales)
+- [Thank you, Bungie](https://www.shacknews.com/article/149730/thank-you-bungie-destiny-2)
+- [AI at scale: Driving value with governance, security](https://businessmirror.com.ph/2026/06/22/ai-at-scale-driving-value-with-governance-security/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
