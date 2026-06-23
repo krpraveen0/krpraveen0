@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Column: Ukraine’s cheap drones, combat robots offer hope for the good guys](https://www.dailypress.com/2026/06/21/column-ukraines-cheap-drones-combat-robots-offer-hope-for-the-good-guys/)
-- [Fires, robberies and love: what AI agents do when humans are not watching them](https://www.news247plus.com/news/technology/fires-robberies-and-love-what-ai-agents-do-when-humans-are-not-watching-them-52627)
-- [How to break boulders and cracked, glowing walls in The Adventures of Elliot: The Millennium Tales](https://www.shacknews.com/article/149732/how-to-break-boulders-and-cracked-glowing-walls-in-the-adventures-of-elliot-the-millennium-tales)
-- [Thank you, Bungie](https://www.shacknews.com/article/149730/thank-you-bungie-destiny-2)
-- [AI at scale: Driving value with governance, security](https://businessmirror.com.ph/2026/06/22/ai-at-scale-driving-value-with-governance-security/)
+- [Why Alphabet stock is tanking over 6% on Monday](https://invezz.com/news/2026/06/22/why-alphabet-stock-is-tanking-over-6-on-monday/)
+- [More towns in N.J. are rebelling against energy-sucking AI data centers](https://www.silive.com/nation/2026/06/more-towns-in-nj-are-rebelling-against-energy-sucking-ai-data-centers.html)
+- [10 Cheap Jim Cramer Stocks to Invest In Right Now](https://www.insidermonkey.com/blog/10-cheap-jim-cramer-stocks-to-invest-in-right-now-1785963/)
+- [Việt Nam, RoK deepen press cooperation in digital age](https://vietnamnews.vn/politics-laws/1783944/viet-nam-rok-deepen-press-cooperation-in-digital-age.html)
+- [5 Cheap Jim Cramer Stocks to Invest In Right Now](https://www.insidermonkey.com/blog/5-cheap-jim-cramer-stocks-to-invest-in-right-now-1785975/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
