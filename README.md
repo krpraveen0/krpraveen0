@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Why Alphabet stock is tanking over 6% on Monday](https://invezz.com/news/2026/06/22/why-alphabet-stock-is-tanking-over-6-on-monday/)
-- [More towns in N.J. are rebelling against energy-sucking AI data centers](https://www.silive.com/nation/2026/06/more-towns-in-nj-are-rebelling-against-energy-sucking-ai-data-centers.html)
-- [10 Cheap Jim Cramer Stocks to Invest In Right Now](https://www.insidermonkey.com/blog/10-cheap-jim-cramer-stocks-to-invest-in-right-now-1785963/)
-- [Việt Nam, RoK deepen press cooperation in digital age](https://vietnamnews.vn/politics-laws/1783944/viet-nam-rok-deepen-press-cooperation-in-digital-age.html)
-- [5 Cheap Jim Cramer Stocks to Invest In Right Now](https://www.insidermonkey.com/blog/5-cheap-jim-cramer-stocks-to-invest-in-right-now-1785975/)
+- [ZenaTech Expands Drone as a Service Platform with 24th Acquisition, Adding Green Earth Powerwashing Franchise Network](https://www.bnnbloomberg.ca/press-releases/2026/06/23/zenatech-expands-drone-as-a-service-platform-with-24th-acquisition-adding-green-earth-powerwashing-franchise-network/)
+- [Chevron Shares Advance Modestly as Energy Major Highlights Production Growth and Strategic Power Agreements](https://www.ibtimes.com.au/chevron-strategic-growth-shareholder-returns-1871203)
+- [This 3-foot-tall robot wants to be your kid’s classroom buddy and your mom’s new friend](https://www.geekwire.com/2026/this-3-foot-tall-robot-wants-to-be-your-kids-classroom-buddy-and-your-moms-new-friend/)
+- [Elon Musk loses $350bn in one week as SpaceX shares tumble](https://businessday.ng/bd-weekender/tech/article/elon-musk-loses-350bn-in-one-week-as-spacex-shares-tumble/)
+- [AP Technology SummaryBrief at 11:26 a.m. EDT](https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-11-26-a-m-edt/article_9c03be33-d9a9-5e6f-9e1d-32561a994d94.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
