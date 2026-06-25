@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [ZenaTech Expands Drone as a Service Platform with 24th Acquisition, Adding Green Earth Powerwashing Franchise Network](https://www.bnnbloomberg.ca/press-releases/2026/06/23/zenatech-expands-drone-as-a-service-platform-with-24th-acquisition-adding-green-earth-powerwashing-franchise-network/)
-- [Chevron Shares Advance Modestly as Energy Major Highlights Production Growth and Strategic Power Agreements](https://www.ibtimes.com.au/chevron-strategic-growth-shareholder-returns-1871203)
-- [This 3-foot-tall robot wants to be your kid’s classroom buddy and your mom’s new friend](https://www.geekwire.com/2026/this-3-foot-tall-robot-wants-to-be-your-kids-classroom-buddy-and-your-moms-new-friend/)
-- [Elon Musk loses $350bn in one week as SpaceX shares tumble](https://businessday.ng/bd-weekender/tech/article/elon-musk-loses-350bn-in-one-week-as-spacex-shares-tumble/)
-- [AP Technology SummaryBrief at 11:26 a.m. EDT](https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-11-26-a-m-edt/article_9c03be33-d9a9-5e6f-9e1d-32561a994d94.html)
+- [Congress Moves To Make Tech Companies Pay For AI Data Centers' Strain On Power Grid](https://www.ibtimes.com/congress-moves-make-tech-companies-pay-ai-data-centers-strain-power-grid-3804495)
+- [Caught between Kyiv’s ultimatums and Moscow’s financial blackmail, Lukashenko faces mounting pressure over the war in Ukraine](https://meduza.io/en/feature/2026/06/24/caught-between-kyiv-s-ultimatums-and-moscow-s-financial-blackmail-lukashenko-faces-mounting-pressure-over-the-war-in-ukraine)
+- [PM Modi reviews Rs 30,000-crore infra projects, stresses faster execution](https://www.socialnews.xyz/2026/06/24/pm-modi-reviews-rs-30000-crore-infra-projects-stresses-faster-execution/)
+- [Studio 3 - Savor the Flavor series](https://www.wsaz.com/2026/06/24/studio-3-savor-flavor-series/)
+- [Sunrun stock surges on Tesla and Renew Home partnership to power data centers](https://invezz.com/news/2026/06/24/sunrun-stock-surges-on-tesla-and-renew-home-partnership-to-power-data-centers/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
