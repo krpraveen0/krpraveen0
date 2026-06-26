@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Congress Moves To Make Tech Companies Pay For AI Data Centers' Strain On Power Grid](https://www.ibtimes.com/congress-moves-make-tech-companies-pay-ai-data-centers-strain-power-grid-3804495)
-- [Caught between Kyiv’s ultimatums and Moscow’s financial blackmail, Lukashenko faces mounting pressure over the war in Ukraine](https://meduza.io/en/feature/2026/06/24/caught-between-kyiv-s-ultimatums-and-moscow-s-financial-blackmail-lukashenko-faces-mounting-pressure-over-the-war-in-ukraine)
-- [PM Modi reviews Rs 30,000-crore infra projects, stresses faster execution](https://www.socialnews.xyz/2026/06/24/pm-modi-reviews-rs-30000-crore-infra-projects-stresses-faster-execution/)
-- [Studio 3 - Savor the Flavor series](https://www.wsaz.com/2026/06/24/studio-3-savor-flavor-series/)
-- [Sunrun stock surges on Tesla and Renew Home partnership to power data centers](https://invezz.com/news/2026/06/24/sunrun-stock-surges-on-tesla-and-renew-home-partnership-to-power-data-centers/)
+- [This Might Be the Cheapest Meta Platforms Trades in Years. Here's Why.](https://finance.yahoo.com/markets/stocks/articles/might-cheapest-meta-platforms-trades-153500226.html)
+- [Raimondo's New AI Jobs War Room Tries To Save Workers From The Chop](https://hoodline.com/2026/06/raimondo-s-new-ai-jobs-war-room-tries-to-save-workers-from-the-chop/)
+- [Amazon ramps up AI, cloud infra investment in India](https://indianexpress.com/article/business/amazon-investment-india-48-billion-ai-cloud-infrastructure-10757573/)
+- [ServiceNow’s AI Ambition Faces a $285 Billion Market Panic — And a Margin Squeeze at Home](https://www.newscase.com/servicenows-ai-ambition-faces-a-285-billion-market-panic-and-a-margin-squeeze-at-home/)
+- [SpaceX Wants to Deploy Millions of AI Compute Satellites in Space. Here's How It Plans to Get There.](https://www.fool.com/investing/2026/06/25/spacex-deploy-millions-ai-compute-satellites/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
