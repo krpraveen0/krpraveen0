@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [This Might Be the Cheapest Meta Platforms Trades in Years. Here's Why.](https://finance.yahoo.com/markets/stocks/articles/might-cheapest-meta-platforms-trades-153500226.html)
-- [Raimondo's New AI Jobs War Room Tries To Save Workers From The Chop](https://hoodline.com/2026/06/raimondo-s-new-ai-jobs-war-room-tries-to-save-workers-from-the-chop/)
-- [Amazon ramps up AI, cloud infra investment in India](https://indianexpress.com/article/business/amazon-investment-india-48-billion-ai-cloud-infrastructure-10757573/)
-- [ServiceNow’s AI Ambition Faces a $285 Billion Market Panic — And a Margin Squeeze at Home](https://www.newscase.com/servicenows-ai-ambition-faces-a-285-billion-market-panic-and-a-margin-squeeze-at-home/)
-- [SpaceX Wants to Deploy Millions of AI Compute Satellites in Space. Here's How It Plans to Get There.](https://www.fool.com/investing/2026/06/25/spacex-deploy-millions-ai-compute-satellites/)
+- [Nvidia stock continues decline on Friday: what's hurting the AI darling?](https://invezz.com/news/2026/06/26/nvidia-stock-continues-decline-on-friday-whats-hurting-the-ai-darling/)
+- [OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review](https://www.dailypress.com/2026/06/26/openai-restricts-new-ai-model-government-vetting/)
+- [IIT Kanpur extends application deadline for online MTech, MSc programmes; apply by July 1](https://news.careers360.com/iit-kanpur-mtech-msc-admission-2026-application-deadline-extended-july-1-gate-jam-cat-ceed-gre-gmat-online-iitk-ac-in)
+- [Cholangiopancreatography Device Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2035](https://www.openpr.com/news/4562072/cholangiopancreatography-device-market-analysis)
+- [China, ASEAN countries have shown interest in Trans-Arctic corridor — RSPP head](https://tass.com/economy/2152117)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
