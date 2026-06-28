@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Nvidia stock continues decline on Friday: what's hurting the AI darling?](https://invezz.com/news/2026/06/26/nvidia-stock-continues-decline-on-friday-whats-hurting-the-ai-darling/)
-- [OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review](https://www.dailypress.com/2026/06/26/openai-restricts-new-ai-model-government-vetting/)
-- [IIT Kanpur extends application deadline for online MTech, MSc programmes; apply by July 1](https://news.careers360.com/iit-kanpur-mtech-msc-admission-2026-application-deadline-extended-july-1-gate-jam-cat-ceed-gre-gmat-online-iitk-ac-in)
-- [Cholangiopancreatography Device Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2035](https://www.openpr.com/news/4562072/cholangiopancreatography-device-market-analysis)
-- [China, ASEAN countries have shown interest in Trans-Arctic corridor — RSPP head](https://tass.com/economy/2152117)
+- [Trump Admin Allows Release Of Anthropic's Mythos To Certain US Companies](https://www.zerohedge.com/ai/trump-admin-allows-release-anthropics-mythos-certain-us-companies)
+- [Tapping A $270B Market: How Micromax-Phison JV Supercharges India's Memory Infrastructure](https://www.ndtvprofit.com/business/tapping-a-270b-market-how-micromax-phison-jv-supercharges-indias-memory-infrastructure-11696084)
+- [Heavy-lift capacity gap looms as B747 freighters age out](https://www.stattimes.com/air-cargo/heavy-lift-capacity-gap-looms-as-b747-freighters-age-out-1359632)
+- [BHU opens admissions for MSc in life sciences; apply by July 10](https://news.careers360.com/bhu-opens-admissions-2026-for-msc-in-life-sciences-apply-july-10-cuet-pg-ai-biology-research-nep-college)
+- [Apple raises prices as AI chip costs surge](https://us.headtopics.com/news/apple-raises-prices-as-ai-chip-costs-surge-84988804)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
