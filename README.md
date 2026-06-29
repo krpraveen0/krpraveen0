@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Trump Admin Allows Release Of Anthropic's Mythos To Certain US Companies](https://www.zerohedge.com/ai/trump-admin-allows-release-anthropics-mythos-certain-us-companies)
-- [Tapping A $270B Market: How Micromax-Phison JV Supercharges India's Memory Infrastructure](https://www.ndtvprofit.com/business/tapping-a-270b-market-how-micromax-phison-jv-supercharges-indias-memory-infrastructure-11696084)
-- [Heavy-lift capacity gap looms as B747 freighters age out](https://www.stattimes.com/air-cargo/heavy-lift-capacity-gap-looms-as-b747-freighters-age-out-1359632)
-- [BHU opens admissions for MSc in life sciences; apply by July 10](https://news.careers360.com/bhu-opens-admissions-2026-for-msc-in-life-sciences-apply-july-10-cuet-pg-ai-biology-research-nep-college)
-- [Apple raises prices as AI chip costs surge](https://us.headtopics.com/news/apple-raises-prices-as-ai-chip-costs-surge-84988804)
+- [Bangladesh’s Homegrown AI Traffic Pilot Accelerates Dhaka Commute, Reshapes Driving Behavior](https://millichronicle.com/2026/06/69821.html)
+- [BIS warns ‘pressure points’ putting global economy at risk](https://www.digitaljournal.com/article/bis-warns-pressure-points-putting-global-economy-at-risk/)
+- [India to equip Seychelles with advanced helicopters, AI, and cybersecurity centers following Modi-Herminie talks](https://zeenews.india.com/india/india-to-equip-seychelles-with-advanced-helicopters-ai-and-cybersecurity-centers-following-modi-herminie-talks-3058238.html)
+- [Teknologi AI Dorong Tren Kesehatan Preventif di Indonesia](https://www.beritasatu.com/lifestyle/3006358/teknologi-ai-dorong-tren-kesehatan-preventif-di-indonesia)
+- [Medcare signs MoU with US tech major InterSystems](https://www.khaleejtimes.com/business/medcare-signs-mou-with-us-tech-major-intersystems)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
