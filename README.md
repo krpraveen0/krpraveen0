@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Bangladesh’s Homegrown AI Traffic Pilot Accelerates Dhaka Commute, Reshapes Driving Behavior](https://millichronicle.com/2026/06/69821.html)
-- [BIS warns ‘pressure points’ putting global economy at risk](https://www.digitaljournal.com/article/bis-warns-pressure-points-putting-global-economy-at-risk/)
-- [India to equip Seychelles with advanced helicopters, AI, and cybersecurity centers following Modi-Herminie talks](https://zeenews.india.com/india/india-to-equip-seychelles-with-advanced-helicopters-ai-and-cybersecurity-centers-following-modi-herminie-talks-3058238.html)
-- [Teknologi AI Dorong Tren Kesehatan Preventif di Indonesia](https://www.beritasatu.com/lifestyle/3006358/teknologi-ai-dorong-tren-kesehatan-preventif-di-indonesia)
-- [Medcare signs MoU with US tech major InterSystems](https://www.khaleejtimes.com/business/medcare-signs-mou-with-us-tech-major-intersystems)
+- [Anthropic Gives California Government a Discount on Claude](https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-gives-california-government-a-discount-on-claude/)
+- [How observing Sundar Pichai at Google helped Indian techie build billion-dollar companies: ‘Thought Chrome was bad idea’](https://www.livemint.com/news/trends/how-observing-sundar-pichai-at-google-helped-indian-techie-build-billion-dollar-companies-thought-chrome-was-bad-idea-11782744165822.html)
+- [US senators slam China's new Ethnic Unity Law, raise concerns over Tibetans, Uyghurs](http://www.shanghaisun.com/news/279155537/us-senators-slam-china-new-ethnic-unity-law-raise-concerns-over-tibetans-uyghurs)
+- [Beijing's all-expense forum for Taiwanese youth sparks influence campaign fears](http://www.shanghaisun.com/news/279155536/beijing-all-expense-forum-for-taiwanese-youth-sparks-influence-campaign-fears)
+- [Thin-Film Photovoltaics (PV) Module Market Outlook Signals Expansion To $13.08 Billion Through 2030](https://www.openpr.com/news/4563795/thin-film-photovoltaics-pv-module-market-outlook-signals)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
