@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Anthropic Gives California Government a Discount on Claude](https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-gives-california-government-a-discount-on-claude/)
-- [How observing Sundar Pichai at Google helped Indian techie build billion-dollar companies: ‘Thought Chrome was bad idea’](https://www.livemint.com/news/trends/how-observing-sundar-pichai-at-google-helped-indian-techie-build-billion-dollar-companies-thought-chrome-was-bad-idea-11782744165822.html)
-- [US senators slam China's new Ethnic Unity Law, raise concerns over Tibetans, Uyghurs](http://www.shanghaisun.com/news/279155537/us-senators-slam-china-new-ethnic-unity-law-raise-concerns-over-tibetans-uyghurs)
-- [Beijing's all-expense forum for Taiwanese youth sparks influence campaign fears](http://www.shanghaisun.com/news/279155536/beijing-all-expense-forum-for-taiwanese-youth-sparks-influence-campaign-fears)
-- [Thin-Film Photovoltaics (PV) Module Market Outlook Signals Expansion To $13.08 Billion Through 2030](https://www.openpr.com/news/4563795/thin-film-photovoltaics-pv-module-market-outlook-signals)
+- [Revelan cuál fue la causa de la muerte de Daveigh Chase, reconocida actriz que interpretó a la niña de 'El Aro' y participó en 'Lilo y Stitch'](https://www.eltiempo.com/cultura/gente/revelan-cual-fue-la-causa-de-la-muerte-de-daveigh-chase-reconocida-actriz-que-interpreto-a-la-nina-de-el-aro-y-participo-en-lilo-y-stitch-3567901)
+- [WISeR Vendor Must Submit Corrective Action Plan, House Dems Demand CMS Reveal Data On WISeR Implementation](https://insidehealthpolicy.com/daily-news/wiser-vendor-must-submit-corrective-action-plan-house-dems-demand-cms-reveal-data-wiser)
+- [India’s tourism sector remains constrained by regulatory complexity, says report](https://www.thehindu.com/news/national/indias-tourism-sector-remains-constrained-by-regulatory-complexity-says-report/article71165980.ece)
+- [We asked for your opinion on the stock market. You delivered](https://www.theglobeandmail.com/investing/personal-finance/article-we-asked-for-your-opinion-on-the-stock-market-you-delivered/)
+- [Oxfordshire: Rock and Roll Hall of Fame artist open to AI in music](https://www.oxfordmail.co.uk/news/26242012.oxfordshire-rock-roll-legend-open-ai-music/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
