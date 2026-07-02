@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Revelan cuál fue la causa de la muerte de Daveigh Chase, reconocida actriz que interpretó a la niña de 'El Aro' y participó en 'Lilo y Stitch'](https://www.eltiempo.com/cultura/gente/revelan-cual-fue-la-causa-de-la-muerte-de-daveigh-chase-reconocida-actriz-que-interpreto-a-la-nina-de-el-aro-y-participo-en-lilo-y-stitch-3567901)
-- [WISeR Vendor Must Submit Corrective Action Plan, House Dems Demand CMS Reveal Data On WISeR Implementation](https://insidehealthpolicy.com/daily-news/wiser-vendor-must-submit-corrective-action-plan-house-dems-demand-cms-reveal-data-wiser)
-- [India’s tourism sector remains constrained by regulatory complexity, says report](https://www.thehindu.com/news/national/indias-tourism-sector-remains-constrained-by-regulatory-complexity-says-report/article71165980.ece)
-- [We asked for your opinion on the stock market. You delivered](https://www.theglobeandmail.com/investing/personal-finance/article-we-asked-for-your-opinion-on-the-stock-market-you-delivered/)
-- [Oxfordshire: Rock and Roll Hall of Fame artist open to AI in music](https://www.oxfordmail.co.uk/news/26242012.oxfordshire-rock-roll-legend-open-ai-music/)
+- [Half-year report: How markets have fared in the first half of 2026 and in Q2](https://finance.yahoo.com/markets/articles/half-report-markets-fared-first-152741433.html)
+- [Megan Adkins named dean of Graduate Studies and Academic Innovation at UNK](https://unknews.unk.edu/2026/07/01/megan-adkins-named-dean-of-graduate-studies-and-academic-innovation-at-unk/)
+- [Japan PM Sanae Takaichi Lands in Delhi Ahead of Crucial Bilateral Talks](https://www.pratidintime.com/national/india-japan-summit-takaichi-visit-delhi-12124653)
+- [🚨Official: Bundesliga 2026-2027 opener is set](https://sports.yahoo.com/articles/official-bundesliga-2026-2027-opener-152700078.html)
+- [Warsh stays on message as inflation remains the Fed's top priority](https://www.fxstreet.com/news/warsh-stays-on-message-as-inflation-remains-the-feds-top-priority-202607011526)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
