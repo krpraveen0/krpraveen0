@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Half-year report: How markets have fared in the first half of 2026 and in Q2](https://finance.yahoo.com/markets/articles/half-report-markets-fared-first-152741433.html)
-- [Megan Adkins named dean of Graduate Studies and Academic Innovation at UNK](https://unknews.unk.edu/2026/07/01/megan-adkins-named-dean-of-graduate-studies-and-academic-innovation-at-unk/)
-- [Japan PM Sanae Takaichi Lands in Delhi Ahead of Crucial Bilateral Talks](https://www.pratidintime.com/national/india-japan-summit-takaichi-visit-delhi-12124653)
-- [🚨Official: Bundesliga 2026-2027 opener is set](https://sports.yahoo.com/articles/official-bundesliga-2026-2027-opener-152700078.html)
-- [Warsh stays on message as inflation remains the Fed's top priority](https://www.fxstreet.com/news/warsh-stays-on-message-as-inflation-remains-the-feds-top-priority-202607011526)
+- [US employers still reluctant to add many jobs as hiring slows in June](https://www.dailycourier.com/ap/us-employers-still-reluctant-to-add-many-jobs-as-hiring-slows-in-june/article_86bc5c16-6e8e-4304-91b4-a5fce51e96fa.html)
+- [SMRs Spark a Chain Reaction for Nano Nuclear](https://www.investing.com/analysis/smrs-spark-a-chain-reaction-for-nano-nuclear-200683228)
+- [Crypto Analyst Compares $MT’s Trajectory to Early Dogecoin & SHIB Coin Cycles, Why $MT Could Hit $1](https://techbullion.com/crypto-analyst-compares-mts-trajectory-to-early-dogecoin-shib-coin-cycles-why-mt-could-hit-1/)
+- [The Power Struggles Within AI’s Industrial Moment](https://www.newsweek.com/ai-industrial-power-struggles-world-of-tomorrow-12146543)
+- [Trump administration's $46 billion ‘smart wall' races ahead on U.S.-Mexico border](https://www.nbcbayarea.com/news/national-international/trump-administration-smart-wall-us-mexico-border/4108155/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
