@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [US employers still reluctant to add many jobs as hiring slows in June](https://www.dailycourier.com/ap/us-employers-still-reluctant-to-add-many-jobs-as-hiring-slows-in-june/article_86bc5c16-6e8e-4304-91b4-a5fce51e96fa.html)
-- [SMRs Spark a Chain Reaction for Nano Nuclear](https://www.investing.com/analysis/smrs-spark-a-chain-reaction-for-nano-nuclear-200683228)
-- [Crypto Analyst Compares $MT’s Trajectory to Early Dogecoin & SHIB Coin Cycles, Why $MT Could Hit $1](https://techbullion.com/crypto-analyst-compares-mts-trajectory-to-early-dogecoin-shib-coin-cycles-why-mt-could-hit-1/)
-- [The Power Struggles Within AI’s Industrial Moment](https://www.newsweek.com/ai-industrial-power-struggles-world-of-tomorrow-12146543)
-- [Trump administration's $46 billion ‘smart wall' races ahead on U.S.-Mexico border](https://www.nbcbayarea.com/news/national-international/trump-administration-smart-wall-us-mexico-border/4108155/)
+- [UI 200-level student switches to computer science dept](https://www.legit.ng/people/1717501-university-ibadan-200-level-student-switches-computer-science-ai-department-shares-story/)
+- [Optimized Pediatric Chest CT Protocol Cuts Radiation Exposure by Up to 19 Percent: Study](https://medicaldialogues.in/radiology/news/optimized-pediatric-chest-ct-protocol-cuts-radiation-exposure-by-up-to-19-percent-study-174004)
+- [Sustentabilidade: quando é que o risco ambiental passa a contar para o crédito?](https://sapo.pt/artigo/sustentabilidade-quando-e-que-o-risco-ambiental-passa-a-contar-para-o-credito-6a47cb3977061555a5124fa2)
+- [India's AI-ready workforce, industry-led skilling making country preferred GCC destination: FM Sitharaman](https://www.thehansindia.com/business/indias-ai-ready-workforce-industry-led-skilling-making-country-preferred-gcc-destination-fm-sitharaman-1093397)
+- [This Artificial Intelligence (AI) Chip Giant Is a Profit-Making Machine. Its Latest Move Could Supercharge the Stock](https://www.fool.com/investing/2026/07/03/this-artificial-intelligence-ai-chip-giant-is-a-pr/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
