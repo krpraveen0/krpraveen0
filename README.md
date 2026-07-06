@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Capital Highlights | Texas first state to mandate Bible reading in school](https://kilgorenewsherald.com/2026/07/04/capital-highlights-texas-first-state-to-mandate-bible-reading-in-school/)
-- [Capital Highlights | Texas first state to mandate Bible reading in school](https://panolawatchman.com/2026/07/04/capital-highlights-texas-first-state-to-mandate-bible-reading-in-school/)
-- [Fired ex-Joint Chiefs chairman warns against politicizing the military in new essay](https://www.washingtontimes.com/news/2026/jul/4/fired-ex-joint-chiefs-chairman-warns-politicizing-military-new-essay/)
-- [Wars are blurring lines between corporate and national security](https://www.hindustantimes.com/world-news/wars-are-blurring-lines-between-corporate-and-national-security-101783176852764.html)
-- [Defence Exports Reflect Global Trust in Make-in-India: Rajnath Singh](https://globalgovernancenews.com/defence-exports-reflect-global-trust-in-make-in-india-rajnath-singh/)
+- [Centre issues notice to Meta on Instagram ads linked to child sexual abuse](https://indianexpress.com/article/business/centre-issues-notice-to-meta-on-instagram-ads-linked-to-child-sexual-abuse-10772761/)
+- [Apple's next iPhone could leave millions missing these powerful AI features — here's why!](https://www.24newshd.tv/05-Jul-2026/apple-s-next-iphone-leave-millions-missing-powerful-ai-features-here-s)
+- [Frontier AI Smart Cities Tech License Patent Creating a Legal Path for Public Robot-Run (Veterans First for America)](https://www.manilatimes.net/2026/07/05/tmt-newswire/globenewswire/frontier-ai-smart-cities-tech-license-patent-creating-a-legal-path-for-public-robot-run-veterans-first-for-america/2378661)
+- [PlayStation 6 Release Date and Pricing: PS6 Won't Be Cheaper as Hardware and SSD Costs Soar](https://www.ibtimes.co.uk/sonys-digital-only-playstation-6-not-cheaper-1806882)
+- [Black Teens Lead in AI Use for Schoolwork. But at What Cost?](https://spokesman-recorder.com/2026/07/05/black-teens-ai-chatbots-schoolwork/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
