@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Centre issues notice to Meta on Instagram ads linked to child sexual abuse](https://indianexpress.com/article/business/centre-issues-notice-to-meta-on-instagram-ads-linked-to-child-sexual-abuse-10772761/)
-- [Apple's next iPhone could leave millions missing these powerful AI features — here's why!](https://www.24newshd.tv/05-Jul-2026/apple-s-next-iphone-leave-millions-missing-powerful-ai-features-here-s)
-- [Frontier AI Smart Cities Tech License Patent Creating a Legal Path for Public Robot-Run (Veterans First for America)](https://www.manilatimes.net/2026/07/05/tmt-newswire/globenewswire/frontier-ai-smart-cities-tech-license-patent-creating-a-legal-path-for-public-robot-run-veterans-first-for-america/2378661)
-- [PlayStation 6 Release Date and Pricing: PS6 Won't Be Cheaper as Hardware and SSD Costs Soar](https://www.ibtimes.co.uk/sonys-digital-only-playstation-6-not-cheaper-1806882)
-- [Black Teens Lead in AI Use for Schoolwork. But at What Cost?](https://spokesman-recorder.com/2026/07/05/black-teens-ai-chatbots-schoolwork/)
+- [Ex-Bolt executive lands new post](https://www.paymentsdive.com/news/ex-bolt-executive-lands-new-post/824479/)
+- [Pittsburgh Zoo marks 128 years and builds toward its future](https://www.usatoday.com/story/news/2026/07/06/why-pittsburghs-summer-youth-cafe-is-busier-than-ever-in-2024/90791502007/)
+- [Microsoft cuts 4,800 jobs as it revamps Xbox](https://www.dawn.com/news/2013405/microsoft-cuts-4800-jobs-as-it-revamps-xbox)
+- [Stockpicker Dan Sundheim had a monster June. Here's how D1 and other Tiger Cubs did.](https://www.businessinsider.com/tiger-cubs-june-performance-first-half-d1-coatue-light-street-2026-7)
+- [Chip stocks rally in AI trade revival after plunge](https://www.moneycontrol.com/news/business/markets/chip-stocks-rally-in-ai-trade-revival-after-plunge-13967248.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
