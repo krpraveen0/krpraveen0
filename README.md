@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Ex-Bolt executive lands new post](https://www.paymentsdive.com/news/ex-bolt-executive-lands-new-post/824479/)
-- [Pittsburgh Zoo marks 128 years and builds toward its future](https://www.usatoday.com/story/news/2026/07/06/why-pittsburghs-summer-youth-cafe-is-busier-than-ever-in-2024/90791502007/)
-- [Microsoft cuts 4,800 jobs as it revamps Xbox](https://www.dawn.com/news/2013405/microsoft-cuts-4800-jobs-as-it-revamps-xbox)
-- [Stockpicker Dan Sundheim had a monster June. Here's how D1 and other Tiger Cubs did.](https://www.businessinsider.com/tiger-cubs-june-performance-first-half-d1-coatue-light-street-2026-7)
-- [Chip stocks rally in AI trade revival after plunge](https://www.moneycontrol.com/news/business/markets/chip-stocks-rally-in-ai-trade-revival-after-plunge-13967248.html)
+- [VistaShares Surpasses $2 Billion in Assets](https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/vistashares-surpasses-2-billion-in-assets/2380130)
+- [Samsung Posted 1,800% Profit Surge. But AI Spending Fears Sent Shares Tumbling Anyway](https://www.ibtimes.com/samsung-posted-1800-profit-surge-ai-spending-fears-sent-shares-tumbling-anyway-3805018)
+- [Aurelius Systems and American Rheinmetall Partner to Advance Autonomous Counter-Drone Defense](https://www.postregister.com/businessreport/technology/aurelius-systems-and-american-rheinmetall-partner-to-advance-autonomous-counter-drone-defense/article_7e7a3a6c-aa8e-5acc-b592-da5b45adfa11.html)
+- [CompassMSP and The Logic Group: Delivering Personal Service at Scale](https://www.postregister.com/businessreport/technology/compassmsp-and-the-logic-group-delivering-personal-service-at-scale/article_b5ea2072-6e57-5016-be69-7c3ade14e17f.html)
+- [Natural Latex Mattress Market Innovation: Redefining Sustainable Sleep Comfort](https://www.openpr.com/news/4570883/natural-latex-mattress-market-innovation-redefining)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
