@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [VistaShares Surpasses $2 Billion in Assets](https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/vistashares-surpasses-2-billion-in-assets/2380130)
-- [Samsung Posted 1,800% Profit Surge. But AI Spending Fears Sent Shares Tumbling Anyway](https://www.ibtimes.com/samsung-posted-1800-profit-surge-ai-spending-fears-sent-shares-tumbling-anyway-3805018)
-- [Aurelius Systems and American Rheinmetall Partner to Advance Autonomous Counter-Drone Defense](https://www.postregister.com/businessreport/technology/aurelius-systems-and-american-rheinmetall-partner-to-advance-autonomous-counter-drone-defense/article_7e7a3a6c-aa8e-5acc-b592-da5b45adfa11.html)
-- [CompassMSP and The Logic Group: Delivering Personal Service at Scale](https://www.postregister.com/businessreport/technology/compassmsp-and-the-logic-group-delivering-personal-service-at-scale/article_b5ea2072-6e57-5016-be69-7c3ade14e17f.html)
-- [Natural Latex Mattress Market Innovation: Redefining Sustainable Sleep Comfort](https://www.openpr.com/news/4570883/natural-latex-mattress-market-innovation-redefining)
+- [«النقد الدولي»: 5.5 % ارتفاع لنمو الناتج المحلي السعودي العام القادم](https://www.okaz.com.sa/economy/na/2256117)
+- [Stacking Chips: The Hidden Supply Shock Fueling Intel](https://www.investing.com/analysis/stacking-chips-the-hidden-supply-shock-fueling-intel-200683557)
+- [US Wholesale Inventories in May Revised Lower](https://gvwire.com/2026/07/08/us-wholesale-inventories-in-may-revised-lower/)
+- [Mass General Brigham uses artificial intelligence to extract data from unstructured clinical notes](https://completeaitraining.com/news/mass-general-brigham-uses-artificial-intelligence-to/)
+- [Here is why Palantir Technologies Inc. (PLTR) is among the 12 Best Cybersecurity Stocks to Buy and Hold for the Long Term](https://www.insidermonkey.com/blog/here-is-why-palantir-technologies-inc-pltr-is-among-the-12-best-cybersecurity-stocks-to-buy-and-hold-for-the-long-term-1797708/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
