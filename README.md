@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [«النقد الدولي»: 5.5 % ارتفاع لنمو الناتج المحلي السعودي العام القادم](https://www.okaz.com.sa/economy/na/2256117)
-- [Stacking Chips: The Hidden Supply Shock Fueling Intel](https://www.investing.com/analysis/stacking-chips-the-hidden-supply-shock-fueling-intel-200683557)
-- [US Wholesale Inventories in May Revised Lower](https://gvwire.com/2026/07/08/us-wholesale-inventories-in-may-revised-lower/)
-- [Mass General Brigham uses artificial intelligence to extract data from unstructured clinical notes](https://completeaitraining.com/news/mass-general-brigham-uses-artificial-intelligence-to/)
-- [Here is why Palantir Technologies Inc. (PLTR) is among the 12 Best Cybersecurity Stocks to Buy and Hold for the Long Term](https://www.insidermonkey.com/blog/here-is-why-palantir-technologies-inc-pltr-is-among-the-12-best-cybersecurity-stocks-to-buy-and-hold-for-the-long-term-1797708/)
+- [House lawmakers urge federal agencies to brace for AI election integrity threats](https://www.washingtontimes.com/news/2026/jul/9/house-lawmakers-urge-federal-agencies-brace-ai-election-integrity/)
+- [TCS Q1 FY27 slides: revenue rises 13.9% as margins compress to 24%](https://www.investing.com/news/company-news/tcs-q1-fy27-slides-revenue-rises-139-as-margins-compress-to-24-93CH-4784481)
+- [News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight](https://www.bostonglobe.com/2026/07/09/business/news-outlets-openai-copyright-fight/)
+- [Accelevate Solutions Unveils EBAITM 3.0, Transforming Fleet Operations Through Autonomous AI & Financial Intelligence](https://globalfintechseries.com/finance/accelevate-solutions-unveils-ebai-3-0-transforming-fleet-operations-through-autonomous-ai-financial-intelligence/)
+- [Peter Linneman On AI's Trajectory, Trump's Tariffs And Misleading Inflation Numbers](https://www.bisnow.com/national/news/commercial-real-estate/peter-linneman-ai-trump-tariffs-misleading-inflation-figures-walker-webcast-studiob-135360)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
