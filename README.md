@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [House lawmakers urge federal agencies to brace for AI election integrity threats](https://www.washingtontimes.com/news/2026/jul/9/house-lawmakers-urge-federal-agencies-brace-ai-election-integrity/)
-- [TCS Q1 FY27 slides: revenue rises 13.9% as margins compress to 24%](https://www.investing.com/news/company-news/tcs-q1-fy27-slides-revenue-rises-139-as-margins-compress-to-24-93CH-4784481)
-- [News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight](https://www.bostonglobe.com/2026/07/09/business/news-outlets-openai-copyright-fight/)
-- [Accelevate Solutions Unveils EBAITM 3.0, Transforming Fleet Operations Through Autonomous AI & Financial Intelligence](https://globalfintechseries.com/finance/accelevate-solutions-unveils-ebai-3-0-transforming-fleet-operations-through-autonomous-ai-financial-intelligence/)
-- [Peter Linneman On AI's Trajectory, Trump's Tariffs And Misleading Inflation Numbers](https://www.bisnow.com/national/news/commercial-real-estate/peter-linneman-ai-trump-tariffs-misleading-inflation-figures-walker-webcast-studiob-135360)
+- [Kuva weapon tier list - Warframe](http://www.shacknews.com/article/149916/kuva-weapon-tier-list-warframe)
+- [India advances towards an AI-ready digital future: Report](https://www.thehansindia.com/business/india-advances-towards-an-ai-ready-digital-future-report-1096106)
+- [US tech earnings to test AI investment cycle amid 'AI fatigue' debate: Jefferies](http://www.beijingbulletin.com/news/279179313/us-tech-earnings-to-test-ai-investment-cycle-amid-ai-fatigue-debate-jefferies)
+- [US tech earnings to test AI investment cycle amid 'AI fatigue' debate: Jefferies](http://www.pekingpress.com/news/279179313/us-tech-earnings-to-test-ai-investment-cycle-amid-ai-fatigue-debate-jefferies)
+- [US tech earnings to test AI investment cycle amid 'AI fatigue' debate: Jefferies](http://bignewsnetwork.com/news/279179313/us-tech-earnings-to-test-ai-investment-cycle-amid-ai-fatigue-debate-jefferies)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
