@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Kuva weapon tier list - Warframe](http://www.shacknews.com/article/149916/kuva-weapon-tier-list-warframe)
-- [India advances towards an AI-ready digital future: Report](https://www.thehansindia.com/business/india-advances-towards-an-ai-ready-digital-future-report-1096106)
-- [US tech earnings to test AI investment cycle amid 'AI fatigue' debate: Jefferies](http://www.beijingbulletin.com/news/279179313/us-tech-earnings-to-test-ai-investment-cycle-amid-ai-fatigue-debate-jefferies)
-- [US tech earnings to test AI investment cycle amid 'AI fatigue' debate: Jefferies](http://www.pekingpress.com/news/279179313/us-tech-earnings-to-test-ai-investment-cycle-amid-ai-fatigue-debate-jefferies)
-- [US tech earnings to test AI investment cycle amid 'AI fatigue' debate: Jefferies](http://bignewsnetwork.com/news/279179313/us-tech-earnings-to-test-ai-investment-cycle-amid-ai-fatigue-debate-jefferies)
+- [Lahint completes unified execution infrastructure and launches automated government services for businesses](https://completeaitraining.com/news/lahint-completes-unified-execution-infrastructure-and/)
+- [Apple demanda a OpenAI por presunto robo de secretos comerciales; exige destruir información y rediseñar futuros productos](https://www.elimparcial.com/mundo/2026/07/11/apple-demanda-a-openai-por-presunto-robo-de-secretos-comerciales-exige-destruir-informacion-y-redisenar-futuros-productos/)
+- [AI is rewriting the Big Tech org chart. See which roles are getting hit the most.](https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7)
+- [Asean News Headlines at 10pm on Saturday (July 11, 2026)](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/11/asean-news-headlines-at-10pm-on-saturday-july-11-2026)
+- [Zetwerk Co-Founder Rahul Sharma Quits Executive Role](https://bharatfast.com/english/business/zetwerk-cofounder-exit-ipo-news/33485/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
