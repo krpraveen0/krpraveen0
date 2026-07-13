@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Lahint completes unified execution infrastructure and launches automated government services for businesses](https://completeaitraining.com/news/lahint-completes-unified-execution-infrastructure-and/)
-- [Apple demanda a OpenAI por presunto robo de secretos comerciales; exige destruir información y rediseñar futuros productos](https://www.elimparcial.com/mundo/2026/07/11/apple-demanda-a-openai-por-presunto-robo-de-secretos-comerciales-exige-destruir-informacion-y-redisenar-futuros-productos/)
-- [AI is rewriting the Big Tech org chart. See which roles are getting hit the most.](https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7)
-- [Asean News Headlines at 10pm on Saturday (July 11, 2026)](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/11/asean-news-headlines-at-10pm-on-saturday-july-11-2026)
-- [Zetwerk Co-Founder Rahul Sharma Quits Executive Role](https://bharatfast.com/english/business/zetwerk-cofounder-exit-ipo-news/33485/)
+- [Delhi event debates whether India is tapping youth potential amid governance and jobs concerns](https://www.thestatesman.com/cities/delhi-event-debates-whether-india-is-tapping-youth-potential-amid-governance-and-jobs-concerns-1503615854.html)
+- [Instagram boss Adam Mosseri joins rising AI costs debate, says company shut down ‘silly things’ that helped ...](https://timesofindia.indiatimes.com/technology/tech-news/instagram-boss-adam-mosseri-joins-rising-ai-costs-debate-says-company-shut-down-silly-things-that-helped-/articleshow/132347461.cms)
+- [Three dead in Metro Detroit mall shootings in eight days: What we know](https://newspub.live/midwest/detroit-mi/three-dead-in-metro-detroit-mall-shootings-in-eight-days-what-we-know/)
+- [Participants of 4th Shusha Global Media Forum start their trip to Karabakh](https://report.az/en/media/participants-of-4th-shusha-global-media-forum-start-their-visit-to-karabakh)
+- [Just a Handful of AI Stocks Are Carrying Everything. History Says It Doesn’t Have to End Badly](https://247wallst.com/investing/2026/07/12/just-a-handful-of-ai-stocks-are-carrying-everything-history-says-it-doesnt-have-to-end-badly/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
