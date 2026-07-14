@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Delhi event debates whether India is tapping youth potential amid governance and jobs concerns](https://www.thestatesman.com/cities/delhi-event-debates-whether-india-is-tapping-youth-potential-amid-governance-and-jobs-concerns-1503615854.html)
-- [Instagram boss Adam Mosseri joins rising AI costs debate, says company shut down ‘silly things’ that helped ...](https://timesofindia.indiatimes.com/technology/tech-news/instagram-boss-adam-mosseri-joins-rising-ai-costs-debate-says-company-shut-down-silly-things-that-helped-/articleshow/132347461.cms)
-- [Three dead in Metro Detroit mall shootings in eight days: What we know](https://newspub.live/midwest/detroit-mi/three-dead-in-metro-detroit-mall-shootings-in-eight-days-what-we-know/)
-- [Participants of 4th Shusha Global Media Forum start their trip to Karabakh](https://report.az/en/media/participants-of-4th-shusha-global-media-forum-start-their-visit-to-karabakh)
-- [Just a Handful of AI Stocks Are Carrying Everything. History Says It Doesn’t Have to End Badly](https://247wallst.com/investing/2026/07/12/just-a-handful-of-ai-stocks-are-carrying-everything-history-says-it-doesnt-have-to-end-badly/)
+- [The Market Cap for Jensen Huang's Nvidia Climbs Past $5 Trillion as Reports of a Kyber Delay Are Dismissed](https://finance.yahoo.com/markets/stocks/articles/market-cap-jensen-huangs-nvidia-142200379.html)
+- [Songai Media Founder Neil Morecraft Introduces The Awaikened, Sharing The Founder's Journey Through Music](https://www.manilatimes.net/2026/07/13/tmt-newswire/globenewswire/songai-media-founder-neil-morecraft-introduces-the-awaikened-sharing-the-founders-journey-through-music/2383451)
+- [RPOA and Lighthouse Release 2026 RPO Buyer Trends Report, Revealing How AI, Candidate Fraud, and Rising Expectations Are Reshaping RPO Partnerships](https://www.prweb.com/releases/rpoa-and-lighthouse-release-2026-rpo-buyer-trends-report-revealing-how-ai-candidate-fraud-and-rising-expectations-are-reshaping-rpo-partnerships-302823199.html)
+- [Google Gemini releases handy image creation tool for FREE, but UK users miss out](https://www.gbnews.com/tech/google-gemini-image-tool-free)
+- [Japanese Yen: Higher energy prices pressure JPY – MUFG](https://www.fxstreet.com/news/japanese-yen-higher-energy-prices-pressure-jpy-mufg-202607131420)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
