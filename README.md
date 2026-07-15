@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [The Market Cap for Jensen Huang's Nvidia Climbs Past $5 Trillion as Reports of a Kyber Delay Are Dismissed](https://finance.yahoo.com/markets/stocks/articles/market-cap-jensen-huangs-nvidia-142200379.html)
-- [Songai Media Founder Neil Morecraft Introduces The Awaikened, Sharing The Founder's Journey Through Music](https://www.manilatimes.net/2026/07/13/tmt-newswire/globenewswire/songai-media-founder-neil-morecraft-introduces-the-awaikened-sharing-the-founders-journey-through-music/2383451)
-- [RPOA and Lighthouse Release 2026 RPO Buyer Trends Report, Revealing How AI, Candidate Fraud, and Rising Expectations Are Reshaping RPO Partnerships](https://www.prweb.com/releases/rpoa-and-lighthouse-release-2026-rpo-buyer-trends-report-revealing-how-ai-candidate-fraud-and-rising-expectations-are-reshaping-rpo-partnerships-302823199.html)
-- [Google Gemini releases handy image creation tool for FREE, but UK users miss out](https://www.gbnews.com/tech/google-gemini-image-tool-free)
-- [Japanese Yen: Higher energy prices pressure JPY – MUFG](https://www.fxstreet.com/news/japanese-yen-higher-energy-prices-pressure-jpy-mufg-202607131420)
+- [New York to impose the country's first statewide moratorium on data centers](https://www.journal-news.net/news/business_and_economy/new-york-to-impose-the-countrys-first-statewide-moratorium-on-data-centers/article_b2594324-d630-5cbb-8c1d-eec6eaf23469.html)
+- [Spectral AI, Inc. (NASDAQ:MDAIW) Sees Large Increase in Short Interest](https://baseballnewssource.com/2026/07/14/spectral-ai-inc-nasdaqmdaiw-sees-large-increase-in-short-interest/11184632.html)
+- [Spectral AI, Inc. (NASDAQ:MDAIW) Sees Large Increase in Short Interest](https://www.thelincolnianonline.com/2026/07/14/spectral-ai-inc-nasdaqmdaiw-sees-large-increase-in-short-interest.html)
+- [What If Movies Could Smell and Taste? The Future of Digital Flavor and Sensory Cinema](https://pnndigital.com/technology/what-if-movies-could-smell-and-taste-the-future-of-digital-flavor-and-sensory-cinema/)
+- [Cypriot student startup wins European innovation award](https://cyprus-mail.com/2026/07/14/cypriot-student-startup-wins-european-innovation-award)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
