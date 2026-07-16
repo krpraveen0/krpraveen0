@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [New York to impose the country's first statewide moratorium on data centers](https://www.journal-news.net/news/business_and_economy/new-york-to-impose-the-countrys-first-statewide-moratorium-on-data-centers/article_b2594324-d630-5cbb-8c1d-eec6eaf23469.html)
-- [Spectral AI, Inc. (NASDAQ:MDAIW) Sees Large Increase in Short Interest](https://baseballnewssource.com/2026/07/14/spectral-ai-inc-nasdaqmdaiw-sees-large-increase-in-short-interest/11184632.html)
-- [Spectral AI, Inc. (NASDAQ:MDAIW) Sees Large Increase in Short Interest](https://www.thelincolnianonline.com/2026/07/14/spectral-ai-inc-nasdaqmdaiw-sees-large-increase-in-short-interest.html)
-- [What If Movies Could Smell and Taste? The Future of Digital Flavor and Sensory Cinema](https://pnndigital.com/technology/what-if-movies-could-smell-and-taste-the-future-of-digital-flavor-and-sensory-cinema/)
-- [Cypriot student startup wins European innovation award](https://cyprus-mail.com/2026/07/14/cypriot-student-startup-wins-european-innovation-award)
+- [The Global Silicon Photonics and Photonics ICs Market 2026-2036 | AI Accelerator Shipments, Data-Centre Networking Requirements and Cost-Per-Gigabit Trends](https://www.globenewswire.com/fr/news-release/2026/07/15/3327890/28124/en/The-Global-Silicon-Photonics-and-Photonics-ICs-Market-2026-2036-AI-Accelerator-Shipments-Data-Centre-Networking-Requirements-and-Cost-Per-Gigabit-Trends.html)
+- [Star Wars creator George Lucas, who hasn't directed a film in two decades, says AI is the future and tells Hollywood: Humans are not smart enough to...](https://timesofindia.indiatimes.com/technology/tech-news/star-wars-creator-george-lucas-who-hasnt-directed-a-film-in-two-decades-says-ai-is-the-future-and-tells-hollywood-humans-are-not-smart-enough-to-/articleshow/132418195.cms)
+- [ADLM 2026 to explore diabetes milestones, space diagnostics, Alzheimer's and Down syndrome linkages, and advances in cancer screening and biomarkers](https://www.prnewswire.com/news-releases/adlm-2026-to-explore-diabetes-milestones-space-diagnostics-alzheimers-and-down-syndrome-linkages-and-advances-in-cancer-screening-and-biomarkers-302826533.html)
+- [Microsoft Urges Windows 11 Users to Install Updates Within Three Days](https://www.techrepublic.com/article/news-microsoft-windows-11-updates-three-day-recommendation/)
+- [Sky City Acoma Casino Hotel Selects QCI ResortsTM, Unifying Marketing, Player Development, and Resort Operations](https://www.financialcontent.com/article/gnwcq-2026-7-15-sky-city-acoma-casino-hotel-selects-qci-resorts-unifying-marketing-player-development-and-resort-operations)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
