@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [The Global Silicon Photonics and Photonics ICs Market 2026-2036 | AI Accelerator Shipments, Data-Centre Networking Requirements and Cost-Per-Gigabit Trends](https://www.globenewswire.com/fr/news-release/2026/07/15/3327890/28124/en/The-Global-Silicon-Photonics-and-Photonics-ICs-Market-2026-2036-AI-Accelerator-Shipments-Data-Centre-Networking-Requirements-and-Cost-Per-Gigabit-Trends.html)
-- [Star Wars creator George Lucas, who hasn't directed a film in two decades, says AI is the future and tells Hollywood: Humans are not smart enough to...](https://timesofindia.indiatimes.com/technology/tech-news/star-wars-creator-george-lucas-who-hasnt-directed-a-film-in-two-decades-says-ai-is-the-future-and-tells-hollywood-humans-are-not-smart-enough-to-/articleshow/132418195.cms)
-- [ADLM 2026 to explore diabetes milestones, space diagnostics, Alzheimer's and Down syndrome linkages, and advances in cancer screening and biomarkers](https://www.prnewswire.com/news-releases/adlm-2026-to-explore-diabetes-milestones-space-diagnostics-alzheimers-and-down-syndrome-linkages-and-advances-in-cancer-screening-and-biomarkers-302826533.html)
-- [Microsoft Urges Windows 11 Users to Install Updates Within Three Days](https://www.techrepublic.com/article/news-microsoft-windows-11-updates-three-day-recommendation/)
-- [Sky City Acoma Casino Hotel Selects QCI ResortsTM, Unifying Marketing, Player Development, and Resort Operations](https://www.financialcontent.com/article/gnwcq-2026-7-15-sky-city-acoma-casino-hotel-selects-qci-resorts-unifying-marketing-player-development-and-resort-operations)
+- [Un estudio de SAP demuestra que la IA sale a cuenta, pero la gobernanza se queda atrás](https://www.cio.com/article/4197902/un-estudio-de-sap-demuestra-que-la-ia-sale-a-cuenta-pero-la-gobernanza-se-queda-atras.html)
+- [China da luz verde a la IA de Apple para iPhone tras dos años de espera](https://ensegundos.com.pa/2026/07/16/china-da-luz-verde-a-la-ia-de-apple-para-iphone-tras-dos-anos-de-espera/)
+- [The Leadership Federation Successfully Concludes the 8th GCC Leadership Conclave in Hyderabad](http://www.bahrainnews.net/news/279191579/the-leadership-federation-successfully-concludes-the-8th-gcc-leadership-conclave-in-hyderabad)
+- [Adutwum pushes for AI investment at KNUST, urges government to sustain STEM reforms](https://www.adomonline.com/adutwum-pushes-for-ai-investment-at-knust-urges-government-to-sustain-stem-reforms/)
+- [IT minister arrives in China to attend World AI conference](https://www.urdupoint.com/en/pakistan/it-minister-arrives-in-china-to-attend-world-2221231.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
