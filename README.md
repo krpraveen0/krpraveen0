@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Un estudio de SAP demuestra que la IA sale a cuenta, pero la gobernanza se queda atrás](https://www.cio.com/article/4197902/un-estudio-de-sap-demuestra-que-la-ia-sale-a-cuenta-pero-la-gobernanza-se-queda-atras.html)
-- [China da luz verde a la IA de Apple para iPhone tras dos años de espera](https://ensegundos.com.pa/2026/07/16/china-da-luz-verde-a-la-ia-de-apple-para-iphone-tras-dos-anos-de-espera/)
-- [The Leadership Federation Successfully Concludes the 8th GCC Leadership Conclave in Hyderabad](http://www.bahrainnews.net/news/279191579/the-leadership-federation-successfully-concludes-the-8th-gcc-leadership-conclave-in-hyderabad)
-- [Adutwum pushes for AI investment at KNUST, urges government to sustain STEM reforms](https://www.adomonline.com/adutwum-pushes-for-ai-investment-at-knust-urges-government-to-sustain-stem-reforms/)
-- [IT minister arrives in China to attend World AI conference](https://www.urdupoint.com/en/pakistan/it-minister-arrives-in-china-to-attend-world-2221231.html)
+- [Apple overtakes Nvidia as world's most valuable company](https://www.kyfreepress.com.au/world/apple-overtakes-nvidia-as-worlds-most-valuable-company/)
+- [KraneShares Artificial Intelligence and Technology ETF (NASDAQ:AGIX) Short Interest Update](https://www.watchlistnews.com/kraneshares-artificial-intelligence-and-technology-etf-nasdaqagix-short-interest-update/11148062.html)
+- [Short Interest in Audioeye, Inc. (NASDAQ:AEYE) Drops By 40.0%](https://zolmax.com/investing/short-interest-in-audioeye-inc-nasdaqaeye-drops-by-40-0/11916836.html)
+- [Green Skills & Applied AI CoE in Hyderabad to be operational by Aug](https://www.thehindu.com/news/national/telangana/green-skills-applied-ai-coe-in-hyderabad-to-be-operational-by-aug/article71234584.ece)
+- [ఒక్కొక్కరిగా కాదు.. సమష్టిగా AIని అభివృద్ధి చేస్తే..: జిన్‌పింగ్‌ కీలక వ్యాఖ్యలు](https://www.eenadu.net/telugu-news/world/ai-should-not-be-solo-performance-but-symphony-of-global-collaboration-says-xi-jinping/0801/126126213)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
