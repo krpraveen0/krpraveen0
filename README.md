@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Apple overtakes Nvidia as world's most valuable company](https://www.kyfreepress.com.au/world/apple-overtakes-nvidia-as-worlds-most-valuable-company/)
-- [KraneShares Artificial Intelligence and Technology ETF (NASDAQ:AGIX) Short Interest Update](https://www.watchlistnews.com/kraneshares-artificial-intelligence-and-technology-etf-nasdaqagix-short-interest-update/11148062.html)
-- [Short Interest in Audioeye, Inc. (NASDAQ:AEYE) Drops By 40.0%](https://zolmax.com/investing/short-interest-in-audioeye-inc-nasdaqaeye-drops-by-40-0/11916836.html)
-- [Green Skills & Applied AI CoE in Hyderabad to be operational by Aug](https://www.thehindu.com/news/national/telangana/green-skills-applied-ai-coe-in-hyderabad-to-be-operational-by-aug/article71234584.ece)
-- [ఒక్కొక్కరిగా కాదు.. సమష్టిగా AIని అభివృద్ధి చేస్తే..: జిన్‌పింగ్‌ కీలక వ్యాఖ్యలు](https://www.eenadu.net/telugu-news/world/ai-should-not-be-solo-performance-but-symphony-of-global-collaboration-says-xi-jinping/0801/126126213)
+- [Underdog Launches Prediction Markets on its own Exchange](https://www.rutlandherald.com/news/business/underdog-launches-prediction-markets-on-its-own-exchange/article_9383e0a4-8385-5a6c-9b2c-449b1fa23bf6.html)
+- [Underdog Launches Prediction Markets on its own Exchange](https://www.postregister.com/businessreport/technology/underdog-launches-prediction-markets-on-its-own-exchange/article_13522845-c403-5556-95cf-6f72a4a77376.html)
+- [AI-powered platform fuels Newport’s online gaming push](https://tribune.net.ph/2026/07/18/ai-powered-platform-fuels-newports-online-gaming-push)
+- [Jamaat urges EC to bar AL leaders from local polls](https://www.daily-sun.com/politics/887130)
+- [Once-in-a-lifetime planetary alignment, the Barbault Basket, in July 2026, has everyone talking about humanity's future: These 4 zodiac signs astrologers say could feel its biggest impact](https://economictimes.indiatimes.com/astrology/us/once-in-a-lifetime-planetary-alignment-the-barbault-basket-in-july-2026-has-everyone-talking-about-humanitys-future-these-4-zodiac-signs-astrologers-say-could-feel-its-biggest-impact/articleshow/132486350.cms)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
