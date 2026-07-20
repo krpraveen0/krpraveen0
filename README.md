@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 6.9 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 7.0 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Underdog Launches Prediction Markets on its own Exchange](https://www.rutlandherald.com/news/business/underdog-launches-prediction-markets-on-its-own-exchange/article_9383e0a4-8385-5a6c-9b2c-449b1fa23bf6.html)
-- [Underdog Launches Prediction Markets on its own Exchange](https://www.postregister.com/businessreport/technology/underdog-launches-prediction-markets-on-its-own-exchange/article_13522845-c403-5556-95cf-6f72a4a77376.html)
-- [AI-powered platform fuels Newport’s online gaming push](https://tribune.net.ph/2026/07/18/ai-powered-platform-fuels-newports-online-gaming-push)
-- [Jamaat urges EC to bar AL leaders from local polls](https://www.daily-sun.com/politics/887130)
-- [Once-in-a-lifetime planetary alignment, the Barbault Basket, in July 2026, has everyone talking about humanity's future: These 4 zodiac signs astrologers say could feel its biggest impact](https://economictimes.indiatimes.com/astrology/us/once-in-a-lifetime-planetary-alignment-the-barbault-basket-in-july-2026-has-everyone-talking-about-humanitys-future-these-4-zodiac-signs-astrologers-say-could-feel-its-biggest-impact/articleshow/132486350.cms)
+- [US air defenses struggling against Iranian missiles media](http://www.philippinetimes.com/news/279197205/us-air-defenses-struggling-against-iranian-missiles-media)
+- [Nonprofit Current AI Raises $400 Million for Open AI Infrastructure](https://easternherald.com/2026/07/19/current-ai-nonprofit-open-infrastructure-400-million/)
+- [Muslim Council of Elders: Enduring journey, renewed vision for advancing global dialogue, peacebuilding, human fraternity](https://www.urdupoint.com/en/middle-east/muslim-council-of-elders-enduring-journey-r-2222756.html)
+- [Hedge Fund Star Ken Griffin Thought AI Was "Garbage." Now He's Changing His Tune.](https://www.fool.com/investing/2026/07/19/hedge-fund-star-ken-griffin-thought-ai-was-garbage/)
+- [Constellation Invests in Blue Energy as Nuclear Demand From AI Data Centers Surges. Here's What CEG Investors Need to Know.](https://www.fool.com/investing/2026/07/19/constellation-invests-in-blue-energy-as-nuclear-demand-from-ai-data-centers-surges-heres-what-ceg-investors-need-to-know/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
