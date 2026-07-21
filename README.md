@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [US air defenses struggling against Iranian missiles media](http://www.philippinetimes.com/news/279197205/us-air-defenses-struggling-against-iranian-missiles-media)
-- [Nonprofit Current AI Raises $400 Million for Open AI Infrastructure](https://easternherald.com/2026/07/19/current-ai-nonprofit-open-infrastructure-400-million/)
-- [Muslim Council of Elders: Enduring journey, renewed vision for advancing global dialogue, peacebuilding, human fraternity](https://www.urdupoint.com/en/middle-east/muslim-council-of-elders-enduring-journey-r-2222756.html)
-- [Hedge Fund Star Ken Griffin Thought AI Was "Garbage." Now He's Changing His Tune.](https://www.fool.com/investing/2026/07/19/hedge-fund-star-ken-griffin-thought-ai-was-garbage/)
-- [Constellation Invests in Blue Energy as Nuclear Demand From AI Data Centers Surges. Here's What CEG Investors Need to Know.](https://www.fool.com/investing/2026/07/19/constellation-invests-in-blue-energy-as-nuclear-demand-from-ai-data-centers-surges-heres-what-ceg-investors-need-to-know/)
+- [How India’s GCCs Are Accelerating Enterprise AI Adoption](https://www.freepressjournal.in/focused-view/how-indias-gccs-are-accelerating-enterprise-ai-adoption)
+- [Key China copper gauge rallies to $100 after tax crackdown](https://www.mining.com/web/key-china-copper-gauge-rallies-to-100-after-tax-crackdown/)
+- [US Pastor Warns Preachers Against Replacing Prayer With ChatGPT](https://www.latestnigeriannews.com/p/342061/us-pastor-warns-preachers-against-replacing-prayer-with-chatgpt.html)
+- [AMD stock gets a big boost from Microsoft ahead of AI event](https://invezz.com/news/2026/07/20/amd-stock-gets-a-big-boost-from-microsoft-ahead-of-ai-event/)
+- [China's Kimi K3 surprises US AI industry with strong debut](http://www.pekingpress.com/news/279196078/china-s-kimi-k3-surprises-us-ai-industry-with-strong-debut)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
