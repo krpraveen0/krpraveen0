@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [How India’s GCCs Are Accelerating Enterprise AI Adoption](https://www.freepressjournal.in/focused-view/how-indias-gccs-are-accelerating-enterprise-ai-adoption)
-- [Key China copper gauge rallies to $100 after tax crackdown](https://www.mining.com/web/key-china-copper-gauge-rallies-to-100-after-tax-crackdown/)
-- [US Pastor Warns Preachers Against Replacing Prayer With ChatGPT](https://www.latestnigeriannews.com/p/342061/us-pastor-warns-preachers-against-replacing-prayer-with-chatgpt.html)
-- [AMD stock gets a big boost from Microsoft ahead of AI event](https://invezz.com/news/2026/07/20/amd-stock-gets-a-big-boost-from-microsoft-ahead-of-ai-event/)
-- [China's Kimi K3 surprises US AI industry with strong debut](http://www.pekingpress.com/news/279196078/china-s-kimi-k3-surprises-us-ai-industry-with-strong-debut)
+- [Netvís Warns of Growing Disinformation Risk before August Referendum](https://www.icelandreview.com/news/netvis-warns-of-growing-disinformation-risk-before-august-referendum/)
+- [Op-Ed | New York City is facing an AI tidal wave. It is dangerously underprepared.](https://www.amny.com/opinion/new-york-city-facing-ai-tidal-wave-dangerously-underprepared/)
+- [Privacy risks from medical AI are greater than previously thought](https://physicsworld.com/a/privacy-risks-from-medical-ai-are-greater-than-previously-thought/)
+- [Education Leaders Gather to Discuss Artificial Intelligence Trends at National University of Technology (NUTECH)](https://www.hrnww.com/?p=22650)
+- [These 3 Energy Stocks Could Outpace the Market in the Next 12 Months](https://www.fool.com/investing/2026/07/21/energy-stocks-outpace-market-in-year-nee-lng/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
