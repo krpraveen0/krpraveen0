@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Netvís Warns of Growing Disinformation Risk before August Referendum](https://www.icelandreview.com/news/netvis-warns-of-growing-disinformation-risk-before-august-referendum/)
-- [Op-Ed | New York City is facing an AI tidal wave. It is dangerously underprepared.](https://www.amny.com/opinion/new-york-city-facing-ai-tidal-wave-dangerously-underprepared/)
-- [Privacy risks from medical AI are greater than previously thought](https://physicsworld.com/a/privacy-risks-from-medical-ai-are-greater-than-previously-thought/)
-- [Education Leaders Gather to Discuss Artificial Intelligence Trends at National University of Technology (NUTECH)](https://www.hrnww.com/?p=22650)
-- [These 3 Energy Stocks Could Outpace the Market in the Next 12 Months](https://www.fool.com/investing/2026/07/21/energy-stocks-outpace-market-in-year-nee-lng/)
+- [AI in Drug Discovery Market worth $17.56 billion by 2031 - Exclusive Report by MarketsandMarkets](https://www.finanznachrichten.de/nachrichten-2026-07/69095707-ai-in-drug-discovery-market-worth-dollar-17-56-billion-by-2031-exclusive-report-by-marketsandmarkets-008.htm)
+- [OpenAI says its AI went rogue and hacked a rival in an unprecedented cyber incident](https://www.latimes.com/business/story/2026-07-22/openai-says-its-ai-went-rogue-hacked-rival-in-unprecedented-cyber-incident)
+- [Govt identifies 20 indigenous AI foundation model proposals under IndiaAI Mission: Parliament](https://www.newkerala.com/news/a/govt-identifies-20-indigenous-ai-foundation-model-proposals-445.htm)
+- [AI could unlock USD 228 bn in annual value for US AEC sector by 2030: McKinsey](https://www.newkerala.com/news/a/ai-could-unlock-usd-228-bn-annual-value-839.htm)
+- [85% of Indian finance leaders under pressure to prove AI ROI as governance lags: Survey](https://www.newkerala.com/news/a/85-indian-finance-leaders-under-pressure-prove-ai-503.htm)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
