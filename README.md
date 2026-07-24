@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI in Drug Discovery Market worth $17.56 billion by 2031 - Exclusive Report by MarketsandMarkets](https://www.finanznachrichten.de/nachrichten-2026-07/69095707-ai-in-drug-discovery-market-worth-dollar-17-56-billion-by-2031-exclusive-report-by-marketsandmarkets-008.htm)
-- [OpenAI says its AI went rogue and hacked a rival in an unprecedented cyber incident](https://www.latimes.com/business/story/2026-07-22/openai-says-its-ai-went-rogue-hacked-rival-in-unprecedented-cyber-incident)
-- [Govt identifies 20 indigenous AI foundation model proposals under IndiaAI Mission: Parliament](https://www.newkerala.com/news/a/govt-identifies-20-indigenous-ai-foundation-model-proposals-445.htm)
-- [AI could unlock USD 228 bn in annual value for US AEC sector by 2030: McKinsey](https://www.newkerala.com/news/a/ai-could-unlock-usd-228-bn-annual-value-839.htm)
-- [85% of Indian finance leaders under pressure to prove AI ROI as governance lags: Survey](https://www.newkerala.com/news/a/85-indian-finance-leaders-under-pressure-prove-ai-503.htm)
+- [Sino Jet Group's EFLY Brand Officially Unveiled](https://www.prnewswire.com/apac/news-releases/sino-jet-groups-efly-brand-officially-unveiled-302833419.html)
+- [Sino Jet Group's EFLY Brand Officially Unveiled](https://en.prnasia.com/story/541734-0.shtml)
+- [Artificial Intelligence in Herbal Medicine](https://www.motherearthnews.com/natural-health/artificial-intelligence-herbal-medicine-zm0z26aszols/)
+- [China Rewrites the ‘Soft Power’ Playbook for the A.I. Age](https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html)
+- [Your Customers Are Asking AI About You. Do You Know What It’s Saying?](https://www.powermag.com/your-customers-are-asking-ai-about-you-do-you-know-what-its-saying/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
