@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Sino Jet Group's EFLY Brand Officially Unveiled](https://www.prnewswire.com/apac/news-releases/sino-jet-groups-efly-brand-officially-unveiled-302833419.html)
-- [Sino Jet Group's EFLY Brand Officially Unveiled](https://en.prnasia.com/story/541734-0.shtml)
-- [Artificial Intelligence in Herbal Medicine](https://www.motherearthnews.com/natural-health/artificial-intelligence-herbal-medicine-zm0z26aszols/)
-- [China Rewrites the ‘Soft Power’ Playbook for the A.I. Age](https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html)
-- [Your Customers Are Asking AI About You. Do You Know What It’s Saying?](https://www.powermag.com/your-customers-are-asking-ai-about-you-do-you-know-what-its-saying/)
+- [US Tech Giants Unite, Advocate for Open-Weight AI Leadership](https://newsable.asianetnews.com/business/us-tech-giants-unite-to-advocate-for-open-weight-ai-leadership-articleshow-wenrffn)
+- [TechForce Robotics Launches Proprietary Robotic Connective Network for Multi-Robot Coordination](https://financialpost.com/globe-newswire/techforce-robotics-launches-proprietary-robotic-connective-network-for-multi-robot-coordination)
+- [Nuclear Could Solve America’s Looming Natural Gas Crisis — Except For This 1 Thing](https://247wallst.com/investing/2026/07/24/nuclear-could-solve-americas-looming-natural-gas-crisis-except-for-this-1-thing/)
+- [Historic ruling in South Korean tycoon divorce: Chae Tae-won to pay ex-wife $644 million](https://albeu.com/english/historic-ruling-in-south-korean-tycoon-divorce-chae-tae-won-to-pay-ex-wife-644-million/941691/)
+- [PM hails AI, Cloud infrastructure as cornerstone of Pakistan's digital future](https://www.urdupoint.com/en/pakistan/pm-hails-ai-cloud-infrastructure-as-cornerst-2225884.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
