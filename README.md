@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [US Tech Giants Unite, Advocate for Open-Weight AI Leadership](https://newsable.asianetnews.com/business/us-tech-giants-unite-to-advocate-for-open-weight-ai-leadership-articleshow-wenrffn)
-- [TechForce Robotics Launches Proprietary Robotic Connective Network for Multi-Robot Coordination](https://financialpost.com/globe-newswire/techforce-robotics-launches-proprietary-robotic-connective-network-for-multi-robot-coordination)
-- [Nuclear Could Solve America’s Looming Natural Gas Crisis — Except For This 1 Thing](https://247wallst.com/investing/2026/07/24/nuclear-could-solve-americas-looming-natural-gas-crisis-except-for-this-1-thing/)
-- [Historic ruling in South Korean tycoon divorce: Chae Tae-won to pay ex-wife $644 million](https://albeu.com/english/historic-ruling-in-south-korean-tycoon-divorce-chae-tae-won-to-pay-ex-wife-644-million/941691/)
-- [PM hails AI, Cloud infrastructure as cornerstone of Pakistan's digital future](https://www.urdupoint.com/en/pakistan/pm-hails-ai-cloud-infrastructure-as-cornerst-2225884.html)
+- [Grok 4.5 Launches as Tech Stocks Lose $820 Billion Amid Mixed AI Earnings](https://www.tekedia.com/grok-4-5-launches-as-tech-stocks-lose-820-billion-amid-mixed-ai-earnings/)
+- [The next chapter: My 50th reunion at Harvard Business School](https://us.headtopics.com/news/the-next-chapter-my-50th-reunion-at-harvard-business-school-85938857)
+- [Midjourney buys popular astrology app Co-Star](https://www.newsbytesapp.com/news/science/midjourney-acquires-astrology-app-co-star-in-surprise-expansion-move/story)
+- [Two Wall Street Analysts Just Set Price Targets on Sandisk $1,430 Apart. One of Them Is Going to Be Very Wrong.](https://finance.yahoo.com/markets/stocks/articles/two-wall-street-analysts-just-143700288.html)
+- [Viet Nam, Bloomberg seek deeper ties to boost financial market development](https://en.nhandan.vn/viet-nam-bloomberg-seek-deeper-ties-to-boost-financial-market-development-post164750.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
