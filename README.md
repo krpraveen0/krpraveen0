@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Grok 4.5 Launches as Tech Stocks Lose $820 Billion Amid Mixed AI Earnings](https://www.tekedia.com/grok-4-5-launches-as-tech-stocks-lose-820-billion-amid-mixed-ai-earnings/)
-- [The next chapter: My 50th reunion at Harvard Business School](https://us.headtopics.com/news/the-next-chapter-my-50th-reunion-at-harvard-business-school-85938857)
-- [Midjourney buys popular astrology app Co-Star](https://www.newsbytesapp.com/news/science/midjourney-acquires-astrology-app-co-star-in-surprise-expansion-move/story)
-- [Two Wall Street Analysts Just Set Price Targets on Sandisk $1,430 Apart. One of Them Is Going to Be Very Wrong.](https://finance.yahoo.com/markets/stocks/articles/two-wall-street-analysts-just-143700288.html)
-- [Viet Nam, Bloomberg seek deeper ties to boost financial market development](https://en.nhandan.vn/viet-nam-bloomberg-seek-deeper-ties-to-boost-financial-market-development-post164750.html)
+- [Nuclear regulators want to eliminate a foundational safety principal that seeks to keep radiation exposure ‘as low as reasonably achievable’](https://fortune.com/2026/07/26/nuclear-regulatory-commission-trump-safety-principal-radiation-exposure-as-low-as-reasonably-achievable/)
+- [Jamie Dimon Says Stock Valuations Are Too High. But That Shouldn't Change How You Invest. Consider These 3 ETFs.](https://www.fool.com/investing/2026/07/26/jamie-dimon-says-stock-valuations-are-too-high-but/)
+- [I've spent my career studying ageing. Here are the 7 ways I slow my biological clock](https://www.sciencefocus.com/the-human-body/career-studying-ageing-biological-clock-morten)
+- [Two people injured in Pacific Sports Bar shooting](https://fox2now.com/news/two-people-injured-in-pacific-sports-bar-shooting/)
+- [Governor Yadav urges students to become job creators](https://morungexpress.com/governor-yadav-urges-students-to-become-job-creators)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
