@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Nuclear regulators want to eliminate a foundational safety principal that seeks to keep radiation exposure ‘as low as reasonably achievable’](https://fortune.com/2026/07/26/nuclear-regulatory-commission-trump-safety-principal-radiation-exposure-as-low-as-reasonably-achievable/)
-- [Jamie Dimon Says Stock Valuations Are Too High. But That Shouldn't Change How You Invest. Consider These 3 ETFs.](https://www.fool.com/investing/2026/07/26/jamie-dimon-says-stock-valuations-are-too-high-but/)
-- [I've spent my career studying ageing. Here are the 7 ways I slow my biological clock](https://www.sciencefocus.com/the-human-body/career-studying-ageing-biological-clock-morten)
-- [Two people injured in Pacific Sports Bar shooting](https://fox2now.com/news/two-people-injured-in-pacific-sports-bar-shooting/)
-- [Governor Yadav urges students to become job creators](https://morungexpress.com/governor-yadav-urges-students-to-become-job-creators)
+- [Task Force Publishes Counter-Drone Handbook](https://ausa.org/news/task-force-publishes-counter-drone-handbook)
+- [Data Centre Cooling Demand Boosted AAON (AAON)](https://www.insidermonkey.com/blog/data-centre-cooling-demand-boosted-aaon-aaon-1804896/)
+- [EasyJet France faces strike risk, summer disruptions feared](https://www.marketscreener.com/news/easyjet-france-faces-strike-risk-summer-disruptions-feared-ce7f51dcde8bf42c)
+- [Ujjwal Jain Launches Atyx AI After PhonePe Exit](https://bharatfast.com/english/business/ujjwal-jain-launches-atyx-ai/33751/)
+- [Medical Billing Outsourcing Market to Reach USD 20.76 Billion by 2031 Driven by Revenue Cycle Management Demand, Cloud-Based Services, and Healthcare Cost Optimization](http://prsync.com/mordor-intelligence/medical-billing-outsourcing-market-to-reach-usd--billion-by--driven-by-revenue-cycle-management-demand-cloud-based-services-and--5192777/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
