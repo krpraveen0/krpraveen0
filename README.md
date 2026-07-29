@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Task Force Publishes Counter-Drone Handbook](https://ausa.org/news/task-force-publishes-counter-drone-handbook)
-- [Data Centre Cooling Demand Boosted AAON (AAON)](https://www.insidermonkey.com/blog/data-centre-cooling-demand-boosted-aaon-aaon-1804896/)
-- [EasyJet France faces strike risk, summer disruptions feared](https://www.marketscreener.com/news/easyjet-france-faces-strike-risk-summer-disruptions-feared-ce7f51dcde8bf42c)
-- [Ujjwal Jain Launches Atyx AI After PhonePe Exit](https://bharatfast.com/english/business/ujjwal-jain-launches-atyx-ai/33751/)
-- [Medical Billing Outsourcing Market to Reach USD 20.76 Billion by 2031 Driven by Revenue Cycle Management Demand, Cloud-Based Services, and Healthcare Cost Optimization](http://prsync.com/mordor-intelligence/medical-billing-outsourcing-market-to-reach-usd--billion-by--driven-by-revenue-cycle-management-demand-cloud-based-services-and--5192777/)
+- [How a strategic security degree prepares leaders for the age of AI](https://rapidcityjournal.com/brandavestudios/article_fa12274e-9743-5edb-ba96-9963530f0b3d.html)
+- [Biopharmaceutical Process Analytical Technology Market worth $4.32 billion by 2031 - Exclusive Report by MarketsandMarketsTM](https://www.prnewswire.com/news-releases/biopharmaceutical-process-analytical-technology-market-worth-4-32-billion-by-2031---exclusive-report-by-marketsandmarkets-302836237.html)
+- [81% of Inventory Operators Want AI. Only 11% Are Using It](https://www.newswire.ca/news-releases/81-of-inventory-operators-want-ai-only-11-are-using-it-875834061.html)
+- [WWE Star Turned Mayor Sounds the Alarm on Flock Safety Camera Surveillance](https://townhall.com/tipsheet/jeff-charles/2026/07/28/wwe-star-turned-mayor-sounds-the-alarm-on-flock-safety-camera-surveillance-n2680253)
+- [SolasAI Adds Enterprise AI Risk Leader to Advisory Board as SR 26-2 Raises the Stakes for AI Governance in Banking](https://www.prweb.com/releases/solasai-adds-enterprise-ai-risk-leader-to-advisory-board-as-sr-26-2-raises-the-stakes-for-ai-governance-in-banking-302834848.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
