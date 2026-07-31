@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Arizton Advisory & Intelligence: Europe Hyperscale Data Center Market to Reach USD 139.90 Billion by 2031, Cloud, AI, and Infrastructure Investments Converge - Arizton](https://www.finanznachrichten.de/nachrichten-2026-07/69157834-arizton-advisory-intelligence-europe-hyperscale-data-center-market-to-reach-usd-139-90-billion-by-2031-cloud-ai-and-infrastructure-investments-c-008.htm)
-- [TA Associates backs India-founded private credit tech firm Oxane Partners](https://www.vccircle.com/taassociates-backs-india-founded-private-credit-tech-firm-oxane-partners)
-- [West narrows DIU focus, with AI as connecting thread across 3 portfolios](https://insidedefense.com/ai-news/west-narrows-diu-focus-ai-connecting-thread-across-3-portfolios)
-- [LALIGA lanza Tech Powerhouse 2026, un nuevo observatorio sobre tecnología e inteligencia artificial aplicada al fútbol](https://www.vozpopuli.com/deportes/laliga-lanza-tech-powerhouse-2026-un-nuevo-observatorio-sobre-tecnologia-e-inteligencia-artificial-aplicada-al-futbol.html)
-- [Employer Organizations, Registry Agency Leadership Meet](https://www.bta.bg/en/news/economy/1175877-employer-organizations-registry-agency-leadership-meet)
+- [Tax expert cautions lawmakers against using vapes, tobacco to cover tax cuts](https://mb.com.ph/article/10929010/business/trade-industry/tax-expert-cautions-lawmakers-against-using-vapes-tobacco-to-cover-tax-cuts)
+- [Microsoft's Massive AI Spending Is Paying Off. Its Stock Is Soaring](https://www.ibtimes.com/microsofts-massive-ai-spending-paying-off-its-stock-soaring-3805902)
+- [‘My artwork is my devotion, my work is my prayer’ - Stonemason explains why he has become something of a tourist attraction while working on a church in town](https://www.shetlandtimes.co.uk/news/my-artwork-is-my-devotion-my-work-is-my-prayer-stonemas-441301/)
+- [Nuclea Energy Inc: Nuclea Energy Enters Definitive Business Combination Agreement with Mangoceuticals, Establishing a Path to a Nasdaq Public Listing to Advance the Morpheus Microreactor](https://www.finanznachrichten.de/nachrichten-2026-07/69172578-nuclea-energy-inc-nuclea-energy-enters-definitive-business-combination-agreement-with-mangoceuticals-establishing-a-path-to-a-nasdaq-public-listing-296.htm)
+- [B.well launches CMS aligned network with health systems, tech companies](https://www.techtarget.com/searchhealthit/news/366646622/Bwell-launches-CMS-aligned-network-with-health-systems-tech-companies)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
