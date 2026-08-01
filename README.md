@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Tax expert cautions lawmakers against using vapes, tobacco to cover tax cuts](https://mb.com.ph/article/10929010/business/trade-industry/tax-expert-cautions-lawmakers-against-using-vapes-tobacco-to-cover-tax-cuts)
-- [Microsoft's Massive AI Spending Is Paying Off. Its Stock Is Soaring](https://www.ibtimes.com/microsofts-massive-ai-spending-paying-off-its-stock-soaring-3805902)
-- [‘My artwork is my devotion, my work is my prayer’ - Stonemason explains why he has become something of a tourist attraction while working on a church in town](https://www.shetlandtimes.co.uk/news/my-artwork-is-my-devotion-my-work-is-my-prayer-stonemas-441301/)
-- [Nuclea Energy Inc: Nuclea Energy Enters Definitive Business Combination Agreement with Mangoceuticals, Establishing a Path to a Nasdaq Public Listing to Advance the Morpheus Microreactor](https://www.finanznachrichten.de/nachrichten-2026-07/69172578-nuclea-energy-inc-nuclea-energy-enters-definitive-business-combination-agreement-with-mangoceuticals-establishing-a-path-to-a-nasdaq-public-listing-296.htm)
-- [B.well launches CMS aligned network with health systems, tech companies](https://www.techtarget.com/searchhealthit/news/366646622/Bwell-launches-CMS-aligned-network-with-health-systems-tech-companies)
+- [CIBC introduces the first enterprise-wide agentic AI workspace in Canadian banking](https://www.newswire.ca/news-releases/cibc-introduces-the-first-enterprise-wide-agentic-ai-workspace-in-canadian-banking-878914262.html)
+- [Aon launches enterprise AI risk diagnostic to assess governance and exposure](https://completeaitraining.com/news/aon-launches-enterprise-ai-risk-diagnostic-to-assess/)
+- [America's cyclospora outbreak foreshadows a biosecurity nightmare](https://us.headtopics.com/news/america-s-cyclospora-outbreak-foreshadows-a-biosecurity-86135057)
+- [Anthropic says its AI models hacked 3 organizations during testing](https://us.headtopics.com/news/anthropic-says-its-ai-models-hacked-3-organizations-during-86135241)
+- [San Francisco company offers cleaning service using humanoid robots](https://us.headtopics.com/news/san-francisco-company-offers-cleaning-service-using-86135233)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
