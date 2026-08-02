@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [CIBC introduces the first enterprise-wide agentic AI workspace in Canadian banking](https://www.newswire.ca/news-releases/cibc-introduces-the-first-enterprise-wide-agentic-ai-workspace-in-canadian-banking-878914262.html)
-- [Aon launches enterprise AI risk diagnostic to assess governance and exposure](https://completeaitraining.com/news/aon-launches-enterprise-ai-risk-diagnostic-to-assess/)
-- [America's cyclospora outbreak foreshadows a biosecurity nightmare](https://us.headtopics.com/news/america-s-cyclospora-outbreak-foreshadows-a-biosecurity-86135057)
-- [Anthropic says its AI models hacked 3 organizations during testing](https://us.headtopics.com/news/anthropic-says-its-ai-models-hacked-3-organizations-during-86135241)
-- [San Francisco company offers cleaning service using humanoid robots](https://us.headtopics.com/news/san-francisco-company-offers-cleaning-service-using-86135233)
+- [Bekwame_ondersteuning_voor_complexe_processen_met_https_thewestace-netherlands_n](https://eveningstandard.in/bekwame-ondersteuning-voor-complexe-processen-met-https/)
+- [China Eyes Limits on Foreign AI Access as America Weighs Its Own Restrictions](https://www.breitbart.com/tech/2026/08/01/china-eyes-limits-on-foreign-ai-access-as-america-weighs-its-own-restrictions/)
+- [US: Neural network enables autonomous satellite mission](https://us.headtopics.com/news/us-neural-network-enables-autonomous-satellite-mission-86170455)
+- [Chinese CXL 3.2 chip lets servers tap more memory without new CPUs](https://us.headtopics.com/news/chinese-cxl-3-2-chip-lets-servers-tap-more-memory-without-86170454)
+- [Solana (SOL) news: Foundation's new CISO warns AI is making crypto scams more convincing](https://us.headtopics.com/news/solana-sol-news-foundation-s-new-ciso-warns-ai-is-making-86170457)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
