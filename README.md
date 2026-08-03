@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Bekwame_ondersteuning_voor_complexe_processen_met_https_thewestace-netherlands_n](https://eveningstandard.in/bekwame-ondersteuning-voor-complexe-processen-met-https/)
-- [China Eyes Limits on Foreign AI Access as America Weighs Its Own Restrictions](https://www.breitbart.com/tech/2026/08/01/china-eyes-limits-on-foreign-ai-access-as-america-weighs-its-own-restrictions/)
-- [US: Neural network enables autonomous satellite mission](https://us.headtopics.com/news/us-neural-network-enables-autonomous-satellite-mission-86170455)
-- [Chinese CXL 3.2 chip lets servers tap more memory without new CPUs](https://us.headtopics.com/news/chinese-cxl-3-2-chip-lets-servers-tap-more-memory-without-86170454)
-- [Solana (SOL) news: Foundation's new CISO warns AI is making crypto scams more convincing](https://us.headtopics.com/news/solana-sol-news-foundation-s-new-ciso-warns-ai-is-making-86170457)
+- [JPMorgan resets Amazon stock target after AI payoff](https://biztoc.com/x/e3404616d7b8d14a)
+- [Gen Z, AI, dan Pemangkasan Anggaran Perpusnas Jadi Tantangan Literasi](https://jogjapolitan.harianjogja.com/r-1265832/gen-z-ai-dan-pemangkasan-anggaran-perpusnas-jadi-tantangan-literasi)
+- [Cuba reports regional blackout in the west of the country](https://www.nbcmiami.com/news/local/cuba-reports-regional-blackout-in-the-west-of-the-country/3841169/)
+- [Cauvery row: Karnataka unites as Shivakumar urges calm; Vijay defers visit](https://www.rediff.com/news/report/cauvery-row-karnataka-unites-as-shivakumar-urges-calm-vijay-defers-visit/20260802.htm)
+- [AI hindi kapalit ng tao -Dr. Gabriel Sampedro](https://tonite.abante.com.ph/ai-hindi-kapalit-ng-tao-dr-gabriel-sampedro/entertainment/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
