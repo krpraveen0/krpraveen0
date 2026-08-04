@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [JPMorgan resets Amazon stock target after AI payoff](https://biztoc.com/x/e3404616d7b8d14a)
-- [Gen Z, AI, dan Pemangkasan Anggaran Perpusnas Jadi Tantangan Literasi](https://jogjapolitan.harianjogja.com/r-1265832/gen-z-ai-dan-pemangkasan-anggaran-perpusnas-jadi-tantangan-literasi)
-- [Cuba reports regional blackout in the west of the country](https://www.nbcmiami.com/news/local/cuba-reports-regional-blackout-in-the-west-of-the-country/3841169/)
-- [Cauvery row: Karnataka unites as Shivakumar urges calm; Vijay defers visit](https://www.rediff.com/news/report/cauvery-row-karnataka-unites-as-shivakumar-urges-calm-vijay-defers-visit/20260802.htm)
-- [AI hindi kapalit ng tao -Dr. Gabriel Sampedro](https://tonite.abante.com.ph/ai-hindi-kapalit-ng-tao-dr-gabriel-sampedro/entertainment/)
+- [iPhone 18 Pro and AirPods With Camera Set For Launch Next Month](https://thecsrjournal.in/iphone-18-pro-and-airpods-with-camera-set-for-launch-next-month/)
+- [Latin America: Duration favored over carry – BNY](https://www.fxstreet.com/news/latin-america-duration-favored-over-carry-bny-202608031422)
+- [Business News | Yellow.ai, a Global Leader in Enterprise Agentic AI, to Go Public Via $550 Million Merger with Bluerock Acquisition Corp.](https://www.latestly.com/agency-news/business-news-yellow-ai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-7544185.html)
+- [Amazon surpasses $3 trillion valuation as AI and cloud propel shares](https://ca.finance.yahoo.com/news/amazon-surpasses-3-trillion-valuation-142200105.html)
+- [US manufacturing activity jumps to more than four-year high in July](https://www.businesstimes.com.sg/international/us-manufacturing-activity-jumps-more-four-year-high-july)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
