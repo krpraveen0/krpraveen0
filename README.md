@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [iPhone 18 Pro and AirPods With Camera Set For Launch Next Month](https://thecsrjournal.in/iphone-18-pro-and-airpods-with-camera-set-for-launch-next-month/)
-- [Latin America: Duration favored over carry – BNY](https://www.fxstreet.com/news/latin-america-duration-favored-over-carry-bny-202608031422)
-- [Business News | Yellow.ai, a Global Leader in Enterprise Agentic AI, to Go Public Via $550 Million Merger with Bluerock Acquisition Corp.](https://www.latestly.com/agency-news/business-news-yellow-ai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-7544185.html)
-- [Amazon surpasses $3 trillion valuation as AI and cloud propel shares](https://ca.finance.yahoo.com/news/amazon-surpasses-3-trillion-valuation-142200105.html)
-- [US manufacturing activity jumps to more than four-year high in July](https://www.businesstimes.com.sg/international/us-manufacturing-activity-jumps-more-four-year-high-july)
+- [From your job to energy costs and mortgages – how to protect your finances NOW as a recession could be around the corner](https://www.thesun.co.uk/money/38771109/protect-finances-recession-fears-grow/)
+- [From your job to energy costs and mortgages – how to protect your finances NOW as a recession could be around the corner](https://www.thescottishsun.co.uk/money/16145509/protect-finances-recession-fears-grow/)
+- [Why Micron Stock Keeps Bouncing Higher](https://www.fool.com/investing/2026/08/04/why-micron-stock-keeps-bouncing-higher/)
+- [Dow Jones Futures Today: Dow Jumps Over 700 Points as Nvidia, Intel & Cisco Surges Amid Oil Prices Falls & Fed Policy – Check Key Drivers, Performance, Top Gainers-Losers & What Investors Should Watch](https://sundayguardianlive.com/business/dow-jones-futures-today-dow-jumps-over-700-points-as-nvidia-intel-cisco-surges-amid-oil-prices-falls-fed-policy-check-key-drivers-performance-top-gainers-losers-what-investors-should-watch-253576/)
+- [Intellistake Signs C$17 Million Defense AI Acquisition Agreement for NanoAi Technologies](https://bitcoinworld.co.in/intellistake-signs-c17-million-defense-ai-acquisition-agreement-for-nanoai-technologies/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
