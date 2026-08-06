@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [From your job to energy costs and mortgages – how to protect your finances NOW as a recession could be around the corner](https://www.thesun.co.uk/money/38771109/protect-finances-recession-fears-grow/)
-- [From your job to energy costs and mortgages – how to protect your finances NOW as a recession could be around the corner](https://www.thescottishsun.co.uk/money/16145509/protect-finances-recession-fears-grow/)
-- [Why Micron Stock Keeps Bouncing Higher](https://www.fool.com/investing/2026/08/04/why-micron-stock-keeps-bouncing-higher/)
-- [Dow Jones Futures Today: Dow Jumps Over 700 Points as Nvidia, Intel & Cisco Surges Amid Oil Prices Falls & Fed Policy – Check Key Drivers, Performance, Top Gainers-Losers & What Investors Should Watch](https://sundayguardianlive.com/business/dow-jones-futures-today-dow-jumps-over-700-points-as-nvidia-intel-cisco-surges-amid-oil-prices-falls-fed-policy-check-key-drivers-performance-top-gainers-losers-what-investors-should-watch-253576/)
-- [Intellistake Signs C$17 Million Defense AI Acquisition Agreement for NanoAi Technologies](https://bitcoinworld.co.in/intellistake-signs-c17-million-defense-ai-acquisition-agreement-for-nanoai-technologies/)
+- [SpaceX shares plunge 13% as AI spending overshadows earnings beat; down over 50% from post-listing peak](https://www.livemint.com/market/stock-market-news/spacex-shares-plunge-13-as-ai-spending-overshadows-earnings-beat-down-over-50-from-post-listing-peak-11785931427001.html)
+- [WHAT’S HOT TODAY 05 August 2026](https://lnt.ma/whats-hot-today-05-august-2026/)
+- [AI, geopolitics, and nostalgia inspire Fung-Penny thriller ”The Last Mandarin”](https://medicinehatnews.com/entertainment/entertainment-news/2026/08/05/ai-geopolitics-and-nostalgia-inspire-fung-penny-thriller-the-last-mandarin/)
+- [AI, geopolitics, and nostalgia inspire Fung-Penny thriller ”The Last Mandarin”](https://infonews.ca/news/7801773/ai-geopolitics-and-nostalgia-inspire-fung-penny-thriller-the-last-mandarin/)
+- [He, it, but rarely she: When AI models write kids’ stories about animals, female characters vanish](https://www.geekwire.com/2026/he-it-but-rarely-she-when-ai-models-write-kids-stories-about-animals-female-characters-vanish/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
