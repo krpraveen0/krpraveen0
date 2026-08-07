@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [SpaceX shares plunge 13% as AI spending overshadows earnings beat; down over 50% from post-listing peak](https://www.livemint.com/market/stock-market-news/spacex-shares-plunge-13-as-ai-spending-overshadows-earnings-beat-down-over-50-from-post-listing-peak-11785931427001.html)
-- [WHAT’S HOT TODAY 05 August 2026](https://lnt.ma/whats-hot-today-05-august-2026/)
-- [AI, geopolitics, and nostalgia inspire Fung-Penny thriller ”The Last Mandarin”](https://medicinehatnews.com/entertainment/entertainment-news/2026/08/05/ai-geopolitics-and-nostalgia-inspire-fung-penny-thriller-the-last-mandarin/)
-- [AI, geopolitics, and nostalgia inspire Fung-Penny thriller ”The Last Mandarin”](https://infonews.ca/news/7801773/ai-geopolitics-and-nostalgia-inspire-fung-penny-thriller-the-last-mandarin/)
-- [He, it, but rarely she: When AI models write kids’ stories about animals, female characters vanish](https://www.geekwire.com/2026/he-it-but-rarely-she-when-ai-models-write-kids-stories-about-animals-female-characters-vanish/)
+- [Russian ‘Starlink’ creates first coverage windows over Ukraine, raising concerns about future drone command and control (Ukraine Battlefield update, Day 1,624)](https://euobserver.com/231628/russian-starlink-creates-first-coverage-windows-over-ukraine-raising-concerns-about-future-drone-command-and-control-ukraine-battlefield-update-day-1624/)
+- [Block's Dorsey evangelizes AI reorganization for financial services](https://www.americanbanker.com/payments/news/block-earnings-beat-wall-street-estimates)
+- [Ross County finds West Nile virus in mosquito pools](https://www.chillicothegazette.com/story/news/local/2026/08/06/ross-county-west-nile-virus-detected-in-two-mosquito-pools-green-union-townships/91195629007/)
+- [Artificial intelligence project increases electricity transmission capacity by 60% in southern Chile](https://www.bnamericas.com/en/news/artificial-intelligence-project-increases-electricity-transmission-capacity-by-60-in-southern-chile)
+- [Microsoft opens its biggest India cloud region in Hyderabad with three zones](https://www.news9live.com/technology/artificial-intelligence/microsoft-biggest-india-cloud-region-hyderabad-azure-launch-2997144)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
