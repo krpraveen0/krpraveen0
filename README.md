@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Russian ‘Starlink’ creates first coverage windows over Ukraine, raising concerns about future drone command and control (Ukraine Battlefield update, Day 1,624)](https://euobserver.com/231628/russian-starlink-creates-first-coverage-windows-over-ukraine-raising-concerns-about-future-drone-command-and-control-ukraine-battlefield-update-day-1624/)
-- [Block's Dorsey evangelizes AI reorganization for financial services](https://www.americanbanker.com/payments/news/block-earnings-beat-wall-street-estimates)
-- [Ross County finds West Nile virus in mosquito pools](https://www.chillicothegazette.com/story/news/local/2026/08/06/ross-county-west-nile-virus-detected-in-two-mosquito-pools-green-union-townships/91195629007/)
-- [Artificial intelligence project increases electricity transmission capacity by 60% in southern Chile](https://www.bnamericas.com/en/news/artificial-intelligence-project-increases-electricity-transmission-capacity-by-60-in-southern-chile)
-- [Microsoft opens its biggest India cloud region in Hyderabad with three zones](https://www.news9live.com/technology/artificial-intelligence/microsoft-biggest-india-cloud-region-hyderabad-azure-launch-2997144)
+- [Article on # Davis, USA, June 14-16, 2026...](https://completeaitraining.com/news/article-on-davis-usa-june-14-16-2026/)
+- [DeepSeek avertit les développeurs d'une hausse importante des tarifs de son API et leur recommande de revoir leurs plans d'utilisation avant l'entrée en vigueur de cette modification](https://intelligence-artificielle.developpez.com/actu/385987/DeepSeek-avertit-les-developpeurs-d-une-hausse-importante-des-tarifs-de-son-API-et-leur-recommande-de-revoir-leurs-plans-d-utilisation-avant-l-entree-en-vigueur-de-cette-modification/)
+- [Tell it to SunStar: What’s in a name?](https://www.sunstar.com.ph/cebu/tell-it-to-sunstar-whats-in-a-name)
+- [US employers unexpectedly shed 23,000 jobs; unemployment rate falls amid rising inflation](https://www.hindustantimes.com/world-news/us-news/us-employers-unexpectedly-shed-23-000-jobs-unemployment-rate-falls-amid-rising-inflation-101786108703566.html)
+- [‘Economic growth is still in the cards’ for 2026 North American telecom: Morningstar](https://www.fierce-network.com//broadband/economic-growth-still-cards-2026-north-american-telecom-market-morningstar)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
