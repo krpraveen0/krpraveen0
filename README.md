@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Article on # Davis, USA, June 14-16, 2026...](https://completeaitraining.com/news/article-on-davis-usa-june-14-16-2026/)
-- [DeepSeek avertit les développeurs d'une hausse importante des tarifs de son API et leur recommande de revoir leurs plans d'utilisation avant l'entrée en vigueur de cette modification](https://intelligence-artificielle.developpez.com/actu/385987/DeepSeek-avertit-les-developpeurs-d-une-hausse-importante-des-tarifs-de-son-API-et-leur-recommande-de-revoir-leurs-plans-d-utilisation-avant-l-entree-en-vigueur-de-cette-modification/)
-- [Tell it to SunStar: What’s in a name?](https://www.sunstar.com.ph/cebu/tell-it-to-sunstar-whats-in-a-name)
-- [US employers unexpectedly shed 23,000 jobs; unemployment rate falls amid rising inflation](https://www.hindustantimes.com/world-news/us-news/us-employers-unexpectedly-shed-23-000-jobs-unemployment-rate-falls-amid-rising-inflation-101786108703566.html)
-- [‘Economic growth is still in the cards’ for 2026 North American telecom: Morningstar](https://www.fierce-network.com//broadband/economic-growth-still-cards-2026-north-american-telecom-market-morningstar)
+- [TSJM provisionally suspends Isi Palazón's sanction](https://ca.sports.yahoo.com/news/tsjm-provisionally-suspends-isi-palaz-133700918.html)
+- [Gartner Q2 Earnings Call Highlights](https://www.thelincolnianonline.com/2026/08/08/gartner-q2-earnings-call-highlights.html)
+- [Lindsay Clancy Trial Highlights Psychiatric Care Before Killing Three Children](https://us.headtopics.com/news/lindsay-clancy-trial-highlights-psychiatric-care-before-86411934)
+- [DPIIT inks pacts with five firms to support startups](https://yourstory.com/2026/08/dpiit-inks-pacts-with-five-firms-to-support-startups)
+- [Rektor Unej ajak mahasiswa baru tidak serahkan proses berpikir ke AI](https://www.antaranews.com/berita/5685921/rektor-unej-ajak-mahasiswa-baru-tidak-serahkan-proses-berpikir-ke-ai)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
