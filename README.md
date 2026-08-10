@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [TSJM provisionally suspends Isi Palazón's sanction](https://ca.sports.yahoo.com/news/tsjm-provisionally-suspends-isi-palaz-133700918.html)
-- [Gartner Q2 Earnings Call Highlights](https://www.thelincolnianonline.com/2026/08/08/gartner-q2-earnings-call-highlights.html)
-- [Lindsay Clancy Trial Highlights Psychiatric Care Before Killing Three Children](https://us.headtopics.com/news/lindsay-clancy-trial-highlights-psychiatric-care-before-86411934)
-- [DPIIT inks pacts with five firms to support startups](https://yourstory.com/2026/08/dpiit-inks-pacts-with-five-firms-to-support-startups)
-- [Rektor Unej ajak mahasiswa baru tidak serahkan proses berpikir ke AI](https://www.antaranews.com/berita/5685921/rektor-unej-ajak-mahasiswa-baru-tidak-serahkan-proses-berpikir-ke-ai)
+- [BRICS nations announce ‘Bhopal Declaration’ at Culture Ministers’ meeting](https://www.thestatesman.com/india/brics-nations-announce-bhopal-declaration-at-culture-ministers-meeting-1503625974.html)
+- [US Weapons Shortage Sparks Global Security Fears – NYT](https://www.kyivpost.com/post/82017)
+- [John Ternus tomará el mando de Apple con dos retos: la IA y el negocio después del iPhone](https://www.infobae.com/tecno/2026/08/09/john-ternus-tomara-el-mando-de-apple-con-dos-retos-la-ia-y-el-negocio-despues-del-iphone/)
+- [A.I. Is Now a Major Election Issue](https://us.headtopics.com/news/a-i-is-now-a-major-election-issue-86437030)
+- [How Caro Claire Burke Wrote the Biggest Book of the Year](https://us.headtopics.com/news/how-caro-claire-burke-wrote-the-biggest-book-of-the-year-86437034)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
