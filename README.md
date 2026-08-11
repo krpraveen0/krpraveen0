@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [BRICS nations announce ‘Bhopal Declaration’ at Culture Ministers’ meeting](https://www.thestatesman.com/india/brics-nations-announce-bhopal-declaration-at-culture-ministers-meeting-1503625974.html)
-- [US Weapons Shortage Sparks Global Security Fears – NYT](https://www.kyivpost.com/post/82017)
-- [John Ternus tomará el mando de Apple con dos retos: la IA y el negocio después del iPhone](https://www.infobae.com/tecno/2026/08/09/john-ternus-tomara-el-mando-de-apple-con-dos-retos-la-ia-y-el-negocio-despues-del-iphone/)
-- [A.I. Is Now a Major Election Issue](https://us.headtopics.com/news/a-i-is-now-a-major-election-issue-86437030)
-- [How Caro Claire Burke Wrote the Biggest Book of the Year](https://us.headtopics.com/news/how-caro-claire-burke-wrote-the-biggest-book-of-the-year-86437034)
+- [MindWalk Demonstrates AI‐Driven Drug Discovery Platform on AMD Silicon, Moves Past Sequence Limits](https://us.headtopics.com/news/mindwalk-demonstrates-ai-driven-drug-discovery-platform-on-86467941)
+- [I’m a child safety detective. Never post photos of your kids wearing this](https://us.headtopics.com/news/i-m-a-child-safety-detective-never-post-photos-of-your-86468086)
+- [Manipal Institute of Technology Bengaluru, IBM launch artificial intelligence lab](https://www.deccanherald.com/business/manipal-institute-of-technology-bengaluru-ibm-launch-artificial-intelligence-lab-4105976)
+- [SpaceX stock rebounds to near $135 IPO price](https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html)
+- [The clock is ticking](https://www.thedailyherald.sx/editorial/the-clock-is-ticking-4)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
