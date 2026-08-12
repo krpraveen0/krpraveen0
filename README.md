@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [MindWalk Demonstrates AI‐Driven Drug Discovery Platform on AMD Silicon, Moves Past Sequence Limits](https://us.headtopics.com/news/mindwalk-demonstrates-ai-driven-drug-discovery-platform-on-86467941)
-- [I’m a child safety detective. Never post photos of your kids wearing this](https://us.headtopics.com/news/i-m-a-child-safety-detective-never-post-photos-of-your-86468086)
-- [Manipal Institute of Technology Bengaluru, IBM launch artificial intelligence lab](https://www.deccanherald.com/business/manipal-institute-of-technology-bengaluru-ibm-launch-artificial-intelligence-lab-4105976)
-- [SpaceX stock rebounds to near $135 IPO price](https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html)
-- [The clock is ticking](https://www.thedailyherald.sx/editorial/the-clock-is-ticking-4)
+- [Selangor to bring ASEAN Industrial Leaders together at Techsphere Summit 2026](https://suara.tv/11/08/2026/selangor-to-bring-asean-industrial-leaders-together-at-techsphere-summit-2026/)
+- [71% of UAE organisations prioritise rapid response, establishing a pioneering corporate communications framework for crisis management](https://www.prnewswire.co.uk/news-releases/71-of-uae-organisations-prioritise-rapid-response-establishing-a-pioneering-corporate-communications-framework-for-crisis-management-302848531.html)
+- [Two-thirds of patients mistrust AI in healthcare, report finds](https://completeaitraining.com/news/two-thirds-of-patients-mistrust-ai-in-healthcare-report/)
+- [AI Can Write Your Business Plan, But Can You Run the Business?](https://www.financialcontent.com/article/marketersmedia-2026-8-11-ai-can-write-your-business-plan-but-can-you-run-the-business)
+- [$20 Polymarket referral code “CUSE” upgraded for Liberty-Fever, WNBA Tuesday](https://www.newyorkupstate.com/betting/2026/08/20-polymarket-referral-code-cuse-upgraded-for-liberty-fever-wnba-tuesday.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
