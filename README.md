@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Selangor to bring ASEAN Industrial Leaders together at Techsphere Summit 2026](https://suara.tv/11/08/2026/selangor-to-bring-asean-industrial-leaders-together-at-techsphere-summit-2026/)
-- [71% of UAE organisations prioritise rapid response, establishing a pioneering corporate communications framework for crisis management](https://www.prnewswire.co.uk/news-releases/71-of-uae-organisations-prioritise-rapid-response-establishing-a-pioneering-corporate-communications-framework-for-crisis-management-302848531.html)
-- [Two-thirds of patients mistrust AI in healthcare, report finds](https://completeaitraining.com/news/two-thirds-of-patients-mistrust-ai-in-healthcare-report/)
-- [AI Can Write Your Business Plan, But Can You Run the Business?](https://www.financialcontent.com/article/marketersmedia-2026-8-11-ai-can-write-your-business-plan-but-can-you-run-the-business)
-- [$20 Polymarket referral code “CUSE” upgraded for Liberty-Fever, WNBA Tuesday](https://www.newyorkupstate.com/betting/2026/08/20-polymarket-referral-code-cuse-upgraded-for-liberty-fever-wnba-tuesday.html)
+- [Spotify to Begin Labelling AI-Generated Artist Profiles](https://thequietus.com/news/spotify-to-begin-labelling-ai-generated-artist-profiles/)
+- [Africa faces rising AI-enabled cybercrime as calls grow for rights-based safeguards](https://hallmarknews.com/africa-faces-rising-ai-enabled-cybercrime-as-calls-grow-for-rights-based-safeguards/)
+- [ரத்த நாள நோய்களுக்கு தீர்வு .... அறுவைச் சிகிச்சையின்றி குணப்படுத்தும் மருத்துவ முன்னேற்றம் !](https://kumudam.com/modern-endovascular-treatment-for-vascular-diseases)
+- [3 Best Crypto Presales as Bitcoin and Ethereum Sell Off but Institutional Inflows Stay Strong](https://www.openpr.com/news/4602312/3-best-crypto-presales-as-bitcoin-and-ethereum-sell-off-but)
+- [Samsung Electronics Shares Soar 6.68% As Kospi Rallies For Third Straight Session On Chip Demand](https://www.ibtimes.com.au/samsung-electronics-shares-surge-semiconductor-demand-1873990)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
