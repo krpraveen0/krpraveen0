@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Spotify to Begin Labelling AI-Generated Artist Profiles](https://thequietus.com/news/spotify-to-begin-labelling-ai-generated-artist-profiles/)
-- [Africa faces rising AI-enabled cybercrime as calls grow for rights-based safeguards](https://hallmarknews.com/africa-faces-rising-ai-enabled-cybercrime-as-calls-grow-for-rights-based-safeguards/)
-- [ரத்த நாள நோய்களுக்கு தீர்வு .... அறுவைச் சிகிச்சையின்றி குணப்படுத்தும் மருத்துவ முன்னேற்றம் !](https://kumudam.com/modern-endovascular-treatment-for-vascular-diseases)
-- [3 Best Crypto Presales as Bitcoin and Ethereum Sell Off but Institutional Inflows Stay Strong](https://www.openpr.com/news/4602312/3-best-crypto-presales-as-bitcoin-and-ethereum-sell-off-but)
-- [Samsung Electronics Shares Soar 6.68% As Kospi Rallies For Third Straight Session On Chip Demand](https://www.ibtimes.com.au/samsung-electronics-shares-surge-semiconductor-demand-1873990)
+- [Texas A&M University-Kingsville Launches the Javelina Education Hub in Partnership with InScribe Education](https://nynewscast.com/texas-am-university-kingsville-launches-the-javelina-education-hub-in-partnership-with-inscribe-education-246580/)
+- [BSSN: AI Bikin Serangan Siber ke Sektor Keuangan Kian Mudah](https://ototekno.harianjogja.com/r-1267200/bssn-ai-bikin-serangan-siber-ke-sektor-keuangan-kian-mudah)
+- [Savarkar quiz row: Kerala HC seeks Govt reply on teacher’s suspension](https://www.socialnews.xyz/2026/08/13/savarkar-quiz-row-kerala-hc-seeks-govt-reply-on-teachers-suspension/)
+- [Rural communities bear the brunt of healthcare workforce shortage: report](https://www.healthcaredive.com/news/rural-communities-bear-brunt-of-workforce-shortage/827746/)
+- [Ukrainian drone strike fully shuts down oil refinery Russia’s Orsk, governor says. Repairs could take 6 months.](https://meduza.io/en/news/2026/08/13/ukrainian-drone-strike-fully-shuts-down-oil-refinery-russia-s-orsk-governor-says-repairs-could-take-6-months)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
