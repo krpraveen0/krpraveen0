@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Texas A&M University-Kingsville Launches the Javelina Education Hub in Partnership with InScribe Education](https://nynewscast.com/texas-am-university-kingsville-launches-the-javelina-education-hub-in-partnership-with-inscribe-education-246580/)
-- [BSSN: AI Bikin Serangan Siber ke Sektor Keuangan Kian Mudah](https://ototekno.harianjogja.com/r-1267200/bssn-ai-bikin-serangan-siber-ke-sektor-keuangan-kian-mudah)
-- [Savarkar quiz row: Kerala HC seeks Govt reply on teacher’s suspension](https://www.socialnews.xyz/2026/08/13/savarkar-quiz-row-kerala-hc-seeks-govt-reply-on-teachers-suspension/)
-- [Rural communities bear the brunt of healthcare workforce shortage: report](https://www.healthcaredive.com/news/rural-communities-bear-brunt-of-workforce-shortage/827746/)
-- [Ukrainian drone strike fully shuts down oil refinery Russia’s Orsk, governor says. Repairs could take 6 months.](https://meduza.io/en/news/2026/08/13/ukrainian-drone-strike-fully-shuts-down-oil-refinery-russia-s-orsk-governor-says-repairs-could-take-6-months)
+- [Apple entrena su propio modelo de IA para China en alianza con Alibaba](https://www.ambito.com/tecnologia/apple-entrena-su-propio-modelo-ia-china-alianza-alibaba-n6310758)
+- [Freenome (NASDAQ:FRNM) Coverage Initiated at Leerink Partners](https://www.dailypolitical.com/2026/08/14/freenome-nasdaqfrnm-coverage-initiated-at-leerink-partners.html)
+- [Leerink Partners Begins Coverage on Freenome (NASDAQ:FRNM)](https://zolmax.com/investing/leerink-partners-begins-coverage-on-freenome-nasdaqfrnm/11952867.html)
+- [Data centers are good business but bad politics. Josh Shapiro tries to thread the needle.](https://us.headtopics.com/news/data-centers-are-good-business-but-bad-politics-josh-86624731)
+- [Earnings call transcript: LWSA posts strong Q2 2026 profit growth despite slight miss](https://ca.investing.com/news/transcripts/earnings-call-transcript-lwsa-posts-strong-q2-2026-profit-growth-despite-slight-miss-93CH-4801478)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
