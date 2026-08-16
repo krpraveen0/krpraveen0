@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Apple entrena su propio modelo de IA para China en alianza con Alibaba](https://www.ambito.com/tecnologia/apple-entrena-su-propio-modelo-ia-china-alianza-alibaba-n6310758)
-- [Freenome (NASDAQ:FRNM) Coverage Initiated at Leerink Partners](https://www.dailypolitical.com/2026/08/14/freenome-nasdaqfrnm-coverage-initiated-at-leerink-partners.html)
-- [Leerink Partners Begins Coverage on Freenome (NASDAQ:FRNM)](https://zolmax.com/investing/leerink-partners-begins-coverage-on-freenome-nasdaqfrnm/11952867.html)
-- [Data centers are good business but bad politics. Josh Shapiro tries to thread the needle.](https://us.headtopics.com/news/data-centers-are-good-business-but-bad-politics-josh-86624731)
-- [Earnings call transcript: LWSA posts strong Q2 2026 profit growth despite slight miss](https://ca.investing.com/news/transcripts/earnings-call-transcript-lwsa-posts-strong-q2-2026-profit-growth-despite-slight-miss-93CH-4801478)
+- [Veritone (NASDAQ:VERI) Issues Earnings Results, Meets Expectations](https://www.dailypolitical.com/2026/08/15/veritone-nasdaqveri-issues-earnings-results-meets-expectations.html)
+- [Terobosan Satu Data, Diskominfo Aceh Tengah Luncur Inovasi SAPA Berbasis AI](https://aceh.tribunnews.com/nanggroe/1038976/terobosan-satu-data-diskominfo-aceh-tengah-luncur-inovasi-sapa-berbasis-ai)
+- [From AI Avatars to Game Worlds: The New Era of Social Media Creativity](https://techbullion.com/from-ai-avatars-to-game-worlds-the-new-era-of-social-media-creativity/)
+- [India's Modi woos youth with free coaching, AI training](https://www.dawn.com/news/2023037/indias-modi-woos-youth-with-free-coaching-ai-training)
+- [India's Modi woos youth with free coaching, AI training](https://www.thestandard.com.hk/world/article/340012/Indias-Modi-woos-youth-with-free-coaching-AI-training)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
