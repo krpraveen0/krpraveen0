@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Veritone (NASDAQ:VERI) Issues Earnings Results, Meets Expectations](https://www.dailypolitical.com/2026/08/15/veritone-nasdaqveri-issues-earnings-results-meets-expectations.html)
-- [Terobosan Satu Data, Diskominfo Aceh Tengah Luncur Inovasi SAPA Berbasis AI](https://aceh.tribunnews.com/nanggroe/1038976/terobosan-satu-data-diskominfo-aceh-tengah-luncur-inovasi-sapa-berbasis-ai)
-- [From AI Avatars to Game Worlds: The New Era of Social Media Creativity](https://techbullion.com/from-ai-avatars-to-game-worlds-the-new-era-of-social-media-creativity/)
-- [India's Modi woos youth with free coaching, AI training](https://www.dawn.com/news/2023037/indias-modi-woos-youth-with-free-coaching-ai-training)
-- [India's Modi woos youth with free coaching, AI training](https://www.thestandard.com.hk/world/article/340012/Indias-Modi-woos-youth-with-free-coaching-AI-training)
+- [США требуют от 35 стран выбрать между американским и китайским альянсами в сфере ИИ. Пока обе стороны выбрал только Казахстан](https://www.ixbt.com/news/2026/08/16/ssha-trebujut-ot-35-stran-vybrat-mezhdu-amerikanskim-i-kitajskim-aljansami-v-sfere-ii-poka-obe-storony-vybral-tolko.html)
+- [Germany’s Intelligence Independence: Why Russia and China Are Watching Merz’s BND and BfV Expansion](https://moderndiplomacy.eu/2026/08/16/germanys-intelligence-independence-why-russia-and-china-are-watching-merzs-bnd-and-bfv-expansion/)
+- [Unlock sports analytics breakthroughs for wiser betting decisions.](https://puk.org/16.08.2026:53053)
+- [Yatra Online Q1 Earnings Call Highlights](https://www.tickerreport.com/banking-finance/13545926/yatra-online-q1-earnings-call-highlights.html)
+- [Audioeye Q2 Earnings Call Highlights](https://www.dailypolitical.com/2026/08/16/audioeye-q2-earnings-call-highlights.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
