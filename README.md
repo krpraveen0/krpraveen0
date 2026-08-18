@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [США требуют от 35 стран выбрать между американским и китайским альянсами в сфере ИИ. Пока обе стороны выбрал только Казахстан](https://www.ixbt.com/news/2026/08/16/ssha-trebujut-ot-35-stran-vybrat-mezhdu-amerikanskim-i-kitajskim-aljansami-v-sfere-ii-poka-obe-storony-vybral-tolko.html)
-- [Germany’s Intelligence Independence: Why Russia and China Are Watching Merz’s BND and BfV Expansion](https://moderndiplomacy.eu/2026/08/16/germanys-intelligence-independence-why-russia-and-china-are-watching-merzs-bnd-and-bfv-expansion/)
-- [Unlock sports analytics breakthroughs for wiser betting decisions.](https://puk.org/16.08.2026:53053)
-- [Yatra Online Q1 Earnings Call Highlights](https://www.tickerreport.com/banking-finance/13545926/yatra-online-q1-earnings-call-highlights.html)
-- [Audioeye Q2 Earnings Call Highlights](https://www.dailypolitical.com/2026/08/16/audioeye-q2-earnings-call-highlights.html)
+- [India’s young people bring extraordinary potential, PM-SETU can transform ITIs into centres of excellence: Jayant Chaudhary](https://www.socialnews.xyz/2026/08/17/indias-young-people-bring-extraordinary-potential-pm-setu-can-transform-itis-into-centres-of-excellence-jayant-chaudhary/)
+- [Knowledge Graph Market Set to Reach US$ 19.16 Billion by 2035 as Generative AI and Semantic Data Technologies Reshape Enterprise Data Management](https://www.openpr.com/news/4605714/knowledge-graph-market-set-to-reach-us-19-16-billion-by-2035-as)
+- [Upland Software and Carahsoft Partner to Expand Public Sector Impact](https://www.financialcontent.com/article/bizwire-2026-8-17-upland-software-and-carahsoft-partner-to-expand-public-sector-impact)
+- [Mohr Partners Names Kam Schroeder President of Brokerage](https://www.prnewswire.com/news-releases/mohr-partners-names-kam-schroeder-president-of-brokerage-302851982.html)
+- [HSBC Taps 2 Top Data Center Stocks Poised to Lead the AI Inference Boom](https://www.investing.com/news/stock-market-news/hsbc-taps-2-top-data-center-stocks-poised-to-lead-the-ai-inference-boom-93CH-4863238)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
