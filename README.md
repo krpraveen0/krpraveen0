@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [India’s young people bring extraordinary potential, PM-SETU can transform ITIs into centres of excellence: Jayant Chaudhary](https://www.socialnews.xyz/2026/08/17/indias-young-people-bring-extraordinary-potential-pm-setu-can-transform-itis-into-centres-of-excellence-jayant-chaudhary/)
-- [Knowledge Graph Market Set to Reach US$ 19.16 Billion by 2035 as Generative AI and Semantic Data Technologies Reshape Enterprise Data Management](https://www.openpr.com/news/4605714/knowledge-graph-market-set-to-reach-us-19-16-billion-by-2035-as)
-- [Upland Software and Carahsoft Partner to Expand Public Sector Impact](https://www.financialcontent.com/article/bizwire-2026-8-17-upland-software-and-carahsoft-partner-to-expand-public-sector-impact)
-- [Mohr Partners Names Kam Schroeder President of Brokerage](https://www.prnewswire.com/news-releases/mohr-partners-names-kam-schroeder-president-of-brokerage-302851982.html)
-- [HSBC Taps 2 Top Data Center Stocks Poised to Lead the AI Inference Boom](https://www.investing.com/news/stock-market-news/hsbc-taps-2-top-data-center-stocks-poised-to-lead-the-ai-inference-boom-93CH-4863238)
+- [Defiance Launches AINF: An ETF Dedicated to AI Inference Chips](https://www.globenewswire.com/news-release/2026/08/18/3346925/0/en/defiance-launches-ainf-an-etf-dedicated-to-ai-inference-chips.html)
+- [Defiance Launches AINF: An ETF Dedicated to AI Inference Chips](https://www.globenewswire.com/fr/news-release/2026/08/18/3346925/0/en/defiance-launches-ainf-an-etf-dedicated-to-ai-inference-chips.html)
+- [Meet OpenAI’s ChatGPT for Teens, which doesn’t talk about sex or suicide and gives you homework help instead](https://fortune.com/2026/08/18/openai-chatgpt-teens-age-assurance-safety/)
+- [AI Coding Advances Push Companies to Rethink Cybersecurity](https://us.headtopics.com/news/ai-coding-advances-push-companies-to-rethink-cybersecurity-86750790)
+- [GenBio AI Builds First World Model of the Human Cell](https://www.finanznachrichten.de/nachrichten-2026-08/69342488-genbio-ai-builds-first-world-model-of-the-human-cell-004.htm)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
