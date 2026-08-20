@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Defiance Launches AINF: An ETF Dedicated to AI Inference Chips](https://www.globenewswire.com/news-release/2026/08/18/3346925/0/en/defiance-launches-ainf-an-etf-dedicated-to-ai-inference-chips.html)
-- [Defiance Launches AINF: An ETF Dedicated to AI Inference Chips](https://www.globenewswire.com/fr/news-release/2026/08/18/3346925/0/en/defiance-launches-ainf-an-etf-dedicated-to-ai-inference-chips.html)
-- [Meet OpenAI’s ChatGPT for Teens, which doesn’t talk about sex or suicide and gives you homework help instead](https://fortune.com/2026/08/18/openai-chatgpt-teens-age-assurance-safety/)
-- [AI Coding Advances Push Companies to Rethink Cybersecurity](https://us.headtopics.com/news/ai-coding-advances-push-companies-to-rethink-cybersecurity-86750790)
-- [GenBio AI Builds First World Model of the Human Cell](https://www.finanznachrichten.de/nachrichten-2026-08/69342488-genbio-ai-builds-first-world-model-of-the-human-cell-004.htm)
+- [Apple Leaks Video of Camera-Equipped AirPods in Action](https://us.headtopics.com/news/apple-leaks-video-of-camera-equipped-airpods-in-action-86788332)
+- [Governors’ races are being increasingly buffeted by the toxic politics of data centers](https://us.headtopics.com/news/governors-races-are-being-increasingly-buffeted-by-the-86788794)
+- [DarioHealth (NASDAQ:DRIO) Now Covered by Analysts at Alliance Global Partners](https://www.tickerreport.com/banking-finance/13549964/dariohealth-nasdaqdrio-now-covered-by-analysts-at-alliance-global-partners.html)
+- [Alliance Global Partners Initiates Coverage on DarioHealth (NASDAQ:DRIO)](https://www.watchlistnews.com/alliance-global-partners-initiates-coverage-on-dariohealth-nasdaqdrio/11190900.html)
+- [IKS Health Implements Scribble Select, an Ambient Scribe Interface, at Western Washington Medical Group](https://www.timesargus.com/news/business/iks-health-implements-scribble-select-an-ambient-scribe-interface-at-western-washington-medical-group/article_23aab729-9285-5f8f-9aed-c72fdcc9c40e.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
