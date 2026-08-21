@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Apple Leaks Video of Camera-Equipped AirPods in Action](https://us.headtopics.com/news/apple-leaks-video-of-camera-equipped-airpods-in-action-86788332)
-- [Governors’ races are being increasingly buffeted by the toxic politics of data centers](https://us.headtopics.com/news/governors-races-are-being-increasingly-buffeted-by-the-86788794)
-- [DarioHealth (NASDAQ:DRIO) Now Covered by Analysts at Alliance Global Partners](https://www.tickerreport.com/banking-finance/13549964/dariohealth-nasdaqdrio-now-covered-by-analysts-at-alliance-global-partners.html)
-- [Alliance Global Partners Initiates Coverage on DarioHealth (NASDAQ:DRIO)](https://www.watchlistnews.com/alliance-global-partners-initiates-coverage-on-dariohealth-nasdaqdrio/11190900.html)
-- [IKS Health Implements Scribble Select, an Ambient Scribe Interface, at Western Washington Medical Group](https://www.timesargus.com/news/business/iks-health-implements-scribble-select-an-ambient-scribe-interface-at-western-washington-medical-group/article_23aab729-9285-5f8f-9aed-c72fdcc9c40e.html)
+- [StrainScan Pro Enables Farm-to-Plate Freshness and Quality Tracking Across the Food Supply Chain (OTCID:MDCE)](https://www.financialcontent.com/article/accwirecq-2026-8-20-strainscan-pro-enables-farm-to-plate-freshness-and-quality-tracking-across-the-food-supply-chain-otcidmdce)
+- [Evaxion announces business update and second quarter 2026 financial results](https://www.biospace.com/press-releases/evaxion-announces-business-update-and-second-quarter-2026-financial-results)
+- [CIBC appoints Prasanna Gopalakrishnan to board of directors](https://www.theglobeandmail.com/business/article-cibc-appoints-prasanna-gopalakrishnan-to-board-of-directors/)
+- [Pittsburgh’s rivers safe to swim in? New E. coli data raises concerns](https://www.usatoday.com/story/news/2026/08/20/can-you-safely-swim-in-pittsburgh-rivers-what-e-coli-data-shows/91376383007/)
+- [Maris-Tech Receives Additional Follow-On Order from Existing Governmental Intelligence Customer](https://www.globenewswire.com/news-release/2026/08/20/3348439/0/en/maris-tech-receives-additional-follow-on-order-from-existing-governmental-intelligence-customer.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
