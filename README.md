@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [StrainScan Pro Enables Farm-to-Plate Freshness and Quality Tracking Across the Food Supply Chain (OTCID:MDCE)](https://www.financialcontent.com/article/accwirecq-2026-8-20-strainscan-pro-enables-farm-to-plate-freshness-and-quality-tracking-across-the-food-supply-chain-otcidmdce)
-- [Evaxion announces business update and second quarter 2026 financial results](https://www.biospace.com/press-releases/evaxion-announces-business-update-and-second-quarter-2026-financial-results)
-- [CIBC appoints Prasanna Gopalakrishnan to board of directors](https://www.theglobeandmail.com/business/article-cibc-appoints-prasanna-gopalakrishnan-to-board-of-directors/)
-- [Pittsburgh’s rivers safe to swim in? New E. coli data raises concerns](https://www.usatoday.com/story/news/2026/08/20/can-you-safely-swim-in-pittsburgh-rivers-what-e-coli-data-shows/91376383007/)
-- [Maris-Tech Receives Additional Follow-On Order from Existing Governmental Intelligence Customer](https://www.globenewswire.com/news-release/2026/08/20/3348439/0/en/maris-tech-receives-additional-follow-on-order-from-existing-governmental-intelligence-customer.html)
+- [NECO registrar elected AEAA VP as Nigeria gets 2027 AEAA hosting rights](https://thesun.ng/neco-registrar-elected-aeaa-vp-as-nigeria-gets-2027-aeaa-hosting-rights/)
+- [Indonesia, China step up defense ties with more joint drills, military tech transfer](https://www.arabnews.pk/node/2655432/world)
+- [MicroCloud Hologram Inc. Announces Acquisition of 140,268 MSTR Shares Through Structured Note Investment Product, Continuing Its Strategic Investment in Bitcoin-Related Assets](https://www.finanznachrichten.de/nachrichten-2026-08/69376257-microcloud-hologram-inc-announces-acquisition-of-140-268-mstr-shares-through-structured-note-investment-product-continuing-its-strategic-investment-399.htm)
+- [McKinley Acquisition Corporation: Space-Eyes Announces Four Distinguished Appointments to Post-Combination Board of Directors Reflecting Deep National Security, Intelligence, Defense and Global Capital Markets Expertise](https://www.finanznachrichten.de/nachrichten-2026-08/69376295-mckinley-acquisition-corporation-space-eyes-announces-four-distinguished-appointments-to-post-combination-board-of-directors-reflecting-deep-national-399.htm)
+- [India gets $511.5 million in FDI under new policy for neighbouring countries](https://www.brecorder.com/news/40435962/india-gets-5115-million-in-fdi-under-new-policy-for-neighbouring-countries)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
