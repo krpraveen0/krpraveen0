@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [NECO registrar elected AEAA VP as Nigeria gets 2027 AEAA hosting rights](https://thesun.ng/neco-registrar-elected-aeaa-vp-as-nigeria-gets-2027-aeaa-hosting-rights/)
-- [Indonesia, China step up defense ties with more joint drills, military tech transfer](https://www.arabnews.pk/node/2655432/world)
-- [MicroCloud Hologram Inc. Announces Acquisition of 140,268 MSTR Shares Through Structured Note Investment Product, Continuing Its Strategic Investment in Bitcoin-Related Assets](https://www.finanznachrichten.de/nachrichten-2026-08/69376257-microcloud-hologram-inc-announces-acquisition-of-140-268-mstr-shares-through-structured-note-investment-product-continuing-its-strategic-investment-399.htm)
-- [McKinley Acquisition Corporation: Space-Eyes Announces Four Distinguished Appointments to Post-Combination Board of Directors Reflecting Deep National Security, Intelligence, Defense and Global Capital Markets Expertise](https://www.finanznachrichten.de/nachrichten-2026-08/69376295-mckinley-acquisition-corporation-space-eyes-announces-four-distinguished-appointments-to-post-combination-board-of-directors-reflecting-deep-national-399.htm)
-- [India gets $511.5 million in FDI under new policy for neighbouring countries](https://www.brecorder.com/news/40435962/india-gets-5115-million-in-fdi-under-new-policy-for-neighbouring-countries)
+- [Karnataka, ADB signs Rs 1,750-crore agreement to upgrade 500 government schools](https://daijiworld.com/news/newsDisplay?newsID=1323498)
+- [Upstart (NASDAQ:UPST) Insider Natalia Mirgorodskaya Sells 586 Shares of Stock](https://www.thelincolnianonline.com/2026/08/22/upstart-nasdaqupst-insider-natalia-mirgorodskaya-sells-586-shares-of-stock.html)
+- [On GARIMA Diwas, Odisha CM Calls For Zero Fatalities In Sanitation Work](https://shree1news.com/on-garima-diwas-odisha-cm-calls-for-zero-fatalities-in-sanitation-work/)
+- [Is This The End Of Instagram As We Know It? Addictive Feeds, Children, Algorithms And A $1.4 Trillion Threat While India Asks: Who Controls Your Feed?](https://www.inventiva.co.in/trends/is-this-the-end-of-instagram-as-we-know-it-addictive-feeds-children-algorithms-and-a-1-4-trillion-threat-while-india-asks-who-controls-your-feed/)
+- [Apple Cuts Over 200 Jobs as Siri AI Push Reshapes Vision Pro Strategy](https://www.newsbricks.com/technology/apple-cuts-over-200-jobs-siri-ai-push-strategy)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
