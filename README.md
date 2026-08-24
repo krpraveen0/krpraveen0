@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Karnataka, ADB signs Rs 1,750-crore agreement to upgrade 500 government schools](https://daijiworld.com/news/newsDisplay?newsID=1323498)
-- [Upstart (NASDAQ:UPST) Insider Natalia Mirgorodskaya Sells 586 Shares of Stock](https://www.thelincolnianonline.com/2026/08/22/upstart-nasdaqupst-insider-natalia-mirgorodskaya-sells-586-shares-of-stock.html)
-- [On GARIMA Diwas, Odisha CM Calls For Zero Fatalities In Sanitation Work](https://shree1news.com/on-garima-diwas-odisha-cm-calls-for-zero-fatalities-in-sanitation-work/)
-- [Is This The End Of Instagram As We Know It? Addictive Feeds, Children, Algorithms And A $1.4 Trillion Threat While India Asks: Who Controls Your Feed?](https://www.inventiva.co.in/trends/is-this-the-end-of-instagram-as-we-know-it-addictive-feeds-children-algorithms-and-a-1-4-trillion-threat-while-india-asks-who-controls-your-feed/)
-- [Apple Cuts Over 200 Jobs as Siri AI Push Reshapes Vision Pro Strategy](https://www.newsbricks.com/technology/apple-cuts-over-200-jobs-siri-ai-push-strategy)
+- [Piyush Goyal to lead India's largest business delegation to Japan](https://www.newsbytesapp.com/news/business/piyush-goyal-s-japan-visit-to-boost-trade-relations/story)
+- [Kirtland Hills Capital Management LLC Invests $1.50 Million in ServiceNow, Inc. $NOW](https://www.themarketsdaily.com/2026/08/23/kirtland-hills-capital-management-llc-invests-1-50-million-in-servicenow-inc-now.html)
+- [Westpac Banking Corp Takes $731,000 Position in ServiceNow, Inc. $NOW](https://baseballnewssource.com/2026/08/23/westpac-banking-corp-takes-731000-position-in-servicenow-inc-now/11236646.html)
+- [RAMageddon: Memory cost crisis squeezes IT firms as AI demand fuels global chip crunch](https://www.wionews.com/world/ramageddon-memory-cost-crisis-squeezes-it-firms-as-ai-demand-fuels-global-chip-crunch-1787487274970)
+- [Silicon Valley wants AI everywhere. It just doesn’t want us to notice](https://us.headtopics.com/news/silicon-valley-wants-ai-everywhere-it-just-doesn-t-want-us-86930670)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
