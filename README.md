@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Piyush Goyal to lead India's largest business delegation to Japan](https://www.newsbytesapp.com/news/business/piyush-goyal-s-japan-visit-to-boost-trade-relations/story)
-- [Kirtland Hills Capital Management LLC Invests $1.50 Million in ServiceNow, Inc. $NOW](https://www.themarketsdaily.com/2026/08/23/kirtland-hills-capital-management-llc-invests-1-50-million-in-servicenow-inc-now.html)
-- [Westpac Banking Corp Takes $731,000 Position in ServiceNow, Inc. $NOW](https://baseballnewssource.com/2026/08/23/westpac-banking-corp-takes-731000-position-in-servicenow-inc-now/11236646.html)
-- [RAMageddon: Memory cost crisis squeezes IT firms as AI demand fuels global chip crunch](https://www.wionews.com/world/ramageddon-memory-cost-crisis-squeezes-it-firms-as-ai-demand-fuels-global-chip-crunch-1787487274970)
-- [Silicon Valley wants AI everywhere. It just doesn’t want us to notice](https://us.headtopics.com/news/silicon-valley-wants-ai-everywhere-it-just-doesn-t-want-us-86930670)
+- [Ivanhoe Electric Receives Preliminary Project Letter from the Export-Import Bank of the United States for $1.1 Billion in Potential Debt Financing for the Santa Cruz Copper Project](https://investingnews.com/ivanhoe-electric-receives-preliminary-project-letter-from-the-export-import-bank-of-the-united-states-for-1-1-billion-in-potential-debt-financing-for-the-santa-cruz-copper-project/)
+- [CoreWeave stock falls 3%, why this analyst sees 88% upside for the stock](https://invezz.com/news/2026/08/24/coreweave-stock-falls-3-why-this-analyst-sees-88-upside-for-the-stock/)
+- [FG moves to unlock mineral wealth with adequate geoscientific data, skills](https://thesun.ng/fg-moves-to-unlock-mineral-wealth-with-adequate-geoscientific-data-skills/)
+- [Mohali Will Become Punjab’s IT Hub, Emerging as Major Centre for AI, Digital Innovation and GCCs: CM Mann](https://yespunjab.com/mohali-will-become-punjabs-it-hub-emerging-as-major-centre-for-ai-digital-innovation-and-gccs-cm-mann/)
+- [Albanese Seeks State Aid on Data Centers, Faces QLD Clash](https://www.miragenews.com/albanese-seeks-state-aid-on-data-centers-faces-1732110/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
