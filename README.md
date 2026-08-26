@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 7.0 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 7.1 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Ivanhoe Electric Receives Preliminary Project Letter from the Export-Import Bank of the United States for $1.1 Billion in Potential Debt Financing for the Santa Cruz Copper Project](https://investingnews.com/ivanhoe-electric-receives-preliminary-project-letter-from-the-export-import-bank-of-the-united-states-for-1-1-billion-in-potential-debt-financing-for-the-santa-cruz-copper-project/)
-- [CoreWeave stock falls 3%, why this analyst sees 88% upside for the stock](https://invezz.com/news/2026/08/24/coreweave-stock-falls-3-why-this-analyst-sees-88-upside-for-the-stock/)
-- [FG moves to unlock mineral wealth with adequate geoscientific data, skills](https://thesun.ng/fg-moves-to-unlock-mineral-wealth-with-adequate-geoscientific-data-skills/)
-- [Mohali Will Become Punjab’s IT Hub, Emerging as Major Centre for AI, Digital Innovation and GCCs: CM Mann](https://yespunjab.com/mohali-will-become-punjabs-it-hub-emerging-as-major-centre-for-ai-digital-innovation-and-gccs-cm-mann/)
-- [Albanese Seeks State Aid on Data Centers, Faces QLD Clash](https://www.miragenews.com/albanese-seeks-state-aid-on-data-centers-faces-1732110/)
+- [BALCO’s Growth Journey Strengthens Chhattisgarh’s Industrial Ecosystem and India’s Self-Reliance](https://newsaction.co.in/archives/181226)
+- [Business News | IIT Delhi, CEP Launches Generative AI Programme as Demand Grows for Professionals with AI-Building Skills](https://www.latestly.com/agency-news/business-news-iit-delhi-cep-launches-generative-ai-programme-as-demand-grows-for-professionals-with-ai-building-skills-7575501.html)
+- [Rising Petrol Costs Drive Renewed CNG Adoption As Banks Finance Vehicle Conversions](https://thewillnews.com/rising-petrol-costs-drive-renewed-cng-adoption-as-banks-finance-vehicle-conversions/)
+- [Breaking the Chains of Hegemony: How Armenia Navigates the Realities of Multi-Alignment and Internal Reforms](http://nt.am/am/news/358889/)
+- [Maris-Tech Receives $280,000 Order for Peridot Night Systems for Terrain Dominance Applications](https://www.globenewswire.com/news-release/2026/08/25/3350536/0/en/maris-tech-receives-280-000-order-for-peridot-night-systems-for-terrain-dominance-applications.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
