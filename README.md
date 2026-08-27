@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [BALCO’s Growth Journey Strengthens Chhattisgarh’s Industrial Ecosystem and India’s Self-Reliance](https://newsaction.co.in/archives/181226)
-- [Business News | IIT Delhi, CEP Launches Generative AI Programme as Demand Grows for Professionals with AI-Building Skills](https://www.latestly.com/agency-news/business-news-iit-delhi-cep-launches-generative-ai-programme-as-demand-grows-for-professionals-with-ai-building-skills-7575501.html)
-- [Rising Petrol Costs Drive Renewed CNG Adoption As Banks Finance Vehicle Conversions](https://thewillnews.com/rising-petrol-costs-drive-renewed-cng-adoption-as-banks-finance-vehicle-conversions/)
-- [Breaking the Chains of Hegemony: How Armenia Navigates the Realities of Multi-Alignment and Internal Reforms](http://nt.am/am/news/358889/)
-- [Maris-Tech Receives $280,000 Order for Peridot Night Systems for Terrain Dominance Applications](https://www.globenewswire.com/news-release/2026/08/25/3350536/0/en/maris-tech-receives-280-000-order-for-peridot-night-systems-for-terrain-dominance-applications.html)
+- [Phenotype-Specific Mitral Regurgitation Trajectories Following Transcatheter Aortic Valve Replacement in Low-Flow Aortic Stenosis](https://www.hmpgloballearningnetwork.com/site/jic/original-contribution/phenotype-specific-mitral-regurgitation-trajectories-following)
+- [An Interesting Time to Be in Jackson Hole](https://www.bloomberg.com/news/newsletters/2026-08-26/an-interesting-time-to-be-in-jackson-hole)
+- [A $60 Billion Reason to Buy Broadcom Stock](https://www.barchart.com/story/news/4131742/a-60-billion-reason-to-buy-broadcom-stock)
+- [📽 Mourinho’s reunion with the Bernabeu 🙌](https://ca.sports.yahoo.com/news/mourinho-reunion-bernabeu-192300242.html)
+- [McLean Unveils Funding for 12 Vancouver Granville Projects](https://www.miragenews.com/mclean-unveils-funding-for-12-vancouver-1733777/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
