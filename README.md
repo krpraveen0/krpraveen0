@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Phenotype-Specific Mitral Regurgitation Trajectories Following Transcatheter Aortic Valve Replacement in Low-Flow Aortic Stenosis](https://www.hmpgloballearningnetwork.com/site/jic/original-contribution/phenotype-specific-mitral-regurgitation-trajectories-following)
-- [An Interesting Time to Be in Jackson Hole](https://www.bloomberg.com/news/newsletters/2026-08-26/an-interesting-time-to-be-in-jackson-hole)
-- [A $60 Billion Reason to Buy Broadcom Stock](https://www.barchart.com/story/news/4131742/a-60-billion-reason-to-buy-broadcom-stock)
-- [📽 Mourinho’s reunion with the Bernabeu 🙌](https://ca.sports.yahoo.com/news/mourinho-reunion-bernabeu-192300242.html)
-- [McLean Unveils Funding for 12 Vancouver Granville Projects](https://www.miragenews.com/mclean-unveils-funding-for-12-vancouver-1733777/)
+- [Catalina man uses AI, journalism skills to create free Tucson news site, linking local news organizations](https://us.headtopics.com/news/catalina-man-uses-ai-journalism-skills-to-create-free-87111031)
+- [From Netflix to GPS: 10 ways this hidden tech infrastructure quietly powers modern life](https://us.headtopics.com/news/from-netflix-to-gps-10-ways-this-hidden-tech-87111120)
+- [Austin begins writing new rules to manage, potentially ban large-scale data centers](https://us.headtopics.com/news/austin-begins-writing-new-rules-to-manage-potentially-ban-87111249)
+- [Mark Cuban Foundation to host free AI bootcamp for Columbus high school students](https://us.headtopics.com/news/mark-cuban-foundation-to-host-free-ai-bootcamp-for-columbus-87111321)
+- [Beyond the Race: US and China Explore AI Safety Collaboration](https://us.headtopics.com/news/beyond-the-race-us-and-china-explore-ai-safety-87111419)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
