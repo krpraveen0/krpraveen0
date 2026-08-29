@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Catalina man uses AI, journalism skills to create free Tucson news site, linking local news organizations](https://us.headtopics.com/news/catalina-man-uses-ai-journalism-skills-to-create-free-87111031)
-- [From Netflix to GPS: 10 ways this hidden tech infrastructure quietly powers modern life](https://us.headtopics.com/news/from-netflix-to-gps-10-ways-this-hidden-tech-87111120)
-- [Austin begins writing new rules to manage, potentially ban large-scale data centers](https://us.headtopics.com/news/austin-begins-writing-new-rules-to-manage-potentially-ban-87111249)
-- [Mark Cuban Foundation to host free AI bootcamp for Columbus high school students](https://us.headtopics.com/news/mark-cuban-foundation-to-host-free-ai-bootcamp-for-columbus-87111321)
-- [Beyond the Race: US and China Explore AI Safety Collaboration](https://us.headtopics.com/news/beyond-the-race-us-and-china-explore-ai-safety-87111419)
+- [Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’](https://federalnewsnetwork.com/artificial-intelligence/2026/08/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/)
+- [Chile, Argentina, Bolivia, Peru sign pact to boost cooperation on strategic minerals](https://www.aa.com.tr/en/world/chile-argentina-bolivia-peru-sign-pact-to-boost-cooperation-on-strategic-minerals/4040547)
+- [India wants more data centers, but can its water-stressed cities handle them?](https://www.cnbctv18.com/technology/india-wants-more-data-centers-but-can-its-water-stressed-cities-handle-them-19979382.htm)
+- [USD.AI Secures $100 Million Credit Facility From Bullish to Power AI Buildout](https://www.pymnts.com/news/investment-tracker/2026/usd-ai-secures-100-million-credit-facility-from-bullish-to-power-ai-buildout/)
+- [They look like religious teachers. But they’re AI — and millions are listening](https://religionnews.com/2026/08/28/the-religious-influencers-who-arent-real/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
