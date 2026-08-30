@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’](https://federalnewsnetwork.com/artificial-intelligence/2026/08/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/)
-- [Chile, Argentina, Bolivia, Peru sign pact to boost cooperation on strategic minerals](https://www.aa.com.tr/en/world/chile-argentina-bolivia-peru-sign-pact-to-boost-cooperation-on-strategic-minerals/4040547)
-- [India wants more data centers, but can its water-stressed cities handle them?](https://www.cnbctv18.com/technology/india-wants-more-data-centers-but-can-its-water-stressed-cities-handle-them-19979382.htm)
-- [USD.AI Secures $100 Million Credit Facility From Bullish to Power AI Buildout](https://www.pymnts.com/news/investment-tracker/2026/usd-ai-secures-100-million-credit-facility-from-bullish-to-power-ai-buildout/)
-- [They look like religious teachers. But they’re AI — and millions are listening](https://religionnews.com/2026/08/28/the-religious-influencers-who-arent-real/)
+- [Sui Price Prediction: SUI Gains 6% as AlphaPepe's First AI DEX Gives Utility Buyers an Earlier Entry](https://www.openpr.com/news/4616511/sui-price-prediction-sui-gains-6-as-alphapepe-s-first-ai-dex)
+- [Freenome (NASDAQ:FRNM) Short Interest Up 217.8% in August](https://www.dailypolitical.com/2026/08/29/freenome-nasdaqfrnm-short-interest-up-217-8-in-august.html)
+- [Executive Sells Nearly 2,300 Shares of eBay Stock, Valued at More Than $235,000](https://www.fool.com/coverage/filings/2026/08/29/executive-sells-nearly-2-300-shares-of-ebay-stock-valued-at-more-than-usd235-000/)
+- [Bill Maher: Left 'can't stand to talk' amid Kushner-Jeffries flap](https://www.washingtontimes.com/news/2026/aug/29/bill-maher-left-cant-stand-talk-amid-kushner-jeffries-flap/)
+- [6 Top Crypto Presales as Bitcoin Tests $80K and Extreme Greed Keeps Buyers Active](https://www.openpr.com/news/4616508/6-top-crypto-presales-as-bitcoin-tests-80k-and-extreme-greed)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
