@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Sui Price Prediction: SUI Gains 6% as AlphaPepe's First AI DEX Gives Utility Buyers an Earlier Entry](https://www.openpr.com/news/4616511/sui-price-prediction-sui-gains-6-as-alphapepe-s-first-ai-dex)
-- [Freenome (NASDAQ:FRNM) Short Interest Up 217.8% in August](https://www.dailypolitical.com/2026/08/29/freenome-nasdaqfrnm-short-interest-up-217-8-in-august.html)
-- [Executive Sells Nearly 2,300 Shares of eBay Stock, Valued at More Than $235,000](https://www.fool.com/coverage/filings/2026/08/29/executive-sells-nearly-2-300-shares-of-ebay-stock-valued-at-more-than-usd235-000/)
-- [Bill Maher: Left 'can't stand to talk' amid Kushner-Jeffries flap](https://www.washingtontimes.com/news/2026/aug/29/bill-maher-left-cant-stand-talk-amid-kushner-jeffries-flap/)
-- [6 Top Crypto Presales as Bitcoin Tests $80K and Extreme Greed Keeps Buyers Active](https://www.openpr.com/news/4616508/6-top-crypto-presales-as-bitcoin-tests-80k-and-extreme-greed)
+- [Critical Contrast: CareCloud (NASDAQ:CCLD) and Certara (NASDAQ:CERT)](https://www.dailypolitical.com/2026/08/30/critical-contrast-carecloud-nasdaqccld-and-certara-nasdaqcert.html)
+- [Nvidia Just Delivered Bad News for AMD and Intel](https://finance.yahoo.com/markets/stocks/articles/nvidia-just-delivered-bad-news-154200130.html)
+- [Cybernovr Secures Global Information Security Certification](https://www.thisdaylive.com/2026/08/30/cybernovr-secures-global-information-security-certification/)
+- [Inflation worries persist across major economies as tightening risks grow](https://kuwaittimes.com/article/48906/business/inflation-worries-persist-across-major-economies-as-tightening-risks-grow/)
+- [AI Makin Banyak Dipakai di Industri Gim, Kreator Belum Tergantikan](https://ototekno.harianjogja.com/r-1269363/ai-makin-banyak-dipakai-di-industri-gim-kreator-belum-tergantikan)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
