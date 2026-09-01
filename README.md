@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Critical Contrast: CareCloud (NASDAQ:CCLD) and Certara (NASDAQ:CERT)](https://www.dailypolitical.com/2026/08/30/critical-contrast-carecloud-nasdaqccld-and-certara-nasdaqcert.html)
-- [Nvidia Just Delivered Bad News for AMD and Intel](https://finance.yahoo.com/markets/stocks/articles/nvidia-just-delivered-bad-news-154200130.html)
-- [Cybernovr Secures Global Information Security Certification](https://www.thisdaylive.com/2026/08/30/cybernovr-secures-global-information-security-certification/)
-- [Inflation worries persist across major economies as tightening risks grow](https://kuwaittimes.com/article/48906/business/inflation-worries-persist-across-major-economies-as-tightening-risks-grow/)
-- [AI Makin Banyak Dipakai di Industri Gim, Kreator Belum Tergantikan](https://ototekno.harianjogja.com/r-1269363/ai-makin-banyak-dipakai-di-industri-gim-kreator-belum-tergantikan)
+- [Speediance Gym Monster 3 brings a 24-inch display, AI coaching and performance diagnostics to the home gym](https://www.notebookcheck.net/Speediance-Gym-Monster-3-brings-a-24-inch-display-AI-coaching-and-performance-diagnostics-to-the-home-gym.1381600.0.html)
+- [The 'Daejon Love' Stock Market](https://www.zerohedge.com/markets/daejon-love-stock-market)
+- [Neues Institut legt los: Deutsches KI-Sicherheitsinstitut geht in Berlin an den Start](https://www.handelsblatt.com/technik/it-internet/neues-institut-legt-los-deutsches-ki-sicherheitsinstitut-geht-in-berlin-an-den-start/100250929.html)
+- [Neues Institut legt los: Deutsches KI-Sicherheitsinstitut geht in Berlin an den Start](https://www.stern.de/digital/neues-institut-legt-los--deutsches-ki-sicherheitsinstitut-geht-in-berlin-an-den-start-38186388.html)
+- [Neues Institut legt los: Deutsches KI-Sicherheitsinstitut geht in Berlin an den Start](https://ga.de/news/digitale-welt/deutsches-ki-sicherheitsinstitut-geht-in-berlin-an-den-start_aid-154025729)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
