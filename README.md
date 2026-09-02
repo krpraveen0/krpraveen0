@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Speediance Gym Monster 3 brings a 24-inch display, AI coaching and performance diagnostics to the home gym](https://www.notebookcheck.net/Speediance-Gym-Monster-3-brings-a-24-inch-display-AI-coaching-and-performance-diagnostics-to-the-home-gym.1381600.0.html)
-- [The 'Daejon Love' Stock Market](https://www.zerohedge.com/markets/daejon-love-stock-market)
-- [Neues Institut legt los: Deutsches KI-Sicherheitsinstitut geht in Berlin an den Start](https://www.handelsblatt.com/technik/it-internet/neues-institut-legt-los-deutsches-ki-sicherheitsinstitut-geht-in-berlin-an-den-start/100250929.html)
-- [Neues Institut legt los: Deutsches KI-Sicherheitsinstitut geht in Berlin an den Start](https://www.stern.de/digital/neues-institut-legt-los--deutsches-ki-sicherheitsinstitut-geht-in-berlin-an-den-start-38186388.html)
-- [Neues Institut legt los: Deutsches KI-Sicherheitsinstitut geht in Berlin an den Start](https://ga.de/news/digitale-welt/deutsches-ki-sicherheitsinstitut-geht-in-berlin-an-den-start_aid-154025729)
+- [Vice President attends Shanghai Cooperation Organisation Plus Summit in Kyrgyzstan](https://en.nhandan.vn/vice-president-attends-shanghai-cooperation-organisation-plus-summit-in-kyrgyzstan-post166141.html)
+- [Tim Cook’s Apple reign ends with triumphs and betrayals](https://www.out.com/news/tim-cook-apple-ceo-out)
+- [Samsung expands Galaxy Book 6 lineup with entry-level model](https://bandwidthblog.co.za/2026/09/01/samsung-galaxy-book-6/)
+- [Prince William County Shares AI-Powered 311 Model for Improving Resident Service](https://www.globenewswire.com/fr/news-release/2026/09/01/3354407/0/en/prince-william-county-shares-ai-powered-311-model-for-improving-resident-service.html)
+- [Ohio State Mansfield unveils theatre season with auditions open](https://www.mansfieldnewsjournal.com/story/news/local/2026/09/01/ohio-state-mansfield-announces-theatre-season-auditions-performances-plays-and-readings/91543953007/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
