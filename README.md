@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Vice President attends Shanghai Cooperation Organisation Plus Summit in Kyrgyzstan](https://en.nhandan.vn/vice-president-attends-shanghai-cooperation-organisation-plus-summit-in-kyrgyzstan-post166141.html)
-- [Tim Cook’s Apple reign ends with triumphs and betrayals](https://www.out.com/news/tim-cook-apple-ceo-out)
-- [Samsung expands Galaxy Book 6 lineup with entry-level model](https://bandwidthblog.co.za/2026/09/01/samsung-galaxy-book-6/)
-- [Prince William County Shares AI-Powered 311 Model for Improving Resident Service](https://www.globenewswire.com/fr/news-release/2026/09/01/3354407/0/en/prince-william-county-shares-ai-powered-311-model-for-improving-resident-service.html)
-- [Ohio State Mansfield unveils theatre season with auditions open](https://www.mansfieldnewsjournal.com/story/news/local/2026/09/01/ohio-state-mansfield-announces-theatre-season-auditions-performances-plays-and-readings/91543953007/)
+- [MulticoreWare Acquires Simulus Automation to Expand Semiconductor Engineering Capabilities](https://www.newswire.ca/news-releases/multicoreware-acquires-simulus-automation-to-expand-semiconductor-engineering-capabilities-873326251.html)
+- [Synoptek Recognized as a Microsoft Fabric Featured Partner](https://www.newswire.ca/news-releases/synoptek-recognized-as-a-microsoft-fabric-featured-partner-824299764.html)
+- [Your organization prioritized AI adoption, but you actually need AI fluency.](https://thenewstack.io/ai-fluency-operating-model/)
+- [The Industrialization of Cybercrime in Africa](https://feeds.fortinet.com/~/968505959/0/fortinet/blog/industry-trends~The-Industrialization-of-Cybercrime-in-Africa)
+- [Dell Stock Surges On Record Orders For AI Servers](https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
