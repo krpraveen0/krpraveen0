@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [MulticoreWare Acquires Simulus Automation to Expand Semiconductor Engineering Capabilities](https://www.newswire.ca/news-releases/multicoreware-acquires-simulus-automation-to-expand-semiconductor-engineering-capabilities-873326251.html)
-- [Synoptek Recognized as a Microsoft Fabric Featured Partner](https://www.newswire.ca/news-releases/synoptek-recognized-as-a-microsoft-fabric-featured-partner-824299764.html)
-- [Your organization prioritized AI adoption, but you actually need AI fluency.](https://thenewstack.io/ai-fluency-operating-model/)
-- [The Industrialization of Cybercrime in Africa](https://feeds.fortinet.com/~/968505959/0/fortinet/blog/industry-trends~The-Industrialization-of-Cybercrime-in-Africa)
-- [Dell Stock Surges On Record Orders For AI Servers](https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers)
+- [Telluride Film Festival returns with a wide-ranging slate — and a secret premiere](https://www.latimes.com/entertainment-arts/movies/story/2026-09-03/telluride-film-festival-2026-lineup-includes-one-big-mystery)
+- [BioVid Launches Oncology AI Tool to Predict Physician Behavior](https://www.mychesco.com/a/news/regional/biovid-launches-oncology-ai-tool-to-predict-physician-behavior/)
+- [State rolls out Nebraska Navigator AI chatbot](https://journalstar.com/news/state-regional/government-politics/article_9d35980e-a4d0-448c-a41e-8e720e1dda9e.html)
+- [State rolls out Nebraska Navigator AI chatbot](https://starherald.com/news/state-regional/government-politics/article_fc6e8aa9-0dd1-5941-bf49-e6582130521f.html)
+- [Kenosha Unified seeks volunteers for district standing committees](https://kenoshanews.com/news/local/education/article_2f2810be-625e-4617-95b0-0542074ea29b.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
