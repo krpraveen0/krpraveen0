@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Telluride Film Festival returns with a wide-ranging slate — and a secret premiere](https://www.latimes.com/entertainment-arts/movies/story/2026-09-03/telluride-film-festival-2026-lineup-includes-one-big-mystery)
-- [BioVid Launches Oncology AI Tool to Predict Physician Behavior](https://www.mychesco.com/a/news/regional/biovid-launches-oncology-ai-tool-to-predict-physician-behavior/)
-- [State rolls out Nebraska Navigator AI chatbot](https://journalstar.com/news/state-regional/government-politics/article_9d35980e-a4d0-448c-a41e-8e720e1dda9e.html)
-- [State rolls out Nebraska Navigator AI chatbot](https://starherald.com/news/state-regional/government-politics/article_fc6e8aa9-0dd1-5941-bf49-e6582130521f.html)
-- [Kenosha Unified seeks volunteers for district standing committees](https://kenoshanews.com/news/local/education/article_2f2810be-625e-4617-95b0-0542074ea29b.html)
+- [Joyce urges local groups to apply for pre-apprenticeship funding](https://www.shawlocal.com/morris-herald-news/news/2026/09/04/joyce-urges-local-groups-to-apply-for-pre-apprenticeship-funding/)
+- [IIT Guwahati unveils brain-inspired AI model for energy-efficient computing](https://www.business-standard.com/education/news/iit-guwahati-unveils-brain-inspired-ai-model-for-energy-efficient-computing-126090401280_1.html)
+- [OpenAI unveils GPT-6 Astra amid US lawmakers filing for permanent ban on superintelligent AI](https://startuppedia.in/trending/openai-unveils-gpt-6-astra-amid-us-lawmakers-filing-for-superintelligent-ai-ban-12492607)
+- [IAEA Training Course on Nuclear Crop Breeding concludes at NIAB Faisalabad](https://www.urdupoint.com/en/pakistan/iaea-training-course-on-nuclear-crop-breeding-2246530.html)
+- [Chennai emerges as key development hub for Zoom’s Global Contact Center](https://www.thehindu.com/business/Industry/chennai-emerges-as-key-development-hub-for-zooms-global-contact-center/article71428682.ece)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
