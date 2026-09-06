@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Joyce urges local groups to apply for pre-apprenticeship funding](https://www.shawlocal.com/morris-herald-news/news/2026/09/04/joyce-urges-local-groups-to-apply-for-pre-apprenticeship-funding/)
-- [IIT Guwahati unveils brain-inspired AI model for energy-efficient computing](https://www.business-standard.com/education/news/iit-guwahati-unveils-brain-inspired-ai-model-for-energy-efficient-computing-126090401280_1.html)
-- [OpenAI unveils GPT-6 Astra amid US lawmakers filing for permanent ban on superintelligent AI](https://startuppedia.in/trending/openai-unveils-gpt-6-astra-amid-us-lawmakers-filing-for-superintelligent-ai-ban-12492607)
-- [IAEA Training Course on Nuclear Crop Breeding concludes at NIAB Faisalabad](https://www.urdupoint.com/en/pakistan/iaea-training-course-on-nuclear-crop-breeding-2246530.html)
-- [Chennai emerges as key development hub for Zoom’s Global Contact Center](https://www.thehindu.com/business/Industry/chennai-emerges-as-key-development-hub-for-zooms-global-contact-center/article71428682.ece)
+- [Roundhill Generative AI & Technology ETF (NYSEARCA:CHAT) Stock Price Up 1.6% – Time to Buy?](https://www.themarketsdaily.com/2026/09/05/roundhill-generative-ai-technology-etf-nysearcachat-stock-price-up-1-6-time-to-buy.html)
+- [Bihar to get 700 model schools, a new university for teacher training](https://newsable.asianetnews.com/india/bihar-to-get-700-model-schools-a-new-university-for-teacher-training-articleshow-6zaa486)
+- [‘No amount of cybersecurity is enough unless India develops its own AI’: Gaganyaan astronaut Prasanth Balakrishnan](https://www.onmanorama.com/kerala/top-news/2026/09/05/no-amount-of-cybersecurity-is-enough-unless-india-develops-its-own-ai-gaganyaan-astronaut-prasanth-balakrishnan.html)
+- [Global Chess League Season 4 kicks off in Bengaluru with Carlsen’s return](https://economictimes.indiatimes.com/news/india/magnus-carlsen-returns-to-thrilling-global-chess-league-season-4-in-bengaluru/articleshow/133805593.cms)
+- [A Controversial New Technology Is Transforming Users’ Lives in a Profound Way. Should It Be Trusted?](https://slate.com/life/2026/09/chatgpt-faceapp-gender-identity-prompt.html?via=rss)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
