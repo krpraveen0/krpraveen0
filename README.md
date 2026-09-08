@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Contrasting StageZero Life Sciences (OTCMKTS:GNWSF) and Caris Life Sciences (NASDAQ:CAI)](https://www.themarketsdaily.com/2026/09/06/contrasting-stagezero-life-sciences-otcmktsgnwsf-and-caris-life-sciences-nasdaqcai.html)
-- [Head-To-Head Contrast: Reliq Health Technologies (OTCMKTS:RQHTF) and Firefly Neuroscience (NASDAQ:AIFF)](https://www.dailypolitical.com/2026/09/06/head-to-head-contrast-reliq-health-technologies-otcmktsrqhtf-and-firefly-neuroscience-nasdaqaiff.html)
-- [Best New Crypto Strength - Consistent Capital Flowing Into AsenseAI](https://www.openpr.com/news/4623082/best-new-crypto-strength-consistent-capital-flowing-into)
-- [Will Alphabet Break Warren Buffett's Cardinal Rule of Investing?](https://www.fool.com/investing/2026/09/06/will-alphabet-break-warren-buffett-cardinal-rule/)
-- [Best Solana Coins Strength - Community Support Growing for AsenseAI](https://www.openpr.com/news/4623079/best-solana-coins-strength-community-support-growing)
+- [AI fraud scams Co Down victim out of £250,000](https://www.rte.ie/news/2026/0907/1590626-co-down-scam/)
+- [Aref: Future wars will be wars of science & rechnology](https://www.saba.ye/en/news3783075.htm)
+- [Advanced AI could pose ‘existential’ risk to humanity, UN warns](https://thefrontierpost.com/advanced-ai-could-pose-existential-risk-to-humanity-un-warns/)
+- [IT stocks buckle under crude oil surge and geopolitical tensions](https://www.business-standard.com/markets/news/it-stocks-buckle-under-crude-oil-surge-and-geopolitical-tensions-126090701313_1.html)
+- [Autonomous drones and AI called out by UN human rights chief](https://www.abc.net.au/news/2026-09-08/un-human-rights-chief-warns-ai-poses-risks-to-humanity/107126428)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
