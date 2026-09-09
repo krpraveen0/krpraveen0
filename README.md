@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI fraud scams Co Down victim out of £250,000](https://www.rte.ie/news/2026/0907/1590626-co-down-scam/)
-- [Aref: Future wars will be wars of science & rechnology](https://www.saba.ye/en/news3783075.htm)
-- [Advanced AI could pose ‘existential’ risk to humanity, UN warns](https://thefrontierpost.com/advanced-ai-could-pose-existential-risk-to-humanity-un-warns/)
-- [IT stocks buckle under crude oil surge and geopolitical tensions](https://www.business-standard.com/markets/news/it-stocks-buckle-under-crude-oil-surge-and-geopolitical-tensions-126090701313_1.html)
-- [Autonomous drones and AI called out by UN human rights chief](https://www.abc.net.au/news/2026-09-08/un-human-rights-chief-warns-ai-poses-risks-to-humanity/107126428)
+- [Mark Cuban Foundation and Perficient Bring Free AI Bootcamp to Houston Teens](https://www.globenewswire.com/fr/news-release/2026/09/08/3357930/0/en/mark-cuban-foundation-and-perficient-bring-free-ai-bootcamp-to-houston-teens.html)
+- [It’s a Bad Time To Be an American Worker](https://www.motherjones.com/politics/2026/09/its-a-bad-time-to-be-an-american-worker/)
+- [Digital Pathology Image Analysis Software for Clinical Market Size, Share and Forecast 2026-2032: Rising Demand for Automated Medical Image Analysis Solutions](https://www.openpr.com/news/4625302/digital-pathology-image-analysis-software-for-clinical-market)
+- [Google: AI Enabled Mass Cloud Hacks In 6 Hours](https://menafn.com/1111637927/Google-AI-Enabled-Mass-Cloud-Hacks-In-6-Hours)
+- [Guesty AI agents: Transforming short-term rental management](https://shorttermrentalz.com/videos/guesty-ai-agents-2/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
