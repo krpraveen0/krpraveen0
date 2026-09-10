@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Mark Cuban Foundation and Perficient Bring Free AI Bootcamp to Houston Teens](https://www.globenewswire.com/fr/news-release/2026/09/08/3357930/0/en/mark-cuban-foundation-and-perficient-bring-free-ai-bootcamp-to-houston-teens.html)
-- [It’s a Bad Time To Be an American Worker](https://www.motherjones.com/politics/2026/09/its-a-bad-time-to-be-an-american-worker/)
-- [Digital Pathology Image Analysis Software for Clinical Market Size, Share and Forecast 2026-2032: Rising Demand for Automated Medical Image Analysis Solutions](https://www.openpr.com/news/4625302/digital-pathology-image-analysis-software-for-clinical-market)
-- [Google: AI Enabled Mass Cloud Hacks In 6 Hours](https://menafn.com/1111637927/Google-AI-Enabled-Mass-Cloud-Hacks-In-6-Hours)
-- [Guesty AI agents: Transforming short-term rental management](https://shorttermrentalz.com/videos/guesty-ai-agents-2/)
+- [Mark Zuckerberg's Net Worth Jumped $13 Billion in a Week as Meta Stock Extended Its Rally](https://finance.yahoo.com/markets/stocks/articles/mark-zuckerbergs-net-worth-jumped-151000091.html)
+- [AI Could ‘Kill All Humans’? What Anthropic Researcher’s Warning Highlights](https://www.outlookindia.com/international/ai-could-kill-all-humans-what-anthropic-researchers-warning-highlights)
+- [New GA president opens 81 Session to restore global trust ‘This is not 1945’](https://globalgovernancenews.com/new-ga-president-opens-81-session-to-restore-global-trust-this-is-not-1945/)
+- [Top Nvidia researcher’s family make bombshell intervention days before his cremation, claims he did not commit suicide](https://nypost.com/2026/09/09/us-news/top-ai-researchers-family-seeks-to-halt-cremation-after-alleged-norcal-suicide/)
+- [Gal Gadot Says She’s ‘Trying to Navigate’ AI and Hollywood ‘The Best Way I Can’](https://www.today.com/popculture/movies/gal-gadot-defends-bitcoin-movie-ai-use-rcna596787)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
