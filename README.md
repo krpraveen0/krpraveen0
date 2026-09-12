@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AINewsBreaks – Perpetuals.com Ltd. (NASDAQ: PDC) Launches Joint AI Trading Research Group with European Institute of Management](https://www.financialcontent.com/article/nnwire-2026-9-10-ainewsbreaks-perpetualscom-ltd-nasdaq-pdc-launches-joint-ai-trading-research-group-with-european-institute-of-management)
-- [CII-CEL Business Transformation programme held in Hosur](https://www.thehindu.com/news/cities/Coimbatore/cii-cel-business-transformation-programme-held-in-hosur/article71451944.ece)
-- ["There Is No Day After Tomorrow"; Bessent Warns Of Consequences To Losing AI Arms Race To China](https://www.zerohedge.com/ai/there-no-day-after-tomorrow-bessent-warns-consequences-losing-ai-arms-race-china)
-- [Dell's AI Server Orders Reached $61 Billion in the Second Quarter, and the Pipeline Keeps Growing](https://finance.yahoo.com/technology/ai/articles/dells-ai-server-orders-reached-150500215.html)
-- [16 Years Later, Andrew Garfield's New Movie Looks Like 2026's Real Social Network Sequel](https://screenrant.com/andrew-garfield-artificial-movie-the-social-network-sequel/)
+- [Cosmos Health Secures Additional 2.5 Million Units Under New Five-Year Contract Manufacturing Agreement with Viofar; Total Orderbook Surpasses 27.5 Million Units](https://www.hastingstribune.com/ap/state/cosmos-health-secures-additional-2-5-million-units-under-new-five-year-contract-manufacturing-agreement/article_4bc1fac0-d0cb-5017-9cb2-bf6c5d7e8302.html)
+- [Everyone’s doing the 80s social media trend — but it’s a dangerous move](https://metro.co.uk/2026/09/11/everyones-80s-social-media-trend-a-dangerous-move-29585232/)
+- [Apple iPhone 18 Pro Max vs. Samsung Galaxy S26 Ultra: Flagship Phone Fight](https://www.pcmag.com/comparisons/apple-iphone-18-pro-max-vs-samsung-galaxy-s26-ultra)
+- [Cosmos Health Secures Additional 2.5 Million Units Under New Five-Year Contract Manufacturing Agreement with Viofar; Total Orderbook Surpasses 27.5 Million Units](https://www.financialcontent.com/article/accwirecq-2026-9-11-cosmos-health-secures-additional-25-million-units-under-new-five-year-contract-manufacturing-agreement-with-viofar-total-orderbook-surpasses-275-million-units)
+- [Psychiatrist Warned About Frequent AI Use](https://menafn.com/1111653491/Psychiatrist-Warned-About-Frequent-AI-Use)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
