@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Cosmos Health Secures Additional 2.5 Million Units Under New Five-Year Contract Manufacturing Agreement with Viofar; Total Orderbook Surpasses 27.5 Million Units](https://www.hastingstribune.com/ap/state/cosmos-health-secures-additional-2-5-million-units-under-new-five-year-contract-manufacturing-agreement/article_4bc1fac0-d0cb-5017-9cb2-bf6c5d7e8302.html)
-- [Everyone’s doing the 80s social media trend — but it’s a dangerous move](https://metro.co.uk/2026/09/11/everyones-80s-social-media-trend-a-dangerous-move-29585232/)
-- [Apple iPhone 18 Pro Max vs. Samsung Galaxy S26 Ultra: Flagship Phone Fight](https://www.pcmag.com/comparisons/apple-iphone-18-pro-max-vs-samsung-galaxy-s26-ultra)
-- [Cosmos Health Secures Additional 2.5 Million Units Under New Five-Year Contract Manufacturing Agreement with Viofar; Total Orderbook Surpasses 27.5 Million Units](https://www.financialcontent.com/article/accwirecq-2026-9-11-cosmos-health-secures-additional-25-million-units-under-new-five-year-contract-manufacturing-agreement-with-viofar-total-orderbook-surpasses-275-million-units)
-- [Psychiatrist Warned About Frequent AI Use](https://menafn.com/1111653491/Psychiatrist-Warned-About-Frequent-AI-Use)
+- [Putin, Xi and Iran’s Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions](https://newspub.live/world/putin-xi-and-irans-pezeshkian-descend-on-india-for-high-stakes-brics-summit-amid-escalating-global-tensions/)
+- [NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond.](https://finance.yahoo.com/energy/articles/nuscale-power-stock-jumps-15-151500537.html)
+- [New York Aligns Orlando and Seattle in Witnessing Autumn Travel Bookings That Jump to 59% in 2026](https://www.travelandtourworld.com/news/article/whmfa54i231k/)
+- [PM Modi Calls for Global Governance Reform at BRICS](https://globalgovernancenews.com/pm-modi-calls-for-global-governance-reform-at-brics/)
+- [Pova 8 Pro & AI Buds Pro: Key AI features you should know about Pova’s dynamic duo](https://www.deccanherald.com/technology/pova-8-pro-ai-buds-pro-key-ai-features-you-should-know-about-povas-dynamic-duo-4144388)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
