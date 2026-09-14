@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Putin, Xi and Iran’s Pezeshkian descend on India for high-stakes BRICS summit amid escalating global tensions](https://newspub.live/world/putin-xi-and-irans-pezeshkian-descend-on-india-for-high-stakes-brics-summit-amid-escalating-global-tensions/)
-- [NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond.](https://finance.yahoo.com/energy/articles/nuscale-power-stock-jumps-15-151500537.html)
-- [New York Aligns Orlando and Seattle in Witnessing Autumn Travel Bookings That Jump to 59% in 2026](https://www.travelandtourworld.com/news/article/whmfa54i231k/)
-- [PM Modi Calls for Global Governance Reform at BRICS](https://globalgovernancenews.com/pm-modi-calls-for-global-governance-reform-at-brics/)
-- [Pova 8 Pro & AI Buds Pro: Key AI features you should know about Pova’s dynamic duo](https://www.deccanherald.com/technology/pova-8-pro-ai-buds-pro-key-ai-features-you-should-know-about-povas-dynamic-duo-4144388)
+- [Trump downplays the need to check AI development and says he doesn't want to cede edge to China](https://www.nbcboston.com/news/national-international/trump-ai-development-china-global-competition/4014175/)
+- [Trump chastises Zelensky over Russian refinery strikes during Ireland visit](https://www.news.com.au/breaking-news/trump-turns-to-golf-family-business-on-irish-visits-second-day/news-story/42e81ffca3146ae909ff78aee3326aaa)
+- [Assemblyman Rick Zbur explains possible data center regulations he helped write | CA Politics 360](https://www.kcra.com/article/assemblyman-rick-zbur-explains-possible-data-center-regulations-he-helped-write-ca-politics-360/73694729)
+- [Should Californians worry about the chances of AI destroying humanity? | CA Politics 360](https://www.kcra.com/article/should-californians-worry-about-the-chances-of-ai-destroying-humanity-ca-politics-360/73694777)
+- [California Politics 360 full episode | CA leaders respond to new AI concerns](https://www.kcra.com/article/california-politics-360-full-episode-september-13/73694108)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
