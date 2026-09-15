@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Trump downplays the need to check AI development and says he doesn't want to cede edge to China](https://www.nbcboston.com/news/national-international/trump-ai-development-china-global-competition/4014175/)
-- [Trump chastises Zelensky over Russian refinery strikes during Ireland visit](https://www.news.com.au/breaking-news/trump-turns-to-golf-family-business-on-irish-visits-second-day/news-story/42e81ffca3146ae909ff78aee3326aaa)
-- [Assemblyman Rick Zbur explains possible data center regulations he helped write | CA Politics 360](https://www.kcra.com/article/assemblyman-rick-zbur-explains-possible-data-center-regulations-he-helped-write-ca-politics-360/73694729)
-- [Should Californians worry about the chances of AI destroying humanity? | CA Politics 360](https://www.kcra.com/article/should-californians-worry-about-the-chances-of-ai-destroying-humanity-ca-politics-360/73694777)
-- [California Politics 360 full episode | CA leaders respond to new AI concerns](https://www.kcra.com/article/california-politics-360-full-episode-september-13/73694108)
+- [Donald Trump says attempts to limit AI part of ‘sick conspiracy’](https://www.shropshirestar.com/world-news/donald-trump-says-attempts-to-limit-ai-part-of-sick-conspiracy-9048209)
+- [ഗ്രാന്‍ഡ് മുഫ്തിയുടെ ‘ഉത്തരവാദിത്ത എ ഐ പ്രോജക്ട്’; പിന്തുണ അറിയിച്ച് മലേഷ്യന്‍ പ്രധാനമന്ത്രി അന്‍വര്‍ ഇബ്റാഹീം](https://www.sirajlive.com/grand-mufti-responsible-ai-project-malaysian-pm-anwar-ibrahim-supports.html)
+- [Textron, Merlin offer unmanned Cessna Skycourier for Pacific island resupply](https://breakingdefense.com/2026/09/textron-merlin-offer-unmanned-cessna-skycourier-for-pacific-island-resupply/)
+- [Ondo strengthens justice system, raises legal standards — Aiyedatiwa](https://tribuneonlineng.com/ondo-strengthens-justice-system-raises-legal-standards-aiyedatiwa/)
+- [Bond market shock: 10-year US Treasury yield tops 5% as oil spike puts Federal Reserve on rate-hike path](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bond-market-shock-10-year-us-yield-tops-5-as-oil-at-108-puts-fed-on-rate-hike-path/articleshow/134242764.cms)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
