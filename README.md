@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Donald Trump says attempts to limit AI part of ‘sick conspiracy’](https://www.shropshirestar.com/world-news/donald-trump-says-attempts-to-limit-ai-part-of-sick-conspiracy-9048209)
-- [ഗ്രാന്‍ഡ് മുഫ്തിയുടെ ‘ഉത്തരവാദിത്ത എ ഐ പ്രോജക്ട്’; പിന്തുണ അറിയിച്ച് മലേഷ്യന്‍ പ്രധാനമന്ത്രി അന്‍വര്‍ ഇബ്റാഹീം](https://www.sirajlive.com/grand-mufti-responsible-ai-project-malaysian-pm-anwar-ibrahim-supports.html)
-- [Textron, Merlin offer unmanned Cessna Skycourier for Pacific island resupply](https://breakingdefense.com/2026/09/textron-merlin-offer-unmanned-cessna-skycourier-for-pacific-island-resupply/)
-- [Ondo strengthens justice system, raises legal standards — Aiyedatiwa](https://tribuneonlineng.com/ondo-strengthens-justice-system-raises-legal-standards-aiyedatiwa/)
-- [Bond market shock: 10-year US Treasury yield tops 5% as oil spike puts Federal Reserve on rate-hike path](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bond-market-shock-10-year-us-yield-tops-5-as-oil-at-108-puts-fed-on-rate-hike-path/articleshow/134242764.cms)
+- [America's adversaries are using top American tech — without telling their customers](https://www.theblaze.com/tech/americas-adversaries-are-using-top-american-tech-without-telling-their-customers)
+- [Data Wrangling Market Report 2026 Market Outlook Supported By A Forecast 15.8% CAGR](https://www.openpr.com/news/4632134/data-wrangling-market-report-2026-market-outlook-supported-by)
+- [Actors of color shut out again at 78th Emmy Awards](https://www.washingtontimes.com/news/2026/sep/15/actors-color-shut-78th-emmy-awards/)
+- [Rep. Beyer says AI "threat is very real" and "not a hoax," calls for regulatory body](https://www.cbsnews.com/video/rep-beyer-says-ai-threat-is-very-real-and-not-a-hoax-and-calls-for-regulatory-body/)
+- [Antipodean Underwriting launches with focus on faster broker service](https://www.insurancebusinessmag.com/au/news/breaking-news/antipodean-underwriting-launches-with-focus-on-faster-broker-service-589827.aspx)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
