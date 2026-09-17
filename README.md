@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [America's adversaries are using top American tech — without telling their customers](https://www.theblaze.com/tech/americas-adversaries-are-using-top-american-tech-without-telling-their-customers)
-- [Data Wrangling Market Report 2026 Market Outlook Supported By A Forecast 15.8% CAGR](https://www.openpr.com/news/4632134/data-wrangling-market-report-2026-market-outlook-supported-by)
-- [Actors of color shut out again at 78th Emmy Awards](https://www.washingtontimes.com/news/2026/sep/15/actors-color-shut-78th-emmy-awards/)
-- [Rep. Beyer says AI "threat is very real" and "not a hoax," calls for regulatory body](https://www.cbsnews.com/video/rep-beyer-says-ai-threat-is-very-real-and-not-a-hoax-and-calls-for-regulatory-body/)
-- [Antipodean Underwriting launches with focus on faster broker service](https://www.insurancebusinessmag.com/au/news/breaking-news/antipodean-underwriting-launches-with-focus-on-faster-broker-service-589827.aspx)
+- [Wahana Edukasi Canggih di Kota Batu, Mega Science Center dan Budaya Jatim Park 1 Mulai Dibuka](https://surabaya.tribunnews.com/malang-raya/1949828/wahana-edukasi-canggih-di-kota-batu-mega-science-center-dan-budaya-jatim-park-1-mulai-dibuka)
+- [Hong Kong aims to raise innovation spending to 3% of GDP by about 2030](https://www.scmp.com/news/hong-kong/society/article/3367767/hong-kong-aims-raise-innovation-spending-3-gdp-about-2030)
+- [Arab Monetary Fund marks Golden Jubilee in Abu Dhabi as Arab Finance Ministers convene](https://www.urdupoint.com/en/middle-east/arab-monetary-fund-marks-golden-jubilee-in-ab-2253288.html)
+- [Google funds carbon removal on 200,000 hectares in Brazil](https://www.mixvale.com.br/2026/09/16/google-funds-carbon-removal-on-200000-hectares-in-brazil/)
+- [Broadcasting anti-IDF propaganda](https://www.jns.org/opinion/column/mitchell-bard/broadcasting-anti-idf-propaganda)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
