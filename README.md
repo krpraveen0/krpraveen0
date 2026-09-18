@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Wahana Edukasi Canggih di Kota Batu, Mega Science Center dan Budaya Jatim Park 1 Mulai Dibuka](https://surabaya.tribunnews.com/malang-raya/1949828/wahana-edukasi-canggih-di-kota-batu-mega-science-center-dan-budaya-jatim-park-1-mulai-dibuka)
-- [Hong Kong aims to raise innovation spending to 3% of GDP by about 2030](https://www.scmp.com/news/hong-kong/society/article/3367767/hong-kong-aims-raise-innovation-spending-3-gdp-about-2030)
-- [Arab Monetary Fund marks Golden Jubilee in Abu Dhabi as Arab Finance Ministers convene](https://www.urdupoint.com/en/middle-east/arab-monetary-fund-marks-golden-jubilee-in-ab-2253288.html)
-- [Google funds carbon removal on 200,000 hectares in Brazil](https://www.mixvale.com.br/2026/09/16/google-funds-carbon-removal-on-200000-hectares-in-brazil/)
-- [Broadcasting anti-IDF propaganda](https://www.jns.org/opinion/column/mitchell-bard/broadcasting-anti-idf-propaganda)
+- [Xinhua Headlines: Beyond expo floor, AI opens new frontiers in China-ASEAN cooperation](http://www.malaysiasun.com/news/279313211/xinhua-headlines-beyond-expo-floor-ai-opens-new-frontiers-in-china-asean-cooperation)
+- [Xinhua Headlines: Beyond expo floor, AI opens new frontiers in China-ASEAN cooperation](http://www.thecambodianews.net/news/279313211/xinhua-headlines-beyond-expo-floor-ai-opens-new-frontiers-in-china-asean-cooperation)
+- [Xinhua Headlines: Beyond expo floor, AI opens new frontiers in China-ASEAN cooperation](http://www.cambodiantimes.com/news/279313211/xinhua-headlines-beyond-expo-floor-ai-opens-new-frontiers-in-china-asean-cooperation)
+- [KDHE Awards $16M in RHTP Grants to Implement Emerging Healthcare Technologies](https://www.westernkansasnews.com/kdhe-awards-16m-in-rhtp-grants-to-implement-emerging-healthcare-technologies/)
+- [Cumbre EE. UU.-China: gran despliegue diplomático frente a bajas expectativas de acuerdos](https://www.elfinancierocr.com/internacionales/cumbre-ee-uu-china-gran-despliegue-diplomatico/VFC5TOTIABEA3CWFIQHAIVIRNE/story/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
