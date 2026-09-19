@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Xinhua Headlines: Beyond expo floor, AI opens new frontiers in China-ASEAN cooperation](http://www.malaysiasun.com/news/279313211/xinhua-headlines-beyond-expo-floor-ai-opens-new-frontiers-in-china-asean-cooperation)
-- [Xinhua Headlines: Beyond expo floor, AI opens new frontiers in China-ASEAN cooperation](http://www.thecambodianews.net/news/279313211/xinhua-headlines-beyond-expo-floor-ai-opens-new-frontiers-in-china-asean-cooperation)
-- [Xinhua Headlines: Beyond expo floor, AI opens new frontiers in China-ASEAN cooperation](http://www.cambodiantimes.com/news/279313211/xinhua-headlines-beyond-expo-floor-ai-opens-new-frontiers-in-china-asean-cooperation)
-- [KDHE Awards $16M in RHTP Grants to Implement Emerging Healthcare Technologies](https://www.westernkansasnews.com/kdhe-awards-16m-in-rhtp-grants-to-implement-emerging-healthcare-technologies/)
-- [Cumbre EE. UU.-China: gran despliegue diplomático frente a bajas expectativas de acuerdos](https://www.elfinancierocr.com/internacionales/cumbre-ee-uu-china-gran-despliegue-diplomatico/VFC5TOTIABEA3CWFIQHAIVIRNE/story/)
+- [Here’s Why the Strategy Exits Boston Omaha Corp. (BOC)](https://biztoc.com/x/5d1fbdfa25fbe87c)
+- [Parents divided over AI in school](https://jamaica-star.com/article/news/20260918/parents-divided-over-ai-school)
+- [How One Search Finds Your Next Favorite Restaurant](https://goplacesdigital.com/how-one-search-finds-your-next-favorite-restaurant/)
+- [NYT Says Microsoft and OpenAI Knew Content Use Constituted Theft](https://axadletimes.com/ax-world/nyt-says-microsoft-openai-knew-content-use-constit.html5)
+- [Mousiouttas stresses need for vocational training in workforce](https://cyprus-mail.com/2026/09/18/mousiouttas-stresses-need-for-vocational-training-in-workforce)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
