@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Here’s Why the Strategy Exits Boston Omaha Corp. (BOC)](https://biztoc.com/x/5d1fbdfa25fbe87c)
-- [Parents divided over AI in school](https://jamaica-star.com/article/news/20260918/parents-divided-over-ai-school)
-- [How One Search Finds Your Next Favorite Restaurant](https://goplacesdigital.com/how-one-search-finds-your-next-favorite-restaurant/)
-- [NYT Says Microsoft and OpenAI Knew Content Use Constituted Theft](https://axadletimes.com/ax-world/nyt-says-microsoft-openai-knew-content-use-constit.html5)
-- [Mousiouttas stresses need for vocational training in workforce](https://cyprus-mail.com/2026/09/18/mousiouttas-stresses-need-for-vocational-training-in-workforce)
+- [Anthropic IPO: 1 Key Lesson Investors Can Learn From SpaceX](https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-1-key-lesson-153000984.html)
+- [Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron](https://www.fool.com/investing/2026/09/19/better-artificial-intelligence-ai-stock-pick-for-2/)
+- [Viet Nam affirms safe, peaceful development of nuclear energy](https://en.nhandan.vn/viet-nam-affirms-safe-peaceful-development-of-nuclear-energy-post166815.html)
+- [Telangana: Character, Integrity Key To Success, Says TI India MD](https://www.deccanchronicle.com/southern-states/telangana/telangana-character-integrity-key-to-success-says-ti-india-md-1988820)
+- [African curriculum experts to tackle AI challenge](https://www.thecitizen.co.tz/tanzania/news/national/african-curriculum-experts-to-tackle-ai-challenge-5601428)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
