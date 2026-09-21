@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Anthropic IPO: 1 Key Lesson Investors Can Learn From SpaceX](https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-1-key-lesson-153000984.html)
-- [Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron](https://www.fool.com/investing/2026/09/19/better-artificial-intelligence-ai-stock-pick-for-2/)
-- [Viet Nam affirms safe, peaceful development of nuclear energy](https://en.nhandan.vn/viet-nam-affirms-safe-peaceful-development-of-nuclear-energy-post166815.html)
-- [Telangana: Character, Integrity Key To Success, Says TI India MD](https://www.deccanchronicle.com/southern-states/telangana/telangana-character-integrity-key-to-success-says-ti-india-md-1988820)
-- [African curriculum experts to tackle AI challenge](https://www.thecitizen.co.tz/tanzania/news/national/african-curriculum-experts-to-tackle-ai-challenge-5601428)
+- [California Politics 360 full episode | Financial troubles ahead for CA high-speed rail](https://www.kcra.com/article/california-politics-360-full-episode-september-20/73796642)
+- [How will California's new law restricting social media for kids work? | CA Politics 360](https://www.kcra.com/article/how-will-californias-new-law-restricting-social-media-for-kids-work-ca-politics-360/73795385)
+- [Apple's new CEO reveals how AI will change your life](https://biztoc.com/x/7915ab09f01be860)
+- [Simon Harris backs consideration of Canada joining Erasmus programme](https://extra.ie/2026/09/20/news/harris-canada-erasmus-programme)
+- [AP Business SummaryBrief at 11:20 a.m. EDT](https://www.rutlandherald.com/news/business/ap-business-summarybrief-at-11-20-a-m-edt/article_03747789-45e7-55dd-b3e2-0a50370ef093.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
