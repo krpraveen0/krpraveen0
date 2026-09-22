@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [California Politics 360 full episode | Financial troubles ahead for CA high-speed rail](https://www.kcra.com/article/california-politics-360-full-episode-september-20/73796642)
-- [How will California's new law restricting social media for kids work? | CA Politics 360](https://www.kcra.com/article/how-will-californias-new-law-restricting-social-media-for-kids-work-ca-politics-360/73795385)
-- [Apple's new CEO reveals how AI will change your life](https://biztoc.com/x/7915ab09f01be860)
-- [Simon Harris backs consideration of Canada joining Erasmus programme](https://extra.ie/2026/09/20/news/harris-canada-erasmus-programme)
-- [AP Business SummaryBrief at 11:20 a.m. EDT](https://www.rutlandherald.com/news/business/ap-business-summarybrief-at-11-20-a-m-edt/article_03747789-45e7-55dd-b3e2-0a50370ef093.html)
+- [Trump, yapay zeka için yeni bir güç kuruyor: AI Force geliyor](https://www.donanimhaber.com/trump-yapay-zeka-icin-yeni-bir-guc-kuruyor-ai-force-geliyor--210725)
+- [Ideagen extends run of Verdantix Green Quadrant Leader positions with 2026 EHS Software recognition](https://www.finanznachrichten.de/nachrichten-2026-09/69635285-ideagen-extends-run-of-verdantix-green-quadrant-leader-positions-with-2026-ehs-software-recognition-004.htm)
+- [3 media outlets sue Trump admin. over ban on White House coverage: 'This threatens press freedom'](https://www.nbcnews.com/video/3-media-outlets-sue-trump-administration-over-ban-on-white-house-coverage-270222405511)
+- [Ideagen extends run of Verdantix Green Quadrant Leader positions with 2026 EHS Software recognition](https://www.hastingstribune.com/ap/business/ideagen-extends-run-of-verdantix-green-quadrant-leader-positions-with-2026-ehs-software-recognition/article_b1ff74ff-f181-5328-a448-ee4a1e30af6a.html)
+- [Ideagen extends run of Verdantix Green Quadrant Leader positions with 2026 EHS Software recognition](https://www.postregister.com/businessreport/healthcare/ideagen-extends-run-of-verdantix-green-quadrant-leader-positions-with-2026-ehs-software-recognition/article_9c3a37f3-a302-5a1d-870c-fdbfdd85a256.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
