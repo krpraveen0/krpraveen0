@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Trump, yapay zeka için yeni bir güç kuruyor: AI Force geliyor](https://www.donanimhaber.com/trump-yapay-zeka-icin-yeni-bir-guc-kuruyor-ai-force-geliyor--210725)
-- [Ideagen extends run of Verdantix Green Quadrant Leader positions with 2026 EHS Software recognition](https://www.finanznachrichten.de/nachrichten-2026-09/69635285-ideagen-extends-run-of-verdantix-green-quadrant-leader-positions-with-2026-ehs-software-recognition-004.htm)
-- [3 media outlets sue Trump admin. over ban on White House coverage: 'This threatens press freedom'](https://www.nbcnews.com/video/3-media-outlets-sue-trump-administration-over-ban-on-white-house-coverage-270222405511)
-- [Ideagen extends run of Verdantix Green Quadrant Leader positions with 2026 EHS Software recognition](https://www.hastingstribune.com/ap/business/ideagen-extends-run-of-verdantix-green-quadrant-leader-positions-with-2026-ehs-software-recognition/article_b1ff74ff-f181-5328-a448-ee4a1e30af6a.html)
-- [Ideagen extends run of Verdantix Green Quadrant Leader positions with 2026 EHS Software recognition](https://www.postregister.com/businessreport/healthcare/ideagen-extends-run-of-verdantix-green-quadrant-leader-positions-with-2026-ehs-software-recognition/article_9c3a37f3-a302-5a1d-870c-fdbfdd85a256.html)
+- [Counterfeit currency syndicates used churches to hide printing operations – National Security Council Secretariat](https://www.myjoyonline.com/counterfeit-currency-syndicates-used-churches-to-hide-printing-operations-national-security-council-secretariat/)
+- [TD Cowen Reaffirms Hold Rating for Endava (NYSE:DAVA)](https://www.themarketsdaily.com/2026/09/22/td-cowen-reaffirms-hold-rating-for-endava-nysedava.html)
+- [Netanyahu blasts Mamdani on social media ahead of visit to New York for UN](https://us.headtopics.com/news/netanyahu-blasts-mamdani-on-social-media-ahead-of-visit-to-88016914)
+- [Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs with new devices](https://www.thenews.com.pk/latest/1417213-apple-aims-to-take-on-microsoft-nvidia-in-a-rush-to-lower-ai-costs-with-new-devices)
+- [US weighs ‘red phone’ hotline with China ahead of Trump-Xi meet amid AI security risks: Report](https://timesofindia.indiatimes.com/world/us/us-weighs-red-phone-hotline-with-china-ahead-of-trump-xi-meet-amid-ai-security-risks-report/articleshow/134415536.cms)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
