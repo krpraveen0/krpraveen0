@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Counterfeit currency syndicates used churches to hide printing operations – National Security Council Secretariat](https://www.myjoyonline.com/counterfeit-currency-syndicates-used-churches-to-hide-printing-operations-national-security-council-secretariat/)
-- [TD Cowen Reaffirms Hold Rating for Endava (NYSE:DAVA)](https://www.themarketsdaily.com/2026/09/22/td-cowen-reaffirms-hold-rating-for-endava-nysedava.html)
-- [Netanyahu blasts Mamdani on social media ahead of visit to New York for UN](https://us.headtopics.com/news/netanyahu-blasts-mamdani-on-social-media-ahead-of-visit-to-88016914)
-- [Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs with new devices](https://www.thenews.com.pk/latest/1417213-apple-aims-to-take-on-microsoft-nvidia-in-a-rush-to-lower-ai-costs-with-new-devices)
-- [US weighs ‘red phone’ hotline with China ahead of Trump-Xi meet amid AI security risks: Report](https://timesofindia.indiatimes.com/world/us/us-weighs-red-phone-hotline-with-china-ahead-of-trump-xi-meet-amid-ai-security-risks-report/articleshow/134415536.cms)
+- [Toronto tech conference Elevate rebrands to Nrth, has plans to expand](https://www.castanetkamloops.net/news/Business/632135/Toronto-tech-conference-Elevate-rebrands-to-Nrth-has-plans-to-expand)
+- [Glasgow symposium to explore hidden ethical implications and impacts of AI](https://www.glasgowtimes.co.uk/news/26576340.glasgow-symposium-explore-ai-ethics-social-impact/)
+- [Proposed Google Deal Could Add 96 Megawatts to Georgia Power's Nuclear Fleet, With $900M in Projected Customer Benefits](https://hoodline.com/2026/09/proposed-google-deal-could-add-96-megawatts-to-georgia-power-s-nuclear-fleet-with-900m-in-projected-customer-benefits/)
+- [Xi heads into Trump visit after making China into a global force since 2015](https://www.dailypress.com/2026/09/23/trump-xi-then-and-now/)
+- [Xi heads into Trump visit after making China into a global force since 2015](https://www.news-herald.com/2026/09/23/trump-xi-then-and-now/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
