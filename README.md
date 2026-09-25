@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Toronto tech conference Elevate rebrands to Nrth, has plans to expand](https://www.castanetkamloops.net/news/Business/632135/Toronto-tech-conference-Elevate-rebrands-to-Nrth-has-plans-to-expand)
-- [Glasgow symposium to explore hidden ethical implications and impacts of AI](https://www.glasgowtimes.co.uk/news/26576340.glasgow-symposium-explore-ai-ethics-social-impact/)
-- [Proposed Google Deal Could Add 96 Megawatts to Georgia Power's Nuclear Fleet, With $900M in Projected Customer Benefits](https://hoodline.com/2026/09/proposed-google-deal-could-add-96-megawatts-to-georgia-power-s-nuclear-fleet-with-900m-in-projected-customer-benefits/)
-- [Xi heads into Trump visit after making China into a global force since 2015](https://www.dailypress.com/2026/09/23/trump-xi-then-and-now/)
-- [Xi heads into Trump visit after making China into a global force since 2015](https://www.news-herald.com/2026/09/23/trump-xi-then-and-now/)
+- [Danette Mitchell: What narcissism means to Campaign 2026](https://www.thereporter.com/2026/09/24/danette-mitchell-what-narcissism-means-to-campaign-2026/)
+- [Danette Mitchell: What narcissism means to Campaign 2026](https://www.timesheraldonline.com/2026/09/24/danette-mitchell-what-narcissism-means-to-campaign-2026/)
+- [Nick Clegg calls the EU AI Act a ‘dog’s dinner’ built before ChatGPT](https://thenextweb.com/news/nick-clegg-ai-labs-marking-own-homework-eu-ai-act-humanx)
+- [From Construction Worker to Best Graduating Computer Engineering Student at Legon with the MTN Bright Scholarship](https://dailyguidenetwork.com/from-construction-worker-to-best-graduating-computer-engineering-student-at-legon-with-the-mtn-bright-scholarship/)
+- [Trump hails ‘great friendship’ with Chinese president as state visit begins](https://www.irishtimes.com/world/us/2026/09/24/trump-hails-great-friendship-with-chinese-president-as-state-visit-begins/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
