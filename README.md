@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Danette Mitchell: What narcissism means to Campaign 2026](https://www.thereporter.com/2026/09/24/danette-mitchell-what-narcissism-means-to-campaign-2026/)
-- [Danette Mitchell: What narcissism means to Campaign 2026](https://www.timesheraldonline.com/2026/09/24/danette-mitchell-what-narcissism-means-to-campaign-2026/)
-- [Nick Clegg calls the EU AI Act a ‘dog’s dinner’ built before ChatGPT](https://thenextweb.com/news/nick-clegg-ai-labs-marking-own-homework-eu-ai-act-humanx)
-- [From Construction Worker to Best Graduating Computer Engineering Student at Legon with the MTN Bright Scholarship](https://dailyguidenetwork.com/from-construction-worker-to-best-graduating-computer-engineering-student-at-legon-with-the-mtn-bright-scholarship/)
-- [Trump hails ‘great friendship’ with Chinese president as state visit begins](https://www.irishtimes.com/world/us/2026/09/24/trump-hails-great-friendship-with-chinese-president-as-state-visit-begins/)
+- [트럼프 "시진핑도 AI 대신 SI(초지능) 명칭 좋아하는 듯"](http://www.newspim.com/news/view/20260926000002)
+- [Brightray signs non-binding framework for Macao data center](https://www.investing.com/news/company-news/brightray-signs-nonbinding-framework-for-macao-data-center-93CH-4917830)
+- [Goldman Sachs Projects Big Tech AI Infrastructure Spending to Hit $1.2 Trillion in 2027](https://www.pymnts.com/big-tech/2026/goldman-sachs-projects-big-tech-ai-infrastructure-spending-to-hit-1-2-trillion-in-2027/)
+- [Mayo Clinic AI Model Predicts Pancreatic Cancer Risk Years Before Diagnosis](https://investingnews.com/ai-predicts-pancreatic-cancer-risk/)
+- [U.S.-China reach new trade deal](https://news.kbs.co.kr/news/view.do?ncd=8671760)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
