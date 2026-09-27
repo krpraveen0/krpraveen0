@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [트럼프 "시진핑도 AI 대신 SI(초지능) 명칭 좋아하는 듯"](http://www.newspim.com/news/view/20260926000002)
-- [Brightray signs non-binding framework for Macao data center](https://www.investing.com/news/company-news/brightray-signs-nonbinding-framework-for-macao-data-center-93CH-4917830)
-- [Goldman Sachs Projects Big Tech AI Infrastructure Spending to Hit $1.2 Trillion in 2027](https://www.pymnts.com/big-tech/2026/goldman-sachs-projects-big-tech-ai-infrastructure-spending-to-hit-1-2-trillion-in-2027/)
-- [Mayo Clinic AI Model Predicts Pancreatic Cancer Risk Years Before Diagnosis](https://investingnews.com/ai-predicts-pancreatic-cancer-risk/)
-- [U.S.-China reach new trade deal](https://news.kbs.co.kr/news/view.do?ncd=8671760)
+- [Despite AI, personalisation and human touch will remain central to tourism experiences, say speakers at KTM 2026](https://www.thehindu.com/news/national/kerala/despite-ai-personalisation-and-human-touch-will-remain-central-to-tourism-experiences-say-speakers-at-ktm-2026/article71513382.ece)
+- [J&K must reorient medicine for AI, genomics and biotechnology era: Jitendra Singh](https://www.thestatesman.com/india/jk-must-reorient-medicine-for-ai-genomics-and-biotechnology-era-jitendra-singh-1503643426.html)
+- [La sporca verità dei data center, le emissioni non fanno che crescere](https://www.tomshw.it/business/la-sporca-verita-dei-data-center-le-emissioni-non-fanno-che-crescere)
+- [Author Accused of Using AI to Write Book Removed from French Prize List](https://summitpostnews.com/author-accused-of-using-ai-to-write-book-removed-from-french-prize-list/)
+- [Bengaluru AI Camera Mistakes Guitar Bag For Pillion Rider, Issues Rs 500 Helmet Fine](https://www.etvbharat.com/en/state/bengaluru-ai-camera-mistakes-guitar-bag-for-pillion-rider-issues-rs-500-helmet-fine-enn26092604725)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
