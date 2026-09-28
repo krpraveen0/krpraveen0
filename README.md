@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Despite AI, personalisation and human touch will remain central to tourism experiences, say speakers at KTM 2026](https://www.thehindu.com/news/national/kerala/despite-ai-personalisation-and-human-touch-will-remain-central-to-tourism-experiences-say-speakers-at-ktm-2026/article71513382.ece)
-- [J&K must reorient medicine for AI, genomics and biotechnology era: Jitendra Singh](https://www.thestatesman.com/india/jk-must-reorient-medicine-for-ai-genomics-and-biotechnology-era-jitendra-singh-1503643426.html)
-- [La sporca verità dei data center, le emissioni non fanno che crescere](https://www.tomshw.it/business/la-sporca-verita-dei-data-center-le-emissioni-non-fanno-che-crescere)
-- [Author Accused of Using AI to Write Book Removed from French Prize List](https://summitpostnews.com/author-accused-of-using-ai-to-write-book-removed-from-french-prize-list/)
-- [Bengaluru AI Camera Mistakes Guitar Bag For Pillion Rider, Issues Rs 500 Helmet Fine](https://www.etvbharat.com/en/state/bengaluru-ai-camera-mistakes-guitar-bag-for-pillion-rider-issues-rs-500-helmet-fine-enn26092604725)
+- [Bucknell professors review AI's impact](https://www.dailyitem.com/news/bucknell-professors-review-ais-impact/article_574a0335-b681-47e0-855e-396b6d8c031e.html)
+- [Ethnic violence hit tourism in Manipur, tourist inflow declined drastically: CM](https://www.prokerala.com/news/articles/a1817474.html)
+- [BAPLC proposes 2026-30 roadmap to strengthen capital market](https://www.tbsnews.net/economy/stocks/baplc-proposes-2026-30-roadmap-strengthen-capital-market-1555561)
+- ["China Border Stable, Won't Let Guard Down With Pak": Defence Chief To NDTV](https://www.ndtv.com/india-news/ndtv-defence-summit-ns-raja-subramani-china-border-stable-wont-let-guard-down-with-pak-defence-chief-to-ndtv-12106036)
+- [Beware AI-Generated Scams](https://us.headtopics.com/news/beware-ai-generated-scams-88195400)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
