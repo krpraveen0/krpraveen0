@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Bucknell professors review AI's impact](https://www.dailyitem.com/news/bucknell-professors-review-ais-impact/article_574a0335-b681-47e0-855e-396b6d8c031e.html)
-- [Ethnic violence hit tourism in Manipur, tourist inflow declined drastically: CM](https://www.prokerala.com/news/articles/a1817474.html)
-- [BAPLC proposes 2026-30 roadmap to strengthen capital market](https://www.tbsnews.net/economy/stocks/baplc-proposes-2026-30-roadmap-strengthen-capital-market-1555561)
-- ["China Border Stable, Won't Let Guard Down With Pak": Defence Chief To NDTV](https://www.ndtv.com/india-news/ndtv-defence-summit-ns-raja-subramani-china-border-stable-wont-let-guard-down-with-pak-defence-chief-to-ndtv-12106036)
-- [Beware AI-Generated Scams](https://us.headtopics.com/news/beware-ai-generated-scams-88195400)
+- [Universal Music Group Names Òscar Celma Senior VP of Applied AI and Machine Learning](https://us.headtopics.com/news/universal-music-group-names-oscar-celma-senior-vp-of-88230755)
+- [The Global Tissue Heart Valves Market Size to Register Sustainable Growth at a CAGR of ~10.08% by 2034 | DelveInsight](https://www.openpr.com/news/4646391/the-global-tissue-heart-valves-market-size-to-register)
+- [New study links glucosamine use to the progression of dementia and Alzheimer’s: what we know](https://www.merca20.com/new-study-links-glucosamine-use-to-the-progression-of-dementia-and-alzheimers-what-we-know/)
+- [Autonomous Vehicle Market to Reach USD 2,208.2 Billion by 2036, Driven by AI Advancements and Road Safety Initiatives at 25% CAGR](https://www.openpr.com/news/4646390/autonomous-vehicle-market-to-reach-usd-2-208-2-billion-by-2036)
+- [AI powers Korean fencing](https://news.kbs.co.kr/news/view.do?ncd=8673270)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
