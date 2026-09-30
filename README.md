@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Universal Music Group Names Òscar Celma Senior VP of Applied AI and Machine Learning](https://us.headtopics.com/news/universal-music-group-names-oscar-celma-senior-vp-of-88230755)
-- [The Global Tissue Heart Valves Market Size to Register Sustainable Growth at a CAGR of ~10.08% by 2034 | DelveInsight](https://www.openpr.com/news/4646391/the-global-tissue-heart-valves-market-size-to-register)
-- [New study links glucosamine use to the progression of dementia and Alzheimer’s: what we know](https://www.merca20.com/new-study-links-glucosamine-use-to-the-progression-of-dementia-and-alzheimers-what-we-know/)
-- [Autonomous Vehicle Market to Reach USD 2,208.2 Billion by 2036, Driven by AI Advancements and Road Safety Initiatives at 25% CAGR](https://www.openpr.com/news/4646390/autonomous-vehicle-market-to-reach-usd-2-208-2-billion-by-2036)
-- [AI powers Korean fencing](https://news.kbs.co.kr/news/view.do?ncd=8673270)
+- [Gordon Johncock, a two-time winner of the Indianapolis 500, dies at 90](https://us.headtopics.com/news/gordon-johncock-a-two-time-winner-of-the-indianapolis-500-88270379)
+- [Smart ring maker Oura puts off initial public offering due to market 'uncertainty'](https://us.headtopics.com/news/smart-ring-maker-oura-puts-off-initial-public-offering-due-88270368)
+- [Is AI above the law? Historian Jill Lepore says it is](https://www.wbur.org/hereandnow/2026/09/29/ai-regulation-jill-lepore)
+- [Treasury Yields Keep Climbing. The 30-Year Note Just Hit The Highest Level In Over 20 Years.](https://www.ibtimes.com/treasury-yields-keep-climbing-30-year-note-just-hit-highest-level-over-20-years-3808010)
+- [Automotive Stocks To Watch Today – September 29th](https://www.watchlistnews.com/automotive-stocks-to-watch-today-september-29th/11242307.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
