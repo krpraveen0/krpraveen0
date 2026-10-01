@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 7.1 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 7.2 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Gordon Johncock, a two-time winner of the Indianapolis 500, dies at 90](https://us.headtopics.com/news/gordon-johncock-a-two-time-winner-of-the-indianapolis-500-88270379)
-- [Smart ring maker Oura puts off initial public offering due to market 'uncertainty'](https://us.headtopics.com/news/smart-ring-maker-oura-puts-off-initial-public-offering-due-88270368)
-- [Is AI above the law? Historian Jill Lepore says it is](https://www.wbur.org/hereandnow/2026/09/29/ai-regulation-jill-lepore)
-- [Treasury Yields Keep Climbing. The 30-Year Note Just Hit The Highest Level In Over 20 Years.](https://www.ibtimes.com/treasury-yields-keep-climbing-30-year-note-just-hit-highest-level-over-20-years-3808010)
-- [Automotive Stocks To Watch Today – September 29th](https://www.watchlistnews.com/automotive-stocks-to-watch-today-september-29th/11242307.html)
+- [A Blatant Giveaway to Big Oil and Big Tech: Oil Change International Opposes Potential Permitting Bill](https://us.headtopics.com/news/a-blatant-giveaway-to-big-oil-and-big-tech-oil-change-88310917)
+- [Apple is preparing to launch its next big entirely new product, report says](https://www.independent.co.uk/tech/apple-home-new-product-siri-iphone-b3059222.html)
+- [La IA y la democratización del daño](https://www.elliberal.com.ar/nota/93299/2026/09/la-ia-y-la-democratizacion-del-dano)
+- [The Nuclear Innovation Campus should embrace the full nuclear fuel cycle](https://www.postregister.com/psa/the-nuclear-innovation-campus-should-embrace-the-full-nuclear-fuel-cycle/article_28559127-c4d7-4352-9924-c0868319a08e.html)
+- [Anak Bakar Rumah Ayah Kandung di Cianjur, Pelaku Positif Benzodiazepine](https://mediaindonesia.com/jabar/berita/939429/anak-bakar-rumah-ayah-kandung-di-cianjur-pelaku-positif-benzodiazepine)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
