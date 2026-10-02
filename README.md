@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [A Blatant Giveaway to Big Oil and Big Tech: Oil Change International Opposes Potential Permitting Bill](https://us.headtopics.com/news/a-blatant-giveaway-to-big-oil-and-big-tech-oil-change-88310917)
-- [Apple is preparing to launch its next big entirely new product, report says](https://www.independent.co.uk/tech/apple-home-new-product-siri-iphone-b3059222.html)
-- [La IA y la democratización del daño](https://www.elliberal.com.ar/nota/93299/2026/09/la-ia-y-la-democratizacion-del-dano)
-- [The Nuclear Innovation Campus should embrace the full nuclear fuel cycle](https://www.postregister.com/psa/the-nuclear-innovation-campus-should-embrace-the-full-nuclear-fuel-cycle/article_28559127-c4d7-4352-9924-c0868319a08e.html)
-- [Anak Bakar Rumah Ayah Kandung di Cianjur, Pelaku Positif Benzodiazepine](https://mediaindonesia.com/jabar/berita/939429/anak-bakar-rumah-ayah-kandung-di-cianjur-pelaku-positif-benzodiazepine)
+- [Bridging the inequality divide](https://www.manilatimes.net/2026/10/02/opinion/editorial/bridging-the-inequality-divide/2437315)
+- [Global Smart Biomanufacturing and Automation Platforms Market Forecast 2026-2031 | AI-Led Bioprocessing Drives 13.3% CAGR and US$11.6 Billion Opportunity](https://www.globenewswire.com/fr/news-release/2026/10/01/3373237/28124/en/global-smart-biomanufacturing-and-automation-platforms-market-forecast-2026-2031-ai-led-bioprocessing-drives-13-3-cagr-and-us-11-6-billion-opportunity.html)
+- [QinetiQ Group (LON:QQ) Stock: Insider Steve Wadey Sells 103,945 Shares](https://www.dailypolitical.com/2026/10/01/qinetiq-group-lonqq-stock-insider-steve-wadey-sells-103945-shares.html)
+- [QinetiQ Group (LON:QQ) Insider Steve Wadey Sells 103,945 Shares of Stock](https://zolmax.com/investing/qinetiq-group-lonqq-insider-steve-wadey-sells-103945-shares-of-stock/12015321.html)
+- [Former LinkedIn chief Roslansky to leave Microsoft, following other exec departures](https://www.cnbc.com/2026/10/01/linkedin-chief-roslansky-microsoft-exit.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
