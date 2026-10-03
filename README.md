@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Bridging the inequality divide](https://www.manilatimes.net/2026/10/02/opinion/editorial/bridging-the-inequality-divide/2437315)
-- [Global Smart Biomanufacturing and Automation Platforms Market Forecast 2026-2031 | AI-Led Bioprocessing Drives 13.3% CAGR and US$11.6 Billion Opportunity](https://www.globenewswire.com/fr/news-release/2026/10/01/3373237/28124/en/global-smart-biomanufacturing-and-automation-platforms-market-forecast-2026-2031-ai-led-bioprocessing-drives-13-3-cagr-and-us-11-6-billion-opportunity.html)
-- [QinetiQ Group (LON:QQ) Stock: Insider Steve Wadey Sells 103,945 Shares](https://www.dailypolitical.com/2026/10/01/qinetiq-group-lonqq-stock-insider-steve-wadey-sells-103945-shares.html)
-- [QinetiQ Group (LON:QQ) Insider Steve Wadey Sells 103,945 Shares of Stock](https://zolmax.com/investing/qinetiq-group-lonqq-insider-steve-wadey-sells-103945-shares-of-stock/12015321.html)
-- [Former LinkedIn chief Roslansky to leave Microsoft, following other exec departures](https://www.cnbc.com/2026/10/01/linkedin-chief-roslansky-microsoft-exit.html)
+- [Amazon Pledges $1 Billion Over 5 Years For Data Center Towns Amid Backlash Over AI Boom](https://www.republicworld.com/business/amazon-pledges-1-billion-over-5-years-for-data-center-towns-amid-backlash-over-ai-boom-2026-10-02-138168)
+- [Trump Gandeng CEO Teknologi, Sepakati Pengawasan Keamanan AI](https://batampos.jawapos.com/internasional/2610020056/trump-gandeng-ceo-teknologi-sepakati-pengawasan-keamanan-ai)
+- [AI has finally entered the election campaign arena](https://www.rnz.co.nz/news/politics_election-2026/1687427/ai-has-finally-entered-the-election-campaign-arena)
+- [Cohu stock hits all-time high at 74.69 USD](https://au.investing.com/news/stock-market-news/cohu-stock-hits-alltime-high-at-7469-usd-93CH-4670880)
+- [Cohu stock hits all-time high at 74.69 USD](https://ca.investing.com/news/stock-market-news/cohu-stock-hits-alltime-high-at-7469-usd-93CH-4864420)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
