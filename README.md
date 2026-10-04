@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Amazon Pledges $1 Billion Over 5 Years For Data Center Towns Amid Backlash Over AI Boom](https://www.republicworld.com/business/amazon-pledges-1-billion-over-5-years-for-data-center-towns-amid-backlash-over-ai-boom-2026-10-02-138168)
-- [Trump Gandeng CEO Teknologi, Sepakati Pengawasan Keamanan AI](https://batampos.jawapos.com/internasional/2610020056/trump-gandeng-ceo-teknologi-sepakati-pengawasan-keamanan-ai)
-- [AI has finally entered the election campaign arena](https://www.rnz.co.nz/news/politics_election-2026/1687427/ai-has-finally-entered-the-election-campaign-arena)
-- [Cohu stock hits all-time high at 74.69 USD](https://au.investing.com/news/stock-market-news/cohu-stock-hits-alltime-high-at-7469-usd-93CH-4670880)
-- [Cohu stock hits all-time high at 74.69 USD](https://ca.investing.com/news/stock-market-news/cohu-stock-hits-alltime-high-at-7469-usd-93CH-4864420)
+- [⛈️ Flood risk in Barcelona: Barça v Real Madrid in doubt](https://sports.yahoo.com/articles/flood-risk-barcelona-bar-v-162400569.html)
+- [Nvidia shares approach record high as AI optimism revives investor demand](https://www.businesstoday.in/markets/stocks/story/nvidia-shares-approach-record-high-as-ai-optimism-revives-investor-demand-559348-2026-10-03)
+- [With Shares Down 41% This Year, Could Buying SoundHound AI (SOUN) Stock Today Set You Up for Life?](https://www.fool.com/investing/2026/10/03/could-buying-soundhound-ai-today-set-you-up-for/)
+- [Regulatory frameworks need to evolve with rapidly changing environment: NITI Aayog’s Rajiv Gauba](https://www.thehansindia.com/news/cities/new-delhi/regulatory-frameworks-need-to-evolve-with-rapidly-changing-environment-niti-aayogs-rajiv-gauba-1128464)
+- [Yazid Ayche : Inside the Mind of the Next Generation of Finance — Building an AI-Driven Future](https://techbullion.com/yazid-ayche-inside-the-mind-of-the-next-generation-of-finance-building-an-ai-driven-future/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
