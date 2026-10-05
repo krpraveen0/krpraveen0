@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [⛈️ Flood risk in Barcelona: Barça v Real Madrid in doubt](https://sports.yahoo.com/articles/flood-risk-barcelona-bar-v-162400569.html)
-- [Nvidia shares approach record high as AI optimism revives investor demand](https://www.businesstoday.in/markets/stocks/story/nvidia-shares-approach-record-high-as-ai-optimism-revives-investor-demand-559348-2026-10-03)
-- [With Shares Down 41% This Year, Could Buying SoundHound AI (SOUN) Stock Today Set You Up for Life?](https://www.fool.com/investing/2026/10/03/could-buying-soundhound-ai-today-set-you-up-for/)
-- [Regulatory frameworks need to evolve with rapidly changing environment: NITI Aayog’s Rajiv Gauba](https://www.thehansindia.com/news/cities/new-delhi/regulatory-frameworks-need-to-evolve-with-rapidly-changing-environment-niti-aayogs-rajiv-gauba-1128464)
-- [Yazid Ayche : Inside the Mind of the Next Generation of Finance — Building an AI-Driven Future](https://techbullion.com/yazid-ayche-inside-the-mind-of-the-next-generation-of-finance-building-an-ai-driven-future/)
+- [Despair over future fuels political anxiety for college students on the cusp of adulthood](https://www.journal-news.net/news/education/level/higher_education/despair-over-future-fuels-political-anxiety-for-college-students-on-the-cusp-of-adulthood/article_0cbbd50c-cc9b-5f24-950c-2f5b99b68c44.html)
+- [Kim oversaw launch of AI-powered missile](https://www.manilatimes.net/2026/10/05/world/asia-oceania/kim-oversaw-launch-of-ai-powered-missile/2438556)
+- [How NFL Next Gen Stats And AI Are Learning The Running Game](https://sports.yahoo.com/articles/nfl-next-gen-stats-ai-160836799.html)
+- [Former FTC Chair Khan dismisses 'constitution' signed by AI leaders to self-police](https://abcnews.com/Politics/former-ftc-chair-khan-dismisses-constitution-signed-ai/story?id=136984695)
+- [Concepcion calls for inclusive prosperity at Australia-Asean Business Forum](https://www.manilatimes.net/2026/10/05/legal-advice/concepcion-calls-for-inclusive-prosperity-at-australia-asean-business-forum/2438564)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
