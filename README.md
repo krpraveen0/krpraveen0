@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Despair over future fuels political anxiety for college students on the cusp of adulthood](https://www.journal-news.net/news/education/level/higher_education/despair-over-future-fuels-political-anxiety-for-college-students-on-the-cusp-of-adulthood/article_0cbbd50c-cc9b-5f24-950c-2f5b99b68c44.html)
-- [Kim oversaw launch of AI-powered missile](https://www.manilatimes.net/2026/10/05/world/asia-oceania/kim-oversaw-launch-of-ai-powered-missile/2438556)
-- [How NFL Next Gen Stats And AI Are Learning The Running Game](https://sports.yahoo.com/articles/nfl-next-gen-stats-ai-160836799.html)
-- [Former FTC Chair Khan dismisses 'constitution' signed by AI leaders to self-police](https://abcnews.com/Politics/former-ftc-chair-khan-dismisses-constitution-signed-ai/story?id=136984695)
-- [Concepcion calls for inclusive prosperity at Australia-Asean Business Forum](https://www.manilatimes.net/2026/10/05/legal-advice/concepcion-calls-for-inclusive-prosperity-at-australia-asean-business-forum/2438564)
+- [Abela stresses peace and trust in institutions at UN, while Borg challenges government’s credibility](https://www.independent.com.mt/articles/2026-10-05/local-news/Abela-stresses-peace-and-trust-in-institutions-at-UN-while-Borg-challenges-government-s-credibility-6736293488)
+- [Sánchez calls snap election for 29 November after housing defeat](https://www.eureporter.co/world/spain/2026/10/05/sanchez-calls-snap-election-for-29-november-after-housing-defeat/)
+- [The Great Examination Comedy](https://thenorthlines.com/the-great-examination-comedy/)
+- [Braze (BRZE) – Analysts’ Recent Ratings Changes](https://www.americanbankingnews.com/2026/10/05/braze-brze-analysts-recent-ratings-changes.html)
+- [Russian tennis star Daniil Medvedev disqualified from Beijing semifinal against Novak Djokovic after hitting spectator in face with ball](https://meduza.io/en/news/2026/10/05/russian-tennis-star-daniil-medvedev-disqualified-from-beijing-semifinal-against-novak-djokovic-after-hitting-spectator-in-face-with-ball)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
