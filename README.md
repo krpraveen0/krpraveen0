@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Abela stresses peace and trust in institutions at UN, while Borg challenges government’s credibility](https://www.independent.com.mt/articles/2026-10-05/local-news/Abela-stresses-peace-and-trust-in-institutions-at-UN-while-Borg-challenges-government-s-credibility-6736293488)
-- [Sánchez calls snap election for 29 November after housing defeat](https://www.eureporter.co/world/spain/2026/10/05/sanchez-calls-snap-election-for-29-november-after-housing-defeat/)
-- [The Great Examination Comedy](https://thenorthlines.com/the-great-examination-comedy/)
-- [Braze (BRZE) – Analysts’ Recent Ratings Changes](https://www.americanbankingnews.com/2026/10/05/braze-brze-analysts-recent-ratings-changes.html)
-- [Russian tennis star Daniil Medvedev disqualified from Beijing semifinal against Novak Djokovic after hitting spectator in face with ball](https://meduza.io/en/news/2026/10/05/russian-tennis-star-daniil-medvedev-disqualified-from-beijing-semifinal-against-novak-djokovic-after-hitting-spectator-in-face-with-ball)
+- [National's proposed foreign aid cut could make NZ 'invisible' on world stage - expert](https://www.rnz.co.nz/news/politics_election-2026/1773292/national-s-proposed-foreign-aid-cut-could-make-nz-invisible-on-world-stage-expert)
+- [France’s Mistral says its Le Chonk AI model outperforms some Chinese rivals](https://biztoc.com/x/18111de570cbce58)
+- [Seattle bans AI-based grocery pricing in US first](https://www.kptv.com/2026/10/06/seattle-bans-ai-based-grocery-pricing-us-first/)
+- [AP News Summary at 12:23 p.m. EDT](https://kdhnews.com/news/nation/ap-news-summary-at-12-23-p-m-edt/article_13b333fb-aa33-5686-9cd7-6c53fe212de8.html)
+- [AI founders for hire: Startup hub Foundations launches service to connect businesses with builders](https://www.geekwire.com/2026/ai-founders-for-hire-startup-hub-foundations-launches-service-to-connect-businesses-with-builders/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
