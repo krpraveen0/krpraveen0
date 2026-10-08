@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [National's proposed foreign aid cut could make NZ 'invisible' on world stage - expert](https://www.rnz.co.nz/news/politics_election-2026/1773292/national-s-proposed-foreign-aid-cut-could-make-nz-invisible-on-world-stage-expert)
-- [France’s Mistral says its Le Chonk AI model outperforms some Chinese rivals](https://biztoc.com/x/18111de570cbce58)
-- [Seattle bans AI-based grocery pricing in US first](https://www.kptv.com/2026/10/06/seattle-bans-ai-based-grocery-pricing-us-first/)
-- [AP News Summary at 12:23 p.m. EDT](https://kdhnews.com/news/nation/ap-news-summary-at-12-23-p-m-edt/article_13b333fb-aa33-5686-9cd7-6c53fe212de8.html)
-- [AI founders for hire: Startup hub Foundations launches service to connect businesses with builders](https://www.geekwire.com/2026/ai-founders-for-hire-startup-hub-foundations-launches-service-to-connect-businesses-with-builders/)
+- [EXCLUSIVE-Priceline to face FTC action over deceptive hotel ads, sources say](https://www.devdiscourse.com/article/international/3988509-exclusive-priceline-to-face-ftc-action-over-deceptive-hotel-ads-sources-say)
+- [Top Senate Commerce Democrat releases six-point AI framework](https://www.washingtonexaminer.com/news/senate/4757201/top-senate-commerce-democrat-six-point-ai-framework/)
+- [Turning Ocean Data Into Impact: How AI, Trusted Data, and Partnerships Can Help Accelerate Sustainability](https://investingnews.com/turning-ocean-data-into-impact-how-ai-trusted-data-and-partnerships-can-help-accelerate-sustainability/)
+- [Book Bans Reach All-Time High, Fueled By AI](https://www.newsmax.com/newsfront/book-bans-ai-high/2026/10/07/id/1272004)
+- [The Latest: GOP fears grow that even $1 billion may not buy midterm victory](https://www.news-gazette.com/news/nation-world/the-latest-gop-fears-grow-that-even-1-billion-may-not-buy-midterm-victory/article_d9955831-680c-55d8-a2dc-853f2cb6354a.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
