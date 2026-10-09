@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [EXCLUSIVE-Priceline to face FTC action over deceptive hotel ads, sources say](https://www.devdiscourse.com/article/international/3988509-exclusive-priceline-to-face-ftc-action-over-deceptive-hotel-ads-sources-say)
-- [Top Senate Commerce Democrat releases six-point AI framework](https://www.washingtonexaminer.com/news/senate/4757201/top-senate-commerce-democrat-six-point-ai-framework/)
-- [Turning Ocean Data Into Impact: How AI, Trusted Data, and Partnerships Can Help Accelerate Sustainability](https://investingnews.com/turning-ocean-data-into-impact-how-ai-trusted-data-and-partnerships-can-help-accelerate-sustainability/)
-- [Book Bans Reach All-Time High, Fueled By AI](https://www.newsmax.com/newsfront/book-bans-ai-high/2026/10/07/id/1272004)
-- [The Latest: GOP fears grow that even $1 billion may not buy midterm victory](https://www.news-gazette.com/news/nation-world/the-latest-gop-fears-grow-that-even-1-billion-may-not-buy-midterm-victory/article_d9955831-680c-55d8-a2dc-853f2cb6354a.html)
+- [State Supreme Court questions attorney over AI-generated fake citations in parental rights appeal](https://www.wvnews.com/news/wvnews/state-supreme-court-questions-attorney-over-ai-generated-fake-citations-in-parental-rights-appeal/article_1b718a41-0e5f-4726-93fe-3a7db9fd709d.html)
+- [Why Ken Paxton’s Estranged Wife Is Making the Case for His Senate Campaign](https://freerepublic.com/focus/f-chat/4398424/posts)
+- [Jefferies names top MENA tech and telecom stocks amid fiscal shifts](https://au.investing.com/news/stock-market-news/jefferies-names-top-mena-tech-and-telecom-stocks-amid-fiscal-shifts-4680276)
+- [Tendinopathy Market Insights, Epidemiology, and Forecast - 2036 | Regenerative Therapies and Unmet Needs Drive 7MM Growth Opportunities](https://www.globenewswire.com/fr/news-release/2026/10/08/3377580/28124/en/tendinopathy-market-insights-epidemiology-and-forecast-2036-regenerative-therapies-and-unmet-needs-drive-7mm-growth-opportunities.html)
+- [5 Best Cryptos to Invest In Now as Apeing Raises $116K - Which Could Rally Next?](https://www.openpr.com/news/4655682/5-best-cryptos-to-invest-in-now-as-apeing-raises-116k-which-could)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
