@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [State Supreme Court questions attorney over AI-generated fake citations in parental rights appeal](https://www.wvnews.com/news/wvnews/state-supreme-court-questions-attorney-over-ai-generated-fake-citations-in-parental-rights-appeal/article_1b718a41-0e5f-4726-93fe-3a7db9fd709d.html)
-- [Why Ken Paxton’s Estranged Wife Is Making the Case for His Senate Campaign](https://freerepublic.com/focus/f-chat/4398424/posts)
-- [Jefferies names top MENA tech and telecom stocks amid fiscal shifts](https://au.investing.com/news/stock-market-news/jefferies-names-top-mena-tech-and-telecom-stocks-amid-fiscal-shifts-4680276)
-- [Tendinopathy Market Insights, Epidemiology, and Forecast - 2036 | Regenerative Therapies and Unmet Needs Drive 7MM Growth Opportunities](https://www.globenewswire.com/fr/news-release/2026/10/08/3377580/28124/en/tendinopathy-market-insights-epidemiology-and-forecast-2036-regenerative-therapies-and-unmet-needs-drive-7mm-growth-opportunities.html)
-- [5 Best Cryptos to Invest In Now as Apeing Raises $116K - Which Could Rally Next?](https://www.openpr.com/news/4655682/5-best-cryptos-to-invest-in-now-as-apeing-raises-116k-which-could)
+- [Moms for Liberty Deploys AI to Monitor 13,000 School Districts](https://us.headtopics.com/news/moms-for-liberty-unleashes-ai-watchdog-on-13-000-school-88638821)
+- [Stock Market Midday, Oct. 9: Stocks Edge Higher, Humana jumps 13%](https://www.fool.com/coverage/stock-market-today/2026/10/09/stock-market-midday-oct-9-stocks-edge-higher-humana-jumps-13/)
+- [India Leads ITU AI for Good Lab as Pilot Country](https://www.newkerala.com/news/a/india-partners-as-pilot-country-itu-bridge-ai-213.htm)
+- [Artificial Intelligence Film A.I. Set for 25th Anniversary 4K Blu‑Ray Release](https://us.headtopics.com/news/artificial-intelligence-film-a-i-set-for-25th-anniversary-88638829)
+- [In Brief: Research Award Advances AI Project Exploring Human Movement as Language](https://news.utexas.edu/2026/10/09/in-brief-research-award-advances-ai-project-exploring-human-movement-as-language/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
