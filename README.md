@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Moms for Liberty Deploys AI to Monitor 13,000 School Districts](https://us.headtopics.com/news/moms-for-liberty-unleashes-ai-watchdog-on-13-000-school-88638821)
-- [Stock Market Midday, Oct. 9: Stocks Edge Higher, Humana jumps 13%](https://www.fool.com/coverage/stock-market-today/2026/10/09/stock-market-midday-oct-9-stocks-edge-higher-humana-jumps-13/)
-- [India Leads ITU AI for Good Lab as Pilot Country](https://www.newkerala.com/news/a/india-partners-as-pilot-country-itu-bridge-ai-213.htm)
-- [Artificial Intelligence Film A.I. Set for 25th Anniversary 4K Blu‑Ray Release](https://us.headtopics.com/news/artificial-intelligence-film-a-i-set-for-25th-anniversary-88638829)
-- [In Brief: Research Award Advances AI Project Exploring Human Movement as Language](https://news.utexas.edu/2026/10/09/in-brief-research-award-advances-ai-project-exploring-human-movement-as-language/)
+- [Art, AI, and what it means to be human](https://www.manilatimes.net/2026/10/11/opinion/columns/art-ai-and-what-it-means-to-be-human/2443143)
+- [Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case](https://www.local10.com/tech/2026/10/10/anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/)
+- [Retail Trading Platforms Post Record Quarters as Investor Apps Multiply](https://investingnews.com/retail-trading-platforms-post-record-quarters-as-investor-apps-multiply/)
+- [Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case](https://www.wsls.com/business/2026/10/10/anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/)
+- [Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case](https://www.clickorlando.com/business/2026/10/10/anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
