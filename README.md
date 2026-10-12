@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Art, AI, and what it means to be human](https://www.manilatimes.net/2026/10/11/opinion/columns/art-ai-and-what-it-means-to-be-human/2443143)
-- [Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case](https://www.local10.com/tech/2026/10/10/anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/)
-- [Retail Trading Platforms Post Record Quarters as Investor Apps Multiply](https://investingnews.com/retail-trading-platforms-post-record-quarters-as-investor-apps-multiply/)
-- [Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case](https://www.wsls.com/business/2026/10/10/anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/)
-- [Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case](https://www.clickorlando.com/business/2026/10/10/anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/)
+- [New Steel Policy Vision 2047 Aims 600 MT Steel Output, Increased Raw Material Security, Higher Exports](https://www.ndtvprofit.com/economy/new-steel-policy-vision-2047-aims-600-mt-steel-output-increased-raw-material-security-higher-exports-12170745)
+- [Trump to visit the Philippines next month for ASEAN summit before his second trip to China this year](https://us.headtopics.com/news/trump-to-visit-the-philippines-next-month-for-asean-summit-88695588)
+- [Trump says Russia and Ukraine reach ‘energy ceasefire’ but gives no details](https://triblive.com/news/world/trump-says-russia-and-ukraine-reach-energy-ceasefire-but-gives-no-details/)
+- [SMEs key to industrial resilience and supply chain integration: Sheikh Khalifa](https://www.gulf-times.com/article/735514/business/smes-key-to-industrial-resilience-and-supply-chain-integration-sheikh-khalifa)
+- [Contractors Association of W.Va. leader reminds residents of importance of transportation infrastructure](https://wvmetronews.com/2026/10/11/contractors-association-of-w-va-leader-reminds-residents-of-importance-of-transportation-infrastructure/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
