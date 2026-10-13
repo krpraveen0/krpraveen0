@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [New Steel Policy Vision 2047 Aims 600 MT Steel Output, Increased Raw Material Security, Higher Exports](https://www.ndtvprofit.com/economy/new-steel-policy-vision-2047-aims-600-mt-steel-output-increased-raw-material-security-higher-exports-12170745)
-- [Trump to visit the Philippines next month for ASEAN summit before his second trip to China this year](https://us.headtopics.com/news/trump-to-visit-the-philippines-next-month-for-asean-summit-88695588)
-- [Trump says Russia and Ukraine reach ‘energy ceasefire’ but gives no details](https://triblive.com/news/world/trump-says-russia-and-ukraine-reach-energy-ceasefire-but-gives-no-details/)
-- [SMEs key to industrial resilience and supply chain integration: Sheikh Khalifa](https://www.gulf-times.com/article/735514/business/smes-key-to-industrial-resilience-and-supply-chain-integration-sheikh-khalifa)
-- [Contractors Association of W.Va. leader reminds residents of importance of transportation infrastructure](https://wvmetronews.com/2026/10/11/contractors-association-of-w-va-leader-reminds-residents-of-importance-of-transportation-infrastructure/)
+- [Christian McCaffrey spotted wearing Bruce Bolt's new football gloves—shop the collection now](https://www.usatoday.com/story/shopping/trending/drops/2026/10/12/bruce-bolt-releases-football-gloves-sleeves-christian-mccaffrey/92217303007/)
+- [🎓📱 North America Educational Creator Economy & Edu-Influencer Monetization Market Outlook 2033 |YouTube , TikTok , Instagram](https://www.openpr.com/news/4658950/north-america-educational-creator-economy)
+- [Claude Got Guidelines, Now What?](https://ipullrank.com/claude-geo-guidelines)
+- [Sen. Mark Warner talks inflation, Iran war and AI as he seeks Senate re-election](https://www.wtvr.com/news/local-news/mark-warner-meet-the-candidate-oct-12-2026)
+- [Couple Nearly Lost Everything, Yet Husband Gave His Family Over $10K, Took More From Savings — ‘I’m So Mad I…](https://www.benzinga.com/personal-finance/management/26/10/62307290/couple-nearly-lost-everything-yet-husband-gave-his-family-over-10k-took-more-from-savings-im-so-mad-i-see-red)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
