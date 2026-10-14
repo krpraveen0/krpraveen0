@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Christian McCaffrey spotted wearing Bruce Bolt's new football gloves—shop the collection now](https://www.usatoday.com/story/shopping/trending/drops/2026/10/12/bruce-bolt-releases-football-gloves-sleeves-christian-mccaffrey/92217303007/)
-- [🎓📱 North America Educational Creator Economy & Edu-Influencer Monetization Market Outlook 2033 |YouTube , TikTok , Instagram](https://www.openpr.com/news/4658950/north-america-educational-creator-economy)
-- [Claude Got Guidelines, Now What?](https://ipullrank.com/claude-geo-guidelines)
-- [Sen. Mark Warner talks inflation, Iran war and AI as he seeks Senate re-election](https://www.wtvr.com/news/local-news/mark-warner-meet-the-candidate-oct-12-2026)
-- [Couple Nearly Lost Everything, Yet Husband Gave His Family Over $10K, Took More From Savings — ‘I’m So Mad I…](https://www.benzinga.com/personal-finance/management/26/10/62307290/couple-nearly-lost-everything-yet-husband-gave-his-family-over-10k-took-more-from-savings-im-so-mad-i-see-red)
+- [Goldman CEO watching for election-driven volatility around data centers](https://www.thestar.com.my/tech/tech-news/2026/10/13/goldman-ceo-watching-for-election-driven-volatility-around-data-centers)
+- [AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation](https://www.bundle.app/en/technology/ai-companion-startup-characterai-files-for-chapter-11-bankruptcy-citing-costs-and-litigation-B976890F-8C72-5184-98E9-D47BF0DBE546)
+- [Exclusive | Hitachi Energy eyes more India investments amid global power grid demand surge](https://www.cnbctv18.com/business/exclusive-hitachi-energy-eyes-more-india-investments-amid-global-power-grid-demand-surge-20011073.htm)
+- [Apple HomePod mini 2 with Siri AI announced for October 30, starting at $149](https://www.shacknews.com/article/150986/apple-homepod-mini-2-siri-ai-release-date-price)
+- [Colts Neck Board Of Education Election 2026: Thomas Colella](https://patch.com/new-jersey/marlboro-coltsneck/colts-neck-board-education-election-2026-thomas-colella)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
