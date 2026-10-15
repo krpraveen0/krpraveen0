@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Goldman CEO watching for election-driven volatility around data centers](https://www.thestar.com.my/tech/tech-news/2026/10/13/goldman-ceo-watching-for-election-driven-volatility-around-data-centers)
-- [AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation](https://www.bundle.app/en/technology/ai-companion-startup-characterai-files-for-chapter-11-bankruptcy-citing-costs-and-litigation-B976890F-8C72-5184-98E9-D47BF0DBE546)
-- [Exclusive | Hitachi Energy eyes more India investments amid global power grid demand surge](https://www.cnbctv18.com/business/exclusive-hitachi-energy-eyes-more-india-investments-amid-global-power-grid-demand-surge-20011073.htm)
-- [Apple HomePod mini 2 with Siri AI announced for October 30, starting at $149](https://www.shacknews.com/article/150986/apple-homepod-mini-2-siri-ai-release-date-price)
-- [Colts Neck Board Of Education Election 2026: Thomas Colella](https://patch.com/new-jersey/marlboro-coltsneck/colts-neck-board-education-election-2026-thomas-colella)
+- [Data Center Power Demands Are Pushing Our Ships And Ports To Pollute More](https://www.bgr.com/2286470/data-center-grid-demand-causes-ships-ports-pollute/)
+- [Global Nuclear Power Market - Size, Share, Trends, Opportunities, and Forecast, 2021-2031F | Market to Reach USD 51.22 Billion as SMRs and AI Data Centers Drive Growth](https://www.globenewswire.com/fr/news-release/2026/10/14/3380933/28124/en/global-nuclear-power-market-size-share-trends-opportunities-and-forecast-2021-2031f-market-to-reach-usd-51-22-billion-as-smrs-and-ai-data-centers-drive-growth.html)
+- [My identity was stolen by an AI scammer. It could happen to anyone](https://inews.co.uk/news/ai-impersonated-me-jeopardising-livelihood-4823951)
+- [AI worms, 'major' incident fears spur safety calls at industry summit](https://www.24newshd.tv/14-Oct-2026/ai-worms-major-incident-fears-spur-safety-calls-industry-summit)
+- [“Welcome Home” Announcements Signal Apple’s Strong Intent to Capture Smart Home Market Share](https://www.abiresearch.com/blog/apple-smart-home)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
