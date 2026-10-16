@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Data Center Power Demands Are Pushing Our Ships And Ports To Pollute More](https://www.bgr.com/2286470/data-center-grid-demand-causes-ships-ports-pollute/)
-- [Global Nuclear Power Market - Size, Share, Trends, Opportunities, and Forecast, 2021-2031F | Market to Reach USD 51.22 Billion as SMRs and AI Data Centers Drive Growth](https://www.globenewswire.com/fr/news-release/2026/10/14/3380933/28124/en/global-nuclear-power-market-size-share-trends-opportunities-and-forecast-2021-2031f-market-to-reach-usd-51-22-billion-as-smrs-and-ai-data-centers-drive-growth.html)
-- [My identity was stolen by an AI scammer. It could happen to anyone](https://inews.co.uk/news/ai-impersonated-me-jeopardising-livelihood-4823951)
-- [AI worms, 'major' incident fears spur safety calls at industry summit](https://www.24newshd.tv/14-Oct-2026/ai-worms-major-incident-fears-spur-safety-calls-industry-summit)
-- [“Welcome Home” Announcements Signal Apple’s Strong Intent to Capture Smart Home Market Share](https://www.abiresearch.com/blog/apple-smart-home)
+- [Tiffany vs. Crowley: A Tight Wisconsin Gubernatorial Battle](https://us.headtopics.com/news/tiffany-vs-crowley-a-tight-wisconsin-gubernatorial-battle-88847186)
+- [Chief Minister Pema Khandu attends final day of ANYA golden jubilee](https://thenewsmill.com/2026/10/chief-minister-pema-khandu-attends-final-day-of-anya-golden-jubilee/)
+- [Nvidia משיקה את Nemotron 3.5 Super VL ומודלי Bolt לקצה הרשת](https://il.investing.com/news/assorted/article-432SI-993881)
+- [Nvidia Nemotron 3.5 Super VL ve Bolt edge modellerini piyasaya sürdü](https://tr.investing.com/news/assorted/nvidia-nemotron-35-super-vl-ve-bolt-edge-modellerini-piyasaya-surdu-432SI-4105573)
+- [AI Is Reshaping the Hydrogen Testing, Inspection, and Certification Market as Industry Leaders Commit Hundreds of Millions to Digitalization](https://www.globenewswire.com/news-release/2026/10/15/3381912/0/en/ai-is-reshaping-the-hydrogen-testing-inspection-and-certification-market-as-industry-leaders-commit-hundreds-of-millions-to-digitalization.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
