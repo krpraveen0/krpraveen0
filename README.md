@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Tiffany vs. Crowley: A Tight Wisconsin Gubernatorial Battle](https://us.headtopics.com/news/tiffany-vs-crowley-a-tight-wisconsin-gubernatorial-battle-88847186)
-- [Chief Minister Pema Khandu attends final day of ANYA golden jubilee](https://thenewsmill.com/2026/10/chief-minister-pema-khandu-attends-final-day-of-anya-golden-jubilee/)
-- [Nvidia משיקה את Nemotron 3.5 Super VL ומודלי Bolt לקצה הרשת](https://il.investing.com/news/assorted/article-432SI-993881)
-- [Nvidia Nemotron 3.5 Super VL ve Bolt edge modellerini piyasaya sürdü](https://tr.investing.com/news/assorted/nvidia-nemotron-35-super-vl-ve-bolt-edge-modellerini-piyasaya-surdu-432SI-4105573)
-- [AI Is Reshaping the Hydrogen Testing, Inspection, and Certification Market as Industry Leaders Commit Hundreds of Millions to Digitalization](https://www.globenewswire.com/news-release/2026/10/15/3381912/0/en/ai-is-reshaping-the-hydrogen-testing-inspection-and-certification-market-as-industry-leaders-commit-hundreds-of-millions-to-digitalization.html)
+- [Is your phone being flooded with political text messages? Here’s what you need to know](https://www.trentonian.com/2026/10/16/is-your-phone-being-flooded-with-political-text-messages-heres-what-you-need-to-know/)
+- [Zeta Global (NYSE:ZETA) Shares Gap Up – Here’s Why](https://www.dailypolitical.com/2026/10/16/zeta-global-nysezeta-shares-gap-up-heres-why.html)
+- [Zeta Global (NYSE:ZETA) Shares Gap Up – What’s Next?](https://www.tickerreport.com/banking-finance/13622358/zeta-global-nysezeta-shares-gap-up-whats-next.html)
+- [Soluna Stockholders Approve Share Increase, YA Equity Deal at 2026 Meeting](https://www.dailypolitical.com/2026/10/16/soluna-stockholders-approve-share-increase-ya-equity-deal-at-2026-meeting.html)
+- [Soluna Stockholders Approve Share Increase, YA Equity Deal at 2026 Meeting](https://www.tickerreport.com/banking-finance/13622357/soluna-stockholders-approve-share-increase-ya-equity-deal-at-2026-meeting.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
