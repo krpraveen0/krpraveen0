@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Is your phone being flooded with political text messages? Here’s what you need to know](https://www.trentonian.com/2026/10/16/is-your-phone-being-flooded-with-political-text-messages-heres-what-you-need-to-know/)
-- [Zeta Global (NYSE:ZETA) Shares Gap Up – Here’s Why](https://www.dailypolitical.com/2026/10/16/zeta-global-nysezeta-shares-gap-up-heres-why.html)
-- [Zeta Global (NYSE:ZETA) Shares Gap Up – What’s Next?](https://www.tickerreport.com/banking-finance/13622358/zeta-global-nysezeta-shares-gap-up-whats-next.html)
-- [Soluna Stockholders Approve Share Increase, YA Equity Deal at 2026 Meeting](https://www.dailypolitical.com/2026/10/16/soluna-stockholders-approve-share-increase-ya-equity-deal-at-2026-meeting.html)
-- [Soluna Stockholders Approve Share Increase, YA Equity Deal at 2026 Meeting](https://www.tickerreport.com/banking-finance/13622357/soluna-stockholders-approve-share-increase-ya-equity-deal-at-2026-meeting.html)
+- [Defence Minister Urges Graduating Officers to Adapt Faster Than Those Seeking to Undermine National Security](https://www.thisdaylive.com/2026/10/17/defence-minister-urges-graduating-officers-to-adapt-faster-than-those-seeking-to-undermine-national-security/)
+- [CM Revanth Reddy To Meet Top CEOs In Delhi For Invest Telangana Summit](https://www.deccanchronicle.com/southern-states/telangana/cm-revanth-reddy-to-meet-top-ceos-in-delhi-for-invest-telangana-summit-1996725)
+- [Alphabet Inc. $GOOGL Stock: Trust Co. of Oklahoma Cuts Position](https://www.tickerreport.com/banking-finance/13623555/alphabet-inc-googl-stock-trust-co-of-oklahoma-cuts-position.html)
+- [Alphabet Inc. $GOOGL Stock Sold by Ninety One North America Inc.](https://www.watchlistnews.com/alphabet-inc-googl-stock-sold-by-ninety-one-north-america-inc/11266119.html)
+- [NorthCrest Asset Manangement LLC Makes New $529,000 Investment in Caris Life Sciences, Inc. $CAI](https://www.tickerreport.com/banking-finance/13623548/northcrest-asset-manangement-llc-makes-new-529000-investment-in-caris-life-sciences-inc-cai.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
