@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Defence Minister Urges Graduating Officers to Adapt Faster Than Those Seeking to Undermine National Security](https://www.thisdaylive.com/2026/10/17/defence-minister-urges-graduating-officers-to-adapt-faster-than-those-seeking-to-undermine-national-security/)
-- [CM Revanth Reddy To Meet Top CEOs In Delhi For Invest Telangana Summit](https://www.deccanchronicle.com/southern-states/telangana/cm-revanth-reddy-to-meet-top-ceos-in-delhi-for-invest-telangana-summit-1996725)
-- [Alphabet Inc. $GOOGL Stock: Trust Co. of Oklahoma Cuts Position](https://www.tickerreport.com/banking-finance/13623555/alphabet-inc-googl-stock-trust-co-of-oklahoma-cuts-position.html)
-- [Alphabet Inc. $GOOGL Stock Sold by Ninety One North America Inc.](https://www.watchlistnews.com/alphabet-inc-googl-stock-sold-by-ninety-one-north-america-inc/11266119.html)
-- [NorthCrest Asset Manangement LLC Makes New $529,000 Investment in Caris Life Sciences, Inc. $CAI](https://www.tickerreport.com/banking-finance/13623548/northcrest-asset-manangement-llc-makes-new-529000-investment-in-caris-life-sciences-inc-cai.html)
+- [US regulator hits OpenAI and Anthropic with sweeping demands after their AIs went rogue](https://www.wionews.com/world/us-regulator-hits-openai-and-anthropic-with-sweeping-demands-after-their-ais-went-rogue-1792254205665)
+- [Ohio millionaire Emil Barr reveals why he suddenly shelved plans to move to San Francisco](https://us.headtopics.com/news/ohio-millionaire-emil-barr-reveals-why-he-suddenly-shelved-88940371)
+- [Birmingham, UNILAG Bring UK Postgraduate Degrees Closer to Nigerians](https://www.thisdaylive.com/2026/10/18/birmingham-unilag-bring-uk-postgraduate-degrees-closer-to-nigerians/)
+- [Yogi Government Makes Jails Impregnable, Security Strengthened With AI-Based CCTV And Electric Fencing](https://www.freepressjournal.in/uttar-pradesh/yogi-government-makes-jails-impregnable-security-strengthened-with-ai-based-cctv-and-electric-fencing)
+- [Warren Buffett's Market Warning Is Hard to Ignore. But I'd Buy These 3 Stocks Anyway.](https://www.fool.com/investing/2026/10/18/warren-buffetts-market-warning-is-hard-to-ignore/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
