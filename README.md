@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [US regulator hits OpenAI and Anthropic with sweeping demands after their AIs went rogue](https://www.wionews.com/world/us-regulator-hits-openai-and-anthropic-with-sweeping-demands-after-their-ais-went-rogue-1792254205665)
-- [Ohio millionaire Emil Barr reveals why he suddenly shelved plans to move to San Francisco](https://us.headtopics.com/news/ohio-millionaire-emil-barr-reveals-why-he-suddenly-shelved-88940371)
-- [Birmingham, UNILAG Bring UK Postgraduate Degrees Closer to Nigerians](https://www.thisdaylive.com/2026/10/18/birmingham-unilag-bring-uk-postgraduate-degrees-closer-to-nigerians/)
-- [Yogi Government Makes Jails Impregnable, Security Strengthened With AI-Based CCTV And Electric Fencing](https://www.freepressjournal.in/uttar-pradesh/yogi-government-makes-jails-impregnable-security-strengthened-with-ai-based-cctv-and-electric-fencing)
-- [Warren Buffett's Market Warning Is Hard to Ignore. But I'd Buy These 3 Stocks Anyway.](https://www.fool.com/investing/2026/10/18/warren-buffetts-market-warning-is-hard-to-ignore/)
+- [Dr. Geoffrey Gurtner elected to National Academy of Medicine](https://news.arizona.edu/news/dr-geoffrey-gurtner-elected-national-academy-medicine)
+- [Prominent Simsbury Prep School Names New Leader, Makes History](https://patch.com/connecticut/simsbury/prominent-simsbury-prep-school-names-new-leader-makes-history)
+- [Why Sandisk Stock Shot Higher Today](https://www.fool.com/investing/2026/10/19/why-sandisk-stock-shot-higher-today/)
+- [Bajaj Finance Q2 FY27 slides: 26% AUM growth, AI push, guidance raised](https://ph.investing.com/news/stock-market-news/bajaj-finance-q2-fy27-slides-26-aum-growth-ai-push-guidance-raised-93CH-2636349)
+- [Bajaj Finance Q2 FY27 slides: 26% AUM growth, AI push, guidance raised](https://za.investing.com/news/stock-market-news/bajaj-finance-q2-fy27-slides-26-aum-growth-ai-push-guidance-raised-93CH-4512263)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
