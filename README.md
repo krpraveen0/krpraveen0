@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Dr. Geoffrey Gurtner elected to National Academy of Medicine](https://news.arizona.edu/news/dr-geoffrey-gurtner-elected-national-academy-medicine)
-- [Prominent Simsbury Prep School Names New Leader, Makes History](https://patch.com/connecticut/simsbury/prominent-simsbury-prep-school-names-new-leader-makes-history)
-- [Why Sandisk Stock Shot Higher Today](https://www.fool.com/investing/2026/10/19/why-sandisk-stock-shot-higher-today/)
-- [Bajaj Finance Q2 FY27 slides: 26% AUM growth, AI push, guidance raised](https://ph.investing.com/news/stock-market-news/bajaj-finance-q2-fy27-slides-26-aum-growth-ai-push-guidance-raised-93CH-2636349)
-- [Bajaj Finance Q2 FY27 slides: 26% AUM growth, AI push, guidance raised](https://za.investing.com/news/stock-market-news/bajaj-finance-q2-fy27-slides-26-aum-growth-ai-push-guidance-raised-93CH-4512263)
+- [China defends DeepSeek after US ban of its AI from government systems](https://economictimes.indiatimes.com/tech/artificial-intelligence/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/articleshow/135072539.cms)
+- [Elon Musk Says Even He Could Be 'One-Shotted' by Super intelligent AI, but Offers No Evidence Yet](https://www.ibtimes.co.uk/elon-musk-superintelligent-ai-persuasion-warning-1826748)
+- [US bans govt agencies from using DeepSeek, China vows to protect firms](https://www.ghanamma.com/2026/10/20/us-bans-govt-agencies-from-using-deepseek-china-vows-to-protect-firms/)
+- [Komdigi Siapkan Peta Jalan Pemerataan Pusat Data AI hingga Indonesia Timur](https://www.jawapos.com/teknologi/2610200463/komdigi-siapkan-peta-jalan-pemerataan-pusat-data-ai-hingga-indonesia-timur)
+- [Wall Street rebounds from lows as upbeat earnings, falling oil prices lift sentiment; Micron, Intel up 2%](https://www.livemint.com/market/stock-market-news/wall-street-rebounds-from-lows-as-upbeat-earnings-falling-oil-prices-lift-sentiment-micron-intel-up-2-11792507459852.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
