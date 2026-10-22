@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [China defends DeepSeek after US ban of its AI from government systems](https://economictimes.indiatimes.com/tech/artificial-intelligence/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/articleshow/135072539.cms)
-- [Elon Musk Says Even He Could Be 'One-Shotted' by Super intelligent AI, but Offers No Evidence Yet](https://www.ibtimes.co.uk/elon-musk-superintelligent-ai-persuasion-warning-1826748)
-- [US bans govt agencies from using DeepSeek, China vows to protect firms](https://www.ghanamma.com/2026/10/20/us-bans-govt-agencies-from-using-deepseek-china-vows-to-protect-firms/)
-- [Komdigi Siapkan Peta Jalan Pemerataan Pusat Data AI hingga Indonesia Timur](https://www.jawapos.com/teknologi/2610200463/komdigi-siapkan-peta-jalan-pemerataan-pusat-data-ai-hingga-indonesia-timur)
-- [Wall Street rebounds from lows as upbeat earnings, falling oil prices lift sentiment; Micron, Intel up 2%](https://www.livemint.com/market/stock-market-news/wall-street-rebounds-from-lows-as-upbeat-earnings-falling-oil-prices-lift-sentiment-micron-intel-up-2-11792507459852.html)
+- [Salesforce Fuels AI Engine With $5.66B Braze Buyout](https://www.investing.com/analysis/salesforce-fuels-ai-engine-with-566b-braze-buyout-200690006)
+- [Google’s Search Market Share Hits Lowest Level Since 2014 as AI Reshapes Online Discovery](https://www.einpresswire.com/article/951076638/google-s-search-market-share-hits-lowest-level-since-2014-as-ai-reshapes-online-discovery)
+- [Texas Continued Permitting Data Centers After Greg Abbott Ordered a Pause](https://truthout.org/articles/texas-continued-permitting-data-centers-after-greg-abbott-ordered-a-pause/)
+- [Nikhil Kamath says AI valuations show signs of a bubble: Report](https://economictimes.indiatimes.com/tech/artificial-intelligence/nikhil-kamath-says-ai-valuations-show-signs-of-a-bubble-report/articleshow/135095537.cms)
+- [Hamad Bin Khalifa University hosts international conference on industrial electronics and emerging technologies](https://www.zawya.com/en/press-release/events-conferences/hamad-bin-khalifa-university-hosts-international-conference-on-industrial-electronics-and-emerging-technologies-1821594)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
