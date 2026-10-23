@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Salesforce Fuels AI Engine With $5.66B Braze Buyout](https://www.investing.com/analysis/salesforce-fuels-ai-engine-with-566b-braze-buyout-200690006)
-- [Google’s Search Market Share Hits Lowest Level Since 2014 as AI Reshapes Online Discovery](https://www.einpresswire.com/article/951076638/google-s-search-market-share-hits-lowest-level-since-2014-as-ai-reshapes-online-discovery)
-- [Texas Continued Permitting Data Centers After Greg Abbott Ordered a Pause](https://truthout.org/articles/texas-continued-permitting-data-centers-after-greg-abbott-ordered-a-pause/)
-- [Nikhil Kamath says AI valuations show signs of a bubble: Report](https://economictimes.indiatimes.com/tech/artificial-intelligence/nikhil-kamath-says-ai-valuations-show-signs-of-a-bubble-report/articleshow/135095537.cms)
-- [Hamad Bin Khalifa University hosts international conference on industrial electronics and emerging technologies](https://www.zawya.com/en/press-release/events-conferences/hamad-bin-khalifa-university-hosts-international-conference-on-industrial-electronics-and-emerging-technologies-1821594)
+- [Meta’s $74.5 Billion Fourth-Quarter Revenue Midpoint Exceeds Analysts’ Average](https://econotimes.com/Meta-s-74-5-Billion-Fourth-Quarter-Revenue-Midpoint-Exceeds-Analysts-Average-1760335)
+- [Tech stocks fall as Nvidia boss warns of AI funding slowdown](https://www.telegraph.co.uk/business/2026/10/22/tech-stocks-fall-as-nvidia-boss-warns-of-ai-funding-slowdow/)
+- [Building Out Advanced Packaging Portfolio, JCET Delivers Steady Revenue Growth and Improved Profitability in Q3 YTD 2026](https://www.itbiznews.com/news/articleView.html?idxno=228873)
+- [Seef Properties unveils AI Avatars to enhance customer experience](https://www.zawya.com/en/press-release/companies-news/seef-properties-unveils-ai-avatars-to-enhance-customer-experience-1848022)
+- [Omnitech Engineering Expands Defence Footprint With New Commercial Orders From Indian Defence Organisations](https://www.indiandefensenews.in/2026/10/omnitech-engineering-expands-defence.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
