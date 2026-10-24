@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Meta’s $74.5 Billion Fourth-Quarter Revenue Midpoint Exceeds Analysts’ Average](https://econotimes.com/Meta-s-74-5-Billion-Fourth-Quarter-Revenue-Midpoint-Exceeds-Analysts-Average-1760335)
-- [Tech stocks fall as Nvidia boss warns of AI funding slowdown](https://www.telegraph.co.uk/business/2026/10/22/tech-stocks-fall-as-nvidia-boss-warns-of-ai-funding-slowdow/)
-- [Building Out Advanced Packaging Portfolio, JCET Delivers Steady Revenue Growth and Improved Profitability in Q3 YTD 2026](https://www.itbiznews.com/news/articleView.html?idxno=228873)
-- [Seef Properties unveils AI Avatars to enhance customer experience](https://www.zawya.com/en/press-release/companies-news/seef-properties-unveils-ai-avatars-to-enhance-customer-experience-1848022)
-- [Omnitech Engineering Expands Defence Footprint With New Commercial Orders From Indian Defence Organisations](https://www.indiandefensenews.in/2026/10/omnitech-engineering-expands-defence.html)
+- [Gujarat Minister invites Rajasthan CM, Dy CM to Vibrant Summit 2027](https://www.socialnews.xyz/2026/10/23/gujarat-minister-invites-rajasthan-cm-dy-cm-to-vibrant-summit-2027/)
+- [मध्य प्रदेश के 10000 युवाओं को इलेक्ट्रॉनिक और आईटी सेक्टर में रोजगार का बंदोबस्त: सेमीकंडक्टर समिट-2026](https://www.bhopalsamachar.com/2026/10/provision-employment-10000-youth-madhya-pradesh-electronic-sector.html)
+- [SEC’s 2027 exam priorities put RIA conflicts and cyber risks in focus](https://www.investmentnews.com/regulation-legal-compliance/secs-2027-exam-priorities-put-ria-conflicts-and-cyber-risks-in-focus/268722)
+- [‘Beneath the Bluebonnets’ gathers horror tales from Texas women](https://texasstandard.org/stories/beneath-bluebonnets-horror-tales-texas-women-book-carmen-gray/)
+- [WellBe Senior Medical Names Chief Digital & Information Officer](https://www.prnewswire.com/news-releases/wellbe-senior-medical-names-chief-digital--information-officer-302918247.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
