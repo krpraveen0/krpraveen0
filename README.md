@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Gujarat Minister invites Rajasthan CM, Dy CM to Vibrant Summit 2027](https://www.socialnews.xyz/2026/10/23/gujarat-minister-invites-rajasthan-cm-dy-cm-to-vibrant-summit-2027/)
-- [मध्य प्रदेश के 10000 युवाओं को इलेक्ट्रॉनिक और आईटी सेक्टर में रोजगार का बंदोबस्त: सेमीकंडक्टर समिट-2026](https://www.bhopalsamachar.com/2026/10/provision-employment-10000-youth-madhya-pradesh-electronic-sector.html)
-- [SEC’s 2027 exam priorities put RIA conflicts and cyber risks in focus](https://www.investmentnews.com/regulation-legal-compliance/secs-2027-exam-priorities-put-ria-conflicts-and-cyber-risks-in-focus/268722)
-- [‘Beneath the Bluebonnets’ gathers horror tales from Texas women](https://texasstandard.org/stories/beneath-bluebonnets-horror-tales-texas-women-book-carmen-gray/)
-- [WellBe Senior Medical Names Chief Digital & Information Officer](https://www.prnewswire.com/news-releases/wellbe-senior-medical-names-chief-digital--information-officer-302918247.html)
+- [Seagate's booming business comes with an unexpected twist](https://www.thestreet.com/investing/stocks/stx-seagate-bank-of-america-raises-stock-price-target-says-surging-hard-drive-demand-is-testing-seagates-growth-plans)
+- [Is Nokia Still Making Phones In 2026?](https://www.bgr.com/2291145/is-nokia-still-making-phones-2026/)
+- [Reviewing AdaptHealth (NASDAQ:AHCO) & GeneDx (NASDAQ:WGS)](https://www.tickerreport.com/banking-finance/13635252/reviewing-adapthealth-nasdaqahco-genedx-nasdaqwgs.html)
+- [DOST showcases science solutions to El Niño at 2026 NSTW](https://www.manilatimes.net/2026/10/24/business/science-technology/dost-showcases-science-solutions-to-el-nio-at-2026-nstw/2453329)
+- [Is the ‘K-shaped’ Economy Losing Its Shape?](https://headtopics.com/news/is-the-k-shaped-economy-losing-its-shape-89157025)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
