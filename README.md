@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Seagate's booming business comes with an unexpected twist](https://www.thestreet.com/investing/stocks/stx-seagate-bank-of-america-raises-stock-price-target-says-surging-hard-drive-demand-is-testing-seagates-growth-plans)
-- [Is Nokia Still Making Phones In 2026?](https://www.bgr.com/2291145/is-nokia-still-making-phones-2026/)
-- [Reviewing AdaptHealth (NASDAQ:AHCO) & GeneDx (NASDAQ:WGS)](https://www.tickerreport.com/banking-finance/13635252/reviewing-adapthealth-nasdaqahco-genedx-nasdaqwgs.html)
-- [DOST showcases science solutions to El Niño at 2026 NSTW](https://www.manilatimes.net/2026/10/24/business/science-technology/dost-showcases-science-solutions-to-el-nio-at-2026-nstw/2453329)
-- [Is the ‘K-shaped’ Economy Losing Its Shape?](https://headtopics.com/news/is-the-k-shaped-economy-losing-its-shape-89157025)
+- [From 40% to fully Indian: WB Group VP on transfer of technology for Ukraine-Russia tested drones](https://www.thehindubusinessline.com/news/national/from-40-to-fully-indian-wb-group-vp-on-transfer-of-technology-for-ukraine-russia-tested-drones/article71623740.ece)
+- [Elvis Presley's rights holders sue Anthropic saying it trained AI on his music](https://www.nbcsandiego.com/news/national-international/elvis-presley-rights-holders-sue-anthropic-ai/4091915/)
+- [Elvis Presley's rights holders sue Anthropic saying it trained AI on his music](https://www.nbcbayarea.com/news/national-international/elvis-presley-rights-holders-sue-anthropic-ai/4164301/)
+- [Google's next TV gadget may do much more than stream](https://www.thestreet.com/investing/googles-next-tv-gadget-may-do-much-more-than-stream)
+- [US 2026: The Stupidest, Most Unserious Election Season Of Our Lifetimes](https://ijr.com/journals/dcnf/us-2026-the-stupidest-most-unserious-election-season-of-our-lifetimes-2eb7c87a)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
