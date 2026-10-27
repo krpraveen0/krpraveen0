@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [From 40% to fully Indian: WB Group VP on transfer of technology for Ukraine-Russia tested drones](https://www.thehindubusinessline.com/news/national/from-40-to-fully-indian-wb-group-vp-on-transfer-of-technology-for-ukraine-russia-tested-drones/article71623740.ece)
-- [Elvis Presley's rights holders sue Anthropic saying it trained AI on his music](https://www.nbcsandiego.com/news/national-international/elvis-presley-rights-holders-sue-anthropic-ai/4091915/)
-- [Elvis Presley's rights holders sue Anthropic saying it trained AI on his music](https://www.nbcbayarea.com/news/national-international/elvis-presley-rights-holders-sue-anthropic-ai/4164301/)
-- [Google's next TV gadget may do much more than stream](https://www.thestreet.com/investing/googles-next-tv-gadget-may-do-much-more-than-stream)
-- [US 2026: The Stupidest, Most Unserious Election Season Of Our Lifetimes](https://ijr.com/journals/dcnf/us-2026-the-stupidest-most-unserious-election-season-of-our-lifetimes-2eb7c87a)
+- [HN Reliance Hospital Unveils South Asia’s First AI-Driven 3D Mammography - BW Healthcare World](https://www.bwhealthcareworld.com/article/hn-reliance-hospital-unveils-south-asias-first-ai-driven-3d-mammography-558214)
+- [Adani Defamation Suit: Calcutta High Court Directs Removal Of Modi-Adani Video Across Social Media](https://www.etvbharat.com/en/state/adani-defamation-suit-calcutta-high-court-directs-removal-of-modi-adani-video-across-social-media-enn26102607249)
+- [Advanced Composites Technical Conference (ACTC) Announced](https://www.financialcontent.com/article/gnwcq-2026-10-26-advanced-composites-technical-conference-actc-announced)
+- [Owners of Elvis Presley’s music sue Anthropic over use of songs to train AI models](https://www.y100fm.com/news/trending/owners-elvis-presleys-music-sue-anthropic-over-use-songs-train-ai-models/4PYPX2OHCNELROVBLR7HVBTGMQ/)
+- [Owners of Elvis Presley’s music sue Anthropic over use of songs to train AI models](https://www.star945.com/news/trending/owners-elvis-presleys-music-sue-anthropic-over-use-songs-train-ai-models/4PYPX2OHCNELROVBLR7HVBTGMQ/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
