@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [HN Reliance Hospital Unveils South Asia’s First AI-Driven 3D Mammography - BW Healthcare World](https://www.bwhealthcareworld.com/article/hn-reliance-hospital-unveils-south-asias-first-ai-driven-3d-mammography-558214)
-- [Adani Defamation Suit: Calcutta High Court Directs Removal Of Modi-Adani Video Across Social Media](https://www.etvbharat.com/en/state/adani-defamation-suit-calcutta-high-court-directs-removal-of-modi-adani-video-across-social-media-enn26102607249)
-- [Advanced Composites Technical Conference (ACTC) Announced](https://www.financialcontent.com/article/gnwcq-2026-10-26-advanced-composites-technical-conference-actc-announced)
-- [Owners of Elvis Presley’s music sue Anthropic over use of songs to train AI models](https://www.y100fm.com/news/trending/owners-elvis-presleys-music-sue-anthropic-over-use-songs-train-ai-models/4PYPX2OHCNELROVBLR7HVBTGMQ/)
-- [Owners of Elvis Presley’s music sue Anthropic over use of songs to train AI models](https://www.star945.com/news/trending/owners-elvis-presleys-music-sue-anthropic-over-use-songs-train-ai-models/4PYPX2OHCNELROVBLR7HVBTGMQ/)
+- [AI company Anthropic only accessed free, public election info, says Georgia secretary of state](https://www.gpb.org/news/2026/10/27/ai-company-anthropic-only-accessed-free-public-election-info-says-georgia-secretary)
+- [Leonen pushes sustained judicial reforms](https://www.manilatimes.net/2026/10/28/news/national/leonen-pushes-sustained-judicial-reforms/2455270)
+- [Pharmacovigilance Outsourcing Market Study Highlights How Industry Demand Is Evolving](https://www.openpr.com/news/4674075/pharmacovigilance-outsourcing-market-study-highlights-how)
+- [One million vehicles moved without drivers: BMW Group successfully scales automated driving in production](https://www.webwire.com/ViewPressRel.asp?aId=363407)
+- [SpaceX stock rises, why analysts see more upside for the stock](https://invezz.com/news/2026/10/27/spacex-stock-rises-why-analysts-see-more-upside-for-the-stock/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
