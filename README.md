@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI company Anthropic only accessed free, public election info, says Georgia secretary of state](https://www.gpb.org/news/2026/10/27/ai-company-anthropic-only-accessed-free-public-election-info-says-georgia-secretary)
-- [Leonen pushes sustained judicial reforms](https://www.manilatimes.net/2026/10/28/news/national/leonen-pushes-sustained-judicial-reforms/2455270)
-- [Pharmacovigilance Outsourcing Market Study Highlights How Industry Demand Is Evolving](https://www.openpr.com/news/4674075/pharmacovigilance-outsourcing-market-study-highlights-how)
-- [One million vehicles moved without drivers: BMW Group successfully scales automated driving in production](https://www.webwire.com/ViewPressRel.asp?aId=363407)
-- [SpaceX stock rises, why analysts see more upside for the stock](https://invezz.com/news/2026/10/27/spacex-stock-rises-why-analysts-see-more-upside-for-the-stock/)
+- [Upgraded Wage Protection System enables instant services, digital salary payments](https://www.emirates247.com/uae/upgraded-wage-protection-system-enables-instant-services-digital-salary-payments/7221)
+- [JODDB Launches 49 New Products and 10 Drone Systems](https://www.jordannews.jo/Section-109/News/JODDB-Launches-49-New-Products-and-10-Drone-Systems-58101)
+- [Former Google CEO Warns China Trails US by Just 6 Months in AI Race](https://www.androidheadlines.com/2026/10/ex-google-ceo-eric-schmidt-china-us-ai-race-gap.html)
+- [Microsoft Offers 60,000 Staff Buyouts as 2026 Tech Layoffs Pass 135,000](https://www.salesforceben.com/microsoft-offers-60000-staff-buyouts-as-2026-tech-layoffs-pass-135000/)
+- [Etsy: 3 Key Takeaways for Long-Term Investors](https://www.fool.com/earnings/takeaways/2026/10/28/etsy-3-key-takeaways-for-long-term-investors/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
