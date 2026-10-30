@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Upgraded Wage Protection System enables instant services, digital salary payments](https://www.emirates247.com/uae/upgraded-wage-protection-system-enables-instant-services-digital-salary-payments/7221)
-- [JODDB Launches 49 New Products and 10 Drone Systems](https://www.jordannews.jo/Section-109/News/JODDB-Launches-49-New-Products-and-10-Drone-Systems-58101)
-- [Former Google CEO Warns China Trails US by Just 6 Months in AI Race](https://www.androidheadlines.com/2026/10/ex-google-ceo-eric-schmidt-china-us-ai-race-gap.html)
-- [Microsoft Offers 60,000 Staff Buyouts as 2026 Tech Layoffs Pass 135,000](https://www.salesforceben.com/microsoft-offers-60000-staff-buyouts-as-2026-tech-layoffs-pass-135000/)
-- [Etsy: 3 Key Takeaways for Long-Term Investors](https://www.fool.com/earnings/takeaways/2026/10/28/etsy-3-key-takeaways-for-long-term-investors/)
+- [‘ASEAN, NOT CHINA, SETS AGENDA FOR BLOC’](https://www.manilatimes.net/2026/10/30/news/national/asean-not-china-sets-agenda-for-bloc/2457598)
+- [DOJ busts massive 'ghost student' fraud scheme involving 830K suspicious accounts](https://us.headtopics.com/news/doj-busts-massive-ghost-student-fraud-scheme-involving-89339380)
+- [OPINION: A history of clever campaign slogans](https://bocabeacon.com/opinion-a-history-of-clever-campaign-slogans/)
+- [Charlotte's Growing Influence in AI and Cybersecurity Takes Center Stage at HMG Strategy's November 5 Technology Leadership Summit](https://www.manilatimes.net/2026/10/30/tmt-newswire/globenewswire/charlottes-growing-influence-in-ai-and-cybersecurity-takes-center-stage-at-hmg-strategys-november-5-technology-leadership-summit/2457623)
+- [Microsoft expands AI infrastructure, adds 24 data centres to its 500-plus global kitty in Q1 FY27](https://www.thehindu.com/business/microsoft-expands-ai-infrastructure-adds-24-data-centres-to-its-500-plus-global-kitty-in-q1-fy27/article71639593.ece)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
