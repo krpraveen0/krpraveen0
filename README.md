@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [‘ASEAN, NOT CHINA, SETS AGENDA FOR BLOC’](https://www.manilatimes.net/2026/10/30/news/national/asean-not-china-sets-agenda-for-bloc/2457598)
-- [DOJ busts massive 'ghost student' fraud scheme involving 830K suspicious accounts](https://us.headtopics.com/news/doj-busts-massive-ghost-student-fraud-scheme-involving-89339380)
-- [OPINION: A history of clever campaign slogans](https://bocabeacon.com/opinion-a-history-of-clever-campaign-slogans/)
-- [Charlotte's Growing Influence in AI and Cybersecurity Takes Center Stage at HMG Strategy's November 5 Technology Leadership Summit](https://www.manilatimes.net/2026/10/30/tmt-newswire/globenewswire/charlottes-growing-influence-in-ai-and-cybersecurity-takes-center-stage-at-hmg-strategys-november-5-technology-leadership-summit/2457623)
-- [Microsoft expands AI infrastructure, adds 24 data centres to its 500-plus global kitty in Q1 FY27](https://www.thehindu.com/business/microsoft-expands-ai-infrastructure-adds-24-data-centres-to-its-500-plus-global-kitty-in-q1-fy27/article71639593.ece)
+- [India links UN Security Council bid to AI and maritime security focus](https://english.pravda.ru/news/world/171168-india-unsc-bid-ai-maritime-security/)
+- [Aseametrics, Cornerstone unite to close PH’s AI workforce readiness gap](https://www.manilatimes.net/2026/10/31/tmt-newswire/aseametrics-cornerstone-unite-to-close-phs-ai-workforce-readiness-gap/2458114)
+- [East clubs should not be allowed to use AI for posters](https://eastside-online.org/opinions/east-clubs-should-not-be-allowed-to-use-ai-for-posters/)
+- [$2 trillion wiped from tech stocks amid artificial intelligence spending fears](https://www.independent.co.uk/us/money/nasdaq-ai-spending-trillions-lost-stock-b3076507.html)
+- [A taxonomy of American data center opposition: Politics, misinformation, and conspiracy theories](https://bebeez.eu/2026/10/30/a-taxonomy-of-american-data-center-opposition-politics-misinformation-and-conspiracy-theories/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
