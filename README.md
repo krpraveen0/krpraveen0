@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [India links UN Security Council bid to AI and maritime security focus](https://english.pravda.ru/news/world/171168-india-unsc-bid-ai-maritime-security/)
-- [Aseametrics, Cornerstone unite to close PH’s AI workforce readiness gap](https://www.manilatimes.net/2026/10/31/tmt-newswire/aseametrics-cornerstone-unite-to-close-phs-ai-workforce-readiness-gap/2458114)
-- [East clubs should not be allowed to use AI for posters](https://eastside-online.org/opinions/east-clubs-should-not-be-allowed-to-use-ai-for-posters/)
-- [$2 trillion wiped from tech stocks amid artificial intelligence spending fears](https://www.independent.co.uk/us/money/nasdaq-ai-spending-trillions-lost-stock-b3076507.html)
-- [A taxonomy of American data center opposition: Politics, misinformation, and conspiracy theories](https://bebeez.eu/2026/10/30/a-taxonomy-of-american-data-center-opposition-politics-misinformation-and-conspiracy-theories/)
+- [Nagaland chief secretary stresses industry-oriented courses to bridge skill gap](https://www.edexlive.com/news/nagaland-chief-secy-stresses-industry-oriented-courses-to-bridge-skill-gap)
+- [Stonington's 14-Acre Liberty Street Site Could Land Submarine-Tech HQ](https://hoodline.com/2026/10/stonington-s-14-acre-liberty-street-site-could-land-submarine-tech-hq/)
+- [OpenAI Has $11 Billion Secured as First Close Is Expected to Miss $20 Billion Target](https://econotimes.com/OpenAI-Has-11-Billion-Secured-as-First-Close-Is-Expected-to-Miss-20-Billion-Target-1767773)
+- [UMT awards degrees to 4,363 students at 29th convocation](https://www.24newshd.tv/31-Oct-2026/umt-awards-degrees-4-363-students-29th-convocation)
+- [Quad to step up cooperation in AI critical minerals](https://www.theweek.in/wire-updates/international/2026/10/31/quad-to-step-up-cooperation-in-ai-critical-minerals.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
