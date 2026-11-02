@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Nagaland chief secretary stresses industry-oriented courses to bridge skill gap](https://www.edexlive.com/news/nagaland-chief-secy-stresses-industry-oriented-courses-to-bridge-skill-gap)
-- [Stonington's 14-Acre Liberty Street Site Could Land Submarine-Tech HQ](https://hoodline.com/2026/10/stonington-s-14-acre-liberty-street-site-could-land-submarine-tech-hq/)
-- [OpenAI Has $11 Billion Secured as First Close Is Expected to Miss $20 Billion Target](https://econotimes.com/OpenAI-Has-11-Billion-Secured-as-First-Close-Is-Expected-to-Miss-20-Billion-Target-1767773)
-- [UMT awards degrees to 4,363 students at 29th convocation](https://www.24newshd.tv/31-Oct-2026/umt-awards-degrees-4-363-students-29th-convocation)
-- [Quad to step up cooperation in AI critical minerals](https://www.theweek.in/wire-updates/international/2026/10/31/quad-to-step-up-cooperation-in-ai-critical-minerals.html)
+- [Medicare Could Test Paying for AI That Performs Clinical Tasks on Its Own Under Cassidy's Senate Draft](https://www.medicaldaily.com/medicare-autonomous-ai-payment-cassidy-patient-ai-act-480674)
+- [Russia ramps up disinformation war on UK with propaganda claiming country is ‘ungovernable and defenceless’](https://www.independent.co.uk/news/uk/home-news/russian-disinformation-uk-putin-ukraine-b3066537.html)
+- [Investors Look Past Profits as Big Tech Burns Cash Amid Heavy AI Spending](https://www.theepochtimes.com/business/investors-look-past-profits-as-big-tech-burns-cash-amid-heavy-ai-spending-6111681)
+- [BMO Completes Acquisition of Euroz Hartleys Capital Markets Business, Strengthening its Leading Global Metals and Mining Franchise | AAP](https://aap.com.au/aapreleases/cision20261101ae86116/)
+- [Mark Cuban Says Public Companies Found They Were ‘Ripped Off’ On Healthcare But Won’t Say So On Earnings Calls](https://newsable.asianetnews.com/markets/mark-cuban-says-public-companies-found-they-were-ripped-off-on-healthcare-but-won-t-say-so-on-earnings-calls-articleshow-ond52pc)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
