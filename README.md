@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Medicare Could Test Paying for AI That Performs Clinical Tasks on Its Own Under Cassidy's Senate Draft](https://www.medicaldaily.com/medicare-autonomous-ai-payment-cassidy-patient-ai-act-480674)
-- [Russia ramps up disinformation war on UK with propaganda claiming country is ‘ungovernable and defenceless’](https://www.independent.co.uk/news/uk/home-news/russian-disinformation-uk-putin-ukraine-b3066537.html)
-- [Investors Look Past Profits as Big Tech Burns Cash Amid Heavy AI Spending](https://www.theepochtimes.com/business/investors-look-past-profits-as-big-tech-burns-cash-amid-heavy-ai-spending-6111681)
-- [BMO Completes Acquisition of Euroz Hartleys Capital Markets Business, Strengthening its Leading Global Metals and Mining Franchise | AAP](https://aap.com.au/aapreleases/cision20261101ae86116/)
-- [Mark Cuban Says Public Companies Found They Were ‘Ripped Off’ On Healthcare But Won’t Say So On Earnings Calls](https://newsable.asianetnews.com/markets/mark-cuban-says-public-companies-found-they-were-ripped-off-on-healthcare-but-won-t-say-so-on-earnings-calls-articleshow-ond52pc)
+- [Forget ‘shadow AI’: Businesses have a shadow operations problem](https://techinformed.com/forget-shadow-ai-businesses-have-a-shadow-operations-problem/)
+- [Corrosion Resistant Alloys names Graham Bain Director of Technology and Innovation](https://www.financialcontent.com/article/gnwcq-2026-11-2-corrosion-resistant-alloys-names-graham-bain-director-of-technology-and-innovation)
+- [Corrosion Resistant Alloys names Graham Bain Director of Technology and Innovation](https://nynewscast.com/corrosion-resistant-alloys-names-graham-bain-director-of-technology-and-innovation-278928/)
+- [3 Redlands middle school students arrested after gun threat posted](https://www.sbsun.com/2026/11/02/3-redlands-middle-school-students-arrested-after-gun-threat-posted/)
+- [3 Redlands middle school students arrested after gun threat posted](https://www.dailybulletin.com/2026/11/02/3-redlands-middle-school-students-arrested-after-gun-threat-posted/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
