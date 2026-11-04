@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Forget ‘shadow AI’: Businesses have a shadow operations problem](https://techinformed.com/forget-shadow-ai-businesses-have-a-shadow-operations-problem/)
-- [Corrosion Resistant Alloys names Graham Bain Director of Technology and Innovation](https://www.financialcontent.com/article/gnwcq-2026-11-2-corrosion-resistant-alloys-names-graham-bain-director-of-technology-and-innovation)
-- [Corrosion Resistant Alloys names Graham Bain Director of Technology and Innovation](https://nynewscast.com/corrosion-resistant-alloys-names-graham-bain-director-of-technology-and-innovation-278928/)
-- [3 Redlands middle school students arrested after gun threat posted](https://www.sbsun.com/2026/11/02/3-redlands-middle-school-students-arrested-after-gun-threat-posted/)
-- [3 Redlands middle school students arrested after gun threat posted](https://www.dailybulletin.com/2026/11/02/3-redlands-middle-school-students-arrested-after-gun-threat-posted/)
+- [ADNOC Teams With OpenAI and G42 to Bring AI Into Oilfield Planning](https://www.techbooky.com/adnoc-teams-with-openai-and-g42-to-bring-ai-into-oilfield-planning/)
+- [Infopro Digital Automotive to Launch RepairPro by Haynes at AAPEX 2026](https://www.cadillacnews.com/ap/business/infopro-digital-automotive-to-launch-repairpro-by-haynes-at-aapex-2026/article_035b1691-cac5-5a49-959d-7553a9b2dc4b.html)
+- [MACOMPTA.FR: 2026 DIVIDEND PAYMENT SCHEDULE](https://www.finanznachrichten.de/nachrichten-2026-11/70022333-macompta-fr-2026-dividend-payment-schedule-650.htm)
+- [SPARK Indigenous Energy Summit Returns to Tsuut'ina Nation to Advance Indigenous Ownership and Economic Sovereignty](https://www.newswire.ca/news-releases/spark-indigenous-energy-summit-returns-to-tsuut-ina-nation-to-advance-indigenous-ownership-and-economic-sovereignty-878934586.html)
+- [API Evangelist Daily — Monday, November 2, 2026](https://dev.to/kinlane/api-evangelist-daily-monday-november-2-2026-2o1o)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
