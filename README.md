@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [ADNOC Teams With OpenAI and G42 to Bring AI Into Oilfield Planning](https://www.techbooky.com/adnoc-teams-with-openai-and-g42-to-bring-ai-into-oilfield-planning/)
-- [Infopro Digital Automotive to Launch RepairPro by Haynes at AAPEX 2026](https://www.cadillacnews.com/ap/business/infopro-digital-automotive-to-launch-repairpro-by-haynes-at-aapex-2026/article_035b1691-cac5-5a49-959d-7553a9b2dc4b.html)
-- [MACOMPTA.FR: 2026 DIVIDEND PAYMENT SCHEDULE](https://www.finanznachrichten.de/nachrichten-2026-11/70022333-macompta-fr-2026-dividend-payment-schedule-650.htm)
-- [SPARK Indigenous Energy Summit Returns to Tsuut'ina Nation to Advance Indigenous Ownership and Economic Sovereignty](https://www.newswire.ca/news-releases/spark-indigenous-energy-summit-returns-to-tsuut-ina-nation-to-advance-indigenous-ownership-and-economic-sovereignty-878934586.html)
-- [API Evangelist Daily — Monday, November 2, 2026](https://dev.to/kinlane/api-evangelist-daily-monday-november-2-2026-2o1o)
+- [US stocks surge, and the Dow soars 1,500 points as Brent oil's price drops below $95 per barrel](https://www.kvoa.com/news/national/us-stocks-surge-and-the-dow-soars-1-500-points-as-brent-oils-price-drops/article_274b36b1-2b99-5118-82ea-30f6f3c578c5.html)
+- [IT Security News Roundup: 2026-11-04 Afternoon](https://www.itsecuritynews.info/it-security-news-roundup-2026-11-04-afternoon/)
+- [Anti-data center ballot measures on track to go 40-1 in sign of backlash](https://www.washingtonexaminer.com/policy/energy-and-environment/4792016/anti-data-center-measures-win-big-ballot-box/)
+- [Free Speech for People Launches 'Time to Impeach' Campaign Ahead of New Congress](https://www.commondreams.org/newswire/free-speech-for-people-launches-time-to-impeach-campaign-ahead-of-new-congress)
+- [Officials from five countries visit ASAN service center in Baku](https://report.az/en/foreign-politics/officials-from-five-countries-visit-asan-service-center-in-baku)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
