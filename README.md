@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [US stocks surge, and the Dow soars 1,500 points as Brent oil's price drops below $95 per barrel](https://www.kvoa.com/news/national/us-stocks-surge-and-the-dow-soars-1-500-points-as-brent-oils-price-drops/article_274b36b1-2b99-5118-82ea-30f6f3c578c5.html)
-- [IT Security News Roundup: 2026-11-04 Afternoon](https://www.itsecuritynews.info/it-security-news-roundup-2026-11-04-afternoon/)
-- [Anti-data center ballot measures on track to go 40-1 in sign of backlash](https://www.washingtonexaminer.com/policy/energy-and-environment/4792016/anti-data-center-measures-win-big-ballot-box/)
-- [Free Speech for People Launches 'Time to Impeach' Campaign Ahead of New Congress](https://www.commondreams.org/newswire/free-speech-for-people-launches-time-to-impeach-campaign-ahead-of-new-congress)
-- [Officials from five countries visit ASAN service center in Baku](https://report.az/en/foreign-politics/officials-from-five-countries-visit-asan-service-center-in-baku)
+- [Asian Trader Awards 2026: Nathalie Fullerton crowned Businesswoman of the Year](https://www.asiantrader.biz/asian-trader-awards-2026)
+- [AI Data Center Boom Set for Upheaval After US Election Rout](https://www.insurancejournal.com/news/southcentral/2026/11/05/891726.htm)
+- [Trump’s ‘Record High’ stock market brag goes up in smoke within a day](https://www.rawstory.com/donald-trump-stock-market/)
+- [Bank of England raises rates for first time since 2023, warns more likely](https://www.devdiscourse.com/article/international/4002250-bank-of-england-raises-rates-for-first-time-since-2023-warns-more-likely)
+- [All 6,000 urgent inquiries from last year’s Putin Q&A session resolved — Sberbank CEO](https://tass.com/politics/2213489)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
