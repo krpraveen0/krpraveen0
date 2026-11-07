@@ -4,7 +4,7 @@
 
 ### Hi there <img src="media/wave.gif" width="30" alt="wave">
 <!-- INTRO-START -->
-I am a Full-Stack Software Engineer with 7.2 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
+I am a Full-Stack Software Engineer with 7.3 years of experience in designing and developing scalable applications using Java, Python, and JavaScript. My expertise spans backend frameworks like Django, Flask, FastAPI, Express, Nest.js, and Spring Boot, as well as modern frontend technologies such as React and Next.js. Additionally, I have deep knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, DynamoDB) databases, along with cloud computing, primarily on AWS.
 
 I started my career at Startup as a solo software engineer, where I got opportunity to design, develop and deploy my first application to production, gaining valuable experience in product development from the ground up. Currently, at J.P. Morgan, I am actively contributing to AI/ML projects alongside full-stack development, enhancing my skills in machine learning integration into real-world applications.
 
@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Asian Trader Awards 2026: Nathalie Fullerton crowned Businesswoman of the Year](https://www.asiantrader.biz/asian-trader-awards-2026)
-- [AI Data Center Boom Set for Upheaval After US Election Rout](https://www.insurancejournal.com/news/southcentral/2026/11/05/891726.htm)
-- [Trump’s ‘Record High’ stock market brag goes up in smoke within a day](https://www.rawstory.com/donald-trump-stock-market/)
-- [Bank of England raises rates for first time since 2023, warns more likely](https://www.devdiscourse.com/article/international/4002250-bank-of-england-raises-rates-for-first-time-since-2023-warns-more-likely)
-- [All 6,000 urgent inquiries from last year’s Putin Q&A session resolved — Sberbank CEO](https://tass.com/politics/2213489)
+- [Protesters break into Microsoft data centre site in Amsterdam as Europe's backlash spreads](https://www.theweek.in/wire-updates/international/2026/11/06/protesters-break-into-microsoft-data-centre-site-in-amsterdam-as-europe-s-backlash-spreads.html)
+- [The Election Is Over. Now Comes the Race for 2027’s Biggest Winners](https://investorplace.com/market360/2026/11/the-election-is-over-now-comes-the-race-for-2027s-biggest-winners/)
+- [Stakeholders Urge Youths To Make Positive Use Of AI For Societal Change](https://independent.ng/stakeholders-urge-youths-to-make-positive-use-of-ai-for-societal-change/)
+- [Protesters storm Microsoft data centre](https://www.telegraph.co.uk/business/2026/11/06/protesters-storm-microsoft-data-centre/)
+- [OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC](https://biztoc.com/x/3d40ca30dbd6120f)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
