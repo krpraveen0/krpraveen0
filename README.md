@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Protesters break into Microsoft data centre site in Amsterdam as Europe's backlash spreads](https://www.theweek.in/wire-updates/international/2026/11/06/protesters-break-into-microsoft-data-centre-site-in-amsterdam-as-europe-s-backlash-spreads.html)
-- [The Election Is Over. Now Comes the Race for 2027’s Biggest Winners](https://investorplace.com/market360/2026/11/the-election-is-over-now-comes-the-race-for-2027s-biggest-winners/)
-- [Stakeholders Urge Youths To Make Positive Use Of AI For Societal Change](https://independent.ng/stakeholders-urge-youths-to-make-positive-use-of-ai-for-societal-change/)
-- [Protesters storm Microsoft data centre](https://www.telegraph.co.uk/business/2026/11/06/protesters-storm-microsoft-data-centre/)
-- [OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC](https://biztoc.com/x/3d40ca30dbd6120f)
+- [AI Stocks Are Falling; Bitcoin Is Holding Ground. Here's What Could Come Next.](https://www.fool.com/investing/2026/11/07/ai-stocks-are-falling-bitcoin-is-holding-ground/)
+- [Is Min Hee Jin to Blame for NewJeans' Controversial Contracts? Leaked Clauses Raise Questions About Minors' Rights as HYBE, ADOR Face Fresh Scrutiny](https://www.ibtimes.sg/min-hee-jin-blame-newjeans-controversial-contracts-leaked-clauses-raise-questions-about-96023)
+- [Binance Hack: Elliptic Traces USD 124M in Bitcoin Swaps Across 16 Blockchains](https://www.analyticsinsight.net/news/binance-hack-elliptic-traces-usd-124m-in-bitcoin-swaps-across-16-blockchains)
+- [These 5 Consumer Stocks Raised Their Dividends in 2026. Here's What $10,000 in Each Pays in 2027.](https://www.fool.com/investing/2026/11/07/these-5-consumer-stocks-raised-their-dividends-in/)
+- [Today in Apple history: Newton MessagePad makes its last stand](https://www.cultofmac.com/apple-history/newton-messagepad-2100)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
