@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [AI Stocks Are Falling; Bitcoin Is Holding Ground. Here's What Could Come Next.](https://www.fool.com/investing/2026/11/07/ai-stocks-are-falling-bitcoin-is-holding-ground/)
-- [Is Min Hee Jin to Blame for NewJeans' Controversial Contracts? Leaked Clauses Raise Questions About Minors' Rights as HYBE, ADOR Face Fresh Scrutiny](https://www.ibtimes.sg/min-hee-jin-blame-newjeans-controversial-contracts-leaked-clauses-raise-questions-about-96023)
-- [Binance Hack: Elliptic Traces USD 124M in Bitcoin Swaps Across 16 Blockchains](https://www.analyticsinsight.net/news/binance-hack-elliptic-traces-usd-124m-in-bitcoin-swaps-across-16-blockchains)
-- [These 5 Consumer Stocks Raised Their Dividends in 2026. Here's What $10,000 in Each Pays in 2027.](https://www.fool.com/investing/2026/11/07/these-5-consumer-stocks-raised-their-dividends-in/)
-- [Today in Apple history: Newton MessagePad makes its last stand](https://www.cultofmac.com/apple-history/newton-messagepad-2100)
+- [😯 Bizarre scenes! Player scores own goal just 22 seconds into the match](https://sports.yahoo.com/articles/bizarre-scenes-player-scores-own-164100057.html)
+- [The U.S. continues to generate jobs, yet inflation is eroding Amercans' spending power](https://us.headtopics.com/news/the-u-s-continues-to-generate-jobs-yet-inflation-is-89666552)
+- [Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran](https://www.thecitizen.co.tz/tanzania/news/international/pope-leo-heads-to-milei-s-argentina-as-tensions-loom-over-austerity-iran-5663350)
+- [An A-Z of how to survive Britain in a cyber-attack: The maps you would need to get by if the UK ground to a halt - and why Gen Z can't read them](https://www.dailymail.com/news/article-16268241/An-Z-survive-Britain-cyber-attack-maps-you-need-UK-ground-halt-Gen-Z-read-them.html)
+- [Federal Reserve Board Gov. Michelle Bowman Flags Bank Cyber Risks](https://econotimes.com/Federal-Reserve-Board-Gov-Michelle-Bowman-Flags-Bank-Cyber-Risks-1773259)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
