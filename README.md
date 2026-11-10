@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [😯 Bizarre scenes! Player scores own goal just 22 seconds into the match](https://sports.yahoo.com/articles/bizarre-scenes-player-scores-own-164100057.html)
-- [The U.S. continues to generate jobs, yet inflation is eroding Amercans' spending power](https://us.headtopics.com/news/the-u-s-continues-to-generate-jobs-yet-inflation-is-89666552)
-- [Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran](https://www.thecitizen.co.tz/tanzania/news/international/pope-leo-heads-to-milei-s-argentina-as-tensions-loom-over-austerity-iran-5663350)
-- [An A-Z of how to survive Britain in a cyber-attack: The maps you would need to get by if the UK ground to a halt - and why Gen Z can't read them](https://www.dailymail.com/news/article-16268241/An-Z-survive-Britain-cyber-attack-maps-you-need-UK-ground-halt-Gen-Z-read-them.html)
-- [Federal Reserve Board Gov. Michelle Bowman Flags Bank Cyber Risks](https://econotimes.com/Federal-Reserve-Board-Gov-Michelle-Bowman-Flags-Bank-Cyber-Risks-1773259)
+- [APP 1-WEEK DEADLINE ALERT: AppLovin Corporation Investors with Substantial Losses Encouraged to Contact Hagens Berman, Securities Class Action Pending](https://www.prnewswire.com/news-releases/app-1-week-deadline-alert-applovin-corporation-investors-with-substantial-losses-encouraged-to-contact-hagens-berman-securities-class-action-pending-302933550.html)
+- [Wix.com (NASDAQ:WIX) and Amdocs (NASDAQ:DOX) Financial Analysis](https://www.watchlistnews.com/wix-com-nasdaqwix-and-amdocs-nasdaqdox-financial-analysis/11299898.html)
+- [Broadcom Stock is Soaring as Nasdaq 100 Index Jumps, But Technicals Point to a Reversal](https://www.investingcube.com/shares/broadcom-stock-is-soaring-as-nasdaq-100-index-jumps-but-technicals-point-to-a-reversal/)
+- [A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed](https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html)
+- [New AI model could help UN nuclear watchdog achieve near-perfect uranium enrichment assessment](https://www.einpresswire.com/article/955609135/new-ai-model-could-help-un-nuclear-watchdog-achieve-near-perfect-uranium-enrichment-assessment)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
