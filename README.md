@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [APP 1-WEEK DEADLINE ALERT: AppLovin Corporation Investors with Substantial Losses Encouraged to Contact Hagens Berman, Securities Class Action Pending](https://www.prnewswire.com/news-releases/app-1-week-deadline-alert-applovin-corporation-investors-with-substantial-losses-encouraged-to-contact-hagens-berman-securities-class-action-pending-302933550.html)
-- [Wix.com (NASDAQ:WIX) and Amdocs (NASDAQ:DOX) Financial Analysis](https://www.watchlistnews.com/wix-com-nasdaqwix-and-amdocs-nasdaqdox-financial-analysis/11299898.html)
-- [Broadcom Stock is Soaring as Nasdaq 100 Index Jumps, But Technicals Point to a Reversal](https://www.investingcube.com/shares/broadcom-stock-is-soaring-as-nasdaq-100-index-jumps-but-technicals-point-to-a-reversal/)
-- [A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed](https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html)
-- [New AI model could help UN nuclear watchdog achieve near-perfect uranium enrichment assessment](https://www.einpresswire.com/article/955609135/new-ai-model-could-help-un-nuclear-watchdog-achieve-near-perfect-uranium-enrichment-assessment)
+- [Canaan Q3 Earnings Call Highlights](https://www.thelincolnianonline.com/2026/11/10/canaan-q3-earnings-call-highlights.html)
+- [What Bitdeer Technologies Group (BTDR) Said on Its Q3 Earnings Call](https://baseballnewssource.com/2026/11/10/what-bitdeer-technologies-group-btdr-said-on-its-q3-earnings-call/11341771.html)
+- [Why AMD shares are rallying on Tuesday?](https://invezz.com/news/2026/11/10/why-amd-shares-are-rallying-on-tuesday/)
+- [Man Took Back Ex’s $35K Student Loan Payment After She Demanded $42K For Her Sister](https://www.benzinga.com/personal-finance/management/26/11/63104252/man-took-back-exs-35k-student-loan-payment-after-she-demanded-42k-for-her-sister)
+- [What’s New in Employment Law? Recent Developments in Connecticut, Massachusetts, New Jersey, New York State and City, and Rhode Island](https://natlawreview.com/article/whats-new-employment-law-recent-developments-connecticut-massachusetts-new-jersey)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
