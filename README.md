@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Canaan Q3 Earnings Call Highlights](https://www.thelincolnianonline.com/2026/11/10/canaan-q3-earnings-call-highlights.html)
-- [What Bitdeer Technologies Group (BTDR) Said on Its Q3 Earnings Call](https://baseballnewssource.com/2026/11/10/what-bitdeer-technologies-group-btdr-said-on-its-q3-earnings-call/11341771.html)
-- [Why AMD shares are rallying on Tuesday?](https://invezz.com/news/2026/11/10/why-amd-shares-are-rallying-on-tuesday/)
-- [Man Took Back Ex’s $35K Student Loan Payment After She Demanded $42K For Her Sister](https://www.benzinga.com/personal-finance/management/26/11/63104252/man-took-back-exs-35k-student-loan-payment-after-she-demanded-42k-for-her-sister)
-- [What’s New in Employment Law? Recent Developments in Connecticut, Massachusetts, New Jersey, New York State and City, and Rhode Island](https://natlawreview.com/article/whats-new-employment-law-recent-developments-connecticut-massachusetts-new-jersey)
+- [What Angel Studios (ANGX) Said on Its Q3 Earnings Call](https://zolmax.com/investing/what-angel-studios-angx-said-on-its-q3-earnings-call/12071691.html)
+- [What Angel Studios (ANGX) Said on Its Q3 Earnings Call](https://www.themarketsdaily.com/2026/11/11/what-angel-studios-angx-said-on-its-q3-earnings-call.html)
+- [Do You Need an AI Degree? A Senior Data Scientist on What Actually Matters](https://www.culturaldaily.com/do-you-need-an-ai-degree-a-senior-data-scientist-on-what-actually-matters/)
+- [Otumfuo Osei Tutu II Warns Public Officers Against Blind Reliance On AI And Technology](https://www.ghanamma.com/2026/11/11/otumfuo-osei-tutu-ii-warns-public-officers-against-blind-reliance-on-ai-and-technology/)
+- [Library and Archives Canada conditions ISBN issuance on human authorship declaration](https://english.pravda.ru/news/world/172442-canada-isbn-ai-authorship-rule/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
