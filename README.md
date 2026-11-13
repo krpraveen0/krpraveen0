@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [What Angel Studios (ANGX) Said on Its Q3 Earnings Call](https://zolmax.com/investing/what-angel-studios-angx-said-on-its-q3-earnings-call/12071691.html)
-- [What Angel Studios (ANGX) Said on Its Q3 Earnings Call](https://www.themarketsdaily.com/2026/11/11/what-angel-studios-angx-said-on-its-q3-earnings-call.html)
-- [Do You Need an AI Degree? A Senior Data Scientist on What Actually Matters](https://www.culturaldaily.com/do-you-need-an-ai-degree-a-senior-data-scientist-on-what-actually-matters/)
-- [Otumfuo Osei Tutu II Warns Public Officers Against Blind Reliance On AI And Technology](https://www.ghanamma.com/2026/11/11/otumfuo-osei-tutu-ii-warns-public-officers-against-blind-reliance-on-ai-and-technology/)
-- [Library and Archives Canada conditions ISBN issuance on human authorship declaration](https://english.pravda.ru/news/world/172442-canada-isbn-ai-authorship-rule/)
+- [Spotify’s AI DJ just got 9 new voices and you can finally reduce their chatter — here’s how this new update works](https://www.tomsguide.com/ai/spotifys-ai-dj-just-got-9-new-voices-and-you-can-finally-reduce-their-chatter-heres-how-this-new-update-works)
+- [Anthropic launches ‘Claude for Manufacturing’](https://www.manufacturingdive.com/news/anthropic-launches-claude-for-manufacturing/874303/)
+- [Sex, spies and AI: Jensen Huang resigns from Nvidia](https://www.independent.ie/podcasts/sex-spies-and-ai-jensen-huang-resigns-from-nvidia/a/164478504.html)
+- [WHOOP Launches WHOOP Humans, the Most Verifiably Human Social Network](https://newshub.medianet.com.au/2026/11/whoop-launches-whoop-humans-the-most-verifiably-human-social-network/181552/)
+- [Why Former Apple CEO Tim Cook's Name Has Surfaced For Nvidia's Top Job After Jensen Huang](https://www.timesnownews.com/technology-science/why-former-apple-ceo-tim-cooks-name-has-surfaced-for-nvidias-top-job-after-jensen-huang-article-156500295)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
