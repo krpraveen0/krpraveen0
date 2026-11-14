@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Spotify’s AI DJ just got 9 new voices and you can finally reduce their chatter — here’s how this new update works](https://www.tomsguide.com/ai/spotifys-ai-dj-just-got-9-new-voices-and-you-can-finally-reduce-their-chatter-heres-how-this-new-update-works)
-- [Anthropic launches ‘Claude for Manufacturing’](https://www.manufacturingdive.com/news/anthropic-launches-claude-for-manufacturing/874303/)
-- [Sex, spies and AI: Jensen Huang resigns from Nvidia](https://www.independent.ie/podcasts/sex-spies-and-ai-jensen-huang-resigns-from-nvidia/a/164478504.html)
-- [WHOOP Launches WHOOP Humans, the Most Verifiably Human Social Network](https://newshub.medianet.com.au/2026/11/whoop-launches-whoop-humans-the-most-verifiably-human-social-network/181552/)
-- [Why Former Apple CEO Tim Cook's Name Has Surfaced For Nvidia's Top Job After Jensen Huang](https://www.timesnownews.com/technology-science/why-former-apple-ceo-tim-cooks-name-has-surfaced-for-nvidias-top-job-after-jensen-huang-article-156500295)
+- [Trump's inner circle throws Howard Lutnick under the bus](https://us.headtopics.com/news/trump-s-inner-circle-throws-howard-lutnick-under-the-bus-89828718)
+- [Microsoft outage](https://us.headtopics.com/news/microsoft-outage-89828709)
+- [AI barely drove votes. Voters still wanted a crackdown.](https://us.headtopics.com/news/ai-barely-drove-votes-voters-still-wanted-a-crackdown-89828677)
+- [Reviewing biote (NASDAQ:BTMD) & Tempus AI (NASDAQ:TEM)](https://www.tickerreport.com/banking-finance/13663097/reviewing-biote-nasdaqbtmd-tempus-ai-nasdaqtem.html)
+- [Head-To-Head Comparison: Super Micro Computer (SMCI) & Its Rivals](https://www.dailypolitical.com/2026/11/13/head-to-head-comparison-super-micro-computer-smci-its-rivals.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
