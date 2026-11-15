@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Trump's inner circle throws Howard Lutnick under the bus](https://us.headtopics.com/news/trump-s-inner-circle-throws-howard-lutnick-under-the-bus-89828718)
-- [Microsoft outage](https://us.headtopics.com/news/microsoft-outage-89828709)
-- [AI barely drove votes. Voters still wanted a crackdown.](https://us.headtopics.com/news/ai-barely-drove-votes-voters-still-wanted-a-crackdown-89828677)
-- [Reviewing biote (NASDAQ:BTMD) & Tempus AI (NASDAQ:TEM)](https://www.tickerreport.com/banking-finance/13663097/reviewing-biote-nasdaqbtmd-tempus-ai-nasdaqtem.html)
-- [Head-To-Head Comparison: Super Micro Computer (SMCI) & Its Rivals](https://www.dailypolitical.com/2026/11/13/head-to-head-comparison-super-micro-computer-smci-its-rivals.html)
+- [JO ANN INTERNATIONAL GROUP INC. Explores Digital Operations for Smart Retail](https://www.openpr.com/news/4690182/jo-ann-international-group-inc-explores-digital-operations)
+- [Meta Fined $887 Million in Italy Over User Privacy](https://inc29.com/meta-fined-887-million-in-italy-over-user-privacy/)
+- [India-US ties ‘global’, Pakistan relationship ‘regional’: Blinken backs India's right to defend itself](https://www.moneycontrol.com/world/india-us-ties-global-pakistan-relationship-regional-blinken-backs-india-s-right-to-defend-itself-article-14080270.html)
+- [Quantum Corp.: 3 Key Takeaways for Long-Term Investors](https://www.fool.com/earnings/takeaways/2026/11/14/quantum-corp-3-key-takeaways-for-long-term-investors/)
+- [JO ANN INTERNATIONAL GROUP INC. Explores Digital Operations for Smart Retail](https://www.financialcontent.com/article/globeprwire-2026-11-14-jo-ann-international-group-inc-explores-digital-operations-for-smart-retail)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
