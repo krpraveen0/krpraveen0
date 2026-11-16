@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [JO ANN INTERNATIONAL GROUP INC. Explores Digital Operations for Smart Retail](https://www.openpr.com/news/4690182/jo-ann-international-group-inc-explores-digital-operations)
-- [Meta Fined $887 Million in Italy Over User Privacy](https://inc29.com/meta-fined-887-million-in-italy-over-user-privacy/)
-- [India-US ties ‘global’, Pakistan relationship ‘regional’: Blinken backs India's right to defend itself](https://www.moneycontrol.com/world/india-us-ties-global-pakistan-relationship-regional-blinken-backs-india-s-right-to-defend-itself-article-14080270.html)
-- [Quantum Corp.: 3 Key Takeaways for Long-Term Investors](https://www.fool.com/earnings/takeaways/2026/11/14/quantum-corp-3-key-takeaways-for-long-term-investors/)
-- [JO ANN INTERNATIONAL GROUP INC. Explores Digital Operations for Smart Retail](https://www.financialcontent.com/article/globeprwire-2026-11-14-jo-ann-international-group-inc-explores-digital-operations-for-smart-retail)
+- [Trump’s minerals push has yet to loosen China’s grip ahead of Xi talks](https://www.thedailystar.net/business/global-economy/news/trumps-minerals-push-has-yet-loosen-chinas-grip-ahead-xi-talks-4324756)
+- [Nagaland University launches ‘Campus Talks’ to promote intellectual exchange](https://www.morungexpress.com/nagaland-university-launches-campus-talks-to-promote-intellectual-exchange)
+- [Ports with smart knowhow](https://www.thehindubusinessline.com/economy/logistics/ports-with-smart-knowhow/article71705636.ece)
+- [Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO](https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html)
+- [South Korea probes top exam scorer after AI cheating](https://www.taipeitimes.com/News/world/archives/2026/11/16/2003867832)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
