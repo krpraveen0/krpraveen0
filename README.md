@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Trump’s minerals push has yet to loosen China’s grip ahead of Xi talks](https://www.thedailystar.net/business/global-economy/news/trumps-minerals-push-has-yet-loosen-chinas-grip-ahead-xi-talks-4324756)
-- [Nagaland University launches ‘Campus Talks’ to promote intellectual exchange](https://www.morungexpress.com/nagaland-university-launches-campus-talks-to-promote-intellectual-exchange)
-- [Ports with smart knowhow](https://www.thehindubusinessline.com/economy/logistics/ports-with-smart-knowhow/article71705636.ece)
-- [Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO](https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html)
-- [South Korea probes top exam scorer after AI cheating](https://www.taipeitimes.com/News/world/archives/2026/11/16/2003867832)
+- [ECO backs Pakistan's peace push](https://tribune.com.pk/story/2640717/eco-backs-pakistans-peace-push)
+- [Agency on Aging](https://www.wsaz.com/2026/11/16/agency-aging/)
+- [Beyond the Yalta shadow: the Xi-Putin-Trump Shenzhen summit and the new global paradigm](https://www.thestandard.com.hk/editorial/article/348689/Beyond-the-Yalta-shadow-the-Xi-Putin-Trump-Shenzhen-summit-and-the-new-global-paradigm)
+- [Amazon Sells Data Centers to Blackstone in $5 Billion Deal](https://www.pymnts.com/news/acquiring/2026/amazon-sells-data-centers-to-blackstone-in-5-billion-deal/)
+- [Nvidia Board Not Considering Jensen Huang Return as CEO, CNBC Reports](https://www.techbooky.com/nvidia-board-not-considering-jensen-huang-return-as-ceo-cnbc-reports/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
