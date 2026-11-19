@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [OpenAI, Chile sign pact to push AI adoption in public sector](https://www.bnamericas.com/en/news/openai-chile-sign-pact-to-push-ai-adoption-in-public-sector)
-- [Strategy Is Down 28% in a Month. Can MSTR Stock Hit Cantor Fitzgerald’s $208 Target by 2030?](https://247wallst.com/investing/2026/11/17/strategy-is-down-28-in-a-month-can-mstr-stock-hit-cantor-fitzgeralds-208-target-by-2030/)
-- [Duraković at Reykjavík Global Forum: Women must have an equal role in shaping the future of AI](https://fena.ba/article/1706192/durakovic-at-reykjavik-global-forum-women-must-have-an-equal-role-in-shaping-the-future-of-ai)
-- [How Predictive Analytics Identify Undervalued Emerging AI Stocks](https://www.zimbio.com/how-predictive-analytics-identify-undervalued-emerging-ai-stocks/)
-- [Ex-Nvidia CEO acknowledges ‘mistakes,’ signals interest in return if company chooses](https://us.headtopics.com/news/ex-nvidia-ceo-acknowledges-mistakes-signals-interest-in-89939043)
+- [Spending slowed for retailers as high prices give shoppers pause ahead of holiday season](https://kutv.com/news/eye-on-your-money/spending-slowed-for-retailers-as-high-prices-give-shoppers-pause-ahead-of-holiday-season)
+- [Spending slowed for retailers as high prices give shoppers pause ahead of holiday season](https://kjzz.com/news/eye-on-your-money/spending-slowed-for-retailers-as-high-prices-give-shoppers-pause-ahead-of-holiday-season)
+- [Did Dune Author Frank Herbert predict the AI boom when he warned us about machines?](https://www.indulgexpress.com/msociety/2026/Nov/18/did-dune-author-frank-herbert-predict-the-ai-boom-when-he-warned-us-about-machines)
+- [Best Stocks to Buy for the New Congress](https://www.kiplinger.com/investing/stocks/best-stocks-to-buy-for-the-new-congress)
+- [A2O LITE, NCT WISH, TWS, ILLIT, RESCENE, And Onew & Zico Top Circle Monthly And Weekly Charts](https://www.soompi.com/article/1888586wpp/a2o-lite-nct-wish-tws-illit-rescene-and-onew-zico-top-circle-monthly-and-weekly-charts)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
