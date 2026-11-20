@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Spending slowed for retailers as high prices give shoppers pause ahead of holiday season](https://kutv.com/news/eye-on-your-money/spending-slowed-for-retailers-as-high-prices-give-shoppers-pause-ahead-of-holiday-season)
-- [Spending slowed for retailers as high prices give shoppers pause ahead of holiday season](https://kjzz.com/news/eye-on-your-money/spending-slowed-for-retailers-as-high-prices-give-shoppers-pause-ahead-of-holiday-season)
-- [Did Dune Author Frank Herbert predict the AI boom when he warned us about machines?](https://www.indulgexpress.com/msociety/2026/Nov/18/did-dune-author-frank-herbert-predict-the-ai-boom-when-he-warned-us-about-machines)
-- [Best Stocks to Buy for the New Congress](https://www.kiplinger.com/investing/stocks/best-stocks-to-buy-for-the-new-congress)
-- [A2O LITE, NCT WISH, TWS, ILLIT, RESCENE, And Onew & Zico Top Circle Monthly And Weekly Charts](https://www.soompi.com/article/1888586wpp/a2o-lite-nct-wish-tws-illit-rescene-and-onew-zico-top-circle-monthly-and-weekly-charts)
+- [Allocator One Launches with $100M Fund and 11% DPI](https://us.headtopics.com/news/allocator-one-launches-with-100m-fund-and-11-dpi-90006994)
+- [Detroit's Mudita Venture Partners Closes Fund II, Bets Big on AI Startups](https://hoodline.com/2026/11/detroit-s-mudita-venture-partners-closes-fund-ii-bets-big-on-ai-startups/)
+- [The US-China AI race is real – but Trump’s recent moves on ‘super intelligence’ are unlikely to give America any advantage](https://www.nationaltribune.com.au/the-us-china-ai-race-is-real-but-trump-s-recent-moves-on-super-intelligence-are-unlikely-to-give-america-any-advantage/)
+- [Bipartisan trio unveils new AI safety framework](https://www.politico.com/live-updates/2026/11/19/congress/bipartisan-trio-unveils-new-ai-safety-framework-01175648)
+- [Man accused of AI-assisted exam cheating found dead in Seoul](https://www.latestnigeriannews.com/p/466935/man-accused-of-aiassisted-exam-cheating-found-dead-in-seoul.html)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
