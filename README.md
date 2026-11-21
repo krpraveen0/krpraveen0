@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Allocator One Launches with $100M Fund and 11% DPI](https://us.headtopics.com/news/allocator-one-launches-with-100m-fund-and-11-dpi-90006994)
-- [Detroit's Mudita Venture Partners Closes Fund II, Bets Big on AI Startups](https://hoodline.com/2026/11/detroit-s-mudita-venture-partners-closes-fund-ii-bets-big-on-ai-startups/)
-- [The US-China AI race is real – but Trump’s recent moves on ‘super intelligence’ are unlikely to give America any advantage](https://www.nationaltribune.com.au/the-us-china-ai-race-is-real-but-trump-s-recent-moves-on-super-intelligence-are-unlikely-to-give-america-any-advantage/)
-- [Bipartisan trio unveils new AI safety framework](https://www.politico.com/live-updates/2026/11/19/congress/bipartisan-trio-unveils-new-ai-safety-framework-01175648)
-- [Man accused of AI-assisted exam cheating found dead in Seoul](https://www.latestnigeriannews.com/p/466935/man-accused-of-aiassisted-exam-cheating-found-dead-in-seoul.html)
+- [Precision Medicine and Advanced Molecular Testing Are Accelerating the Digital PCR Industry](https://express-press-release.net/news/2026/11/20/1784859)
+- [After Trump's China Trip, US House Republicans Push AI Strategy to Counter Beijing](https://www.usnews.com/news/politics/articles/2026-11-20/after-trumps-china-trip-us-house-republicans-push-ai-strategy-to-counter-beijing)
+- [Groundtruth launches AI platform to automate freight billing with J.B. Hunt partnership](https://www.freightwaves.com/news/groundtruth-launches-ai-platform-to-automate-freight-billing-with-j-b-hunt-partnership)
+- [Anthropic Shares Plunge Over 9% After Record IPO Debut As AI Stocks Slide; Nvidia, Meta, AMD & Intel Face Selling Pressure](https://www.freepressjournal.in/tech/anthropic-shares-plunge-over-9-after-record-ipo-debut-as-ai-stocks-slide-nvidia-meta-amd-intel-face-selling-pressure)
+- [Bengaluru FC Storms to Top of ISL Standings After 2-0 Win Over Mumbai City](https://www.lokmattimes.com/other-sports/bengaluru-fc-storms-to-top-of-isl-standings-after-2-0-win-over-mumbai-city-a001-w02/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
