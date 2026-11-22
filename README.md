@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Precision Medicine and Advanced Molecular Testing Are Accelerating the Digital PCR Industry](https://express-press-release.net/news/2026/11/20/1784859)
-- [After Trump's China Trip, US House Republicans Push AI Strategy to Counter Beijing](https://www.usnews.com/news/politics/articles/2026-11-20/after-trumps-china-trip-us-house-republicans-push-ai-strategy-to-counter-beijing)
-- [Groundtruth launches AI platform to automate freight billing with J.B. Hunt partnership](https://www.freightwaves.com/news/groundtruth-launches-ai-platform-to-automate-freight-billing-with-j-b-hunt-partnership)
-- [Anthropic Shares Plunge Over 9% After Record IPO Debut As AI Stocks Slide; Nvidia, Meta, AMD & Intel Face Selling Pressure](https://www.freepressjournal.in/tech/anthropic-shares-plunge-over-9-after-record-ipo-debut-as-ai-stocks-slide-nvidia-meta-amd-intel-face-selling-pressure)
-- [Bengaluru FC Storms to Top of ISL Standings After 2-0 Win Over Mumbai City](https://www.lokmattimes.com/other-sports/bengaluru-fc-storms-to-top-of-isl-standings-after-2-0-win-over-mumbai-city-a001-w02/)
+- [Tamil Nadu Opens Final AYUSH Admission Round for 2026-27 Academic Year](https://www.lokmattimes.com/health/tamil-nadu-opens-final-ayush-admission-round-for-2026-27-academic-year-a001-w02/)
+- [PM Modi Says Indians Bought Less Gold After His Appeal, Invokes Former PM Shastri's 'Skip A Meal' Call](https://www.timesnownews.com/india/pm-modi-says-indians-bought-less-gold-after-his-appeal-invokes-former-pm-shastris-skip-a-meal-call-article-156547615)
+- [Bulgarian FM Praises India's Black Sea Efforts, Hails EU Trade Deal](https://www.lokmattimes.com/international/bulgarian-fm-praises-indias-black-sea-efforts-hails-eu-trade-deal-a001-w01/)
+- [Tamil Nadu Opens Final Counselling for AYUSH Medical Seats, Last Chance for Aspiring Doctors](https://www.lokmattimes.com/national/tamil-nadu-opens-final-counselling-for-ayush-medical-seats-last-chance-for-aspiring-doctors-a001-w02/)
+- [Ranveer Singh Praises Sachin Tendulkar's Enduring 'Innings' Beyond Cricket at Global Peace Honours](https://www.lokmattimes.com/entertainment/ranveer-singh-praises-sachin-tendulkars-enduring-innings-beyond-cricket-at-global-peace-honours-a001-w01/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
