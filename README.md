@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Tamil Nadu Opens Final AYUSH Admission Round for 2026-27 Academic Year](https://www.lokmattimes.com/health/tamil-nadu-opens-final-ayush-admission-round-for-2026-27-academic-year-a001-w02/)
-- [PM Modi Says Indians Bought Less Gold After His Appeal, Invokes Former PM Shastri's 'Skip A Meal' Call](https://www.timesnownews.com/india/pm-modi-says-indians-bought-less-gold-after-his-appeal-invokes-former-pm-shastris-skip-a-meal-call-article-156547615)
-- [Bulgarian FM Praises India's Black Sea Efforts, Hails EU Trade Deal](https://www.lokmattimes.com/international/bulgarian-fm-praises-indias-black-sea-efforts-hails-eu-trade-deal-a001-w01/)
-- [Tamil Nadu Opens Final Counselling for AYUSH Medical Seats, Last Chance for Aspiring Doctors](https://www.lokmattimes.com/national/tamil-nadu-opens-final-counselling-for-ayush-medical-seats-last-chance-for-aspiring-doctors-a001-w02/)
-- [Ranveer Singh Praises Sachin Tendulkar's Enduring 'Innings' Beyond Cricket at Global Peace Honours](https://www.lokmattimes.com/entertainment/ranveer-singh-praises-sachin-tendulkars-enduring-innings-beyond-cricket-at-global-peace-honours-a001-w01/)
+- [WHO Staff Trapped in DR Congo Maternity Ward Amidst Intense Fighting](https://www.lokmattimes.com/international/who-staff-trapped-in-dr-congo-maternity-ward-amidst-intense-fighting-a001-w02/)
+- [Bengal CM Seeks CAA Cut-off Extension for Persecuted Bangladeshi Families, Announces Cyclone Relief](https://www.lokmattimes.com/national/bengal-cm-seeks-caa-cut-off-extension-for-persecuted-bangladeshi-families-announces-cyclone-relief-a001-w02/)
+- [UP CM Yogi Adityanath Stresses Disaster Preparedness for Safety](https://www.lokmattimes.com/national/up-cm-yogi-adityanath-stresses-disaster-preparedness-for-safety-a001-w02/)
+- [Cybersecurity experts break down recent tech outages, and share ways you can protect yourself](https://www.cbsnews.com/video/cybersecurity-experts-break-down-recent-tech-outages-and-share-ways-you-can-protect-yourself/)
+- [US Seeks Answers on Nvidia's Sale of Chips to China, Bessent Says](https://www.usnews.com/news/world/articles/2026-11-22/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
