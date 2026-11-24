@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [WHO Staff Trapped in DR Congo Maternity Ward Amidst Intense Fighting](https://www.lokmattimes.com/international/who-staff-trapped-in-dr-congo-maternity-ward-amidst-intense-fighting-a001-w02/)
-- [Bengal CM Seeks CAA Cut-off Extension for Persecuted Bangladeshi Families, Announces Cyclone Relief](https://www.lokmattimes.com/national/bengal-cm-seeks-caa-cut-off-extension-for-persecuted-bangladeshi-families-announces-cyclone-relief-a001-w02/)
-- [UP CM Yogi Adityanath Stresses Disaster Preparedness for Safety](https://www.lokmattimes.com/national/up-cm-yogi-adityanath-stresses-disaster-preparedness-for-safety-a001-w02/)
-- [Cybersecurity experts break down recent tech outages, and share ways you can protect yourself](https://www.cbsnews.com/video/cybersecurity-experts-break-down-recent-tech-outages-and-share-ways-you-can-protect-yourself/)
-- [US Seeks Answers on Nvidia's Sale of Chips to China, Bessent Says](https://www.usnews.com/news/world/articles/2026-11-22/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says)
+- [Canadian bond yields mostly lower with focus on stock market](https://za.investing.com/news/stock-market-news/canadian-bond-yields-mostly-lower-with-focus-on-stock-market-4592845)
+- [‘I made the deal’: Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang](https://www.myclallamcounty.com/2026/11/23/i-made-the-deal-trump-says-he-convinced-nvidia-board-to-reinstate-jensen-huang/)
+- [‘I made the deal’: Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang](https://www.mycentraloregon.com/2026/11/23/i-made-the-deal-trump-says-he-convinced-nvidia-board-to-reinstate-jensen-huang/)
+- [‘I made the deal’: Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang](https://www.wbal.com/i-made-the-deal-trump-says-he-convinced-nvidia-board-to-reinstate-jensen-huang)
+- [Greek businesses hedge themselves against cyberattacks](https://www.ekathimerini.com/economy/1322098/greek-businesses-hedge-themselves-against-cyberattacks/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
