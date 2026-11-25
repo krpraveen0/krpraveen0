@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Canadian bond yields mostly lower with focus on stock market](https://za.investing.com/news/stock-market-news/canadian-bond-yields-mostly-lower-with-focus-on-stock-market-4592845)
-- [‘I made the deal’: Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang](https://www.myclallamcounty.com/2026/11/23/i-made-the-deal-trump-says-he-convinced-nvidia-board-to-reinstate-jensen-huang/)
-- [‘I made the deal’: Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang](https://www.mycentraloregon.com/2026/11/23/i-made-the-deal-trump-says-he-convinced-nvidia-board-to-reinstate-jensen-huang/)
-- [‘I made the deal’: Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang](https://www.wbal.com/i-made-the-deal-trump-says-he-convinced-nvidia-board-to-reinstate-jensen-huang)
-- [Greek businesses hedge themselves against cyberattacks](https://www.ekathimerini.com/economy/1322098/greek-businesses-hedge-themselves-against-cyberattacks/)
+- [Gov. Hochul signs five-year ban on AI chatbot toys in New York](https://us.headtopics.com/news/gov-hochul-signs-five-year-ban-on-ai-chatbot-toys-in-new-90151030)
+- [Hanzo Illuminate Recognized As “LegalOps Innovation of the Year” In 2026 LegalTech Breakthrough Awards Program](https://nynewscast.com/hanzo-illuminate-recognized-as-legalops-innovation-of-the-year-in-2026-legaltech-breakthrough-awards-program-309116/)
+- [Hanzo Illuminate Recognized As "LegalOps Innovation of the Year" In 2026 LegalTech Breakthrough Awards Program](https://www.prnewswire.com/news-releases/hanzo-illuminate-recognized-as-legalops-innovation-of-the-year-in-2026-legaltech-breakthrough-awards-program-302949800.html)
+- [Reforms panel recommends 7-10 years of jail, Rs10 crore fine for govt job exam frauds](https://timesofindia.indiatimes.com/city/pune/reforms-panel-recommends-7-10-years-of-jail-rs10-crore-fine-for-govt-job-exam-frauds/articleshow/136141130.cms)
+- [Intel community to expand unclassified capabilities to boost OSINT](https://federalnewsnetwork.com/intelligence-community/2026/11/intel-community-to-expand-unclassified-capabilities-to-boost-osint/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
