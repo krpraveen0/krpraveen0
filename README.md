@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Gov. Hochul signs five-year ban on AI chatbot toys in New York](https://us.headtopics.com/news/gov-hochul-signs-five-year-ban-on-ai-chatbot-toys-in-new-90151030)
-- [Hanzo Illuminate Recognized As “LegalOps Innovation of the Year” In 2026 LegalTech Breakthrough Awards Program](https://nynewscast.com/hanzo-illuminate-recognized-as-legalops-innovation-of-the-year-in-2026-legaltech-breakthrough-awards-program-309116/)
-- [Hanzo Illuminate Recognized As "LegalOps Innovation of the Year" In 2026 LegalTech Breakthrough Awards Program](https://www.prnewswire.com/news-releases/hanzo-illuminate-recognized-as-legalops-innovation-of-the-year-in-2026-legaltech-breakthrough-awards-program-302949800.html)
-- [Reforms panel recommends 7-10 years of jail, Rs10 crore fine for govt job exam frauds](https://timesofindia.indiatimes.com/city/pune/reforms-panel-recommends-7-10-years-of-jail-rs10-crore-fine-for-govt-job-exam-frauds/articleshow/136141130.cms)
-- [Intel community to expand unclassified capabilities to boost OSINT](https://federalnewsnetwork.com/intelligence-community/2026/11/intel-community-to-expand-unclassified-capabilities-to-boost-osint/)
+- [Pune ZP school students develop offline school app, earn spot at South Korea robotics championship](https://timesofindia.indiatimes.com/city/pune/pune-zp-school-students-develop-offline-school-app-earn-spot-at-south-korea-robotics-championship/articleshow/136171503.cms)
+- [Jensen Huang admits "terrible mistakes", apologises to employees over code of conduct violations in first address after Nvidia comeback](https://economictimes.indiatimes.com/news/international/business/jensen-huang-admits-terrible-mistakes-apologises-to-employees-over-code-of-conduct-violations-in-first-address-after-nvidia-comeback/articleshow/136171464.cms)
+- [How young Africans can build businesses that thrive beyond borders](https://www.newtimes.co.rw/article/40749/news/business/how-young-africans-can-buildbusinesses-that-thrive-beyond-borders)
+- [FCC Approves Musk's Space-Based AI Data Centers](https://www.newsmax.com/newsfront/fcc-elon-musk-ai/2026/11/25/id/1277534)
+- [22 recent hospital, health system executive moves](https://www.beckershospitalreview.com/hospital-executive-moves/35-recent-hospital-health-system-executive-moves-2-2/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
