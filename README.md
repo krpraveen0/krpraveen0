@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [Pune ZP school students develop offline school app, earn spot at South Korea robotics championship](https://timesofindia.indiatimes.com/city/pune/pune-zp-school-students-develop-offline-school-app-earn-spot-at-south-korea-robotics-championship/articleshow/136171503.cms)
-- [Jensen Huang admits "terrible mistakes", apologises to employees over code of conduct violations in first address after Nvidia comeback](https://economictimes.indiatimes.com/news/international/business/jensen-huang-admits-terrible-mistakes-apologises-to-employees-over-code-of-conduct-violations-in-first-address-after-nvidia-comeback/articleshow/136171464.cms)
-- [How young Africans can build businesses that thrive beyond borders](https://www.newtimes.co.rw/article/40749/news/business/how-young-africans-can-buildbusinesses-that-thrive-beyond-borders)
-- [FCC Approves Musk's Space-Based AI Data Centers](https://www.newsmax.com/newsfront/fcc-elon-musk-ai/2026/11/25/id/1277534)
-- [22 recent hospital, health system executive moves](https://www.beckershospitalreview.com/hospital-executive-moves/35-recent-hospital-health-system-executive-moves-2-2/)
+- [SAP looks to cut another 10,000 jobs in new AI-driven restructuring](https://www.calcalistech.com/ctechnews/article/al8iwkfjx)
+- [NOUN vice-chancellor speaks on AI, education and Africa's digital future](https://www.legit.ng/education/1743506-put-humanity-noun-vc-uduma-warns-allowing-ai-replace-teachers/)
+- [US authorizes SpaceX to deploy 1 million satellites for AI data centers in space](https://us.headtopics.com/news/us-authorizes-spacex-to-deploy-1-million-satellites-for-ai-90217854)
+- [Fifa confirms cyber-attack exposed ‘personal and business information’](https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information)
+- [Cathie Wood Says AI Could Cut Drug Costs by $1.8 Billion. These 5 ARK-Backed Biotech Stocks Could Benefit](https://www.benzinga.com/trading-ideas/long-ideas/26/11/63663030/cathie-wood-ai-biotech-stocks)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
