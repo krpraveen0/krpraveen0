@@ -15,11 +15,11 @@ I am passionate about mentorship and helping aspiring engineers and experienced 
 
 ## Latest AI News
 <!-- NEWS-START -->
-- [SAP looks to cut another 10,000 jobs in new AI-driven restructuring](https://www.calcalistech.com/ctechnews/article/al8iwkfjx)
-- [NOUN vice-chancellor speaks on AI, education and Africa's digital future](https://www.legit.ng/education/1743506-put-humanity-noun-vc-uduma-warns-allowing-ai-replace-teachers/)
-- [US authorizes SpaceX to deploy 1 million satellites for AI data centers in space](https://us.headtopics.com/news/us-authorizes-spacex-to-deploy-1-million-satellites-for-ai-90217854)
-- [Fifa confirms cyber-attack exposed ‘personal and business information’](https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information)
-- [Cathie Wood Says AI Could Cut Drug Costs by $1.8 Billion. These 5 ARK-Backed Biotech Stocks Could Benefit](https://www.benzinga.com/trading-ideas/long-ideas/26/11/63663030/cathie-wood-ai-biotech-stocks)
+- [Brianne Gardner’s Top Picks for Nov. 27, 2026](https://www.bnnbloomberg.ca/markets/2026/11/27/brianne-gardners-top-picks-for-nov-27-2026/)
+- [Nvidia Stock Wavers On Headline Risks From Huang Testimony, Asia Sales](https://www.investors.com/news/technology/nvidia-stock-jensen-huang-testimony/)
+- [Psychedelics: Are We Repeating Timothy Leary’s Mistakes?](https://www.psychologytoday.com/us/blog/addiction-outlook/202611/psychedelics-are-we-repeating-timothy-learys-mistakes)
+- [MP’s irrigated area crosses 60 lakh hectares, 20 lakh hectares added in last two-and-a-half years: CM](https://www.lokmattimes.com/national/mps-irrigated-area-crosses-60-lakh-hectares-20-lakh-hectares-added-in-last-two-and-a-half-years-cm-a001-w02/)
+- [17 films to see before New Year’s, from Oscar-bait to blockbusters](https://newspub.live/lifestyle/17-films-to-see-before-new-years-from-oscar-bait-to-blockbusters/)
 <!-- NEWS-END -->
 
 ## 🔧 Technologies & Tools
